@@ -4,8 +4,7 @@ import firost from 'firost';
 (async function() {
   helper.init();
 
-  const page = await helper.page('Black Waters');
-  console.info(page);
+  const pages = await helper.category('Season_0_scenarios');
 
-  await firost.writeJson([page], './lib/data.json');
+  await firost.writeJson(pages, './lib/data.json');
 })();
