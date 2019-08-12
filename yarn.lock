@@ -1084,10 +1084,10 @@ abbrev@1:
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@^0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.1.10.tgz#1173ebbaedf8b814d1b60436b4e2463fa2f371ee"
-  integrity sha512-mVZlTHIy6jV+o91vjEPuOjKLhLsHkicqjTXwUzYCvZKYX1FdDH7XvAvDHFo7RD+vqtu9HOPjtpmIORegDvf/Zg==
+aberlaas@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.2.1.tgz#982316bdc598d3b03d1a95c6db07f2e5c12b902c"
+  integrity sha512-9L78Mez7NFIBcrg1SomiYz47IGZ4G6tes6TDPnijWwtq9iQqEqXv5EiT63Ln2pOOtmKr5QiBIugIy7K8+HAj2w==
   dependencies:
     "@babel/cli" "~7.4.0"
     "@babel/core" "~7.4.0"
@@ -1212,10 +1212,10 @@ anymatch@^3.0.1:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-aoinan@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/aoinan/-/aoinan-0.1.0.tgz#369974d19ed801ebc39ebc98a253ebabb850bee1"
-  integrity sha512-Uu1/78RTT85YF0oyhd/2eDztpDsDN4/mW1fQBbUhh6aJQ6aF9xS8GbrdzinX4qGQccteTNtw3X+bYCRPMUFGoQ==
+aoinan@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/aoinan/-/aoinan-0.1.1.tgz#78c138ca297db1fcec61a34d8de4ed9b38ff4217"
+  integrity sha512-6KHzsAuCpUY53AAuetV9Yu5NTCoRee3YITOb0TWT02JfGcE3QvNj+UyDH3gaHTqOZWTLR4APYkZC+qVRJItvgw==
   dependencies:
     firost "^0.8.2"
     golgoth "^0.3.2"
@@ -7449,7 +7449,7 @@ ws@^5.2.0:
   dependencies:
     async-limiter "~1.0.0"
 
-wtf_wikipedia@^7.4.2:
+wtf_wikipedia@^7.4.2, wtf_wikipedia@^7.6.0:
   version "7.6.0"
   resolved "https://registry.yarnpkg.com/wtf_wikipedia/-/wtf_wikipedia-7.6.0.tgz#fdcb804435e711d3f36edb87afa34878882b7bf3"
   integrity sha512-FnNeGk0uRIZE1qd2FavYj/LxPzs9fIPU9UuBSZmnZHgQaqNqvfU+nKCT3a6cisl+xW384xD5L817hN44Qh49Vw==
