@@ -8,6 +8,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion",
+      "Eto"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m0",
     "price": 3.99,
     "pubcode": "PZOPSS0512E",
@@ -25,6 +29,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Galt",
+      "Woodsedge"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tlb",
     "price": 4.99,
     "pubcode": "PZOPSS0902E",
@@ -42,6 +50,11 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos",
+      "Escadar"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8jot",
     "price": 0,
     "pubcode": "PZOPSSINTRO3E",
@@ -59,6 +72,14 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Arcadian Ocean",
+      "Ethereal Plane",
+      "Veiled Bazaar",
+      "Galt",
+      "Dabril"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k96",
     "price": 3.99,
     "pubcode": "PZOPSS0723",
@@ -76,6 +97,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Thuvia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9m03",
     "price": 3.99,
     "pubcode": "PZOPSS0728",
@@ -93,6 +117,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse",
+      "Kaava Lands"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9s14",
     "price": 4.99,
     "pubcode": "PZOPSS0821E",
@@ -111,6 +139,9 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Nidal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9m01",
     "price": 3.99,
     "pubcode": "PZOPSS0726",
@@ -128,6 +159,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Oppara",
+      "Taldor"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dag",
     "price": 3.99,
     "pubcode": "PZOPSS0049E",
@@ -145,6 +180,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "World's Edge Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8n0n",
     "price": 3.99,
     "pubcode": "PZOPSS0308E",
@@ -162,6 +201,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Oppara",
+      "Taldor"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy85p3",
     "price": 3.99,
     "pubcode": "PZOPSS0007E",
@@ -179,6 +222,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Nex"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hgy",
     "price": 3.99,
     "pubcode": "PZOPSS0711",
@@ -196,6 +242,12 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Foreign Quarter",
+      "Wise Quarter",
+      "Grand Lodge"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tld",
     "price": 4.99,
     "pubcode": "PZOPSS0900E",
@@ -213,6 +265,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Jalmeray"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ara",
     "price": 3.99,
     "pubcode": "PZOPSS0033E",
@@ -230,6 +285,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Worldwound",
+      "Frostmire Fen",
+      "Sarkorian Steppe"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy96ic",
     "price": 3.99,
     "pubcode": "PZOPSS0524E",
@@ -247,6 +307,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Andoran",
+      "Almas"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8jon",
     "price": 3.99,
     "pubcode": "PZOPSS0223E",
@@ -264,6 +328,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion",
+      "Pillars of the Sun"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9984",
     "price": 3.99,
     "pubcode": "PZOPSS0604",
@@ -281,6 +349,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Menador Mountains",
+      "Nidal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtu",
     "price": 3.99,
     "pubcode": "PZOPSS0212E",
@@ -299,6 +371,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Rahadoum"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1v",
     "price": 3.99,
     "pubcode": "PZOPSS0209E",
@@ -316,6 +391,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Jalmeray"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya18h",
     "price": 4.99,
     "pubcode": "PZOPSS0924E",
@@ -333,6 +411,9 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Five Kings Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya18i",
     "price": 4.99,
     "pubcode": "PZOPSS0925E",
@@ -350,6 +431,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Katapesh (city)",
+      "Katapesh"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu3",
     "price": 3.99,
     "pubcode": "PZOPSS0701",
@@ -367,6 +452,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse",
+      "Terwa Uplands"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9m04",
     "price": 3.99,
     "pubcode": "PZOPSS0727",
@@ -384,6 +473,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kaer Maga",
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9x0t",
     "price": 4.99,
     "pubcode": "PZOPSS0909E",
@@ -401,6 +494,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Alabastrine",
+      "Druma"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k95",
     "price": 3.99,
     "pubcode": "PZOPSS0722",
@@ -418,6 +515,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Ridonport"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9x0s",
     "price": 4.99,
     "pubcode": "PZOPSS0908E",
@@ -436,6 +537,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Precipice Quarter",
+      "Absalom",
+      "Drownyard"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8531",
     "price": 3.99,
     "pubcode": "PZOPSS0006E",
@@ -453,6 +559,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Sargava"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ret",
     "price": 4.99,
     "pubcode": "PZOPSS0818E",
@@ -472,6 +581,9 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Andoran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy860d",
     "price": 3.99,
     "pubcode": "PZOPSS0010E",
@@ -489,6 +601,13 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Docks",
+      "Petal District",
+      "Foreign Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8lwi?Pathfinder-Society-Special-Blood-Under-Absalom",
     "price": 3.99,
     "pubcode": "PZOPSS0300-1E",
@@ -506,6 +625,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1y1",
     "price": 4.99,
     "pubcode": "PZOPSS1002E",
@@ -523,6 +645,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Iobaria"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01wkp",
     "price": 4.99,
     "pubcode": "PZOPSS1012E",
@@ -540,6 +665,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bloodcove",
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1x",
     "price": 3.99,
     "pubcode": "PZOPSS0609",
@@ -557,6 +686,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Nidal",
+      "Nisroch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy96ib",
     "price": 3.99,
     "pubcode": "PZOPSS0523E",
@@ -574,6 +707,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9wep",
     "price": 4.99,
     "pubcode": "PZOPSS0905E",
@@ -591,6 +727,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Darklands",
+      "Orv",
+      "Crystal Womb"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hh0",
     "price": 3.99,
     "pubcode": "PZOPSS0713",
@@ -608,6 +749,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Darklands",
+      "Janderhoff"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9mbc",
     "price": 4.99,
     "pubcode": "PZOPSS0803E",
@@ -625,6 +770,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Cassomir",
+      "Taldor"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89kc",
     "price": 3.99,
     "pubcode": "PZOPSS0030E",
@@ -642,6 +791,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Port Eclipse",
+      "Plane of Air"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9p8z",
     "price": 4.99,
     "pubcode": "PZOPSS0812E",
@@ -659,6 +812,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kwanlai",
+      "Tianjing"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zk3",
     "price": 4.99,
     "pubcode": "PZOPSS0919E",
@@ -676,6 +833,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Plane of Fire",
+      "City of Brass"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9p8y",
     "price": 4.99,
     "pubcode": "PZOPSS0811E",
@@ -693,6 +854,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kalsgard"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01x4t",
     "price": 4.99,
     "pubcode": "PZOPSS1019E",
@@ -710,6 +874,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Darklands"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yyx",
     "price": 4.99,
     "pubcode": "PZOPSS1020E",
@@ -727,6 +894,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Cassomir",
+      "Taldor"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ari",
     "price": 3.99,
     "pubcode": "PZOPSS0041E",
@@ -744,6 +915,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Cheliax",
+      "Menador Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m2",
     "price": 3.99,
     "pubcode": "PZOPSS0514E",
@@ -761,6 +936,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse",
+      "Nantambu",
+      "Jalunth"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9lzz",
     "price": 3.99,
     "pubcode": "PZOPSS0724",
@@ -778,6 +958,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Crown of the World"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1y2",
     "price": 4.99,
     "pubcode": "PZOPSS1003E",
@@ -795,6 +978,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01wlm",
     "price": 4.99,
     "pubcode": "PZOPSS1014E",
@@ -812,6 +998,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Railford"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88sy",
     "price": 3.99,
     "pubcode": "PZOPSS0024E",
@@ -829,6 +1019,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tian Xia",
+      "Shokuro"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ow3?Pathfinder-Society-Scenario-313-The-Quest-for-Perfection-Part-III-Defenders-of-Nesting-Swallow",
     "price": 3.99,
     "pubcode": "PZOPSS0313E",
@@ -846,6 +1040,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Ivy District"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8bua",
     "price": 3.99,
     "pubcode": "PZOPSS0045E",
@@ -863,6 +1061,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Verduran Forest"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9y4j",
     "price": 4.99,
     "pubcode": "PZOPSS0914E",
@@ -880,6 +1081,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion",
+      "Darklands"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89ke",
     "price": 3.99,
     "pubcode": "PZOPSS0032E",
@@ -897,6 +1102,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Blakros Museum",
+      "Precipice Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8n0m",
     "price": 3.99,
     "pubcode": "PZOPSS0307E",
@@ -914,6 +1124,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arb",
     "price": 3.99,
     "pubcode": "PZOPSS0034E",
@@ -931,6 +1144,9 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Gravelands"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01znd",
     "price": 4.99,
     "pubcode": "PZOPFS0103E",
@@ -948,6 +1164,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Irrisen",
+      "Whitethrone"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtz",
     "price": 3.99,
     "pubcode": "PZOPSS0217E",
@@ -965,6 +1185,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Foreign Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy860c",
     "price": 3.99,
     "pubcode": "PZOPSS0009E",
@@ -986,6 +1211,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Isger"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zjz",
     "price": 4.99,
     "pubcode": "PZOPSS0916E",
@@ -1003,6 +1231,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Cheliax",
+      "Rachikan"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m5/discuss?Pathfinder-Society-Scenario-5-17-Fate-of-the-Fiend",
     "price": 3.99,
     "pubcode": "PZOPSS0517E",
@@ -1020,6 +1252,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Kaer Maga"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8w",
     "price": 3.99,
     "pubcode": "PZOPSS0410",
@@ -1037,6 +1273,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Rachikan",
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88lm",
     "price": 3.99,
     "pubcode": "PZOPSS0022E",
@@ -1054,6 +1294,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Red Redoubt of Karamoss",
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ch1",
     "price": 3.99,
     "pubcode": "PZOPSS0617",
@@ -1071,6 +1316,10 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Pashow",
+      "Thuvia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k93",
     "price": 3.99,
     "pubcode": "PZOPSS0720",
@@ -1088,6 +1337,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Korvosa"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0j",
     "price": 3.99,
     "pubcode": "PZOPSS0413",
@@ -1105,6 +1358,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Sevenarches",
+      "River Kingdoms"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dah",
     "price": 3.99,
     "pubcode": "PZOPSS0050E",
@@ -1122,6 +1379,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01wkq",
     "price": 4.99,
     "pubcode": "PZOPSS1013E",
@@ -1139,6 +1399,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Lastwall",
+      "Ustalav",
+      "Hold of Belkzen"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9oik",
     "price": 4.99,
     "pubcode": "PZOPSS0807E",
@@ -1156,6 +1421,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Lands of the Linnorm Kings",
+      "Irrisen"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ch2",
     "price": 3.99,
     "pubcode": "PZOPSS0618",
@@ -1173,6 +1442,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Rachikan",
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1w",
     "price": 3.99,
     "pubcode": "PZOPSS0210E",
@@ -1190,6 +1463,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Galt",
+      "Rosehaven",
+      "Isarn"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zk4",
     "price": 4.99,
     "pubcode": "PZOPSS0920E",
@@ -1207,6 +1485,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Plane of Earth",
+      "Lodehollow"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tl7",
     "price": 4.99,
     "pubcode": "PZOPSS0823E",
@@ -1224,6 +1506,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Shackles"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya18f",
     "price": 4,
     "pubcode": "PZOPSS0922E",
@@ -1241,6 +1526,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Ascendant Court"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arh",
     "price": 3.99,
     "pubcode": "PZOPSS0040E",
@@ -1258,6 +1547,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Shackles",
+      "Gloomspires"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9986",
     "price": 3.99,
     "pubcode": "PZOPSS0606",
@@ -1275,6 +1568,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Janderhoff"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we2?Pathfinder-Society-Scenario-4-22-Halls-of-Dwarven-Lore",
     "price": 3.99,
     "pubcode": "PZOPSS0422E",
@@ -1292,6 +1589,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88sz",
     "price": 3.99,
     "pubcode": "PZOPSS0025E",
@@ -1312,6 +1613,17 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Shokuro",
+      "Ashima",
+      "Lingshen",
+      "Xiwu",
+      "Po Li",
+      "Quain",
+      "Lanming",
+      "Successor States",
+      "Tian Xia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9qcb",
     "price": 4.99,
     "pubcode": "PZOPSS0816E",
@@ -1329,6 +1641,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Gloomspires"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9qca",
     "price": 4.99,
     "pubcode": "PZOPSS0815E",
@@ -1346,6 +1661,14 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Docks",
+      "Ascendant Court",
+      "Wise Quarter",
+      "Ivy District",
+      "Foreign Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8jor",
     "price": 0,
     "pubcode": "PZOPSSINTRO1E",
@@ -1363,6 +1686,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Druma"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zk5",
     "price": 4.99,
     "pubcode": "PZOPSS0921E",
@@ -1380,6 +1706,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Xin-Bakrakhan"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0c",
     "price": 3.99,
     "pubcode": "PZOPSS0402",
@@ -1397,6 +1727,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kaava Lands",
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9am6",
     "price": 3.99,
     "pubcode": "PZOPSS0614",
@@ -1414,6 +1748,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Zi Ha",
+      "Tian Xia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9gww",
     "price": 3.99,
     "pubcode": "PZOPSS0708",
@@ -1431,6 +1769,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Realm of the Mammoth Lords"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8i12",
     "price": 3.99,
     "pubcode": "PZOPSS0219E",
@@ -1448,6 +1789,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0g?Pathfinder-Society-Scenario-4-04-King-Of-The-Storval-Stairs",
     "price": 3.99,
     "pubcode": "PZOPSS0404",
@@ -1465,6 +1809,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy884x",
     "price": 3.99,
     "pubcode": "PZOPSS0020E",
@@ -1482,6 +1829,10 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+      "Worldwound",
+      "Jormurdun"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n3",
     "price": 3.99,
     "pubcode": "PZOPSS06EX",
@@ -1499,6 +1850,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Corentyn",
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9huv",
     "price": 3.99,
     "pubcode": "PZOPSS0714",
@@ -1517,6 +1872,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Oppara",
+      "Canal Row"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy933p",
     "price": 3.99,
     "pubcode": "PZOPSS0511E",
@@ -1534,6 +1894,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bitter End",
+      "Geb"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88t0",
     "price": 3.99,
     "pubcode": "PZOPSS0026E",
@@ -1551,6 +1915,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kharijite",
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hux",
     "price": 3.99,
     "pubcode": "PZOPSS0716",
@@ -1568,6 +1936,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse",
+      "Dokeran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89hc",
     "price": 3.99,
     "pubcode": "PZOPSS0028E",
@@ -1586,6 +1958,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Blakros Museum",
+      "Wise Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8530?Pathfinder-Society-Scenario-5-Mists-of-Mwangi",
     "price": 3.99,
     "pubcode": "PZOPSS0005E",
@@ -1603,6 +1980,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Qadira"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy84k2?Pathfinder-Society-Scenario-3-Murder-on-the-Silken-Caravan",
     "price": 3.99,
     "pubcode": "PZOPSS0003E",
@@ -1620,6 +2000,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Arcadian Ocean",
+      "Mordant Spire"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtv",
     "price": 3.99,
     "pubcode": "PZOPSS0213E",
@@ -1637,6 +2021,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Magnimar"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0k",
     "price": 3.99,
     "pubcode": "PZOPSS0414",
@@ -1654,6 +2042,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Sodden Lands"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arf",
     "price": 3.99,
     "pubcode": "PZOPSS0038E",
@@ -1671,6 +2062,11 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Foreign Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtt",
     "price": 3.99,
     "pubcode": "PZOPSS0222E",
@@ -1688,6 +2084,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zk0",
     "price": 4.99,
     "pubcode": "PZOPSS0917E",
@@ -1705,6 +2104,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Daggermark",
+      "River Kingdoms"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1y0",
     "price": 4.99,
     "pubcode": "PZOPSS1001E",
@@ -1722,6 +2125,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Wanshou",
+      "Tian Xia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9am5",
     "price": 3.99,
     "pubcode": "PZOPSS0613",
@@ -1739,6 +2146,12 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tian Xia",
+      "Shokuro",
+      "Kaoling",
+      "Lingshen"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ow1",
     "price": 3.99,
     "pubcode": "PZOPSS0311E",
@@ -1756,6 +2169,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Gloomspires",
+      "Leng"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01x4r",
     "price": 4.99,
     "pubcode": "PZOPSS1017E",
@@ -1773,6 +2190,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bandu Hills",
+      "Sargava"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9am4",
     "price": 3.99,
     "pubcode": "PZOPSS0612",
@@ -1790,6 +2211,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Brevoy"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tlc",
     "price": 4.99,
     "pubcode": "PZOPSS0903E",
@@ -1807,6 +2231,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Menador Mountains",
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9m00",
     "price": 3.99,
     "pubcode": "PZOPSS0725",
@@ -1824,6 +2252,10 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Quantium",
+      "Nex"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01zna",
     "price": 4.99,
     "pubcode": "PZOPFS0100E",
@@ -1841,6 +2273,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Katheer",
+      "Qadira"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89hb",
     "price": 3.99,
     "pubcode": "PZOPSS0027E",
@@ -1858,6 +2294,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Pezzack",
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu1",
     "price": 3.99,
     "pubcode": "PZOPSS0622",
@@ -1875,6 +2315,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qq2?Pathfinder-Society-Scenario-322-The-Rats-of-Round-Mountain-Part-II-Pagoda-of-the-Rat",
     "price": 3.99,
     "pubcode": "PZOPSS0322",
@@ -1892,6 +2335,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "River Kingdoms",
+      "Protectorate of the Black Marquis"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy87or",
     "price": 3.99,
     "pubcode": "PZOPSS0017E",
@@ -1909,6 +2356,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Rahadoum",
+      "Azir"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy91te",
     "price": 3.99,
     "pubcode": "PZOPSS0507E",
@@ -1926,6 +2377,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Stony Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0b",
     "price": 3.99,
     "pubcode": "PZOPSS0326",
@@ -1943,6 +2398,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Korvosa"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9mba",
     "price": 4.99,
     "pubcode": "PZOPSS0801",
@@ -1961,6 +2420,9 @@
       "max": 12,
       "min": 1
     },
+    "locations": [
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0d",
     "price": 3.99,
     "pubcode": "PZOPSS0400E",
@@ -1978,6 +2440,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m3",
     "price": 3.99,
     "pubcode": "PZOPSS0515E",
@@ -1995,6 +2460,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Plane of Air",
+      "Port Eclipse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tl8",
     "price": 4.99,
     "pubcode": "PZOPSS0824E",
@@ -2012,6 +2481,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Galt",
+      "Rosehaven"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9oij",
     "price": 4.99,
     "pubcode": "PZOPSS0806E",
@@ -2029,6 +2502,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Lastwall"
+    ],
     "paizoUrl": "https://paizo.com/products/btpzgd7m",
     "price": 4.99,
     "pubcode": "PZOPSS1004E",
@@ -2046,6 +2522,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tian Xia",
+      "Nagajor",
+      "Kullan Dei mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpx",
     "price": 3.99,
     "pubcode": "PZOPSS0317",
@@ -2063,6 +2544,10 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Arl",
+      "Akiton"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1r",
     "price": 3.99,
     "pubcode": "PZOPSS0205E",
@@ -2080,6 +2565,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Rahadoum"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9qcc",
     "price": 4.99,
     "pubcode": "PZOPSS0817E",
@@ -2097,6 +2585,11 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Woodsedge",
+      "Edme",
+      "Galt"
+    ],
     "paizoUrl": "https://paizo.com/products/2Fbtpy8bub",
     "price": 7.99,
     "pubcode": "PZOPSS0046E",
@@ -2114,6 +2607,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse",
+      "Terwa Uplands"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1o",
     "price": 3.99,
     "pubcode": "PZOPSS0202E",
@@ -2131,6 +2628,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Chesed",
+      "Numeria"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ctx",
     "price": 3.99,
     "pubcode": "PZOPSS0620",
@@ -2148,6 +2649,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Magnimar"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0e",
     "price": 3.99,
     "pubcode": "PZOPSS0401",
@@ -2165,6 +2670,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Riddleport"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we3?Pathfinder-Society-Scenario-4-23-Rivalrys-End",
     "price": 3.99,
     "pubcode": "PZOPSS0423E",
@@ -2182,6 +2691,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bonekeep",
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8wrx",
     "price": 3.99,
     "pubcode": "PZOPSS0400-3E",
@@ -2199,6 +2713,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bonekeep",
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8xkj",
     "price": 3.99,
     "pubcode": "PZOPSS0500-1E",
@@ -2216,6 +2735,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bonekeep",
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97st",
     "price": 3.99,
     "pubcode": "PZOPSS0500-2E",
@@ -2233,6 +2757,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Merab",
+      "Thuvia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9wer",
     "price": 4.99,
     "pubcode": "PZOPSS0907E",
@@ -2250,6 +2778,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m4",
     "price": 3.99,
     "pubcode": "PZOPSS0516E",
@@ -2267,6 +2798,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mendev",
+      "Dawnton"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy96i8",
     "price": 3.99,
     "pubcode": "PZOPSS0522E",
@@ -2284,6 +2819,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Drownyard",
+      "Precipice Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9g82",
     "price": 3.99,
     "pubcode": "PZOPSS0705",
@@ -2301,6 +2841,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Iobaria"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zk2",
     "price": 4.99,
     "pubcode": "PZOPSS0918E",
@@ -2318,6 +2861,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Plane of Air",
+      "Armun Kelisk"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9p8x",
     "price": 4.99,
     "pubcode": "PZOPSS0810E",
@@ -2335,6 +2882,10 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Cheliax",
+      "Ostenso"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9m02",
     "price": 3.99,
     "pubcode": "PZOPSS0729",
@@ -2352,6 +2903,9 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Nidal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9lzy",
     "price": null,
     "pubcode": "PZOPSS0798",
@@ -2369,6 +2923,11 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Foreign Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu0",
     "price": 3.99,
     "pubcode": "PZOPSS0698",
@@ -2386,6 +2945,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Riddleport"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8t",
     "price": 3.99,
     "pubcode": "PZOPSS0407",
@@ -2403,6 +2966,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Puddles",
+      "Ivy District"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8kac",
     "price": 3.99,
     "pubcode": "PZOPSS0302E",
@@ -2420,6 +2988,12 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Foreign Quarter",
+      "Ascendant Court"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1q",
     "price": 3.99,
     "pubcode": "PZOPSS0204E",
@@ -2437,6 +3011,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Cassomir"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89kb",
     "price": 3.99,
     "pubcode": "PZOPSS0029E",
@@ -2454,6 +3032,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kwanlai",
+      "Hisuikarasu"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9y4g",
     "price": 4.99,
     "pubcode": "PZOPSS0912E",
@@ -2471,6 +3053,9 @@
       "max": 12,
       "min": 1
     },
+    "locations": [
+      "Ustalav"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yz1",
     "price": 9.99,
     "pubcode": "PZOPSS1098E",
@@ -2488,6 +3073,11 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Foreign Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ctz",
     "price": 3.99,
     "pubcode": "PZOPSS0697",
@@ -2506,6 +3096,10 @@
       "max": 15,
       "min": 1
     },
+    "locations": [
+      "Mendev",
+      "Nerosyan"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8xki",
     "price": 3.99,
     "pubcode": "PZOPSS0500",
@@ -2523,6 +3117,12 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Senghor",
+      "Eleder",
+      "Mwangi Expanse",
+      "Sargava"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9x0u",
     "price": 4.99,
     "pubcode": "PZOPSS0910E",
@@ -2540,6 +3140,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Puddles",
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy84k0?Pathfinder-Society-Scenario-1-Silent-Tide",
     "price": 3.99,
     "pubcode": "PZOPSS0001E",
@@ -2557,6 +3161,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Uringen",
+      "River Kingdoms"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu4",
     "price": 3.99,
     "pubcode": "PZOPSS0702",
@@ -2574,6 +3182,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy884w",
     "price": 3.99,
     "pubcode": "PZOPSS0019E",
@@ -2591,6 +3203,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Puddles",
+      "Coins"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy85p4",
     "price": 3.99,
     "pubcode": "PZOPSS0008E",
@@ -2608,6 +3225,12 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Petal District",
+      "Coins",
+      "Docks"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9985",
     "price": 3.99,
     "pubcode": "PZOPSS0605",
@@ -2625,6 +3248,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Sedeq",
+      "Qadira"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yyy",
     "price": 4.99,
     "pubcode": "PZOPSS1021E",
@@ -2642,6 +3269,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ow4",
     "price": 3.99,
     "pubcode": "PZOPSS0314",
@@ -2660,6 +3290,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Docks"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89kd",
     "price": 3.99,
     "pubcode": "PZOPSS0031E",
@@ -2677,6 +3311,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Eastgate"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8lqw",
     "price": 3.99,
     "pubcode": "PZOPSS0306E",
@@ -2694,6 +3332,11 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Sardis Township",
+      "Porthmos Prison"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy86nh",
     "price": 3.99,
     "pubcode": "PZOPSS0012E",
@@ -2711,6 +3354,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0a?Pathfinder-Society-Scenario-3-25-Storming-the-Diamond-Gate",
     "price": 3.99,
     "pubcode": "PZOPSS0325",
@@ -2728,6 +3374,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cty",
     "price": 3.99,
     "pubcode": "PZOPSS0621",
@@ -2745,6 +3394,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Axis"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01wln",
     "price": 4.99,
     "pubcode": "PZOPSS1015E",
@@ -2762,6 +3414,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Whistledown",
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8bu9",
     "price": 3.99,
     "pubcode": "PZOPSS0044E",
@@ -2779,6 +3435,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion",
+      "Tar Kuata"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ch3",
     "price": 3.99,
     "pubcode": "PZOPSS0619",
@@ -2796,6 +3456,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Magnimar"
+    ],
     "paizoUrl": "https://paizo.com/products/btpzgd7n",
     "price": 4.99,
     "pubcode": "PZOPSS1005E",
@@ -2813,6 +3477,9 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01znb",
     "price": 4.99,
     "pubcode": "PZOPFS0101E",
@@ -2830,6 +3497,9 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Katapesh"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy87j9",
     "price": 3.99,
     "pubcode": "PZOPSS0015E",
@@ -2847,6 +3517,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Aspodell Mountains",
+      "Andoran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8are",
     "price": 3.99,
     "pubcode": "PZOPSS0037E",
@@ -2864,6 +3538,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Dimension of Dreams"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9gwx",
     "price": 3.99,
     "pubcode": "PZOPSS0709",
@@ -2881,6 +3559,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Pariol Island"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8v",
     "price": 3.99,
     "pubcode": "PZOPSS0409",
@@ -2898,6 +3580,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bloodcove"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9y4k",
     "price": 4.99,
     "pubcode": "PZOPSS0915E",
@@ -2915,6 +3600,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Bloodcove",
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1n",
     "price": 3.99,
     "pubcode": "PZOPSS0201E",
@@ -2932,6 +3621,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Magnimar",
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu5",
     "price": 3.99,
     "pubcode": "PZOPSS0703",
@@ -2949,6 +3642,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Mindspin Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtw",
     "price": 3.99,
     "pubcode": "PZOPSS0214E",
@@ -2966,6 +3663,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Plane of Fire",
+      "Zjarra"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9p8w",
     "price": null,
     "pubcode": "PZOPSS0809E",
@@ -2983,6 +3684,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Meraz Desert",
+      "Qadira"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arg",
     "price": 3.99,
     "pubcode": "PZOPSS0039E",
@@ -3000,6 +3705,10 @@
       "max": 2,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy92ci?Pathfinder-Society-Scenario-5-08-The-Confirmation",
     "price": 3.99,
     "pubcode": "PZOPSS0508E",
@@ -3017,6 +3726,10 @@
       "max": 2,
       "min": 1
     },
+    "locations": [
+      "Diobel",
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hgx",
     "price": 3.99,
     "pubcode": "PZOPSS0710",
@@ -3034,6 +3747,8 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9mbe",
     "price": 4.99,
     "pubcode": "PZOPSS0800",
@@ -3051,6 +3766,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Qadira",
+      "Qaharid"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tla",
     "price": 4.99,
     "pubcode": "PZOPSS0901E",
@@ -3068,6 +3787,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Palin's Cove"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8u",
     "price": 3.99,
     "pubcode": "PZOPSS0408",
@@ -3085,6 +3808,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Riddleport"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpw",
     "price": 3.99,
     "pubcode": "PZOPSS0415E",
@@ -3102,6 +3829,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Oppara"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8i14",
     "price": 3.99,
     "pubcode": "PZOPSS0221E",
@@ -3119,6 +3850,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Karcau",
+      "Ustalav"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu2",
     "price": 3.99,
     "pubcode": "PZOPSS0623",
@@ -3137,6 +3872,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Karcau",
+      "Ustalav"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8buc",
     "price": 3.99,
     "pubcode": "PZOPSS0047E",
@@ -3154,6 +3893,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Shadow Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01x4s",
     "price": 4.99,
     "pubcode": "PZOPSS1018E",
@@ -3171,6 +3913,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Goka",
+      "Tian Xia",
+      "Deepmarket"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9huw",
     "price": 3.99,
     "pubcode": "PZOPSS0715",
@@ -3188,6 +3935,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Ascendant Court"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0h",
     "price": 3.99,
     "pubcode": "PZOPSS0411",
@@ -3205,6 +3956,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ow2",
     "price": 3.99,
     "pubcode": "PZOPSS0312E",
@@ -3222,6 +3976,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tian Xia",
+      "Wall of Heaven"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8n0o",
     "price": 3.99,
     "pubcode": "PZOPSS0309E",
@@ -3239,6 +3997,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kyonin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy90kr?Pathfinder-Society-Scenario-5-05-The-Elven-Entanglement",
     "price": 3.99,
     "pubcode": "PZOPSS0505E",
@@ -3256,6 +4017,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Qadira"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88ll",
     "price": 3.99,
     "pubcode": "PZOPSS0021E",
@@ -3273,6 +4037,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0n",
     "price": 3.99,
     "pubcode": "PZOPSS0416",
@@ -3290,6 +4057,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Sothis",
+      "Osirion"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dak",
     "price": 3.99,
     "pubcode": "PZOPSS0053E",
@@ -3308,6 +4079,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Rahadoum"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1s",
     "price": 3.99,
     "pubcode": "PZOPSS0206E",
@@ -3325,6 +4099,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Nex"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gty",
     "price": 3.99,
     "pubcode": "PZOPSS0216E",
@@ -3342,6 +4119,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Qadira",
+      "Zho Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8i11",
     "price": 3.99,
     "pubcode": "PZOPSS0218E",
@@ -3359,6 +4140,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Lands of the Linnorm Kings",
+      "Irrisen"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8kab",
     "price": 3.99,
     "pubcode": "PZOPSS0301",
@@ -3376,6 +4161,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Ivy District",
+      "Docks"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy84k3?Pathfinder-Society-Scenario-4-The-Frozen-Fingers-of-Midnight",
     "price": 3.99,
     "pubcode": "PZOPSS0004E",
@@ -3393,6 +4183,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Katapesh (city)"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8kad",
     "price": 3.99,
     "pubcode": "PZOPSS0303E",
@@ -3410,6 +4203,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kaava Lands",
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya18g",
     "price": 4.99,
     "pubcode": "PZOPSS0923E",
@@ -3427,6 +4224,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Razmiran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8xkf",
     "price": 3.99,
     "pubcode": "PZOPSS0501E",
@@ -3444,6 +4244,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Isger",
+      "Chitterwood"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r08",
     "price": 3.99,
     "pubcode": "PZOPSS0323E",
@@ -3461,6 +4265,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Ascendant Court"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpy",
     "price": 3.99,
     "pubcode": "PZOPSS0318",
@@ -3478,6 +4286,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Bandu Hills",
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9am7",
     "price": 3.99,
     "pubcode": "PZOPSS0616",
@@ -3495,6 +4307,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Ivy District"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r09",
     "price": 3.99,
     "pubcode": "PZOPSS0324",
@@ -3512,6 +4328,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0f?Pathfinder-Society-Scenario-4-03-The-Golemworks-Incident",
     "price": 3.99,
     "pubcode": "PZOPSS0403",
@@ -3529,6 +4348,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Korvosa"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8s",
     "price": 3.99,
     "pubcode": "PZOPSS0406",
@@ -3546,6 +4369,9 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1xz",
     "price": null,
     "pubcode": "PZOPSS1000E",
@@ -3563,6 +4389,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01vpr",
     "price": 4.99,
     "pubcode": "PZOPSS1011E",
@@ -3580,6 +4409,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tian Xia",
+      "Minkai"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpu",
     "price": 3.99,
     "pubcode": "PZOPSS0315",
@@ -3597,6 +4430,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Petal District"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8xkh?Pathfinder-Society-Scenario-5-03-The-Hellknights-Feast",
     "price": 3.99,
     "pubcode": "PZOPSS0503E",
@@ -3614,6 +4451,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Brevoy",
+      "Silverhall",
+      "Rostland Plains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy95e9?Pathfinder-Society-Scenario-5-19-The-Horn-of-Aroden",
     "price": 3.99,
     "pubcode": "PZOPSS0519E",
@@ -3631,6 +4473,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01va3",
     "price": 4.99,
     "pubcode": "PZOPSS1007E",
@@ -3648,6 +4493,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Diobel",
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy84k1?Pathfinder-Society-Scenario-2-The-Hydras-Fang-Incident",
     "price": 3.99,
     "pubcode": "PZOPSS0002E",
@@ -3665,6 +4514,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpz",
     "price": 3.99,
     "pubcode": "PZOPSS0319",
@@ -3682,6 +4534,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Petal District"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8n0p",
     "price": 3.99,
     "pubcode": "PZOPSS0310E",
@@ -3699,6 +4555,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Ostenso",
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9huz",
     "price": 3.99,
     "pubcode": "PZOPSS0718",
@@ -3716,6 +4576,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Eastgate"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g53",
     "price": 3.99,
     "pubcode": "PZOPSS0055E",
@@ -3734,6 +4598,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Ironbound Archipelago",
+      "Flintyreach",
+      "Lands of the Linnorm Kings"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9g81",
     "price": 3.99,
     "pubcode": "PZOPSS0704",
@@ -3751,6 +4620,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Frostbreach",
+      "Lands of the Linnorm Kings"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9x0v",
     "price": 4.99,
     "pubcode": "PZOPSS0911E",
@@ -3768,6 +4641,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Evondemor",
+      "Tandak Plains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g54",
     "price": 3.99,
     "pubcode": "PZOPSS0056E",
@@ -3785,6 +4663,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8kae",
     "price": 3.99,
     "pubcode": "PZOPSS0304E",
@@ -3802,6 +4684,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Gloomspires",
+      "Shackles"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k92",
     "price": 3.99,
     "pubcode": "PZOPSS0719",
@@ -3819,6 +4705,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Oppara"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9y4h",
     "price": 4.99,
     "pubcode": "PZOPSS0913E",
@@ -3836,6 +4725,12 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Amanandar",
+      "New Oppara",
+      "Jinin",
+      "Wanshou"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9gwu",
     "price": 3.99,
     "pubcode": "PZOPSS0706",
@@ -3853,6 +4748,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Petal District",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8joq",
     "price": 3.99,
     "pubcode": "PZOPSS0226E",
@@ -3870,6 +4770,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Sedeq",
+      "Qadira"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy870b",
     "price": 3.99,
     "pubcode": "PZOPSS0014E",
@@ -3887,6 +4791,11 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Corentyn",
+      "Cheliax",
+      "Mwangi Expanse"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dal",
     "price": 3.99,
     "pubcode": "PZOPSS0054E",
@@ -3904,6 +4813,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Qadira",
+      "Katheer"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy95eb?Pathfinder-Society-Scenario-5-21-The-Merchants-Wake",
     "price": 3.99,
     "pubcode": "PZOPSS0521E",
@@ -3921,6 +4834,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Ustalav",
+      "Ardis"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpv",
     "price": 3.99,
     "pubcode": "PZOPSS0316",
@@ -3938,6 +4855,9 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "River Kingdoms"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01znc",
     "price": 4.99,
     "pubcode": "PZOPFS0102E",
@@ -3955,6 +4875,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Fenwall Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8wdz",
     "price": 3.99,
     "pubcode": "PZOPSS0419E",
@@ -3972,6 +4896,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Foreign Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ch0",
     "price": 3.99,
     "pubcode": "PZOPSS0615",
@@ -3989,6 +4918,11 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Falcon's Hollow",
+      "Darkmoon Vale",
+      "Andoran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8bu8",
     "price": 3.99,
     "pubcode": "PZOPSS0043E",
@@ -4006,6 +4940,13 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Grand Lodge",
+      "Foreign Quarter",
+      "Docks",
+      "Wise Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n4",
     "price": 3.99,
     "pubcode": "PZOPSS0600",
@@ -4023,6 +4964,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Wise Quarter",
+      "Absalom",
+      "Blakros Museum"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8h6n",
     "price": 3.99,
     "pubcode": "PZOPSS0211E",
@@ -4040,6 +4986,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Urglin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we4?Pathfinder-Society-Scenario-4-24-The-Price-of-Friendship",
     "price": 3.99,
     "pubcode": "PZOPSS0424E",
@@ -4057,6 +5007,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Augustana",
+      "Andoran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy870a",
     "price": 3.99,
     "pubcode": "PZOPSS0013E",
@@ -4074,6 +5028,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hold of Belkzen"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ard",
     "price": 3.99,
     "pubcode": "PZOPSS0036E",
@@ -4091,6 +5048,12 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Worldwound",
+      "Rasping Rifts",
+      "Rift of Repose",
+      "Abyss"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01vpj",
     "price": 4.99,
     "pubcode": "PZOPSS1009E",
@@ -4108,6 +5071,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Parched Dunes",
+      "Osirion"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1p",
     "price": 3.99,
     "pubcode": "PZOPSS0203E",
@@ -4125,6 +5092,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Wyvern Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0i",
     "price": 3.99,
     "pubcode": "PZOPSS0412",
@@ -4142,6 +5113,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Cassomir",
+      "Taldor"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8bud",
     "price": 3.99,
     "pubcode": "PZOPSS0048E",
@@ -4159,6 +5134,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9p8v",
     "price": 4.99,
     "pubcode": "PZOPSS0808E",
@@ -4176,6 +5154,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Sanos Forest"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8r",
     "price": 3.99,
     "pubcode": "PZOPSS0405",
@@ -4193,6 +5175,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Storasta",
+      "Worldwound"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1u",
     "price": 3.99,
     "pubcode": "PZOPSS0208E",
@@ -4210,6 +5196,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Realm of the Mammoth Lords",
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy95ea?Pathfinder-Society-Scenario-5-20-The-Sealed-Gate",
     "price": 3.99,
     "pubcode": "PZOPSS0520E",
@@ -4227,6 +5217,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hold of Belkzen",
+      "Urgir"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we5?Pathfinder-Society-Scenario-4-25-The-Secrets-Stones-Keep",
     "price": 3.99,
     "pubcode": "PZOPSS0425E",
@@ -4244,6 +5238,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Segang Jungle",
+      "Jalmeray"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1w",
     "price": 3.99,
     "pubcode": "PZOPSS0608",
@@ -4261,6 +5259,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Kaer Maga",
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dai",
     "price": 3.99,
     "pubcode": "PZOPSS0051E",
@@ -4278,6 +5280,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Azir",
+      "Rahadoum"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01vpl",
     "price": 4.99,
     "pubcode": "PZOPSS1010E",
@@ -4295,6 +5301,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Heaven"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9weq",
     "price": 4.99,
     "pubcode": "PZOPSS0906E",
@@ -4312,6 +5321,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Blakros Museum",
+      "Wise Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n6",
     "price": 3.99,
     "pubcode": "PZOPSS0602",
@@ -4329,6 +5343,9 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu7",
     "price": 3.99,
     "pubcode": "PZOPSS0700",
@@ -4346,6 +5363,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Stonespine Island",
+      "Katapesh"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1z",
     "price": 3.99,
     "pubcode": "PZOPSS0611",
@@ -4363,6 +5384,10 @@
       "max": 11,
       "min": 1
     },
+    "locations": [
+      "Blakros Museum",
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9s15",
     "price": 4.99,
     "pubcode": "PZOPSS0899E",
@@ -4380,6 +5405,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Andoran",
+      "Sauerton"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy90kq?Pathfinder-Society-Scenario-5-04-The-Stolen-Heir",
     "price": 3.99,
     "pubcode": "PZOPSS0504E",
@@ -4397,6 +5426,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kaer Maga",
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy95e8?Pathfinder-Society-Scenario-5-18-The-Stranger-Within",
     "price": 3.99,
     "pubcode": "PZOPSS0518E",
@@ -4414,6 +5447,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Pashow",
+      "Thuvia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k94",
     "price": 3.99,
     "pubcode": "PZOPSS0721",
@@ -4431,6 +5468,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qq0",
     "price": 3.99,
     "pubcode": "PZOPSS0320",
@@ -4448,6 +5488,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mwangi Expanse",
+      "Nantambu"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n7",
     "price": 3.99,
     "pubcode": "PZOPSS0603",
@@ -4465,6 +5509,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Hao Jin Tapestry"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qq1",
     "price": 3.99,
     "pubcode": "PZOPSS0321",
@@ -4482,6 +5529,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy86ng",
     "price": 3.99,
     "pubcode": "PZOPSS0011E",
@@ -4499,6 +5549,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mendev",
+      "Nerosyan"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy92cj?Pathfinder-Society-Scenario-5-09-The-Traitor-s-Lodge",
     "price": 3.99,
     "pubcode": "PZOPSS0509E",
@@ -4516,6 +5570,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Sothis",
+      "Osirion"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy87os",
     "price": 3.99,
     "pubcode": "PZOPSS0018E",
@@ -4533,6 +5591,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Alkenstar",
+      "Mana Wastes"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hgz",
     "price": 3.99,
     "pubcode": "PZOPSS0712",
@@ -4550,6 +5612,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Kaer Maga",
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8daj",
     "price": 3.99,
     "pubcode": "PZOPSS0052E",
@@ -4567,6 +5633,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Thuvia",
+      "Merab"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9weo",
     "price": 4.99,
     "pubcode": "PZOPSS0904E",
@@ -4584,6 +5654,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Korvosa"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8wdy?Pathfinder-Society-Scenario-4-18-The-Veterans-Vault",
     "price": 3.99,
     "pubcode": "PZOPSS0418E",
@@ -4601,6 +5675,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we6?Pathfinder-Society-Scenario-4-26-The-Waking-Rune",
     "price": 3.99,
     "pubcode": "PZOPSS0426E",
@@ -4618,6 +5695,12 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mendev",
+      "Nerosyan",
+      "Bedis",
+      "Fort Portolmaeus"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8xkg",
     "price": 3.99,
     "pubcode": "PZOPSS0502E",
@@ -4635,6 +5718,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Cheliax"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arj",
     "price": 3.99,
     "pubcode": "PZOPSS0042E",
@@ -4652,6 +5738,14 @@
       "max": 2,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos",
+      "Wise Quarter",
+      "Ascendant Court",
+      "Foreign Quarter",
+      "Eastgate"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1y",
     "price": 3.99,
     "pubcode": "PZOPSS0610",
@@ -4669,6 +5763,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Mendev",
+      "Worldwound"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9huy",
     "price": 3.99,
     "pubcode": "PZOPSS0717",
@@ -4686,6 +5784,10 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Maelstrom",
+      "Plane of Air"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9mbd",
     "price": 3.99,
     "pubcode": "PZOPSS0799E",
@@ -4703,6 +5805,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Verduran Forest",
+      "Andoran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88sx",
     "price": 3.99,
     "pubcode": "PZOPSS0023E",
@@ -4720,6 +5826,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Taldor",
+      "Wispil",
+      "Verduran Forest"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8lqv",
     "price": 3.99,
     "pubcode": "PZOPSS0305E",
@@ -4737,6 +5848,10 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8jos",
     "price": 0,
     "pubcode": "PZOPSSINTRO2E",
@@ -4754,6 +5869,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Fog Peaks",
+      "Galt"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy87ja",
     "price": 3.99,
     "pubcode": "PZOPSS0016E",
@@ -4771,6 +5890,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Inahiyi",
+      "Minata",
+      "Tian Xia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9qc9",
     "price": 4.99,
     "pubcode": "PZOPSS0814E",
@@ -4788,6 +5912,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Plane of Water",
+      "Vialesk"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9rev",
     "price": 4.99,
     "pubcode": "PZOPSS0820E",
@@ -4805,6 +5933,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Velashu Uplands"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8wdx?Pathfinder-Society-Scenario-4-17-Tower-of-the-Ironwood-Watch",
     "price": 3.99,
     "pubcode": "PZOPSS0417E",
@@ -4822,6 +5954,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Vialesk",
+      "Plane of Water"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9reu",
     "price": 4.99,
     "pubcode": "PZOPSS0819E",
@@ -4839,6 +5975,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Katapesh"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01va2",
     "price": 4.99,
     "pubcode": "PZOPSS1006E",
@@ -4856,6 +5995,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Isle of Kortos",
+      "Red Redoubt of Karamoss"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n5?Pathfinder-Society-Scenario-6-01-Trial-by-Machine",
     "price": 3.99,
     "pubcode": "PZOPSS0601",
@@ -4873,6 +6017,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tamran",
+      "Nirmathas"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9gwv",
     "price": 3.99,
     "pubcode": "PZOPSS0707",
@@ -4890,6 +6038,10 @@
       "max": 1,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Shadow Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu6",
     "price": 3.99,
     "pubcode": "PZOPSS0699",
@@ -4907,6 +6059,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Plane of Earth",
+      "Opaline Vault"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9oii",
     "price": 4.99,
     "pubcode": "PZOPSS0805E",
@@ -4924,6 +6080,11 @@
       "max": 4,
       "min": 1
     },
+    "locations": [
+      "Plane of Earth",
+      "Plane of Fire",
+      "Lodehollow"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tl9",
     "price": 4.99,
     "pubcode": "PZOPSS0825E",
@@ -4941,6 +6102,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Qadira",
+      "Zho Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9987",
     "price": 3.99,
     "pubcode": "PZOPSS0607",
@@ -4958,6 +6123,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Worldwound",
+      "Frostmire Fen",
+      "Wolfcrags"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy96id",
     "price": 3.99,
     "pubcode": "PZOPSS0525E",
@@ -4975,6 +6145,11 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Absalom",
+      "Blakros Museum",
+      "Wise Quarter"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arc",
     "price": 3.99,
     "pubcode": "PZOPSS0035E",
@@ -4992,6 +6167,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tian Xia",
+      "Dtang Ma"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9mbb",
     "price": 4.99,
     "pubcode": "PZOPSS0802E",
@@ -5009,6 +6188,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Numeria",
+      "Sulfur Gulch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9oih",
     "price": 4.99,
     "pubcode": "PZOPSS0804E",
@@ -5026,6 +6209,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Tian Xia",
+      "Minata"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we1?Pathfinder-Society-Scenario-4-21-Way-of-the-Kirin",
     "price": 3.99,
     "pubcode": "PZOPSS0421E",
@@ -5043,6 +6230,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Worldwound",
+      "Ghalcor's Tower"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m1",
     "price": 3.99,
     "pubcode": "PZOPSS0513E",
@@ -5060,6 +6251,10 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Andoran",
+      "Almas"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8joo",
     "price": 3.99,
     "pubcode": "PZOPSS0224E",
@@ -5077,6 +6272,11 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Grand Lodge",
+      "Dis",
+      "Hell"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01vpf",
     "price": 4.99,
     "pubcode": "PZOPSS1008E",
@@ -5094,6 +6294,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Kullan Dei mountains",
+      "Tian Xia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9qc8",
     "price": 4.99,
     "pubcode": "PZOPSS0813E",
@@ -5114,6 +6318,15 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Korvosa",
+      "Varisia",
+      "Arthfell Forest",
+      "Andoran",
+      "Highhelm",
+      "Five Kings Mountains",
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01x4p",
     "price": 4.99,
     "pubcode": "PZOPSS1016E",
@@ -5132,6 +6345,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Rahadoum"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1t",
     "price": 3.99,
     "pubcode": "PZOPSS0207E",
@@ -5149,6 +6365,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Realm of the Mammoth Lords"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy933o",
     "price": 3.99,
     "pubcode": "PZOPSS0510E",
@@ -5167,6 +6386,9 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Absalom"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yz1",
     "price": 4.99,
     "pubcode": "PZOPSS1023E",
@@ -5184,6 +6406,9 @@
       "max": 7,
       "min": 1
     },
+    "locations": [
+      "Mediogalti Island"
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yz0",
     "price": 4.99,
     "pubcode": "PZOPSS1022E",
@@ -5201,6 +6426,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we0",
     "price": 3.99,
     "pubcode": "PZOPSS0420E",
@@ -5218,6 +6446,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Osirion",
+      "Sothis"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8i13",
     "price": 3.99,
     "pubcode": "PZOPSS0220E",
@@ -5235,6 +6467,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Varisia",
+      "Calphiak Mountains"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tl5",
     "price": 4.99,
     "pubcode": "PZOPSS0822E",
@@ -5252,6 +6488,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Lands of the Linnorm Kings",
+      "Trollheim"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtx",
     "price": 3.99,
     "pubcode": "PZOPSS0215E",
@@ -5269,6 +6509,10 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "River Kingdoms",
+      "Tymon"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy91td",
     "price": 3.99,
     "pubcode": "PZOPSS0506E",
@@ -5286,6 +6530,9 @@
       "max": 5,
       "min": 1
     },
+    "locations": [
+      "Geb"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8jop",
     "price": 3.99,
     "pubcode": "PZOPSS0225E",
