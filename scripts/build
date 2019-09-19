@@ -2,3 +2,4 @@
 set -e
 
 aberlaas build "$@"
+cp ./lib/data.json ./build/data.json
