@@ -12,6 +12,17 @@
       "Osirion",
       "Eto"
     ],
+    "npcs": [
+      "Amenopheus, the Sapphire Sage",
+      "Apep",
+      "Grandmaster Torch",
+      "Jeweled Sages",
+      "Norden Balentiir",
+      "Pillars Of The Sun",
+      "Sage Jewel",
+      "Tahonikepsu",
+      "Trance Prince Aaqir al'Hakam"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m0",
     "price": 3.99,
     "pubcode": "PZOPSS0512E",
@@ -32,6 +43,23 @@
     "locations": [
       "Galt",
       "Woodsedge"
+    ],
+    "npcs": [
+      "Almant Enderios",
+      "Alois Lofton",
+      "Augustyn Naran",
+      "Eliza Petulengro",
+      "Estienne Jacquert",
+      "Final blade",
+      "Gray Gardeners",
+      "Halmont Warrith",
+      "Major Colson Maldris",
+      "Maze of the Open Road",
+      "Morvius Korkovin",
+      "People's Council",
+      "Sabrine Tularis",
+      "Seven Houses",
+      "Victoria Garvensi"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9tlb",
     "price": 4.99,
@@ -54,6 +82,13 @@
       "Absalom",
       "Isle of Kortos",
       "Escadar"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Drandle Dreng",
+      "Grandmaster Torch",
+      "Lady Gloriana Morilla",
+      "Maejerex"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8jot",
     "price": 0,
@@ -80,6 +115,18 @@
       "Galt",
       "Dabril"
     ],
+    "npcs": [
+      "322",
+      "Aram Zey",
+      "Aslynn",
+      "Aspis Consortium",
+      "Conference Z",
+      "Eliza Petulengro",
+      "Harrow",
+      "Master of Scrolls Kreighton Shaine",
+      "Sorrina Westyr",
+      "Woodsedge Lodge"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k96",
     "price": 3.99,
     "pubcode": "PZOPSS0723",
@@ -99,6 +146,20 @@
     },
     "locations": [
       "Thuvia"
+    ],
+    "npcs": [
+      "Aspenthar",
+      "Aspis Consortium",
+      "Emir Guldis",
+      "Gloriana Morilla",
+      "Juliet Dias",
+      "Kitio Aspenthi",
+      "Korholm Agenda",
+      "Lady Ziralia of Pashow",
+      "Master of Swords Marcos Farabellus",
+      "Prince Zinlo of Aspenthar",
+      "Shohiraj",
+      "Sun Orchid Elixir"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9m03",
     "price": 3.99,
@@ -121,6 +182,15 @@
       "Mwangi Expanse",
       "Kaava Lands"
     ],
+    "npcs": [
+      "Boalisi",
+      "Ghol Gan",
+      "Kaddodi",
+      "Karan",
+      "Parveen",
+      "Purpurrup",
+      "Venture-Captain Finze Bellaugh"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9s14",
     "price": 4.99,
     "pubcode": "PZOPSS0821E",
@@ -141,6 +211,33 @@
     },
     "locations": [
       "Nidal"
+    ],
+    "npcs": [
+      "Aida Kernaug",
+      "Aspis Consortium",
+      "Athrax",
+      "Axe-Fixers",
+      "Boartusk Twins",
+      "Conference Z",
+      "Eskaravarn",
+      "Garl",
+      "Inphira Kramolag",
+      "Janira Gavix",
+      "Jhandorage Vaulnder Alexayn",
+      "Kernaug Group",
+      "Ko Deschamp",
+      "Korholm Agenda",
+      "Maralyn Corwins",
+      "Master of Swords Marcos Farabellus",
+      "Raphiel Vasheen",
+      "Scroll-Seekers",
+      "Shadow Plane",
+      "Shrade",
+      "Sophron Delgavar",
+      "Suliji Peshar",
+      "Tarys",
+      "Veronik Locnave",
+      "Visbaron Adelum"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9m01",
     "price": 3.99,
@@ -163,6 +260,15 @@
       "Oppara",
       "Taldor"
     ],
+    "npcs": [
+      "Bodriggan Wuthers",
+      "Drandle Dreng",
+      "Eliza Petulengro",
+      "House of the Immortal Son",
+      "Sebastus Hustavan",
+      "Zyphus",
+      "Zyphus Stone"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dag",
     "price": 3.99,
     "pubcode": "PZOPSS0049E",
@@ -183,6 +289,13 @@
     "locations": [
       "Taldor",
       "World's Edge Mountains"
+    ],
+    "npcs": [
+      "Deanaris Quint",
+      "House of the Immortal Son",
+      "Muesello",
+      "Sebastus Hustavan",
+      "Zyphus"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8n0n",
     "price": 3.99,
@@ -205,6 +318,16 @@
       "Oppara",
       "Taldor"
     ],
+    "npcs": [
+      "Aroden",
+      "Bodriggan Wuthers",
+      "Deanaris Quint",
+      "Eliza Petulengro",
+      "House of the Immortal Son",
+      "Sebastus Hustavan",
+      "Zyphus",
+      "Zyphus Stone"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy85p3",
     "price": 3.99,
     "pubcode": "PZOPSS0007E",
@@ -224,6 +347,17 @@
     },
     "locations": [
       "Nex"
+    ],
+    "npcs": [
+      "Ahriman",
+      "Amethyst Sage",
+      "Badru Ibidau",
+      "Jeweled Sages",
+      "Sage Jewel",
+      "Saruna",
+      "Sinuhotep, the Amethyst Sage",
+      "Tahonikepsu",
+      "Venture-Captain Roderus"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9hgy",
     "price": 3.99,
@@ -248,6 +382,20 @@
       "Wise Quarter",
       "Grand Lodge"
     ],
+    "npcs": [
+      "Black Echelon",
+      "Cairnlands",
+      "Forae Logos",
+      "Gloriana Morilla",
+      "Grandmaster Torch",
+      "Kothvaul",
+      "Master of Swords Marcos Farabellus",
+      "Ollysta Zadrian",
+      "Paracountess Zarta Dralneen",
+      "Pasha Muhlia al-Jakri",
+      "Silent Tide",
+      "Thurl"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tld",
     "price": 4.99,
     "pubcode": "PZOPSS0900E",
@@ -267,6 +415,10 @@
     },
     "locations": [
       "Jalmeray"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Venture-Captain Vasuman Mihir"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8ara",
     "price": 3.99,
@@ -290,6 +442,16 @@
       "Frostmire Fen",
       "Sarkorian Steppe"
     ],
+    "npcs": [
+      "",
+      "Aglorn Desimire",
+      "Aspis Consortium",
+      "Jistka Imperium",
+      "Master of Swords Marcos Farabellus",
+      "Ollysta Zadrian",
+      "Tancred Desimire",
+      "Thurl"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy96ic",
     "price": 3.99,
     "pubcode": "PZOPSS0524E",
@@ -310,6 +472,15 @@
     "locations": [
       "Andoran",
       "Almas"
+    ],
+    "npcs": [
+      "Aroden",
+      "Brackett",
+      "Cathedral of Aroden/Almas Lodge",
+      "Dennel Hamshanks",
+      "Dorianna Ouidda",
+      "Goblinblood Wars",
+      "Wystorn Telfyr"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8jon",
     "price": 3.99,
@@ -332,6 +503,20 @@
       "Osirion",
       "Pillars of the Sun"
     ],
+    "npcs": [
+      "Amenopheus",
+      "Amethyst Sage",
+      "Badru Ibidau",
+      "Isis",
+      "Jeweled Sages",
+      "Norden Balentiir",
+      "Pharaoh An-Hepsu XI",
+      "Pillars Of The Sun",
+      "Sage Jewel",
+      "Saruna",
+      "Tahonikepsu",
+      "Thoth"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9984",
     "price": 3.99,
     "pubcode": "PZOPSS0604",
@@ -352,6 +537,10 @@
     "locations": [
       "Menador Mountains",
       "Nidal"
+    ],
+    "npcs": [
+      "Aroden",
+      "Osprey"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8gtu",
     "price": 3.99,
@@ -374,6 +563,16 @@
     "locations": [
       "Rahadoum"
     ],
+    "npcs": [
+      "Ahriman",
+      "Citadel of the Weary Sky",
+      "Jistka Imperium",
+      "Ring of the Weary Sky",
+      "Usij",
+      "Venture-Captain Obo",
+      "Verdizaam Charad",
+      "Wadi al-Hesr"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1v",
     "price": 3.99,
     "pubcode": "PZOPSS0209E",
@@ -394,6 +593,9 @@
     "locations": [
       "Jalmeray"
     ],
+    "npcs": [
+      "Houses of Perfection"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya18h",
     "price": 4.99,
     "pubcode": "PZOPSS0924E",
@@ -413,6 +615,12 @@
     },
     "locations": [
       "Five Kings Mountains"
+    ],
+    "npcs": [
+      "Grandmaster Torch",
+      "Pasha Muhlia al-Jakri",
+      "Thurl",
+      "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpya18i",
     "price": 4.99,
@@ -435,6 +643,15 @@
       "Katapesh (city)",
       "Katapesh"
     ],
+    "npcs": [
+      "Farseer Tower Lodge",
+      "Jistka Imperium",
+      "Mindscape",
+      "Nightstalls",
+      "Twilight Gate",
+      "Venture-Captain Phlegos Dulm",
+      "Venture-Captain Wulessa Yuul"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu3",
     "price": 3.99,
     "pubcode": "PZOPSS0701",
@@ -455,6 +672,14 @@
     "locations": [
       "Mwangi Expanse",
       "Terwa Uplands"
+    ],
+    "npcs": [
+      "Aya Allahe",
+      "Azlant Ridge",
+      "Azlanti monolith",
+      "Fola Barun",
+      "Ghol Gan",
+      "Juliet Dias"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9m04",
     "price": 3.99,
@@ -477,6 +702,13 @@
       "Kaer Maga",
       "Varisia"
     ],
+    "npcs": [
+      "Augurs",
+      "Dark Tapestry",
+      "Duskwardens",
+      "Horus Ilaktya",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9x0t",
     "price": 4.99,
     "pubcode": "PZOPSS0909E",
@@ -498,6 +730,19 @@
       "Alabastrine",
       "Druma"
     ],
+    "npcs": [
+      "Aaqir al'Hakam",
+      "Aspis Consortium",
+      "Axion Forge",
+      "Brackett",
+      "Korholm Agenda",
+      "Mercenary League",
+      "Myrosype",
+      "Prophecies of Kalistrade",
+      "Rataji",
+      "Suliji Peshar",
+      "Temel Passad"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k95",
     "price": 3.99,
     "pubcode": "PZOPSS0722",
@@ -518,6 +763,14 @@
     "locations": [
       "Taldor",
       "Ridonport"
+    ],
+    "npcs": [
+      "Earl Calhadion Vernisant",
+      "Grand Prince Stavian III",
+      "Lady Gloriana Morilla",
+      "Muesello",
+      "Princess Eutropia",
+      "Shining Crusade"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9x0s",
     "price": 4.99,
@@ -542,6 +795,15 @@
       "Absalom",
       "Drownyard"
     ],
+    "npcs": [
+      "Cassiel Marlinchen",
+      "Deris Marlinchen",
+      "Drandle Dreng",
+      "Grishan Maldris",
+      "Junia Dacilane",
+      "Major Colson Maldris",
+      "Miranda Dacilane"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8531",
     "price": 3.99,
     "pubcode": "PZOPSS0006E",
@@ -561,6 +823,12 @@
     },
     "locations": [
       "Sargava"
+    ],
+    "npcs": [
+      "Baron Utilinus",
+      "Sargava Chalice",
+      "Song'o tribe",
+      "Venture-Captain Finze Bellaugh"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9ret",
     "price": 4.99,
@@ -583,6 +851,10 @@
     },
     "locations": [
       "Andoran"
+    ],
+    "npcs": [
+      "Alvis",
+      "Venture-Captain Juberto Savarre"
     ],
     "paizoUrl": "https://paizo.com/products/btpy860d",
     "price": 3.99,
@@ -608,6 +880,13 @@
       "Petal District",
       "Foreign Quarter"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Hao Jin",
+      "Kiang Zhen",
+      "Ruby Phoenix Tournament",
+      "Xho Nuo"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8lwi?Pathfinder-Society-Special-Blood-Under-Absalom",
     "price": 3.99,
     "pubcode": "PZOPSS0300-1E",
@@ -628,6 +907,8 @@
     "locations": [
       "Mwangi Expanse"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1y1",
     "price": 4.99,
     "pubcode": "PZOPSS1002E",
@@ -647,6 +928,8 @@
     },
     "locations": [
       "Iobaria"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01wkp",
     "price": 4.99,
@@ -669,6 +952,16 @@
       "Bloodcove",
       "Mwangi Expanse"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Aya Allahe",
+      "House Cartahegn",
+      "Malika Fenn",
+      "Nieford Sharrowsmith",
+      "Novaria",
+      "Technic League",
+      "Ungala"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1x",
     "price": 3.99,
     "pubcode": "PZOPSS0609",
@@ -690,6 +983,17 @@
       "Nidal",
       "Nisroch"
     ],
+    "npcs": [
+      "Barrowmoor",
+      "Blakros Family",
+      "Canayven Heidmarch",
+      "Grand Convocation",
+      "Onyx Alliance",
+      "Shadow Plane",
+      "Shadow obelisk",
+      "Silent Enforcers",
+      "Zon Kuthon"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy96ib",
     "price": 3.99,
     "pubcode": "PZOPSS0523E",
@@ -709,6 +1013,18 @@
     },
     "locations": [
       "Absalom"
+    ],
+    "npcs": [
+      "Arcanamirium",
+      "Blakros Family",
+      "Corners of Spheres",
+      "Dark Tapestry",
+      "Imrizade Blakros",
+      "Maren Fuln",
+      "Nigel Aldain",
+      "Paracountess Zarta Dralneen",
+      "Ralzeros",
+      "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9wep",
     "price": 4.99,
@@ -732,6 +1048,19 @@
       "Orv",
       "Crystal Womb"
     ],
+    "npcs": [
+      "Aram Zey",
+      "Ashadieeyah Bint Khalid",
+      "Bralkashik",
+      "Grave Treader",
+      "Hshurha",
+      "Master of Scrolls Kreighton Shaine",
+      "Paracountess Zarta Dralneen",
+      "Reyshal ik Jalman",
+      "Sairazul",
+      "Sorrina Westyr",
+      "Wayfinder of many paths"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hh0",
     "price": 3.99,
     "pubcode": "PZOPSS0713",
@@ -752,6 +1081,15 @@
     "locations": [
       "Darklands",
       "Janderhoff"
+    ],
+    "npcs": [
+      "Droskar",
+      "Fellstrok",
+      "Jorsal",
+      "Major Colson Maldris",
+      "Sandricaan Molnworret",
+      "The Long Walk",
+      "Torag"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9mbc",
     "price": 4.99,
@@ -774,6 +1112,11 @@
       "Cassomir",
       "Taldor"
     ],
+    "npcs": [
+      "Groetus",
+      "Hestia Themis",
+      "Teppish family"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89kc",
     "price": 3.99,
     "pubcode": "PZOPSS0030E",
@@ -794,6 +1137,17 @@
     "locations": [
       "Port Eclipse",
       "Plane of Air"
+    ],
+    "npcs": [
+      "Ashasar",
+      "Chalissier",
+      "Concordance Of Elements",
+      "Hshurha",
+      "Jairo the Enlightener",
+      "Jamila Al Shafah",
+      "Norden Balentiir",
+      "Ranginori",
+      "Untouchable Opal"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9p8z",
     "price": 4.99,
@@ -816,6 +1170,14 @@
       "Kwanlai",
       "Tianjing"
     ],
+    "npcs": [
+      "Kaimuko Wood",
+      "Shepherd of Apotheosis",
+      "Shiyo Takarak",
+      "Venture-Captain Amara Li",
+      "Way Of The Kirin",
+      "Zepha"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zk3",
     "price": 4.99,
     "pubcode": "PZOPSS0919E",
@@ -837,6 +1199,19 @@
       "Plane of Fire",
       "City of Brass"
     ],
+    "npcs": [
+      "Ashadieeyah Bint Khalid",
+      "Bralkashik",
+      "Cinderfury family",
+      "Esmayl Ibn Qaradi",
+      "Eye of the Red Worm",
+      "Fossilblight",
+      "Grand Sultana Ayasellah Mihelar Khalidlah",
+      "Peerless Empire",
+      "Plane Of Fire",
+      "Qalkami Mishalq",
+      "Untouchable Opal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9p8y",
     "price": 4.99,
     "pubcode": "PZOPSS0811E",
@@ -857,6 +1232,8 @@
     "locations": [
       "Kalsgard"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01x4t",
     "price": 4.99,
     "pubcode": "PZOPSS1019E",
@@ -876,6 +1253,8 @@
     },
     "locations": [
       "Darklands"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01yyx",
     "price": 4.99,
@@ -898,6 +1277,14 @@
       "Cassomir",
       "Taldor"
     ],
+    "npcs": [
+      "Aroden",
+      "Crypt of Fools",
+      "Groetus",
+      "Hestia Themis",
+      "Swift Prison",
+      "Teppish family"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ari",
     "price": 3.99,
     "pubcode": "PZOPSS0041E",
@@ -918,6 +1305,21 @@
     "locations": [
       "Cheliax",
       "Menador Mountains"
+    ],
+    "npcs": [
+      "Aglorn Desimire",
+      "Ambrus Valsin",
+      "Arastrax",
+      "Aspis Consortium",
+      "Blakros Family",
+      "Dalton Krunne",
+      "Damian Kastner",
+      "Hamaria Blakros",
+      "House Thrune",
+      "Michellia Blakros",
+      "Ostergarde Manor",
+      "Shax",
+      "Tancred Desimire"
     ],
     "paizoUrl": "https://paizo.com/products/btpy93m2",
     "price": 3.99,
@@ -941,6 +1343,17 @@
       "Nantambu",
       "Jalunth"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Aya Allahe",
+      "Camazotz",
+      "Ekujae",
+      "Fola Barun",
+      "Nieford Sharrowsmith",
+      "Nightfall Station",
+      "Old-Man Jatembe",
+      "Sharrowsmith's Exports"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9lzz",
     "price": 3.99,
     "pubcode": "PZOPSS0724",
@@ -961,6 +1374,8 @@
     "locations": [
       "Crown of the World"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1y2",
     "price": 4.99,
     "pubcode": "PZOPSS1003E",
@@ -980,6 +1395,8 @@
     },
     "locations": [
       "Varisia"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01wlm",
     "price": 4.99,
@@ -1002,6 +1419,9 @@
       "Taldor",
       "Railford"
     ],
+    "npcs": [
+      "Osprey"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88sy",
     "price": 3.99,
     "pubcode": "PZOPSS0024E",
@@ -1022,6 +1442,14 @@
     "locations": [
       "Tian Xia",
       "Shokuro"
+    ],
+    "npcs": [
+      "Braid of a Hundred Masters",
+      "Je Tsun",
+      "Li Yao",
+      "Lung Wa",
+      "Nesting Swallow",
+      "Sun Shogun Shokuro Toriaka"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8ow3?Pathfinder-Society-Scenario-313-The-Quest-for-Perfection-Part-III-Defenders-of-Nesting-Swallow",
     "price": 3.99,
@@ -1044,6 +1472,11 @@
       "Absalom",
       "Ivy District"
     ],
+    "npcs": [
+      "Drandle Dreng",
+      "Grandmaster Torch",
+      "Nuar Spiritskin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8bua",
     "price": 3.99,
     "pubcode": "PZOPSS0045E",
@@ -1063,6 +1496,14 @@
     },
     "locations": [
       "Verduran Forest"
+    ],
+    "npcs": [
+      "Ashasar",
+      "Bellis",
+      "Brackett",
+      "Briar Henge",
+      "Falbin",
+      "Jamila Al Shafah"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9y4j",
     "price": 4.99,
@@ -1084,6 +1525,10 @@
     "locations": [
       "Osirion",
       "Darklands"
+    ],
+    "npcs": [
+      "Abraxas",
+      "Norden Balentiir"
     ],
     "paizoUrl": "https://paizo.com/products/btpy89ke",
     "price": 3.99,
@@ -1107,6 +1552,16 @@
       "Blakros Museum",
       "Precipice Quarter"
     ],
+    "npcs": [
+      "Arcanamirium",
+      "Brivit Nae",
+      "Dark Tapestry",
+      "Drandle Dreng",
+      "Forae Logos",
+      "Maren Fuln",
+      "Nigel Aldain",
+      "Ralzeros"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8n0m",
     "price": 3.99,
     "pubcode": "PZOPSS0307E",
@@ -1127,6 +1582,13 @@
     "locations": [
       "Mwangi Expanse"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Drowning Stones",
+      "Osprey",
+      "Sifkesh",
+      "The Saucy Wench"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arb",
     "price": 3.99,
     "pubcode": "PZOPSS0034E",
@@ -1146,6 +1608,8 @@
     },
     "locations": [
       "Gravelands"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01znd",
     "price": 4.99,
@@ -1168,6 +1632,17 @@
       "Irrisen",
       "Whitethrone"
     ],
+    "npcs": [
+      "Blood Ram tribe",
+      "Caggrigar",
+      "Dorianna Ouidda",
+      "Frostfur tribe",
+      "Grandmaster Torch",
+      "Iron Guard",
+      "Melkorka Skur",
+      "Rognvald Skagni",
+      "Sarkorian Prophecy"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtz",
     "price": 3.99,
     "pubcode": "PZOPSS0217E",
@@ -1189,6 +1664,11 @@
       "Absalom",
       "Grand Lodge",
       "Foreign Quarter"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Arcanamirium",
+      "Maren Fuln"
     ],
     "paizoUrl": "https://paizo.com/products/btpy860c",
     "price": 3.99,
@@ -1214,6 +1694,14 @@
     "locations": [
       "Isger"
     ],
+    "npcs": [
+      "Brackett",
+      "Eagle Knights",
+      "Goblinblood Wars",
+      "Hellknights",
+      "Mercenary League/Blackjackets",
+      "Umok"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zjz",
     "price": 4.99,
     "pubcode": "PZOPSS0916E",
@@ -1234,6 +1722,16 @@
     "locations": [
       "Cheliax",
       "Rachikan"
+    ],
+    "npcs": [
+      "Athenaeum",
+      "Benton Grone",
+      "Calisro Benarry",
+      "Hellknights",
+      "Jistka Imperium",
+      "Marianix Karn",
+      "Paracountess Zarta Dralneen",
+      "Primo Ambusta"
     ],
     "paizoUrl": "https://paizo.com/products/btpy93m5/discuss?Pathfinder-Society-Scenario-5-17-Fate-of-the-Fiend",
     "price": 3.99,
@@ -1256,6 +1754,16 @@
       "Varisia",
       "Kaer Maga"
     ],
+    "npcs": [
+      "Blushing Rose",
+      "Feast of Sigils",
+      "Krune",
+      "Krune",
+      "Lissala",
+      "Miss Feathers",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8w",
     "price": 3.99,
     "pubcode": "PZOPSS0410",
@@ -1276,6 +1784,14 @@
     "locations": [
       "Rachikan",
       "Cheliax"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Aspis Consortium",
+      "Benton Grone",
+      "Eldis Grone",
+      "Haliduras Karn",
+      "Jistka Imperium"
     ],
     "paizoUrl": "https://paizo.com/products/btpy88lm",
     "price": 3.99,
@@ -1299,6 +1815,11 @@
       "Absalom",
       "Isle of Kortos"
     ],
+    "npcs": [
+      "Cairnlands",
+      "Plane Of Fire",
+      "Venture-Captain Shevala Iorae"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ch1",
     "price": 3.99,
     "pubcode": "PZOPSS0617",
@@ -1319,6 +1840,40 @@
     "locations": [
       "Pashow",
       "Thuvia"
+    ],
+    "npcs": [
+      "Aida Kernaug",
+      "Aspis Consortium",
+      "Athrax",
+      "Axe-Fixers",
+      "Axion Forge",
+      "Boartusk Twins",
+      "Conference Z",
+      "Emir Guldis",
+      "Eskaravarn",
+      "Farhaana Zadeh",
+      "Garl",
+      "Inphira Kramolag",
+      "Janira Gavix",
+      "Jhandorage Vaulnder Alexayn",
+      "Kernaug Group",
+      "Kitio Aspenthi",
+      "Ko Deschamp",
+      "Korholm Agenda",
+      "Loaralis",
+      "Maralyn Corwins",
+      "Master of Swords Marcos Farabellus",
+      "Prince Zinlo of Aspenthar",
+      "Raphiel Vasheen",
+      "Scroll-Seekers",
+      "Shrade",
+      "Sophron Delgavar",
+      "Suliji Peshar",
+      "Sun Orchid Elixir",
+      "Tarys",
+      "Veronik Locnave",
+      "Visbaron Adelum",
+      "Wall of Names"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9k93",
     "price": 3.99,
@@ -1341,6 +1896,22 @@
       "Varisia",
       "Korvosa"
     ],
+    "npcs": [
+      "Canayven Heidmarch",
+      "Citadel Vraid",
+      "Field-Maralictor Elixia Makorios",
+      "Hellknights",
+      "House Thrune",
+      "Lictor Severs DiViri",
+      "Mistress of Blaes Maidrayne Vox",
+      "Paralictor Myrkrina Delfiero",
+      "Paravicar Acillmar",
+      "Sascha Antif-Arah",
+      "Shoreline Drinkhall",
+      "Tancred Desimire",
+      "Thassilon",
+      "Zarta Dralneen"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0j",
     "price": 3.99,
     "pubcode": "PZOPSS0413",
@@ -1362,6 +1933,11 @@
       "Sevenarches",
       "River Kingdoms"
     ],
+    "npcs": [
+      "Gyronna",
+      "Venture-Captain Shevala Iorae",
+      "Wilewood"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dah",
     "price": 3.99,
     "pubcode": "PZOPSS0050E",
@@ -1381,6 +1957,8 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01wkq",
     "price": 4.99,
@@ -1404,6 +1982,20 @@
       "Ustalav",
       "Hold of Belkzen"
     ],
+    "npcs": [
+      "Argrinyxia",
+      "Boartusk Twins",
+      "Garl",
+      "Knights of Ozem",
+      "Shining Crusade",
+      "Shizuru",
+      "Shrade",
+      "Uscalin Lodge",
+      "Vellumis",
+      "Venture-Captain Ambrus Valsin",
+      "Venture-Captain Shevar Besnik",
+      "Whispering Tyrant"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9oik",
     "price": 4.99,
     "pubcode": "PZOPSS0807E",
@@ -1425,6 +2017,20 @@
       "Lands of the Linnorm Kings",
       "Irrisen"
     ],
+    "npcs": [
+      "Baroness Nadya",
+      "Calisro Benarry",
+      "Dalun",
+      "Hao Jin",
+      "Jadwiga",
+      "King Gutheran",
+      "Naldak",
+      "Naldak's Point",
+      "Sage Jewel",
+      "Sky Key",
+      "Stilyagi",
+      "Whiterook"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ch2",
     "price": 3.99,
     "pubcode": "PZOPSS0618",
@@ -1445,6 +2051,21 @@
     "locations": [
       "Rachikan",
       "Cheliax"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Athenaeum",
+      "Benton Grone",
+      "Drandle Dreng",
+      "Haliduras Karn",
+      "Hellknights",
+      "Jistka Imperium",
+      "Lamashtu",
+      "Marianix Karn",
+      "Nicyruse",
+      "Pellius Thrune",
+      "Primo Ambusta",
+      "Syrasis"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8g1w",
     "price": 3.99,
@@ -1468,6 +2089,20 @@
       "Rosehaven",
       "Isarn"
     ],
+    "npcs": [
+      "Augustyn Naran",
+      "Eliza Petulengro",
+      "Estienne Jacquert",
+      "Final blade",
+      "Gray Gardeners",
+      "Halmont Warrith",
+      "Major Colson Maldris",
+      "Morvius Korkovin",
+      "Sabrine Tularis",
+      "Seven Houses",
+      "Venture-Captain Ambrus Valsin",
+      "Victoria Garvensi"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9zk4",
     "price": 4.99,
     "pubcode": "PZOPSS0920E",
@@ -1489,6 +2124,14 @@
       "Plane of Earth",
       "Lodehollow"
     ],
+    "npcs": [
+      "Brigh",
+      "Grave Treader",
+      "Master of Spells Sorrina Westyr",
+      "Ranginori",
+      "Reyshal ik Jalman",
+      "Untouchable Opal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tl7",
     "price": 4.99,
     "pubcode": "PZOPSS0823E",
@@ -1508,6 +2151,14 @@
     },
     "locations": [
       "Shackles"
+    ],
+    "npcs": [
+      "Calisro Benarry",
+      "Concordance Of Elements",
+      "Cult of the Eye",
+      "Deluged God",
+      "Pride of Aspenthar",
+      "Tempest Cay"
     ],
     "paizoUrl": "https://paizo.com/products/btpya18f",
     "price": 4,
@@ -1530,6 +2181,11 @@
       "Absalom",
       "Ascendant Court"
     ],
+    "npcs": [
+      "Cayden's Hall",
+      "Osprey",
+      "Saphira"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arh",
     "price": 3.99,
     "pubcode": "PZOPSS0040E",
@@ -1550,6 +2206,15 @@
     "locations": [
       "Shackles",
       "Gloomspires"
+    ],
+    "npcs": [
+      "Blood Queen",
+      "Calisro Benarry",
+      "Dark Tapestry",
+      "Ghol Gan",
+      "Makers",
+      "Orb of Stars",
+      "Sempet Sevenfingers"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9986",
     "price": 3.99,
@@ -1572,6 +2237,13 @@
       "Varisia",
       "Janderhoff"
     ],
+    "npcs": [
+      "Droskar",
+      "Grandmaster Torch",
+      "Sandricaan Molnworret",
+      "Sky Citadel",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8we2?Pathfinder-Society-Scenario-4-22-Halls-of-Dwarven-Lore",
     "price": 3.99,
     "pubcode": "PZOPSS0422E",
@@ -1592,6 +2264,11 @@
     "locations": [
       "Absalom",
       "Isle of Kortos"
+    ],
+    "npcs": [
+      "Abraxas, misspelled \"Abraxus\" in this scenario",
+      "Adril Hestram",
+      "The Muted God"
     ],
     "paizoUrl": "https://paizo.com/products/btpy88sz",
     "price": 3.99,
@@ -1624,6 +2301,12 @@
       "Successor States",
       "Tian Xia"
     ],
+    "npcs": [
+      "Changdo",
+      "Cynosure",
+      "Eternal Emperor",
+      "Lung Wa"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9qcb",
     "price": 4.99,
     "pubcode": "PZOPSS0816E",
@@ -1643,6 +2326,13 @@
     },
     "locations": [
       "Gloomspires"
+    ],
+    "npcs": [
+      "Calisro Benarry",
+      "Ghol Gan",
+      "Makers",
+      "Orb of Stars",
+      "Sempet Sevenfingers"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9qca",
     "price": 4.99,
@@ -1669,6 +2359,11 @@
       "Ivy District",
       "Foreign Quarter"
     ],
+    "npcs": [
+      "Dremdhet Salhar",
+      "Pickled Imp",
+      "Venture-Captain Ambrus Valson"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8jor",
     "price": 0,
     "pubcode": "PZOPSSINTRO1E",
@@ -1688,6 +2383,14 @@
     },
     "locations": [
       "Druma"
+    ],
+    "npcs": [
+      "Blackjackets/Mercenary League",
+      "Grandmaster Torch",
+      "Koth'Vaul",
+      "Pasha Muhlia al-Jakri",
+      "Thurl",
+      "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9zk5",
     "price": 4.99,
@@ -1710,6 +2413,16 @@
       "Varisia",
       "Xin-Bakrakhan"
     ],
+    "npcs": [
+      "Acrimony veil",
+      "Alaznist",
+      "Bakrakhan",
+      "Lissala",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch",
+      "Xin-Bakrakhan/Hollow Mountain",
+      "Yamasoth"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0c",
     "price": 3.99,
     "pubcode": "PZOPSS0402",
@@ -1730,6 +2443,17 @@
     "locations": [
       "Kaava Lands",
       "Mwangi Expanse"
+    ],
+    "npcs": [
+      "Ashkurhall",
+      "Aspis Consortium",
+      "Fort Bandu",
+      "Golden Guardian",
+      "Krihirik tribe",
+      "Mother Bogwynne",
+      "Nieford Sharrowsmith",
+      "Sky Key",
+      "Taralu"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9am6",
     "price": 3.99,
@@ -1752,6 +2476,15 @@
       "Zi Ha",
       "Tian Xia"
     ],
+    "npcs": [
+      "Dallo",
+      "Fumeiyoshi",
+      "Ishigo Shiori",
+      "Jujanil",
+      "Ley line",
+      "Mata Ryuu",
+      "Venture-Captain Bakten Shengrah"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9gww",
     "price": 3.99,
     "pubcode": "PZOPSS0708",
@@ -1771,6 +2504,11 @@
     },
     "locations": [
       "Realm of the Mammoth Lords"
+    ],
+    "npcs": [
+      "Blood Ram tribe",
+      "Melkorka Skur",
+      "Rognvald Skagni"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8i12",
     "price": 3.99,
@@ -1792,6 +2530,18 @@
     "locations": [
       "Varisia"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Guaril Karela",
+      "Minderhal",
+      "Runelord Karzoug",
+      "Shoanti",
+      "Storval Plateau",
+      "Storval Rise",
+      "Storval Stairs",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0g?Pathfinder-Society-Scenario-4-04-King-Of-The-Storval-Stairs",
     "price": 3.99,
     "pubcode": "PZOPSS0404",
@@ -1811,6 +2561,12 @@
     },
     "locations": [
       "Absalom"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Azlant",
+      "Flotsam Graveyard",
+      "Goodman Hugen"
     ],
     "paizoUrl": "https://paizo.com/products/btpy884x",
     "price": 3.99,
@@ -1833,6 +2589,14 @@
       "Worldwound",
       "Jormurdun"
     ],
+    "npcs": [
+      "Droskar",
+      "Giarra Fullen",
+      "Master of Scrolls Kreighton Shaine",
+      "Sky Key",
+      "Torag",
+      "Yealek-Vor"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n3",
     "price": 3.99,
     "pubcode": "PZOPSS06EX",
@@ -1853,6 +2617,19 @@
     "locations": [
       "Corentyn",
       "Cheliax"
+    ],
+    "npcs": [
+      "Hellknights",
+      "House Davian",
+      "House Thrune",
+      "Ianareth Alazario",
+      "Lannavia Davian",
+      "Loyalty Day",
+      "Master of Swords Marcos Farabellus",
+      "Museum of History",
+      "Tamrin Credence",
+      "Wicked Fork",
+      "Zefiro Balinger"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9huv",
     "price": 3.99,
@@ -1877,6 +2654,17 @@
       "Oppara",
       "Canal Row"
     ],
+    "npcs": [
+      "Glorymane",
+      "Grand Prince Stavian III",
+      "Kitharodian Academy",
+      "Lady Gloriana Morilla",
+      "Lion Blades",
+      "Mendevian Crusades",
+      "Muesello",
+      "Princess Eutropia",
+      "Shining Crusade"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy933p",
     "price": 3.99,
     "pubcode": "PZOPSS0511E",
@@ -1897,6 +2685,9 @@
     "locations": [
       "Bitter End",
       "Geb"
+    ],
+    "npcs": [
+      "Adril Hestram"
     ],
     "paizoUrl": "https://paizo.com/products/btpy88t0",
     "price": 3.99,
@@ -1919,6 +2710,22 @@
       "Kharijite",
       "Cheliax"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Athenaeum",
+      "Everwar",
+      "Goblinblood Wars",
+      "Hellknights",
+      "House Deckland",
+      "Ianareth Alazario",
+      "Imperial Ministry of Historical Accuracy",
+      "Jistka Imperium",
+      "Khari",
+      "Mayor Marsiol Giovenci",
+      "Museum of History",
+      "Tamrin Credence",
+      "Zefiro Balinger"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hux",
     "price": 3.99,
     "pubcode": "PZOPSS0716",
@@ -1939,6 +2746,15 @@
     "locations": [
       "Mwangi Expanse",
       "Dokeran"
+    ],
+    "npcs": [
+      "Dokeran/Dokaren",
+      "Gorilla King/Ruthazek",
+      "Kibwe",
+      "Lake Ocota",
+      "Song of Extinction",
+      "Tyruwat",
+      "Zon Kuthon"
     ],
     "paizoUrl": "https://paizo.com/products/btpy89hc",
     "price": 3.99,
@@ -1963,6 +2779,16 @@
       "Blakros Museum",
       "Wise Quarter"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Angazhan",
+      "Blakros Family",
+      "Book of the Damned",
+      "Gorilla King/Ruthazek",
+      "Jambala Jaeg",
+      "Nigel Aldain",
+      "Ralzeros"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8530?Pathfinder-Society-Scenario-5-Mists-of-Mwangi",
     "price": 3.99,
     "pubcode": "PZOPSS0005E",
@@ -1982,6 +2808,14 @@
     },
     "locations": [
       "Qadira"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Empire of Kelesh",
+      "Jamila Al Shafah",
+      "Lamashtu",
+      "Silken Way",
+      "Targos Min-Katheer"
     ],
     "paizoUrl": "https://paizo.com/products/btpy84k2?Pathfinder-Society-Scenario-3-Murder-on-the-Silken-Caravan",
     "price": 3.99,
@@ -2004,6 +2838,9 @@
       "Arcadian Ocean",
       "Mordant Spire"
     ],
+    "npcs": [
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtv",
     "price": 3.99,
     "pubcode": "PZOPSS0213E",
@@ -2025,6 +2862,13 @@
       "Varisia",
       "Magnimar"
     ],
+    "npcs": [
+      "Dockway",
+      "Dorianna Ouidda",
+      "Maiveer Sloan",
+      "Ordellia",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0k",
     "price": 3.99,
     "pubcode": "PZOPSS0414",
@@ -2044,6 +2888,13 @@
     },
     "locations": [
       "Sodden Lands"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Oagon",
+      "Saoc Brethren",
+      "Serving Your Hunger",
+      "Urgathoa"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8arf",
     "price": 3.99,
@@ -2067,6 +2918,18 @@
       "Grand Lodge",
       "Foreign Quarter"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Eliza Petulengro",
+      "Maze of the Open Road",
+      "Osprey",
+      "Red Raven",
+      "Shemis",
+      "Venture-Captain Eddington Keel",
+      "Venture-Captain Kyalla",
+      "Venture-Captain Odrian",
+      "Venture-Captain Teppin Montrose"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtt",
     "price": 3.99,
     "pubcode": "PZOPSS0222E",
@@ -2086,6 +2949,14 @@
     },
     "locations": [
       "Absalom"
+    ],
+    "npcs": [
+      "Corners of Spheres",
+      "Dark Tapestry",
+      "Nigel Aldain",
+      "Paracountess Zarta Dralneen",
+      "Ralzeros",
+      "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9zk0",
     "price": 4.99,
@@ -2108,6 +2979,9 @@
       "Daggermark",
       "River Kingdoms"
     ],
+    "npcs": [
+      "Venture-Captain Istivil Bosk"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1y0",
     "price": 4.99,
     "pubcode": "PZOPSS1001E",
@@ -2128,6 +3002,15 @@
     "locations": [
       "Wanshou",
       "Tian Xia"
+    ],
+    "npcs": [
+      "Lung Wa",
+      "Shiyo Takarak",
+      "Sunken Valley",
+      "Venture-Captain Amara Li",
+      "Way Of The Kirin",
+      "Xidao",
+      "Zhanagorr"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9am5",
     "price": 3.99,
@@ -2152,6 +3035,16 @@
       "Kaoling",
       "Lingshen"
     ],
+    "npcs": [
+      "Braid of a Hundred Masters",
+      "Je Tsun",
+      "Li Yao",
+      "Lung Wa",
+      "Mutabi-qi",
+      "Nesting Swallow",
+      "Shaguang",
+      "Sky Spirits"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8ow1",
     "price": 3.99,
     "pubcode": "PZOPSS0311E",
@@ -2172,6 +3065,8 @@
     "locations": [
       "Gloomspires",
       "Leng"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01x4r",
     "price": 4.99,
@@ -2194,6 +3089,20 @@
       "Bandu Hills",
       "Sargava"
     ],
+    "npcs": [
+      "Amersanus Valacosti",
+      "Ashkurhall",
+      "Aspis Consortium",
+      "Aya Allahe",
+      "Fort Bandu",
+      "Golden Guardian",
+      "Krihirik tribe",
+      "Nieford Sharrowsmith",
+      "Praetor Sylien",
+      "Sharrowsmith's Exports",
+      "Sky Key",
+      "Taralu"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9am4",
     "price": 3.99,
     "pubcode": "PZOPSS0612",
@@ -2213,6 +3122,13 @@
     },
     "locations": [
       "Brevoy"
+    ],
+    "npcs": [
+      "Choral the Conqueror",
+      "House Lebeda",
+      "House Orlovsky",
+      "House Rogarvia",
+      "House Surtova"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9tlc",
     "price": 4.99,
@@ -2235,6 +3151,12 @@
       "Menador Mountains",
       "Cheliax"
     ],
+    "npcs": [
+      "Hellknights",
+      "Paracountess Zarta Dralneen",
+      "Severed Hand tribe",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9m00",
     "price": 3.99,
     "pubcode": "PZOPSS0725",
@@ -2255,6 +3177,8 @@
     "locations": [
       "Quantium",
       "Nex"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01zna",
     "price": 4.99,
@@ -2277,6 +3201,11 @@
       "Katheer",
       "Qadira"
     ],
+    "npcs": [
+      "Moloch",
+      "Targos Min-Katheer",
+      "Venture-Captain Osretia Cassomiran"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89hb",
     "price": 3.99,
     "pubcode": "PZOPSS0027E",
@@ -2298,6 +3227,17 @@
       "Pezzack",
       "Cheliax"
     ],
+    "npcs": [
+      "Academy of Applied Magic",
+      "Amalia Wraxton",
+      "Auntie's",
+      "Calisro Benarry",
+      "Gold Street",
+      "Inkwell",
+      "Madge's Noodle Cart",
+      "Olandil",
+      "Throne Defiant"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu1",
     "price": 3.99,
     "pubcode": "PZOPSS0622",
@@ -2317,6 +3257,18 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Desna",
+      "Diguo-Dashu",
+      "Hao Jin",
+      "Lamashtu",
+      "Lao Shu Po",
+      "Lung Wa",
+      "Round Mountain",
+      "Xiangnuer"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8qq2?Pathfinder-Society-Scenario-322-The-Rats-of-Round-Mountain-Part-II-Pagoda-of-the-Rat",
     "price": 3.99,
@@ -2339,6 +3291,14 @@
       "River Kingdoms",
       "Protectorate of the Black Marquis"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Deadbridge",
+      "Mazmezz",
+      "Pirate Pact",
+      "The Black Marquis",
+      "Venture-Captain Istivil Bosk"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy87or",
     "price": 3.99,
     "pubcode": "PZOPSS0017E",
@@ -2359,6 +3319,17 @@
     "locations": [
       "Rahadoum",
       "Azir"
+    ],
+    "npcs": [
+      "Blackfire Adepts",
+      "Diamond Sage",
+      "Eando Kline",
+      "Jistka Imperium",
+      "Laws of Man",
+      "Pure Legion",
+      "Riftwardens",
+      "Tahonikepsu",
+      "Venture-Captain Obo"
     ],
     "paizoUrl": "https://paizo.com/products/btpy91te",
     "price": 3.99,
@@ -2381,6 +3352,13 @@
       "Varisia",
       "Stony Mountains"
     ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Lissala",
+      "Shoanti",
+      "Thassilon"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0b",
     "price": 3.99,
     "pubcode": "PZOPSS0326",
@@ -2401,6 +3379,20 @@
     "locations": [
       "Varisia",
       "Korvosa"
+    ],
+    "npcs": [
+      "Groetus",
+      "Harrow",
+      "House Foxglove",
+      "Kendall Amphitheater",
+      "Madreki Gael",
+      "Old Korvosa",
+      "South Shore",
+      "The Frisky Unicorn",
+      "The Green Market",
+      "Venture-Captain Sheila Heidmarch",
+      "Yellow Prophet",
+      "Zeeva Foxglove"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9mba",
     "price": 4.99,
@@ -2423,6 +3415,28 @@
     "locations": [
       "Varisia"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Basaale Minvandu",
+      "Canayven Heidmarch",
+      "Cathedral of Abadar",
+      "Council of Ushers",
+      "Ernst Landis",
+      "Field-Maralictor Elixia Makorios",
+      "Golemworks",
+      "Heidmarch Manor",
+      "Hellknights",
+      "Jorston Droaeb",
+      "Lissala",
+      "Maiveer Sloan",
+      "Miior Duvanti",
+      "Proctor Jyronn Imikar",
+      "Runecarved Key",
+      "Thassilon",
+      "Toth Bhreacher",
+      "Venture-Captain Sheila Heidmarch",
+      "Zimandi Kaddren"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0d",
     "price": 3.99,
     "pubcode": "PZOPSS0400E",
@@ -2442,6 +3456,18 @@
     },
     "locations": [
       "Osirion"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Grandmaster Torch",
+      "Jeweled Sages",
+      "Kafar",
+      "Lamashtu",
+      "Nefti",
+      "Pillars Of The Sun",
+      "Sage Jewel",
+      "Song Pharaoh",
+      "Tahonikepsu"
     ],
     "paizoUrl": "https://paizo.com/products/btpy93m3",
     "price": 3.99,
@@ -2464,6 +3490,14 @@
       "Plane of Air",
       "Port Eclipse"
     ],
+    "npcs": [
+      "Ashasar",
+      "Concordance Of Elements",
+      "Hshurha",
+      "Norden Balentiir",
+      "Ranginori",
+      "Zephyr of the Forgotten Sun"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tl8",
     "price": 4.99,
     "pubcode": "PZOPSS0824E",
@@ -2485,6 +3519,12 @@
       "Galt",
       "Rosehaven"
     ],
+    "npcs": [
+      "Eliza Petulengro",
+      "Gyronna",
+      "Shelyn",
+      "Woodsedge Lodge"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9oij",
     "price": 4.99,
     "pubcode": "PZOPSS0806E",
@@ -2504,6 +3544,8 @@
     },
     "locations": [
       "Lastwall"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btpzgd7m",
     "price": 4.99,
@@ -2527,6 +3569,10 @@
       "Nagajor",
       "Kullan Dei mountains"
     ],
+    "npcs": [
+      "Nalinivati",
+      "Venture-Captain Amara Li"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpx",
     "price": 3.99,
     "pubcode": "PZOPSS0317",
@@ -2548,6 +3594,17 @@
       "Arl",
       "Akiton"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Condria",
+      "Eliza Petulengro",
+      "Maze of the Open Road",
+      "Natalya Yagevna",
+      "Red Raven",
+      "Shemis",
+      "Skelg",
+      "Woodsedge Lodge"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1r",
     "price": 3.99,
     "pubcode": "PZOPSS0205E",
@@ -2567,6 +3624,15 @@
     },
     "locations": [
       "Rahadoum"
+    ],
+    "npcs": [
+      "Ahriman",
+      "Amenopheus, the Sapphire Sage",
+      "Citadel of the Weary Sky",
+      "Concordance Of Elements",
+      "Jistka Imperium",
+      "Sage Jewel",
+      "Venture-Captain Obo"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9qcc",
     "price": 4.99,
@@ -2590,6 +3656,22 @@
       "Edme",
       "Galt"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Cale the Calistrian",
+      "Condria",
+      "Durvin Gest",
+      "Eliza Petulengro",
+      "Maze of the Open Road",
+      "Osprey",
+      "Pale Maiden",
+      "Red Raven",
+      "Shemis",
+      "Skelg",
+      "Venture-Captain Eddington Keel",
+      "Venture-Captain Kyalla",
+      "Woodsedge Lodge"
+    ],
     "paizoUrl": "https://paizo.com/products/2Fbtpy8bub",
     "price": 7.99,
     "pubcode": "PZOPSS0046E",
@@ -2610,6 +3692,15 @@
     "locations": [
       "Mwangi Expanse",
       "Terwa Uplands"
+    ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Azlant Ridge",
+      "Azlanti monolith",
+      "Gorilla King/Ruthazek",
+      "Juliet Dias",
+      "Raimondo Scevola"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8g1o",
     "price": 3.99,
@@ -2632,6 +3723,14 @@
       "Chesed",
       "Numeria"
     ],
+    "npcs": [
+      "A Thread of Silver",
+      "Cathedral of the Lawgiver",
+      "Holgarin Smine",
+      "Sky Key",
+      "Technic League",
+      "Twilight Talons"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ctx",
     "price": 3.99,
     "pubcode": "PZOPSS0620",
@@ -2653,6 +3752,11 @@
       "Varisia",
       "Magnimar"
     ],
+    "npcs": [
+      "Heidmarch Manor",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r0e",
     "price": 3.99,
     "pubcode": "PZOPSS0401",
@@ -2673,6 +3777,13 @@
     "locations": [
       "Varisia",
       "Riddleport"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Dorianna Ouidda",
+      "Grandmaster Torch",
+      "Guaril Karela",
+      "Thassilon"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8we3?Pathfinder-Society-Scenario-4-23-Rivalrys-End",
     "price": 3.99,
@@ -2696,6 +3807,13 @@
       "Absalom",
       "Isle of Kortos"
     ],
+    "npcs": [
+      "Ambrus Valsin",
+      "Cairnlands",
+      "Nexus crystal",
+      "Tancred Desimire",
+      "Volzaras"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8wrx",
     "price": 3.99,
     "pubcode": "PZOPSS0400-3E",
@@ -2717,6 +3835,12 @@
       "Bonekeep",
       "Absalom",
       "Isle of Kortos"
+    ],
+    "npcs": [
+      "Cairnlands",
+      "Master of Scrolls Kreighton Shaine",
+      "Tancred Desimire",
+      "Volzaras"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8xkj",
     "price": 3.99,
@@ -2740,6 +3864,10 @@
       "Absalom",
       "Isle of Kortos"
     ],
+    "npcs": [
+      "Cairnlands",
+      "Master of Scrolls Kreighton Shaine"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97st",
     "price": 3.99,
     "pubcode": "PZOPSS0500-2E",
@@ -2761,6 +3889,21 @@
       "Merab",
       "Thuvia"
     ],
+    "npcs": [
+      "Ahriman",
+      "Amenopheus, the Sapphire Sage",
+      "Aryana Tahari",
+      "Dhiara, the Topaz Sage",
+      "Grandmaster Torch",
+      "Jeweled Sages",
+      "Night Plague",
+      "Pharaoh of Forgotten Plagues",
+      "Sage Jewel",
+      "Sinuhotep",
+      "Tahonikepsu",
+      "Usij",
+      "Venture-Captain Diya Akan"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9wer",
     "price": 4.99,
     "pubcode": "PZOPSS0907E",
@@ -2780,6 +3923,19 @@
     },
     "locations": [
       "Osirion"
+    ],
+    "npcs": [
+      "Amenopheus, the Sapphire Sage",
+      "Aspis Consortium",
+      "Grandmaster Torch",
+      "Hestia Themis",
+      "Jeweled Sages",
+      "Kafar",
+      "Nefti",
+      "Norden Balentiir",
+      "Pillars Of The Sun",
+      "Sage Jewel",
+      "Tahonikepsu"
     ],
     "paizoUrl": "https://paizo.com/products/btpy93m4",
     "price": 3.99,
@@ -2801,6 +3957,15 @@
     "locations": [
       "Mendev",
       "Dawnton"
+    ],
+    "npcs": [
+      "Dalton Krunne",
+      "Inexora Vexidyre",
+      "Jorsal",
+      "Mendevian Crusades",
+      "Shax",
+      "Tancred Desimire",
+      "Tovril"
     ],
     "paizoUrl": "https://paizo.com/products/btpy96i8",
     "price": 3.99,
@@ -2824,6 +3989,21 @@
       "Drownyard",
       "Precipice Quarter"
     ],
+    "npcs": [
+      "Arboretum Arcanis",
+      "Cassiel Marlinchen",
+      "Deris Marlinchen",
+      "Eagle Knights",
+      "Grishan Maldris",
+      "Guild of Wonders",
+      "Harbingers of Fate",
+      "House Deckland",
+      "Junia Dacilane",
+      "Lion Blades",
+      "Major Colson Maldris",
+      "Miranda Dacilane",
+      "Venture-Captain Drandle Dreng"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9g82",
     "price": 3.99,
     "pubcode": "PZOPSS0705",
@@ -2843,6 +4023,12 @@
     },
     "locations": [
       "Iobaria"
+    ],
+    "npcs": [
+      "Jorsal",
+      "Mishkar",
+      "Norinor",
+      "Sarkoris"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9zk2",
     "price": 4.99,
@@ -2865,6 +4051,25 @@
       "Plane of Air",
       "Armun Kelisk"
     ],
+    "npcs": [
+      "Ainsi tribe",
+      "Aridiea",
+      "Ashasar",
+      "Atreia",
+      "Chalissier",
+      "Concordance Of Elements",
+      "Goanron Triumvirate",
+      "Hshurha",
+      "Ini-Kherit",
+      "Jairo the Enlightener",
+      "Jamila Al Shafah",
+      "Kelizandri",
+      "Lysianassa",
+      "Norden Balentiir",
+      "Ranginori",
+      "Sairazul",
+      "Untouchable Opal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9p8x",
     "price": 4.99,
     "pubcode": "PZOPSS0810E",
@@ -2886,6 +4091,35 @@
       "Cheliax",
       "Ostenso"
     ],
+    "npcs": [
+      "Aida Kernaug",
+      "Aspis Consortium",
+      "Athrax",
+      "Axe-Fixers",
+      "Boartusk Twins",
+      "Conference Z",
+      "Eskaravarn",
+      "Garl",
+      "Iaovin Ratarion",
+      "Inphira Kramolag",
+      "Janira Gavix",
+      "Jhandorage Vaulnder Alexayn",
+      "Joliryn",
+      "Kernaug Group",
+      "Ko Deschamp",
+      "Korholm Agenda",
+      "Maralyn Corwins",
+      "Master of Swords Marcos Farabellus",
+      "Raphiel Vasheen",
+      "Scroll-Seekers",
+      "Shrade",
+      "Sophron Delgavar",
+      "Suliji Peshar",
+      "Tarys",
+      "Venture-Captain Ambrus Valsin",
+      "Veronik Locnave",
+      "Visbaron Adelum"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9m02",
     "price": 3.99,
     "pubcode": "PZOPSS0729",
@@ -2905,6 +4139,24 @@
     },
     "locations": [
       "Nidal"
+    ],
+    "npcs": [
+      "322",
+      "Amersanus Valacosti",
+      "Aspis Consortium",
+      "Conference Z",
+      "Iaovin Ratarion",
+      "Joliryn",
+      "Kafar",
+      "Korholm Agenda",
+      "Lissala",
+      "Madreki Gael",
+      "Maiveer Sloan",
+      "Nefti",
+      "Rataji",
+      "Shohiraj",
+      "Zon Kuthon",
+      "Zurnzal"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9lzy",
     "price": null,
@@ -2928,6 +4180,30 @@
       "Grand Lodge",
       "Foreign Quarter"
     ],
+    "npcs": [
+      "322",
+      "Aglorn Desimire",
+      "Aram Zey",
+      "Aspis Consortium",
+      "Durvin Gest",
+      "Goblinblood Wars",
+      "Grand Convocation",
+      "Janira Gavix",
+      "Joliryn",
+      "Kitio Aspenthi",
+      "Korholm Agenda",
+      "Marnarius",
+      "Master of Scrolls Kreighton Shaine",
+      "Master of Swords Marcos Farabellus",
+      "Myrosype",
+      "Rataji",
+      "Selmius Foster",
+      "Shohiraj",
+      "Sky Key",
+      "Suliji Peshar",
+      "Wall of Names",
+      "Zurnzal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu0",
     "price": 3.99,
     "pubcode": "PZOPSS0698",
@@ -2948,6 +4224,12 @@
     "locations": [
       "Varisia",
       "Riddleport"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Dorianna Ouidda",
+      "Lissala",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8u8t",
     "price": 3.99,
@@ -2970,6 +4252,11 @@
       "Absalom",
       "Puddles",
       "Ivy District"
+    ],
+    "npcs": [
+      "Drandle Dreng",
+      "Sewer Dragon tribe",
+      "The Puddles"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8kac",
     "price": 3.99,
@@ -2994,6 +4281,10 @@
       "Foreign Quarter",
       "Ascendant Court"
     ],
+    "npcs": [
+      "Black Mask",
+      "Drandle Dreng"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1q",
     "price": 3.99,
     "pubcode": "PZOPSS0204E",
@@ -3014,6 +4305,14 @@
     "locations": [
       "Taldor",
       "Cassomir"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Groetus",
+      "Hestia Themis",
+      "Kafar",
+      "Nefti",
+      "Teppish family"
     ],
     "paizoUrl": "https://paizo.com/products/btpy89kb",
     "price": 3.99,
@@ -3036,6 +4335,11 @@
       "Kwanlai",
       "Hisuikarasu"
     ],
+    "npcs": [
+      "Shepherd of Apotheosis",
+      "Venture-Captain Amara Li",
+      "Zepha"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9y4g",
     "price": 4.99,
     "pubcode": "PZOPSS0912E",
@@ -3055,6 +4359,8 @@
     },
     "locations": [
       "Ustalav"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01yz1",
     "price": 9.99,
@@ -3078,6 +4384,19 @@
       "Grand Lodge",
       "Foreign Quarter"
     ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Cage of Soul Echoes",
+      "Durvin Gest",
+      "Grand Convocation",
+      "Laribold Croome",
+      "Master of Scrolls Kreighton Shaine",
+      "Master of Swords Marcos Farabellus",
+      "Sky Key",
+      "Venture-Captain Ambrus Valsin",
+      "Venture-Captain Janiff Ivulxtin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ctz",
     "price": 3.99,
     "pubcode": "PZOPSS0697",
@@ -3099,6 +4418,19 @@
     "locations": [
       "Mendev",
       "Nerosyan"
+    ],
+    "npcs": [
+      "Cruciform Cathedral",
+      "Giarra Fullen",
+      "House Deckland",
+      "Jorsal",
+      "Master of Scrolls Kreighton Shaine",
+      "Mendevian Crusades",
+      "Queen Galfrey",
+      "Starrise Spire",
+      "Tancred Desimire",
+      "Thurl",
+      "Wardstone"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8xki",
     "price": 3.99,
@@ -3123,6 +4455,14 @@
       "Mwangi Expanse",
       "Sargava"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Boali",
+      "Boalisi",
+      "Ghol Gan",
+      "Parveen",
+      "Venture-Captain Finze Bellaugh"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9x0u",
     "price": 4.99,
     "pubcode": "PZOPSS0910E",
@@ -3143,6 +4483,16 @@
     "locations": [
       "Puddles",
       "Absalom"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Black Echelon",
+      "Cairnlands",
+      "Grandmaster Torch",
+      "Silent Tide",
+      "The Inward Facing Circle",
+      "The Puddles",
+      "Yargos Gill"
     ],
     "paizoUrl": "https://paizo.com/products/btpy84k0?Pathfinder-Society-Scenario-1-Silent-Tide",
     "price": 3.99,
@@ -3165,6 +4515,17 @@
       "Uringen",
       "River Kingdoms"
     ],
+    "npcs": [
+      "Cerotious",
+      "Embeth Travelers",
+      "First World",
+      "Holgarin Smine",
+      "Jamel Visser",
+      "Lady Aurelia Ogden",
+      "Mather Nithra",
+      "Rhona Ambros",
+      "Sky Key"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu4",
     "price": 3.99,
     "pubcode": "PZOPSS0702",
@@ -3185,6 +4546,10 @@
     "locations": [
       "Absalom",
       "Isle of Kortos"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Aspis Consortium"
     ],
     "paizoUrl": "https://paizo.com/products/btpy884w",
     "price": 3.99,
@@ -3207,6 +4572,13 @@
       "Absalom",
       "Puddles",
       "Coins"
+    ],
+    "npcs": [
+      "Anilah Salhar",
+      "Dremdhet Salhar",
+      "Misery Row",
+      "The Puddles",
+      "Venture-Captain Alissa Moldreserva"
     ],
     "paizoUrl": "https://paizo.com/products/btpy85p4",
     "price": 3.99,
@@ -3231,6 +4603,17 @@
       "Coins",
       "Docks"
     ],
+    "npcs": [
+      "Aglorn Desimire",
+      "Aram Zey",
+      "Aspis Consortium",
+      "Darchana Madinani",
+      "Misery Row",
+      "Pasha Muhlia al-Jakri",
+      "Rilla Lavon",
+      "Tancred Desimire",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9985",
     "price": 3.99,
     "pubcode": "PZOPSS0605",
@@ -3252,6 +4635,8 @@
       "Sedeq",
       "Qadira"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yyy",
     "price": 4.99,
     "pubcode": "PZOPSS1021E",
@@ -3271,6 +4656,12 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
+      "Aglorn Desimire",
+      "Aspis Consortium",
+      "Hao Jin",
+      "Muckmouth tribe"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8ow4",
     "price": 3.99,
@@ -3294,6 +4685,10 @@
       "Absalom",
       "Docks"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Flotsam Graveyard"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy89kd",
     "price": 3.99,
     "pubcode": "PZOPSS0031E",
@@ -3314,6 +4709,13 @@
     "locations": [
       "Absalom",
       "Eastgate"
+    ],
+    "npcs": [
+      "Gilltown",
+      "Ollysta Zadrian",
+      "Venture-Captain Amara Li",
+      "Xidao",
+      "Yargos Gill"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8lqw",
     "price": 3.99,
@@ -3337,6 +4739,10 @@
       "Sardis Township",
       "Porthmos Prison"
     ],
+    "npcs": [
+      "Drandle Dreng",
+      "The Inward Facing Circle"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy86nh",
     "price": 3.99,
     "pubcode": "PZOPSS0012E",
@@ -3356,6 +4762,15 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
+      "Aglorn Desimire",
+      "Aldinach",
+      "Areshkagal",
+      "Aspis Consortium",
+      "Diamond Gate",
+      "Lamashtu",
+      "Master of Blades Marcos Farabellus"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8r0a?Pathfinder-Society-Scenario-3-25-Storming-the-Diamond-Gate",
     "price": 3.99,
@@ -3377,6 +4792,16 @@
     "locations": [
       "Hao Jin Tapestry"
     ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Droskar",
+      "Hao Jin",
+      "Jiraku",
+      "Naldak's Point",
+      "Sky Key",
+      "Tanbaru"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cty",
     "price": 3.99,
     "pubcode": "PZOPSS0621",
@@ -3396,6 +4821,8 @@
     },
     "locations": [
       "Axis"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01wln",
     "price": 4.99,
@@ -3418,6 +4845,17 @@
       "Whistledown",
       "Varisia"
     ],
+    "npcs": [
+      "Akila",
+      "Collapsed Halls/Halls of Zuberi",
+      "Everwar",
+      "Kamilah",
+      "Khalfani Zuberi",
+      "Meskhenet",
+      "Necropolis Of The Faithful",
+      "Norden Balentiir",
+      "Sun Orchid Elixir"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8bu9",
     "price": 3.99,
     "pubcode": "PZOPSS0044E",
@@ -3438,6 +4876,15 @@
     "locations": [
       "Osirion",
       "Tar Kuata"
+    ],
+    "npcs": [
+      "Dhiara, the Topaz Sage",
+      "Jeweled Sages",
+      "Norden Balentiir",
+      "Ouat",
+      "Sage Jewel",
+      "Sky Key",
+      "Tahonikepsu"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9ch3",
     "price": 3.99,
@@ -3460,6 +4907,8 @@
       "Varisia",
       "Magnimar"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btpzgd7n",
     "price": 4.99,
     "pubcode": "PZOPSS1005E",
@@ -3480,6 +4929,8 @@
     "locations": [
       "Absalom"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01znb",
     "price": 4.99,
     "pubcode": "PZOPFS0101E",
@@ -3499,6 +4950,9 @@
     },
     "locations": [
       "Katapesh"
+    ],
+    "npcs": [
+      "Venture-Captain Rafmeln"
     ],
     "paizoUrl": "https://paizo.com/products/btpy87j9",
     "price": 3.99,
@@ -3521,6 +4975,14 @@
       "Aspodell Mountains",
       "Andoran"
     ],
+    "npcs": [
+      "Brackett",
+      "Candlestone Caverns",
+      "Gallery of Wonders/Hall of Wonders",
+      "Lamashtu",
+      "Tar Khadurrm",
+      "Wystorn Telfyr"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8are",
     "price": 3.99,
     "pubcode": "PZOPSS0037E",
@@ -3541,6 +5003,19 @@
     "locations": [
       "Absalom",
       "Dimension of Dreams"
+    ],
+    "npcs": [
+      "322",
+      "Aram Zey",
+      "Aslynn",
+      "Aspis Consortium",
+      "Bureau of Criers/\"The Criers\"",
+      "Collection Esoterica",
+      "First World",
+      "Forae Logos",
+      "Master of Scrolls Kreighton Shaine",
+      "Nigel Aldain",
+      "Ralzeros"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9gwx",
     "price": 3.99,
@@ -3563,6 +5038,26 @@
       "Absalom",
       "Pariol Island"
     ],
+    "npcs": [
+      "Alexander Bedard",
+      "Arastrax",
+      "Blakros Family",
+      "Damian Kastner",
+      "Eleanir Blakros",
+      "Gloriana Morilla",
+      "Grand Convocation",
+      "Hamaria Blakros",
+      "Hellknights",
+      "Lictor Toulon Vidoc",
+      "Michellia Blakros",
+      "Nigel Aldain",
+      "Olaf Kvaran",
+      "Onyx Alliance",
+      "Paracountess Zarta Dralneen",
+      "Shadow Plane",
+      "Tancred Desimire",
+      "Trade Prince Aaqir al'Hakam"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8v",
     "price": 3.99,
     "pubcode": "PZOPSS0409",
@@ -3582,6 +5077,16 @@
     },
     "locations": [
       "Bloodcove"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Fola Barun",
+      "Guaril Karela",
+      "Kaddodi",
+      "Malika Fenn",
+      "Parveen",
+      "Ungala",
+      "Vanji Prospector's Guild"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9y4k",
     "price": 4.99,
@@ -3604,6 +5109,17 @@
       "Bloodcove",
       "Mwangi Expanse"
     ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Azlant Ridge",
+      "Gorilla King/Ruthazek",
+      "House Cartahegn",
+      "Malika Fenn",
+      "Novaria",
+      "Raimondo Scevola",
+      "Ruthazek"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1n",
     "price": 3.99,
     "pubcode": "PZOPSS0201E",
@@ -3624,6 +5140,21 @@
     "locations": [
       "Magnimar",
       "Varisia"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Bronze House",
+      "Council of Ushers",
+      "Golemworks",
+      "Grand Convocation",
+      "Korholm Agenda",
+      "Lord Hobart Deverin",
+      "Lord-Mayor Haldmeer Grobaras",
+      "Maiveer Sloan",
+      "Peacock Spirit",
+      "Runecarved Key",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9cu5",
     "price": 3.99,
@@ -3646,6 +5177,10 @@
       "Varisia",
       "Mindspin Mountains"
     ],
+    "npcs": [
+      "Osprey",
+      "Venture-Captain Kyalla"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtw",
     "price": 3.99,
     "pubcode": "PZOPSS0214E",
@@ -3666,6 +5201,16 @@
     "locations": [
       "Plane of Fire",
       "Zjarra"
+    ],
+    "npcs": [
+      "Aaqir al'Hakam",
+      "Esmayl Ibn Qaradi",
+      "Fossilblight",
+      "Guaril Karela",
+      "Plane Of Fire",
+      "Qalkami Mishalq",
+      "Ranginori",
+      "Untouchable Opal"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9p8w",
     "price": null,
@@ -3688,6 +5233,10 @@
       "Meraz Desert",
       "Qadira"
     ],
+    "npcs": [
+      "Dennel Hamshanks",
+      "Moloch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arg",
     "price": 3.99,
     "pubcode": "PZOPSS0039E",
@@ -3708,6 +5257,18 @@
     "locations": [
       "Absalom",
       "Isle of Kortos"
+    ],
+    "npcs": [
+      "Aroden",
+      "Confirmation",
+      "Durvin Gest",
+      "Gregaro Voth",
+      "History and Future of Humanity",
+      "Janira Gavix",
+      "Master of Scrolls Kreighton Shaine",
+      "Master of Swords Marcos Farabellus",
+      "Selmius Foster",
+      "Zythrustianax"
     ],
     "paizoUrl": "https://paizo.com/products/btpy92ci?Pathfinder-Society-Scenario-5-08-The-Confirmation",
     "price": 3.99,
@@ -3730,6 +5291,13 @@
       "Diobel",
       "Absalom"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Kortos Consortium",
+      "Lord Avid Arnsen",
+      "Magali Delroya",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hgx",
     "price": 3.99,
     "pubcode": "PZOPSS0710",
@@ -3748,6 +5316,8 @@
       "min": 1
     },
     "locations": [
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btpy9mbe",
     "price": 4.99,
@@ -3770,6 +5340,12 @@
       "Qadira",
       "Qaharid"
     ],
+    "npcs": [
+      "Esmayl Ibn Qaradi",
+      "Roidiran",
+      "Sunwrought Festival",
+      "White Feather"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tla",
     "price": 4.99,
     "pubcode": "PZOPSS0901E",
@@ -3790,6 +5366,13 @@
     "locations": [
       "Varisia",
       "Palin's Cove"
+    ],
+    "npcs": [
+      "Kormiggon Sussworth",
+      "Krune",
+      "Lissala",
+      "Vandiana",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8u8u",
     "price": 3.99,
@@ -3812,6 +5395,15 @@
       "Varisia",
       "Riddleport"
     ],
+    "npcs": [
+      "Boss Croat",
+      "Cyphergate",
+      "Elias Tammerhawk",
+      "Gaston Cromarcky",
+      "Lixy Parmenter",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpw",
     "price": 3.99,
     "pubcode": "PZOPSS0415E",
@@ -3833,6 +5425,15 @@
       "Taldor",
       "Oppara"
     ],
+    "npcs": [
+      "Chalfon Dalsine",
+      "Dorianna Ouidda",
+      "Jacquo Dalsine",
+      "Kormiggon Sussworth",
+      "Lion Blades",
+      "Muesello",
+      "Pasha Muhlia al-Jakri"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8i14",
     "price": 3.99,
     "pubcode": "PZOPSS0221E",
@@ -3853,6 +5454,20 @@
     "locations": [
       "Karcau",
       "Ustalav"
+    ],
+    "npcs": [
+      "Aureolyte",
+      "Cloisoi Theater",
+      "Countess Sasandra Livgrace",
+      "Eylusia Building",
+      "Graidmere Swamp",
+      "Miregrold Manor",
+      "Sage Jewel",
+      "Tahonikepsu",
+      "Venture-Captain Basia Kalistoff",
+      "Venture-Captain Skeldon Miregrold",
+      "Zeffiro Lesiege",
+      "Zoathrias"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9cu2",
     "price": 3.99,
@@ -3876,6 +5491,11 @@
       "Karcau",
       "Ustalav"
     ],
+    "npcs": [
+      "Miregrold Manor",
+      "Venture-Captain Basia Kalistoff",
+      "Venture-Captain Skeldon Miregrold"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8buc",
     "price": 3.99,
     "pubcode": "PZOPSS0047E",
@@ -3895,6 +5515,8 @@
     },
     "locations": [
       "Shadow Absalom"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01x4s",
     "price": 4.99,
@@ -3918,6 +5540,21 @@
       "Tian Xia",
       "Deepmarket"
     ],
+    "npcs": [
+      "A. X. Adrius",
+      "Ascalar Vruul",
+      "Aspis Consortium",
+      "Dorianna Ouidda",
+      "Golden League",
+      "Korholm Agenda",
+      "Lamashtu",
+      "Madreki Gael",
+      "Marnarius",
+      "Suliji Peshar",
+      "Tseka",
+      "Undermarket",
+      "Venture-Captain Amara Li"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9huw",
     "price": 3.99,
     "pubcode": "PZOPSS0715",
@@ -3939,6 +5576,13 @@
       "Absalom",
       "Ascendant Court"
     ],
+    "npcs": [
+      "House Thrune",
+      "Paracountess Zarta Dralneen",
+      "Tancred Desimire",
+      "Venture-Captain Amara Li",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0h",
     "price": 3.99,
     "pubcode": "PZOPSS0411",
@@ -3958,6 +5602,14 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Hao Jin",
+      "Lamashtu",
+      "Muckmouth tribe",
+      "Ruby Phoenix Tournament"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8ow2",
     "price": 3.99,
@@ -3980,6 +5632,13 @@
       "Tian Xia",
       "Wall of Heaven"
     ],
+    "npcs": [
+      "Braid of a Hundred Masters",
+      "Jiang Dan",
+      "Li Yao",
+      "Ruby Phoenix Tournament",
+      "Venture-Captain Amara Li"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8n0o",
     "price": 3.99,
     "pubcode": "PZOPSS0309E",
@@ -3999,6 +5658,11 @@
     },
     "locations": [
       "Kyonin"
+    ],
+    "npcs": [
+      "Aram Zey",
+      "Tanglebriar",
+      "Varian Jeggare"
     ],
     "paizoUrl": "https://paizo.com/products/btpy90kr?Pathfinder-Society-Scenario-5-05-The-Elven-Entanglement",
     "price": 3.99,
@@ -4020,6 +5684,10 @@
     "locations": [
       "Qadira"
     ],
+    "npcs": [
+      "Esmayl Ibn Qaradi",
+      "Temple of the Eternal Obelisk"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy88ll",
     "price": 3.99,
     "pubcode": "PZOPSS0021E",
@@ -4039,6 +5707,16 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
+      "Abysium",
+      "Aram Zey",
+      "Ascalar Vruul",
+      "Aspis Consortium",
+      "Golden League",
+      "Hao Jin",
+      "Ruby Phoenix Tournament",
+      "Venture-Captain Amara Li"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8v0n",
     "price": 3.99,
@@ -4061,6 +5739,16 @@
       "Sothis",
       "Osirion"
     ],
+    "npcs": [
+      "Akila",
+      "Everwar",
+      "Kamilah",
+      "Khalfani Zuberi",
+      "Meskhenet",
+      "Necropolis Of The Faithful",
+      "Norden Balentiir",
+      "Sun Orchid Elixir"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dak",
     "price": 3.99,
     "pubcode": "PZOPSS0053E",
@@ -4082,6 +5770,12 @@
     "locations": [
       "Rahadoum"
     ],
+    "npcs": [
+      "Night Plague",
+      "Pure Legion",
+      "Usij",
+      "Wadi al-Hesr"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1s",
     "price": 3.99,
     "pubcode": "PZOPSS0206E",
@@ -4101,6 +5795,10 @@
     },
     "locations": [
       "Nex"
+    ],
+    "npcs": [
+      "Venture-Captain Brackett",
+      "Wystorn Telfyr"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8gty",
     "price": 3.99,
@@ -4123,6 +5821,12 @@
       "Qadira",
       "Zho Mountains"
     ],
+    "npcs": [
+      "Koor",
+      "Torag",
+      "Venture-Captain Osretia Cassomiran",
+      "Zahra Kadamizi"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8i11",
     "price": 3.99,
     "pubcode": "PZOPSS0218E",
@@ -4143,6 +5847,15 @@
     "locations": [
       "Lands of the Linnorm Kings",
       "Irrisen"
+    ],
+    "npcs": [
+      "Blackravens",
+      "Freyr Darkwine",
+      "Frostfur tribe",
+      "Iceflow River",
+      "Jadwiga",
+      "Stilyagi",
+      "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8kab",
     "price": 3.99,
@@ -4166,6 +5879,14 @@
       "Ivy District",
       "Docks"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Beacon of the North",
+      "Haldyr Bjornsson",
+      "Longaxes, now known as the Ulfen Guard",
+      "Natalya Yagevna",
+      "Skelg"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy84k3?Pathfinder-Society-Scenario-4-The-Frozen-Fingers-of-Midnight",
     "price": 3.99,
     "pubcode": "PZOPSS0004E",
@@ -4185,6 +5906,13 @@
     },
     "locations": [
       "Katapesh (city)"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Farseer Tower Lodge",
+      "Kalistocrat/Prophecies of Kalistrade",
+      "Temel Passad",
+      "Venture-Captain Wulessa Yuul"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8kad",
     "price": 3.99,
@@ -4207,6 +5935,18 @@
       "Kaava Lands",
       "Mwangi Expanse"
     ],
+    "npcs": [
+      "Aaqir al'Hakam",
+      "Aspis Consortium",
+      "Boalisi",
+      "Fola Barun",
+      "Ghol Gan",
+      "Kaddodi",
+      "Mother Bogwynne",
+      "Parveen",
+      "Purpurrup",
+      "Vanji Prospector's Guild"
+    ],
     "paizoUrl": "https://paizo.com/products/btpya18g",
     "price": 4.99,
     "pubcode": "PZOPSS0923E",
@@ -4226,6 +5966,15 @@
     },
     "locations": [
       "Razmiran"
+    ],
+    "npcs": [
+      "Jorsal",
+      "Metella Rauger",
+      "Razmir",
+      "Tahonikepsu",
+      "Temel Passad",
+      "Venture-Captain Ambrus Valsin",
+      "Xer"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8xkf",
     "price": 3.99,
@@ -4248,6 +5997,17 @@
       "Isger",
       "Chitterwood"
     ],
+    "npcs": [
+      "Drandle Dreng",
+      "Finder's Gulch",
+      "Gaspar Desime",
+      "Goblinblood Wars",
+      "Guaril Karela",
+      "Logas",
+      "Mercenary League",
+      "Sczarni",
+      "Urgathoa"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r08",
     "price": 3.99,
     "pubcode": "PZOPSS0323E",
@@ -4268,6 +6028,13 @@
     "locations": [
       "Absalom",
       "Ascendant Court"
+    ],
+    "npcs": [
+      "Cayden's Hall",
+      "Grandmaster Torch",
+      "Graycloaks",
+      "Pure Legion",
+      "Venture-Captain Kreighton Shaine"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8qpy",
     "price": 3.99,
@@ -4290,6 +6057,18 @@
       "Bandu Hills",
       "Mwangi Expanse"
     ],
+    "npcs": [
+      "Ashkurhall",
+      "Aspis Consortium",
+      "Aya Allahe",
+      "Fort Bandu",
+      "Golden Guardian",
+      "Krihirik tribe",
+      "Nieford Sharrowsmith",
+      "Sky Key",
+      "Taralu",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9am7",
     "price": 3.99,
     "pubcode": "PZOPSS0616",
@@ -4311,6 +6090,13 @@
       "Absalom",
       "Ivy District"
     ],
+    "npcs": [
+      "Guaril Karela",
+      "House Foxglove",
+      "Sendeli Foxglove",
+      "Venture-Captain Ambrus Valsin",
+      "Westerhold"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8r09",
     "price": 3.99,
     "pubcode": "PZOPSS0324",
@@ -4330,6 +6116,17 @@
     },
     "locations": [
       "Varisia"
+    ],
+    "npcs": [
+      "Alpon Caromarc",
+      "Aspis Consortium",
+      "Benton Grone",
+      "Golemworks",
+      "Heidmarch Manor",
+      "Lissala",
+      "Maiveer Sloan",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8r0f?Pathfinder-Society-Scenario-4-03-The-Golemworks-Incident",
     "price": 3.99,
@@ -4352,6 +6149,18 @@
       "Varisia",
       "Korvosa"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Grand Mastaba",
+      "Green Market",
+      "House Foxglove",
+      "Lissala",
+      "Shoanti",
+      "Skaldwood",
+      "South Shore",
+      "Venture-Captain Amara Li",
+      "Zeeva Foxglove"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8s",
     "price": 3.99,
     "pubcode": "PZOPSS0406",
@@ -4372,6 +6181,8 @@
     "locations": [
       "Hao Jin Tapestry"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btpya1xz",
     "price": null,
     "pubcode": "PZOPSS1000E",
@@ -4391,6 +6202,8 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01vpr",
     "price": 4.99,
@@ -4413,6 +6226,13 @@
       "Tian Xia",
       "Minkai"
     ],
+    "npcs": [
+      "Golden League",
+      "Hinojai",
+      "Lung Wa",
+      "Venture-Captain Amara Li",
+      "Way Of The Kirin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpu",
     "price": 3.99,
     "pubcode": "PZOPSS0315",
@@ -4433,6 +6253,28 @@
     "locations": [
       "Absalom",
       "Petal District"
+    ],
+    "npcs": [
+      "Anilah Salhar",
+      "Blakros Family",
+      "Damian Blakros",
+      "Darchana Madinani",
+      "Dremdhet Salhar",
+      "Dyrianna of House Avenstar",
+      "Genedair",
+      "Gloriana Morilla",
+      "Grand Convocation",
+      "Hellknights",
+      "Kerkis of House Damaq",
+      "Major Colson Maldris",
+      "Mendevian Crusades",
+      "Michellia Blakros",
+      "Onyx Alliance",
+      "Rothos of House Vastille",
+      "Senator Augustyn Naran",
+      "Tancred Desimire",
+      "Vaelia Wintermark",
+      "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8xkh?Pathfinder-Society-Scenario-5-03-The-Hellknights-Feast",
     "price": 3.99,
@@ -4456,6 +6298,15 @@
       "Silverhall",
       "Rostland Plains"
     ],
+    "npcs": [
+      "Aroden",
+      "Deskari",
+      "Echo of Deskari",
+      "House Surtova",
+      "Lady Gloriana Morilla",
+      "Lady Sarrona Lebeda",
+      "Lander Lebeda"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy95e9?Pathfinder-Society-Scenario-5-19-The-Horn-of-Aroden",
     "price": 3.99,
     "pubcode": "PZOPSS0519E",
@@ -4475,6 +6326,8 @@
     },
     "locations": [
       "Varisia"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01va3",
     "price": 4.99,
@@ -4497,6 +6350,10 @@
       "Diobel",
       "Absalom"
     ],
+    "npcs": [
+      "Kortos Consortium",
+      "Osprey"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy84k1?Pathfinder-Society-Scenario-2-The-Hydras-Fang-Incident",
     "price": 3.99,
     "pubcode": "PZOPSS0002E",
@@ -4516,6 +6373,14 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Golden League",
+      "Hao Jin",
+      "Ragdya",
+      "Round Mountain"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8qpz",
     "price": 3.99,
@@ -4538,6 +6403,17 @@
       "Absalom",
       "Petal District"
     ],
+    "npcs": [
+      "Aaqir al'Hakam",
+      "Ahriman",
+      "Amenopheus",
+      "Gaspar Desime",
+      "Goblinblood Wars",
+      "Lady Gloriana Morilla",
+      "Master of Scrolls Kreighton Shaine",
+      "Paracountess Zarta Dralneen",
+      "Sun Orchid Elixir"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8n0p",
     "price": 3.99,
     "pubcode": "PZOPSS0310E",
@@ -4559,6 +6435,22 @@
       "Ostenso",
       "Cheliax"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Dennel Hamshanks",
+      "Hellknights",
+      "House Davian",
+      "House Deckland",
+      "House Thrune",
+      "Ianareth Alazario",
+      "Kitio Aspenthi",
+      "Lannavia Davian",
+      "Loyalty Day",
+      "Museum of History",
+      "Paracountess Zarta Dralneen",
+      "Tamrin Credence",
+      "Zefiro Balinger"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9huz",
     "price": 3.99,
     "pubcode": "PZOPSS0718",
@@ -4579,6 +6471,12 @@
     "locations": [
       "Absalom",
       "Eastgate"
+    ],
+    "npcs": [
+      "Devil's Claw Company",
+      "Drandle Dreng",
+      "House Deckland",
+      "Orias Deckland"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8g53",
     "price": 3.99,
@@ -4603,6 +6501,17 @@
       "Flintyreach",
       "Lands of the Linnorm Kings"
     ],
+    "npcs": [
+      "Averaka",
+      "Belimarius",
+      "Bravok",
+      "Calisro Benarry",
+      "Dhiara, the Topaz Sage",
+      "Gorgnak",
+      "Kalla Tusk-Breaker",
+      "Suota Iron-Tongue",
+      "Thassilon"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9g81",
     "price": 3.99,
     "pubcode": "PZOPSS0704",
@@ -4623,6 +6532,12 @@
     "locations": [
       "Frostbreach",
       "Lands of the Linnorm Kings"
+    ],
+    "npcs": [
+      "Eylysia",
+      "Gloriana Morilla",
+      "Grand Prince Stavian III",
+      "Ulfen Guard"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9x0v",
     "price": 4.99,
@@ -4646,6 +6561,9 @@
       "Evondemor",
       "Tandak Plains"
     ],
+    "npcs": [
+      "Aram Zey"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g54",
     "price": 3.99,
     "pubcode": "PZOPSS0056E",
@@ -4666,6 +6584,13 @@
     "locations": [
       "Absalom",
       "Isle of Kortos"
+    ],
+    "npcs": [
+      "Aroden",
+      "Baphomet",
+      "Maejerex",
+      "Nuar Spiritskin",
+      "Ruby Phoenix Tournament"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8kae",
     "price": 3.99,
@@ -4688,6 +6613,15 @@
       "Gloomspires",
       "Shackles"
     ],
+    "npcs": [
+      "Calisro Benarry",
+      "Ghol Gan",
+      "Makers",
+      "Orb of Stars",
+      "Pride of Aspenthar",
+      "Sempet Sevenfingers",
+      "Shelyn"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k92",
     "price": 3.99,
     "pubcode": "PZOPSS0719",
@@ -4707,6 +6641,20 @@
     },
     "locations": [
       "Oppara"
+    ],
+    "npcs": [
+      "Brotherhood of Silence",
+      "Earl Calhadion Vernisant",
+      "Gloriana Morilla",
+      "Glorymane",
+      "Grand Day of Exaltation",
+      "Grand Prince Stavian III",
+      "House Deckland",
+      "Kalbio",
+      "Lion Blades",
+      "Muesello",
+      "Princess Eutropia",
+      "Ulfen Guard"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9y4h",
     "price": 4.99,
@@ -4731,6 +6679,15 @@
       "Jinin",
       "Wanshou"
     ],
+    "npcs": [
+      "Ayajinbo",
+      "Dallo",
+      "Ishigo Shiori",
+      "Jujanil",
+      "Ley line",
+      "Mata Ryuu",
+      "Venture-Captain Bakten Shengrah"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9gwu",
     "price": 3.99,
     "pubcode": "PZOPSS0706",
@@ -4753,6 +6710,13 @@
       "Petal District",
       "Isle of Kortos"
     ],
+    "npcs": [
+      "Dorianna Ouidda",
+      "Grandmaster Torch",
+      "Red Mantis",
+      "Vashian the Needle",
+      "Venture-Captain Shevala Iorae"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8joq",
     "price": 3.99,
     "pubcode": "PZOPSS0226E",
@@ -4773,6 +6737,10 @@
     "locations": [
       "Sedeq",
       "Qadira"
+    ],
+    "npcs": [
+      "Grandmaster Torch",
+      "Venture-Captain Yasmin Kal'al"
     ],
     "paizoUrl": "https://paizo.com/products/btpy870b",
     "price": 3.99,
@@ -4796,6 +6764,19 @@
       "Cheliax",
       "Mwangi Expanse"
     ],
+    "npcs": [
+      "Adril Hestram",
+      "Condria",
+      "Durvin Gest",
+      "Eliza Petulengro",
+      "Lake Ocota",
+      "Maze of the Open Road",
+      "Osprey",
+      "Red Raven",
+      "Venture-Captain Eddington Keel",
+      "Venture-Captain Kyalla",
+      "Woodsedge Lodge"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8dal",
     "price": 3.99,
     "pubcode": "PZOPSS0054E",
@@ -4816,6 +6797,14 @@
     "locations": [
       "Qadira",
       "Katheer"
+    ],
+    "npcs": [
+      "Emir Thalzar Gaatan",
+      "Esmayl Ibn Qaradi",
+      "Metella Rauger",
+      "Temel Passad",
+      "Trade Prince Aaqir al-Hakam",
+      "Urgathoa"
     ],
     "paizoUrl": "https://paizo.com/products/btpy95eb?Pathfinder-Society-Scenario-5-21-The-Merchants-Wake",
     "price": 3.99,
@@ -4838,6 +6827,11 @@
       "Ustalav",
       "Ardis"
     ],
+    "npcs": [
+      "Caliphas",
+      "Master of Blades Marcos Farabellus",
+      "Moulot family"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qpv",
     "price": 3.99,
     "pubcode": "PZOPSS0316",
@@ -4857,6 +6851,8 @@
     },
     "locations": [
       "River Kingdoms"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01znc",
     "price": 4.99,
@@ -4878,6 +6874,13 @@
     "locations": [
       "Varisia",
       "Fenwall Mountains"
+    ],
+    "npcs": [
+      "Gamin",
+      "Koth'Vaul",
+      "Thassilon",
+      "Thrallkeepers",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8wdz",
     "price": 3.99,
@@ -4901,6 +6904,12 @@
       "Grand Lodge",
       "Foreign Quarter"
     ],
+    "npcs": [
+      "First World",
+      "Grand Convocation",
+      "Master of Scrolls Kreighton Shaine",
+      "Paracountess Zarta Dralneen"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9ch0",
     "price": 3.99,
     "pubcode": "PZOPSS0615",
@@ -4922,6 +6931,14 @@
       "Falcon's Hollow",
       "Darkmoon Vale",
       "Andoran"
+    ],
+    "npcs": [
+      "Brackett",
+      "Fiendblood Covenant",
+      "Laurel Gebre/Roots and Remedies",
+      "Lumber Consortium",
+      "Syntira",
+      "Urgathoa"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8bu8",
     "price": 3.99,
@@ -4947,6 +6964,32 @@
       "Docks",
       "Wise Quarter"
     ],
+    "npcs": [
+      "Aaqir al'Hakam",
+      "Alvalda Margruel",
+      "Amenopheus, the Sapphire Sage",
+      "Black Whale",
+      "Darchana Madinani",
+      "Drandle Dreng",
+      "Dremdhet Salhar",
+      "Flotsam Graveyard",
+      "Gloriana Morilla",
+      "Guaril Karela",
+      "Halmont Warrith",
+      "Jeweled Sages",
+      "Kortos Consortium",
+      "Lord Avid Arnsen",
+      "Major Colson Maldris",
+      "Mendevian Crusades",
+      "Misery Row",
+      "Ollysta Zadrian",
+      "Paracountess Zarta Dralneen",
+      "Senator Augustyn Naran",
+      "Tahonikepsu",
+      "Tancred Desimire",
+      "Vaelia Wintermark",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n4",
     "price": 3.99,
     "pubcode": "PZOPSS0600",
@@ -4969,6 +7012,16 @@
       "Absalom",
       "Blakros Museum"
     ],
+    "npcs": [
+      "Argrinyxia",
+      "Blakros Family",
+      "Drandle Dreng",
+      "Eleanir Blakros",
+      "Hamaria Blakros",
+      "Michellia Blakros",
+      "Onyx Alliance",
+      "Shadow Plane"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8h6n",
     "price": 3.99,
     "pubcode": "PZOPSS0211E",
@@ -4989,6 +7042,15 @@
     "locations": [
       "Varisia",
       "Urglin"
+    ],
+    "npcs": [
+      "Bloodworks",
+      "Canayven Heidmarch",
+      "Cinderlands",
+      "Eando Kline",
+      "Gulros",
+      "Ploog",
+      "Urgir/Koldukar"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8we4?Pathfinder-Society-Scenario-4-24-The-Price-of-Friendship",
     "price": 3.99,
@@ -5011,6 +7073,10 @@
       "Augustana",
       "Andoran"
     ],
+    "npcs": [
+      "Venture-Captain Alissa Moldreserva",
+      "Venture-Captain Caudron Wallace"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy870a",
     "price": 3.99,
     "pubcode": "PZOPSS0013E",
@@ -5030,6 +7096,16 @@
     },
     "locations": [
       "Hold of Belkzen"
+    ],
+    "npcs": [
+      "Akila",
+      "Everwar",
+      "Khalfani Zuberi",
+      "Necropolis Of The Faithful",
+      "Norden Balentiir",
+      "Skittering Ravager tribe",
+      "Skull Hill",
+      "Sun Orchid Elixir"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8ard",
     "price": 3.99,
@@ -5054,6 +7130,8 @@
       "Rift of Repose",
       "Abyss"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01vpj",
     "price": 4.99,
     "pubcode": "PZOPSS1009E",
@@ -5074,6 +7152,9 @@
     "locations": [
       "Parched Dunes",
       "Osirion"
+    ],
+    "npcs": [
+      "Norden Balentiir"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8g1p",
     "price": 3.99,
@@ -5096,6 +7177,13 @@
       "Varisia",
       "Wyvern Mountains"
     ],
+    "npcs": [
+      "Krune",
+      "Lissala",
+      "Shoanti",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8v0i",
     "price": 3.99,
     "pubcode": "PZOPSS0412",
@@ -5117,6 +7205,16 @@
       "Cassomir",
       "Taldor"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Crypt of Fools",
+      "Groetus",
+      "Hestia Themis",
+      "Kafar",
+      "Nefti",
+      "Swift Prison",
+      "Teppish family"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8bud",
     "price": 3.99,
     "pubcode": "PZOPSS0048E",
@@ -5136,6 +7234,15 @@
     },
     "locations": [
       "Osirion"
+    ],
+    "npcs": [
+      "Ainsi tribe",
+      "Concordance Of Elements",
+      "El-Shelad",
+      "Goanron Triumvirate",
+      "Jamila Al Shafah",
+      "Norden Balentiir",
+      "Underdunes"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9p8v",
     "price": 4.99,
@@ -5158,6 +7265,10 @@
       "Varisia",
       "Sanos Forest"
     ],
+    "npcs": [
+      "First World",
+      "Venture-Captain Sheila Heidmarch"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8u8r",
     "price": 3.99,
     "pubcode": "PZOPSS0405",
@@ -5178,6 +7289,14 @@
     "locations": [
       "Storasta",
       "Worldwound"
+    ],
+    "npcs": [
+      "Caggrigar",
+      "Deskari",
+      "Eagle Knights",
+      "Sarkorian Prophecy",
+      "Sarkoris",
+      "Thurl"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8g1u",
     "price": 3.99,
@@ -5200,6 +7319,14 @@
       "Realm of the Mammoth Lords",
       "Hao Jin Tapestry"
     ],
+    "npcs": [
+      "Angazhan",
+      "Aram Zey",
+      "Durvin Gest",
+      "Lake Ocota",
+      "Master of Blades Marcos Farabellus",
+      "Venture-Captain Amara Li"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy95ea?Pathfinder-Society-Scenario-5-20-The-Sealed-Gate",
     "price": 3.99,
     "pubcode": "PZOPSS0520E",
@@ -5220,6 +7347,19 @@
     "locations": [
       "Hold of Belkzen",
       "Urgir"
+    ],
+    "npcs": [
+      "Bloodworks",
+      "Broken Spine tribe",
+      "Canayven Heidmarch",
+      "Droskar",
+      "Dwarven",
+      "Gulros",
+      "Magra the Mad",
+      "Ploog",
+      "Taargick",
+      "Tar Taargadth",
+      "Urgir/Koldukar"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8we5?Pathfinder-Society-Scenario-4-25-The-Secrets-Stones-Keep",
     "price": 3.99,
@@ -5242,6 +7382,11 @@
       "Segang Jungle",
       "Jalmeray"
     ],
+    "npcs": [
+      "Gorilla King/Ruthazek",
+      "Ragdya",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1w",
     "price": 3.99,
     "pubcode": "PZOPSS0608",
@@ -5262,6 +7407,19 @@
     "locations": [
       "Kaer Maga",
       "Varisia"
+    ],
+    "npcs": [
+      "Ardoc family",
+      "Commerce League",
+      "Dakar",
+      "Drandle Dreng",
+      "Duskwardens",
+      "Fasch",
+      "Halflight Path",
+      "Jorda Dollobart",
+      "Miss Feathers",
+      "Roold",
+      "Sard Coalbrath"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8dai",
     "price": 3.99,
@@ -5284,6 +7442,8 @@
       "Azir",
       "Rahadoum"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01vpl",
     "price": 4.99,
     "pubcode": "PZOPSS1010E",
@@ -5303,6 +7463,17 @@
     },
     "locations": [
       "Heaven"
+    ],
+    "npcs": [
+      "Heaven's Shore",
+      "Kitarlo",
+      "Laktharis",
+      "Ollysta Zadrian",
+      "Thurl",
+      "Unbent Forest",
+      "Valais Durant",
+      "Venture-Captain Ambrus Valsin",
+      "Zepha"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9weq",
     "price": 4.99,
@@ -5326,6 +7497,12 @@
       "Blakros Museum",
       "Wise Quarter"
     ],
+    "npcs": [
+      "Blakros Family",
+      "Drandle Dreng",
+      "Nigel Aldain",
+      "Technic League"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n6",
     "price": 3.99,
     "pubcode": "PZOPSS0602",
@@ -5345,6 +7522,14 @@
     },
     "locations": [
       "Absalom"
+    ],
+    "npcs": [
+      "Aroden",
+      "Harbingers of Fate",
+      "Harrow",
+      "Lady Arodeth",
+      "Master of Scrolls Kreighton Shaine",
+      "Sky Key"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9cu7",
     "price": 3.99,
@@ -5367,6 +7552,19 @@
       "Stonespine Island",
       "Katapesh"
     ],
+    "npcs": [
+      "Aglorn Desimire",
+      "Aspis Consortium",
+      "Darchana Madinani",
+      "Fleshfairs",
+      "Jairo the Enlightener",
+      "Lamashtu",
+      "Okeno",
+      "Pasha Muhlia al-Jakri",
+      "Rilla Lavon",
+      "Tancred Desimire",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1z",
     "price": 3.99,
     "pubcode": "PZOPSS0611",
@@ -5387,6 +7585,8 @@
     "locations": [
       "Blakros Museum",
       "Absalom"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btpy9s15",
     "price": 4.99,
@@ -5409,6 +7609,15 @@
       "Andoran",
       "Sauerton"
     ],
+    "npcs": [
+      "Almant Enderios",
+      "Brackett",
+      "Eagle Knights",
+      "Major Colson Maldris",
+      "People's Revolt",
+      "Tercio Andares",
+      "Wystorn Telfyr"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy90kq?Pathfinder-Society-Scenario-5-04-The-Stolen-Heir",
     "price": 3.99,
     "pubcode": "PZOPSS0504E",
@@ -5429,6 +7638,17 @@
     "locations": [
       "Kaer Maga",
       "Varisia"
+    ],
+    "npcs": [
+      "Augurs",
+      "Blushing Rose",
+      "Commerce League",
+      "Common House",
+      "Dakar",
+      "Freemen",
+      "Guaril Karela",
+      "Miss Feathers",
+      "Urgathoa"
     ],
     "paizoUrl": "https://paizo.com/products/btpy95e8?Pathfinder-Society-Scenario-5-18-The-Stranger-Within",
     "price": 3.99,
@@ -5451,6 +7671,17 @@
       "Pashow",
       "Thuvia"
     ],
+    "npcs": [
+      "Aspenthar",
+      "Aspis Consortium",
+      "Emir Guldis",
+      "Gloriana Morilla",
+      "Kitio Aspenthi",
+      "Lady Ziralia of Pashow",
+      "Prince Zinlo of Aspenthar",
+      "Sun Orchid Elixir",
+      "Water Lord"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9k94",
     "price": 3.99,
     "pubcode": "PZOPSS0721",
@@ -5470,6 +7701,15 @@
     },
     "locations": [
       "Hao Jin Tapestry"
+    ],
+    "npcs": [
+      "Aram Zey",
+      "Aspis Consortium",
+      "Hao Jin",
+      "Lao Shu Po",
+      "Lung Wa",
+      "Round Mountain",
+      "Xiangnuer"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8qq0",
     "price": 3.99,
@@ -5492,6 +7732,17 @@
       "Mwangi Expanse",
       "Nantambu"
     ],
+    "npcs": [
+      "A Thread of Silver",
+      "Aya Allahe",
+      "Magaambya",
+      "Master of Scrolls Kreighton Shaine",
+      "Nieford Sharrowsmith",
+      "Old-Man Jatembe",
+      "Praetor Sylien",
+      "Sharrowsmith's Exports",
+      "Technic League"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n7",
     "price": 3.99,
     "pubcode": "PZOPSS0603",
@@ -5512,6 +7763,14 @@
     "locations": [
       "Hao Jin Tapestry"
     ],
+    "npcs": [
+      "Aram Zey",
+      "Hao Jin",
+      "Ishiar",
+      "Korada",
+      "Sifkesh",
+      "Vantian"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8qq1",
     "price": 3.99,
     "pubcode": "PZOPSS0321",
@@ -5531,6 +7790,12 @@
     },
     "locations": [
       "Osirion"
+    ],
+    "npcs": [
+      "Adril Hestram",
+      "Aspis Consortium",
+      "Norden Balentiir",
+      "Ravenous Sphinx"
     ],
     "paizoUrl": "https://paizo.com/products/btpy86ng",
     "price": 3.99,
@@ -5553,6 +7818,16 @@
       "Mendev",
       "Nerosyan"
     ],
+    "npcs": [
+      "Aslynn",
+      "Baphomet",
+      "Jorsal",
+      "Starrise Spire",
+      "Staunton Vhane",
+      "Tancred Desimire",
+      "Thurl",
+      "Valais Durant"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy92cj?Pathfinder-Society-Scenario-5-09-The-Traitor-s-Lodge",
     "price": 3.99,
     "pubcode": "PZOPSS0509E",
@@ -5573,6 +7848,9 @@
     "locations": [
       "Sothis",
       "Osirion"
+    ],
+    "npcs": [
+      "Norden Balentiir"
     ],
     "paizoUrl": "https://paizo.com/products/btpy87os",
     "price": 3.99,
@@ -5595,6 +7873,10 @@
       "Alkenstar",
       "Mana Wastes"
     ],
+    "npcs": [
+      "Azathoth",
+      "Venture-Captain Roderus"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9hgz",
     "price": 3.99,
     "pubcode": "PZOPSS0712",
@@ -5615,6 +7897,22 @@
     "locations": [
       "Kaer Maga",
       "Varisia"
+    ],
+    "npcs": [
+      "Ardoc family",
+      "Caggrigar",
+      "Commerce League",
+      "Dakar",
+      "Dorianna Ouidda",
+      "Drandle Dreng",
+      "Duskwardens",
+      "Fasch",
+      "Hondo Heru",
+      "Jorda Dollobart",
+      "Kormiggon Sussworth",
+      "Miss Feathers",
+      "Roold",
+      "Sard Coalbrath"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8daj",
     "price": 3.99,
@@ -5637,6 +7935,19 @@
       "Thuvia",
       "Merab"
     ],
+    "npcs": [
+      "Ahriman",
+      "Amenopheus, the Sapphire Sage",
+      "Aryana Tahari",
+      "Grandmaster Torch",
+      "Jeweled Sages",
+      "Night Plague",
+      "Pharaoh of Forgotten Plagues",
+      "Sage Jewel",
+      "Usij",
+      "Venture-Captain Diya Akan",
+      "Zurnzal"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9weo",
     "price": 4.99,
     "pubcode": "PZOPSS0904E",
@@ -5658,6 +7969,14 @@
       "Varisia",
       "Korvosa"
     ],
+    "npcs": [
+      "Canayven Heidmarch",
+      "Cerulean Society",
+      "Eando Kline",
+      "Hellknights",
+      "Sascha Antif-Arah",
+      "Zon Kuthon"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8wdy?Pathfinder-Society-Scenario-4-18-The-Veterans-Vault",
     "price": 3.99,
     "pubcode": "PZOPSS0418E",
@@ -5677,6 +7996,15 @@
     },
     "locations": [
       "Varisia"
+    ],
+    "npcs": [
+      "Krune",
+      "Kurshu",
+      "Lissala",
+      "Thassilon",
+      "Vandiana",
+      "Venture-Captain Ambrus Valsin",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8we6?Pathfinder-Society-Scenario-4-26-The-Waking-Rune",
     "price": 3.99,
@@ -5701,6 +8029,14 @@
       "Bedis",
       "Fort Portolmaeus"
     ],
+    "npcs": [
+      "Erages",
+      "Jorsal",
+      "Mendevian Crusades",
+      "Queen Galfrey",
+      "Starrise Spire",
+      "Wardstone"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8xkg",
     "price": 3.99,
     "pubcode": "PZOPSS0502E",
@@ -5720,6 +8056,16 @@
     },
     "locations": [
       "Cheliax"
+    ],
+    "npcs": [
+      "Collapsed Halls/Halls of Zuberi",
+      "Everwar",
+      "Khalfani Zuberi",
+      "Meskhenet",
+      "Necropolis Of The Faithful",
+      "Norden Balentiir",
+      "Shiman-Sekh",
+      "Sun Orchid Elixir"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8arj",
     "price": 3.99,
@@ -5746,6 +8092,22 @@
       "Foreign Quarter",
       "Eastgate"
     ],
+    "npcs": [
+      "Adolphus",
+      "Arcanamirium",
+      "Aspis Consortium",
+      "Drandle Dreng",
+      "Durvin Gest",
+      "Eylysia",
+      "Janira Gavix",
+      "Onyx Alliance",
+      "Selmius Foster",
+      "Shrine of the Failed",
+      "The Muted God",
+      "Wall of Names",
+      "Wounded Wisp",
+      "Yargos Gill"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9a1y",
     "price": 3.99,
     "pubcode": "PZOPSS0610",
@@ -5766,6 +8128,14 @@
     "locations": [
       "Mendev",
       "Worldwound"
+    ],
+    "npcs": [
+      "Jorsal",
+      "Laktharis",
+      "Ollysta Zadrian",
+      "Sarkoris",
+      "Thurl",
+      "Valais Durant"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9huy",
     "price": 3.99,
@@ -5788,6 +8158,15 @@
       "Maelstrom",
       "Plane of Air"
     ],
+    "npcs": [
+      "Ashasar",
+      "Ayrzul",
+      "Concordance Of Elements",
+      "Jamila Al Shafah",
+      "Ranginori",
+      "Untouchable Opal",
+      "Zephyr of the Forgotten Sun"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9mbd",
     "price": 3.99,
     "pubcode": "PZOPSS0799E",
@@ -5808,6 +8187,10 @@
     "locations": [
       "Verduran Forest",
       "Andoran"
+    ],
+    "npcs": [
+      "Dennel Hamshanks",
+      "Lorestone"
     ],
     "paizoUrl": "https://paizo.com/products/btpy88sx",
     "price": 3.99,
@@ -5831,6 +8214,13 @@
       "Wispil",
       "Verduran Forest"
     ],
+    "npcs": [
+      "Atavistic Splinter",
+      "Bellis",
+      "Brackett",
+      "Lorestone",
+      "Ruby Phoenix Tournament"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8lqv",
     "price": 3.99,
     "pubcode": "PZOPSS0305E",
@@ -5852,6 +8242,15 @@
       "Absalom",
       "Isle of Kortos"
     ],
+    "npcs": [
+      "Aaqir al'Hakam",
+      "Asad's Keep",
+      "Cairnlands",
+      "Major Colson Maldris",
+      "Taliq Asad",
+      "Venture-Captain Amara Li",
+      "Way Of The Kirin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8jos",
     "price": 0,
     "pubcode": "PZOPSSINTRO2E",
@@ -5872,6 +8271,10 @@
     "locations": [
       "Fog Peaks",
       "Galt"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Osprey"
     ],
     "paizoUrl": "https://paizo.com/products/btpy87ja",
     "price": 3.99,
@@ -5895,6 +8298,12 @@
       "Minata",
       "Tian Xia"
     ],
+    "npcs": [
+      "Mount Shibotai",
+      "Old Pak",
+      "Ramparassad",
+      "Shadow Plane"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9qc9",
     "price": 4.99,
     "pubcode": "PZOPSS0814E",
@@ -5915,6 +8324,15 @@
     "locations": [
       "Plane of Water",
       "Vialesk"
+    ],
+    "npcs": [
+      "Breath of Lysianassa",
+      "Kelizandri",
+      "Lambent Bloom",
+      "Lysianassa",
+      "Razethka",
+      "Throne of Deep Currents",
+      "Zahra Kadamizi"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9rev",
     "price": 4.99,
@@ -5937,6 +8355,15 @@
       "Varisia",
       "Velashu Uplands"
     ],
+    "npcs": [
+      "Celwynvian",
+      "Inexora Vexidyre",
+      "Lantern Bearers/Shin'Rakorath",
+      "Mierani Forest",
+      "Shax",
+      "Sheila Heidmarch",
+      "Thassilon"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8wdx?Pathfinder-Society-Scenario-4-17-Tower-of-the-Ironwood-Watch",
     "price": 3.99,
     "pubcode": "PZOPSS0417E",
@@ -5958,6 +8385,13 @@
       "Vialesk",
       "Plane of Water"
     ],
+    "npcs": [
+      "Kelizandri",
+      "Lysianassa",
+      "Razethka",
+      "Throne of Deep Currents",
+      "Zahra Kadamizi"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9reu",
     "price": 4.99,
     "pubcode": "PZOPSS0819E",
@@ -5977,6 +8411,8 @@
     },
     "locations": [
       "Katapesh"
+    ],
+    "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btq01va2",
     "price": 4.99,
@@ -6000,6 +8436,10 @@
       "Isle of Kortos",
       "Red Redoubt of Karamoss"
     ],
+    "npcs": [
+      "Cairnlands",
+      "Venture-Captain Ambrus Valsin"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy97n5?Pathfinder-Society-Scenario-6-01-Trial-by-Machine",
     "price": 3.99,
     "pubcode": "PZOPSS0601",
@@ -6020,6 +8460,17 @@
     "locations": [
       "Tamran",
       "Nirmathas"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Guaril Karela",
+      "Madreki Gael",
+      "Razmir",
+      "Reginar Lacklan",
+      "Shining Crusade",
+      "Venture-Captain Ambrus Valsin",
+      "Venture-Captain Oraiah Tolal",
+      "Zurnzal"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9gwv",
     "price": 3.99,
@@ -6042,6 +8493,8 @@
       "Absalom",
       "Shadow Absalom"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9cu6",
     "price": 3.99,
     "pubcode": "PZOPSS0699",
@@ -6062,6 +8515,14 @@
     "locations": [
       "Plane of Earth",
       "Opaline Vault"
+    ],
+    "npcs": [
+      "Ashadieeyah Bint Khalid",
+      "Aspis Consortium",
+      "Krayler Cauchemar",
+      "Peerless Empire",
+      "Reyshal ik Jalman",
+      "Sorrina Westyr"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9oii",
     "price": 4.99,
@@ -6085,6 +8546,18 @@
       "Plane of Fire",
       "Lodehollow"
     ],
+    "npcs": [
+      "Aspis Consortium",
+      "Ayrzul",
+      "Breath of Lysianassa",
+      "Farhaana Zadeh",
+      "Fossilblight",
+      "Grave Treader",
+      "Ranginori",
+      "Sorrina Westyr",
+      "Untouchable Opal",
+      "Ymeri"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9tl9",
     "price": 4.99,
     "pubcode": "PZOPSS0825E",
@@ -6105,6 +8578,14 @@
     "locations": [
       "Qadira",
       "Zho Mountains"
+    ],
+    "npcs": [
+      "Cinderfury family",
+      "Crystalcrag",
+      "Esmayl Ibn Qaradi",
+      "Gamin",
+      "Jamila Al Shafah",
+      "Silken Way"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9987",
     "price": 3.99,
@@ -6128,6 +8609,16 @@
       "Frostmire Fen",
       "Wolfcrags"
     ],
+    "npcs": [
+      "Arastrax",
+      "Koth'Vaul",
+      "Master of Swords Marcos Farabellus",
+      "Roaring Sabertooth tribe",
+      "Sarkorian Prophecy",
+      "Shax",
+      "Tancred Desimire",
+      "Thurl"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy96id",
     "price": 3.99,
     "pubcode": "PZOPSS0525E",
@@ -6150,6 +8641,16 @@
       "Blakros Museum",
       "Wise Quarter"
     ],
+    "npcs": [
+      "Abysium",
+      "Adril Hestram",
+      "Aucturn Enigma",
+      "Blakros Family",
+      "Dark Tapestry",
+      "Imrizade Blakros",
+      "Nigel Aldain",
+      "Ralzeros"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8arc",
     "price": 3.99,
     "pubcode": "PZOPSS0035E",
@@ -6170,6 +8671,18 @@
     "locations": [
       "Tian Xia",
       "Dtang Ma"
+    ],
+    "npcs": [
+      "Ankilhi",
+      "Broken Temple",
+      "Hao Jin",
+      "Jiraku",
+      "Old Pak",
+      "Pnao Kilnak",
+      "Ramparassad",
+      "Tanbaru",
+      "Venture-Captain Amara Li",
+      "Yamatsumi"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9mbb",
     "price": 4.99,
@@ -6192,6 +8705,12 @@
       "Numeria",
       "Sulfur Gulch"
     ],
+    "npcs": [
+      "Ghost Wolves tribe",
+      "Gojan the Sharp",
+      "Holgarin Smine",
+      "Technic League"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy9oih",
     "price": 4.99,
     "pubcode": "PZOPSS0804E",
@@ -6212,6 +8731,15 @@
     "locations": [
       "Tian Xia",
       "Minata"
+    ],
+    "npcs": [
+      "Golden League",
+      "Lung Wa",
+      "Ramparassad",
+      "Ramparassad",
+      "Theodric Alverteen",
+      "Venture-Captain Amara Li",
+      "Way Of The Kirin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8we1?Pathfinder-Society-Scenario-4-21-Way-of-the-Kirin",
     "price": 3.99,
@@ -6234,6 +8762,13 @@
       "Worldwound",
       "Ghalcor's Tower"
     ],
+    "npcs": [
+      "Acts of Iomedae",
+      "Gundrun",
+      "Jorsal",
+      "Mendevian Crusades",
+      "Ollysta Zadrian"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy93m1",
     "price": 3.99,
     "pubcode": "PZOPSS0513E",
@@ -6254,6 +8789,17 @@
     "locations": [
       "Andoran",
       "Almas"
+    ],
+    "npcs": [
+      "Aspis Consortium",
+      "Brackett",
+      "Caggrigar",
+      "Chalfon Dalsine",
+      "Dorianna Ouidda",
+      "Hondo Heru",
+      "Kormiggon Sussworth",
+      "Vashian the Needle",
+      "Venture-Captain Alissa Moldreserva"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8joo",
     "price": 3.99,
@@ -6277,6 +8823,8 @@
       "Dis",
       "Hell"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01vpf",
     "price": 4.99,
     "pubcode": "PZOPSS1008E",
@@ -6297,6 +8845,18 @@
     "locations": [
       "Kullan Dei mountains",
       "Tian Xia"
+    ],
+    "npcs": [
+      "Ankilhi",
+      "Ashadieeyah Bint Khalid",
+      "Broken Temple",
+      "Fossilblight",
+      "Old Pak",
+      "Pnao Kilnak",
+      "Qalkami Mishalq",
+      "Ranginori",
+      "Untouchable Opal",
+      "Yamatsumi"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9qc8",
     "price": 4.99,
@@ -6327,6 +8887,8 @@
       "Five Kings Mountains",
       "Absalom"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01x4p",
     "price": 4.99,
     "pubcode": "PZOPSS1016E",
@@ -6348,6 +8910,15 @@
     "locations": [
       "Rahadoum"
     ],
+    "npcs": [
+      "Ahriman",
+      "Jistka Imperium",
+      "Night Plague",
+      "Usij",
+      "Venture-Captain Obo",
+      "Verdizaam Charad",
+      "Wadi al-Hesr"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8g1t",
     "price": 3.99,
     "pubcode": "PZOPSS0207E",
@@ -6367,6 +8938,14 @@
     },
     "locations": [
       "Realm of the Mammoth Lords"
+    ],
+    "npcs": [
+      "Aram Zey",
+      "Demonplague",
+      "Master of Swords Marcos Farabellus",
+      "Red Winter tribe",
+      "Thunder Steppes",
+      "Tolguth"
     ],
     "paizoUrl": "https://paizo.com/products/btpy933o",
     "price": 3.99,
@@ -6389,6 +8968,8 @@
     "locations": [
       "Absalom"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yz1",
     "price": 4.99,
     "pubcode": "PZOPSS1023E",
@@ -6409,6 +8990,8 @@
     "locations": [
       "Mediogalti Island"
     ],
+    "npcs": [
+    ],
     "paizoUrl": "https://paizo.com/products/btq01yz0",
     "price": 4.99,
     "pubcode": "PZOPSS1022E",
@@ -6428,6 +9011,13 @@
     },
     "locations": [
       "Varisia"
+    ],
+    "npcs": [
+      "Desgard's Thousand Columns",
+      "Krune",
+      "Lissala",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8we0",
     "price": 3.99,
@@ -6450,6 +9040,13 @@
       "Osirion",
       "Sothis"
     ],
+    "npcs": [
+      "Dorianna Ouidda",
+      "Hondo Heru",
+      "Necropolis Of The Faithful",
+      "Norden Balentiir",
+      "Scarab Seekers"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8i13",
     "price": 3.99,
     "pubcode": "PZOPSS0220E",
@@ -6470,6 +9067,13 @@
     "locations": [
       "Varisia",
       "Calphiak Mountains"
+    ],
+    "npcs": [
+      "Alaznist",
+      "Shoanti",
+      "Soralyon",
+      "Thassilon",
+      "Venture-Captain Sheila Heidmarch"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9tl5",
     "price": 4.99,
@@ -6492,6 +9096,13 @@
       "Lands of the Linnorm Kings",
       "Trollheim"
     ],
+    "npcs": [
+      "Blood Ram tribe",
+      "Caggrigar",
+      "Drandle Dreng",
+      "Freyr Darkwine",
+      "Rognvald Skagni"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy8gtx",
     "price": 3.99,
     "pubcode": "PZOPSS0215E",
@@ -6513,6 +9124,13 @@
       "River Kingdoms",
       "Tymon"
     ],
+    "npcs": [
+      "Arena of Aroden",
+      "Holgarin Smine",
+      "Law of Grievance",
+      "Law of Succession",
+      "Weaponworks"
+    ],
     "paizoUrl": "https://paizo.com/products/btpy91td",
     "price": 3.99,
     "pubcode": "PZOPSS0506E",
@@ -6532,6 +9150,10 @@
     },
     "locations": [
       "Geb"
+    ],
+    "npcs": [
+      "Urgathoa",
+      "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy8jop",
     "price": 3.99,
