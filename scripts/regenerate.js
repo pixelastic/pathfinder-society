@@ -1,4 +1,4 @@
-import helper from '../build/helper.js';
+import helper from '../lib/helper.js';
 import firost from 'firost';
 import { _, pMap } from 'golgoth';
 
