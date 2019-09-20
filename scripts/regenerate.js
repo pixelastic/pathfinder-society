@@ -6,7 +6,7 @@ import { _, pMap } from 'golgoth';
   helper.init();
 
   const allScenarios = {};
-  await pMap(_.range(0, 11), async seasonIndex => {
+  await pMap(_.range(0, 1), async seasonIndex => {
     const scenarios = await helper.scenariosFromSeason(seasonIndex);
     _.each(scenarios, scenario => {
       const key = _.chain(scenario.title)

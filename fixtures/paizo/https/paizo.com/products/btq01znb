@@ -1,0 +1,2865 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+	<html>
+		<head>
+			<meta charset="UTF-8">
+        		<meta name="viewport" content="width=device-width">
+        		<meta name = "generator" content = "WireHose Server 4.0" />
+			
+			<LINK rel="stylesheet" type="text/css" href="/include/paizo-0418.min.css" />
+			
+				
+					<link rel="alternate" type="application/atom+xml" href="https://paizo.com/products/btq01znb/reviews&xml=atom?Pathfinder-Society-Scenario-101-The-Absalom-Initiation" title="Recent Reviews of Pathfinder Society Scenario #1-01: The Absalom Initiation" />
+				
+					<link rel="alternate" type="application/atom+xml" href="https://paizo.com/products/btq01znb/posts&xml=atom?Pathfinder-Society-Scenario-101-The-Absalom-Initiation" title="Recent Posts in Pathfinder Society Scenario #1-01: The Absalom Initiation Discussion" />
+				
+			
+			<title>paizo.com - Pathfinder Society Scenario #1-01: The Absalom Initiation</title>
+		<script src="/include/paizo.libs-0418.min.js"></script>
+</head>
+		<body>
+		
+			
+			
+			<header data-tier="sub" id="nav-wrapper">
+	<div class="nav-top"></div>
+        <div id="nav-menus">
+            <nav id="upper-nav-row">
+            		<form method="GET" action="/search" id="header-search" class="search">
+            		    <select name="what">
+            		      <option value="all">All</option>
+            		      <option value="products">Products</option>
+            		      <option value="messageboards">Messageboards</option>
+            		      <option value="blogs">Blogs</option>
+            		      <option value="users">Users</option>
+            		      <option value="prd">PRD</option>
+            		    </select>
+            		    <input name="q" type="search" autocomplete="off" />
+            		    <button type="submit"></button>
+            		</form>
+            </nav>
+            <nav id="lower-nav-row"><label id="toggle-menu" for="tm"><span class="hamburger"></span></label><input id="tm" type="checkbox">
+                <ul class="main-menu cf">
+                		<li id="mobile-search-wrapper">
+                		<form method="GET" action="/search" id="header-search-mobile" class="search">
+	            		    <select name="what">
+	            		      <option value="all">All</option>
+	            		      <option value="products">Products</option>
+	            		      <option value="messageboards">Messageboards</option>
+	            		      <option value="blogs">Blogs</option>
+	            		      <option value="users">Users</option>
+	            		      <option value="prd">PRD</option>
+	            		    </select>
+	            		    <input name="q" type="search" autocomplete="off" />
+	            		    <button type="submit"></button>
+	            		</form>
+	            		</li>
+                		
+					
+						<li class="account my-account"><a href="/cgi-bin/WebObjects/Store.woa/wa/DirectAction/signIn?path=products/btq01znb" CLASS="functionalNav">Sign In</a></li>
+					
+					<li  id="terrain-header-cart" class="account mycart" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Cart/refreshCart">
+						<input id="header-cart" name="header-cart" type="checkbox"><a href="/store/cart"><img src="https://cdn.paizo.com/image/navigation/Personal-Cart.png"><span>Cart</span><label title="Toggle Drop-down" for="header-cart" class="drop-icon">▾</label></a>
+						<ul class="sub-menu dropdown-personal">
+							<li><a href="/store/cart"><span>View Cart</span></a></li>
+							
+						</ul>
+					</li><script>AUC.register('terrain-header-cart');</script>
+					<li class="account help">
+						<a href="/paizo/faq"><img src="https://cdn.paizo.com/image/navigation/Personal-Help.png"><span>Help</span></a>
+					</li>
+					
+						<li>
+							<input name="terrain-node-pathfinder" type="checkbox" id="terrain-node-pathfinder" />
+							<a href="https://paizo.com/pathfinder" title="Pathfinder">Pathfinder<span class="drop-icon">▾</span><label for="terrain-node-pathfinder" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-rules" type="checkbox" id="terrain-child-pathfinder-rules" />
+											<a href="https://paizo.com/pathfinder/rules" title="Pathfinder &gt; Rulebooks">Rulebooks<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-rules" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/second" title="Pathfinder &gt; Rulebooks &gt; Second Edition Rulebooks">Second Edition Rulebooks</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/online" title="Pathfinder &gt; Rulebooks &gt; Online Rules">Online Rules</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/downloads" title="Pathfinder &gt; Rulebooks &gt; Downloads">Downloads</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/first" title="Pathfinder &gt; Rulebooks &gt; First Edition Rulebooks">First Edition Rulebooks</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-adventures" type="checkbox" id="terrain-child-pathfinder-adventures" />
+											<a href="https://paizo.com/pathfinder/adventures" title="Pathfinder &gt; Adventures">Adventures<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-adventures" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/adventurePath" title="Store &gt; Pathfinder &gt; Adventures &gt; Adventure Path">Adventure Path</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/standalone" title="Store &gt; Pathfinder &gt; Adventures &gt; Standalone Adventures">Standalone Adventures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/scenarios" title="Store &gt; Pathfinder &gt; Adventures &gt; Organized Play Scenarios">Organized Play Scenarios</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/first" title="Store &gt; Pathfinder &gt; Adventures &gt; First Edition Adventures">First Edition Adventures</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-setting" type="checkbox" id="terrain-child-pathfinder-setting" />
+											<a href="https://paizo.com/pathfinder/setting" title="Pathfinder &gt; Setting">Setting<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-setting" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-accessories" type="checkbox" id="terrain-child-pathfinder-accessories" />
+											<a href="https://paizo.com/pathfinder/accessories" title="Pathfinder &gt; Accessories">Accessories<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-accessories" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/maps" title="Store &gt; Pathfinder &gt; Accessories &gt; Maps">Maps</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/pawns" title="Store &gt; Pathfinder &gt; Accessories &gt; Pawns">Pawns</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinderbattles" title="Store &gt; Pathfinder &gt; Accessories &gt; Pathfinder Battles">Pathfinder Battles</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/unpainted" title="Store &gt; Pathfinder &gt; Accessories &gt; Unpainted Miniatures">Unpainted Miniatures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/dice" title="Store &gt; Pathfinder &gt; Accessories &gt; Dice">Dice</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/digital" title="Store &gt; Pathfinder &gt; Accessories &gt; Digital Tools">Digital Tools</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/other" title="Store &gt; Pathfinder &gt; Accessories &gt; Other Accessories">Other Accessories</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/first" title="Store &gt; Pathfinder &gt; Accessories &gt; First Edition Accessories">First Edition Accessories</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-fiction" type="checkbox" id="terrain-child-pathfinder-fiction" />
+											<a href="https://paizo.com/pathfinder/fiction" title="Pathfinder &gt; Fiction">Fiction<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-fiction" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-society" type="checkbox" id="terrain-child-pathfinder-society" />
+											<a href="https://paizo.com/pathfinder/society" title="Pathfinder &gt; Organized Play">Organized Play<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-society" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-subscriptions" type="checkbox" id="terrain-child-pathfinder-subscriptions" />
+											<a href="https://paizo.com/pathfinder/subscriptions" title="Pathfinder &gt; Subscriptions">Subscriptions<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-subscriptions" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-compatibility" type="checkbox" id="terrain-child-pathfinder-compatibility" />
+											<a href="https://paizo.com/pathfinder/compatibility" title="Pathfinder &gt; Compatibility">Compatibility<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-compatibility" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-starfinder" type="checkbox" id="terrain-node-starfinder" />
+							<a href="https://paizo.com/starfinder" title="Starfinder">Starfinder<span class="drop-icon">▾</span><label for="terrain-node-starfinder" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-beginnerbox" type="checkbox" id="terrain-child-starfinder-beginnerbox" />
+											<a href="https://paizo.com/starfinder/beginnerbox" title="Starfinder &gt; Beginner Box">Beginner Box<span class="drop-icon">▾</span><label for="terrain-child-starfinder-beginnerbox" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-rulebooks" type="checkbox" id="terrain-child-starfinder-rulebooks" />
+											<a href="https://paizo.com/starfinder/rulebooks" title="Starfinder &gt; Rulebooks">Rulebooks<span class="drop-icon">▾</span><label for="terrain-child-starfinder-rulebooks" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-adventures" type="checkbox" id="terrain-child-starfinder-adventures" />
+											<a href="https://paizo.com/starfinder/adventures" title="Starfinder &gt; Adventures">Adventures<span class="drop-icon">▾</span><label for="terrain-child-starfinder-adventures" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-accessories" type="checkbox" id="terrain-child-starfinder-accessories" />
+											<a href="https://paizo.com/starfinder/accessories" title="Starfinder &gt; Accessories">Accessories<span class="drop-icon">▾</span><label for="terrain-child-starfinder-accessories" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-rules" type="checkbox" id="terrain-child-starfinder-rules" />
+											<a href="https://paizo.com/starfinder/rules" title="Starfinder &gt; Online Rules">Online Rules<span class="drop-icon">▾</span><label for="terrain-child-starfinder-rules" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-society" type="checkbox" id="terrain-child-starfinder-society" />
+											<a href="https://paizo.com/starfinder/society" title="Starfinder &gt; Organized Play">Organized Play<span class="drop-icon">▾</span><label for="terrain-child-starfinder-society" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-subscriptions" type="checkbox" id="terrain-child-starfinder-subscriptions" />
+											<a href="https://paizo.com/starfinder/subscriptions" title="Starfinder &gt; Subscriptions">Subscriptions<span class="drop-icon">▾</span><label for="terrain-child-starfinder-subscriptions" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-compatibility" type="checkbox" id="terrain-child-starfinder-compatibility" />
+											<a href="https://paizo.com/starfinder/compatibility" title="Starfinder &gt; Compatibility">Compatibility<span class="drop-icon">▾</span><label for="terrain-child-starfinder-compatibility" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-faq" type="checkbox" id="terrain-child-starfinder-faq" />
+											<a href="https://paizo.com/starfinder/faq" title="Starfinder &gt; FAQ">FAQ<span class="drop-icon">▾</span><label for="terrain-child-starfinder-faq" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-pacg" type="checkbox" id="terrain-node-pacg" />
+							<a href="https://paizo.com/pacg" title="Adventure Card Game">Adventure Card Game<span class="drop-icon">▾</span><label for="terrain-node-pacg" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-store" type="checkbox" id="terrain-node-store" />
+							<a href="https://paizo.com/store" title="Store">Store<span class="drop-icon">▾</span><label for="terrain-node-store" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-pathfinder" type="checkbox" id="terrain-child-store-pathfinder" />
+											<a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder<span class="drop-icon">▾</span><label for="terrain-child-store-pathfinder" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/rulebooks" title="Store &gt; Pathfinder &gt; Rulebooks">Rulebooks</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures" title="Store &gt; Pathfinder &gt; Adventures">Adventures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/setting" title="Store &gt; Pathfinder &gt; Setting">Setting</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/society" title="Store &gt; Pathfinder &gt; Pathfinder Society">Pathfinder Society</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/fiction" title="Store &gt; Pathfinder &gt; Fiction">Fiction</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories" title="Store &gt; Pathfinder &gt; Accessories">Accessories</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/merch" title="Store &gt; Pathfinder &gt; Merch">Merch</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/compatible" title="Store &gt; Pathfinder &gt; Compatible">Compatible</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/licensed" title="Store &gt; Pathfinder &gt; Licensed">Licensed</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-starfinder" type="checkbox" id="terrain-child-store-starfinder" />
+											<a href="https://paizo.com/store/starfinder" title="Store &gt; Starfinder">Starfinder<span class="drop-icon">▾</span><label for="terrain-child-store-starfinder" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/society" title="Store &gt; Starfinder &gt; Starfinder Society">Starfinder Society</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/rulebooks" title="Store &gt; Starfinder &gt; Rulebooks">Rulebooks</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/adventurePath" title="Store &gt; Starfinder &gt; Adventure Path">Adventure Path</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/accessories" title="Store &gt; Starfinder &gt; Accessories">Accessories</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/merch" title="Store &gt; Starfinder &gt; Merch">Merch</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-pacg" type="checkbox" id="terrain-child-store-pacg" />
+											<a href="https://paizo.com/store/pacg" title="Store &gt; Adventure Card Game">Adventure Card Game<span class="drop-icon">▾</span><label for="terrain-child-store-pacg" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/adventures" title="Store &gt; Adventure Card Game &gt; Adventure Paths">Adventure Paths</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/expansions" title="Store &gt; Adventure Card Game &gt; Expansions">Expansions</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/pacs" title="Store &gt; Adventure Card Game &gt; Pathfinder Adventure Card Society">Pathfinder Adventure Card Society</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/promo" title="Store &gt; Adventure Card Game &gt; Promo Cards">Promo Cards</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/accessories" title="Store &gt; Adventure Card Game &gt; Accessories">Accessories</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-gaming" type="checkbox" id="terrain-child-store-gaming" />
+											<a href="https://paizo.com/store/gaming" title="Store &gt; Gaming">Gaming<span class="drop-icon">▾</span><label for="terrain-child-store-gaming" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/cardBoardGames" title="Store &gt; Gaming &gt; Card & Board Games">Card & Board Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/deckBuildingGames" title="Store &gt; Gaming &gt; Deck Building Games">Deck Building Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/miniatures" title="Store &gt; Gaming &gt; Miniatures">Miniatures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/roleplayingGames" title="Store &gt; Gaming &gt; Roleplaying Games">Roleplaying Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/tradingCardGames" title="Store &gt; Gaming &gt; Trading Card Games">Trading Card Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/traditionalGames" title="Store &gt; Gaming &gt; Traditional Games">Traditional Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/accessories" title="Store &gt; Gaming &gt; Accessories">Accessories</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-books" type="checkbox" id="terrain-child-store-books" />
+											<a href="https://paizo.com/store/books" title="Store &gt; Books">Books<span class="drop-icon">▾</span><label for="terrain-child-store-books" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-apparelGifts" type="checkbox" id="terrain-child-store-apparelGifts" />
+											<a href="https://paizo.com/store/apparelGifts" title="Store &gt; Apparel & Gifts">Apparel & Gifts<span class="drop-icon">▾</span><label for="terrain-child-store-apparelGifts" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-exclusives" type="checkbox" id="terrain-child-store-exclusives" />
+											<a href="https://paizo.com/store/exclusives" title="Store &gt; Exclusives">Exclusives<span class="drop-icon">▾</span><label for="terrain-child-store-exclusives" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-sale" type="checkbox" id="terrain-child-store-sale" />
+											<a href="https://paizo.com/store/sale" title="Store &gt; Sale">Sale<span class="drop-icon">▾</span><label for="terrain-child-store-sale" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/sale/pathfinderCelebration" title="Store &gt; Sale &gt; Pathfinder First Edition Celebration!">Pathfinder First Edition Celebration!</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/sale/goingGoingGone" title="Store &gt; Sale &gt; Going, Going, Gone!">Going, Going, Gone!</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-giftCertificates" type="checkbox" id="terrain-child-store-giftCertificates" />
+											<a href="https://paizo.com/store/giftCertificates" title="Store &gt; eGift Cards">eGift Cards<span class="drop-icon">▾</span><label for="terrain-child-store-giftCertificates" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-subscriptions" type="checkbox" id="terrain-child-store-subscriptions" />
+											<a href="https://paizo.com/store/subscriptions" title="Store &gt; Subscriptions">Subscriptions<span class="drop-icon">▾</span><label for="terrain-child-store-subscriptions" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-organizedplay" type="checkbox" id="terrain-node-organizedplay" />
+							<a href="https://paizo.com/organizedplay" title="Organized Play">Organized Play<span class="drop-icon">▾</span><label for="terrain-node-organizedplay" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-pathfinderSociety" type="checkbox" id="terrain-child-organizedplay-pathfinderSociety" />
+											<a href="https://paizo.com/pathfinderSociety" title="Organized Play &gt; Pathfinder Society">Pathfinder Society<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-pathfinderSociety" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-starfindersociety" type="checkbox" id="terrain-child-organizedplay-starfindersociety" />
+											<a href="https://paizo.com/starfindersociety" title="Organized Play &gt; Starfinder Society">Starfinder Society<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-starfindersociety" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-pacs" type="checkbox" id="terrain-child-organizedplay-pacs" />
+											<a href="https://paizo.com/pacs" title="Organized Play &gt; Adventure Card Society">Adventure Card Society<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-pacs" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-myAccount" type="checkbox" id="terrain-child-organizedplay-myAccount" />
+											<a href="https://paizo.com/organizedplay/myAccount" title="Organized Play &gt; My Organized Play">My Organized Play<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-myAccount" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-events" type="checkbox" id="terrain-child-organizedplay-events" />
+											<a href="https://paizo.com/organizedplay/events" title="Organized Play &gt; Events">Events<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-events" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-coordinators" type="checkbox" id="terrain-child-organizedplay-coordinators" />
+											<a href="https://paizo.com/organizedplay/coordinators" title="Organized Play &gt; Coordinators">Coordinators<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-coordinators" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-policies" type="checkbox" id="terrain-child-organizedplay-policies" />
+											<a href="https://paizo.com/organizedplay/policies" title="Organized Play &gt; Policies">Policies<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-policies" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-faq" type="checkbox" id="terrain-child-organizedplay-faq" />
+											<a href="https://paizo.com/organizedplay/faq" title="Organized Play &gt; FAQ">FAQ<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-faq" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-community" type="checkbox" id="terrain-node-community" />
+							<a href="https://paizo.com/community" title="Community">Community<span class="drop-icon">▾</span><label for="terrain-node-community" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-blog" type="checkbox" id="terrain-child-community-blog" />
+											<a href="https://paizo.com/community/blog" title="Community &gt; Paizo Blog">Paizo Blog<span class="drop-icon">▾</span><label for="terrain-child-community-blog" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-forums" type="checkbox" id="terrain-child-community-forums" />
+											<a href="https://paizo.com/community/forums" title="Community &gt; Forums">Forums<span class="drop-icon">▾</span><label for="terrain-child-community-forums" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/paizo" title="Community &gt; Forums &gt; Paizo">Paizo</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/pathfinder" title="Community &gt; Forums &gt; Pathfinder">Pathfinder</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/starfinder" title="Community &gt; Forums &gt; Starfinder">Starfinder</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/organizedPlay" title="Community &gt; Forums &gt; Organized Play">Organized Play</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/campaigns" title="Community &gt; Forums &gt; Online Campaigns">Online Campaigns</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/gamerLife" title="Community &gt; Forums &gt; Gamer Life">Gamer Life</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-paizocon" type="checkbox" id="terrain-child-community-paizocon" />
+											<a href="https://paizo.com/paizocon" title="Community &gt; PaizoCon">PaizoCon<span class="drop-icon">▾</span><label for="terrain-child-community-paizocon" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-communityuse" type="checkbox" id="terrain-child-community-communityuse" />
+											<a href="https://paizo.com/community/communityuse" title="Community &gt; Community Use">Community Use<span class="drop-icon">▾</span><label for="terrain-child-community-communityuse" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-guidelines" type="checkbox" id="terrain-child-community-guidelines" />
+											<a href="https://paizo.com/community/guidelines" title="Community &gt; Guidelines">Guidelines<span class="drop-icon">▾</span><label for="terrain-child-community-guidelines" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					                    
+                    <li class="mobile-help">
+                        <div>
+                            <h1>Need Help?</h1>
+                            <p>Mon–Fri, 10:00 a.m. to 5:00 p.m. Pacific</p>
+                            <p><a href="tel:14252500800">(425) 250-0800</a></p>
+                            <p><a href="mailto:customer.service@paizo.com">customer.service@paizo.com</a></p>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <aside class="nav-left"></aside>
+        <aside class="nav-logo"><a href="/"></a></aside>
+        <aside class="nav-right"></aside>
+        <div class="nav-bottom"></div>
+</header>
+			<main class="ctf pathfinder society scenario #1-01-ctf">
+				<ul class="context-menu">
+					
+						<li><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></li>
+					
+						<li><a href="https://paizo.com/store/starfinder" title="Store &gt; Starfinder">Starfinder</a></li>
+					
+						<li><a href="https://paizo.com/store/pacg" title="Store &gt; Adventure Card Game">Adventure Card Game</a></li>
+					
+						<li><a href="https://paizo.com/store/gaming" title="Store &gt; Gaming">Gaming</a></li>
+					
+						<li><a href="https://paizo.com/store/books" title="Store &gt; Books">Books</a></li>
+					
+						<li><a href="https://paizo.com/store/apparelGifts" title="Store &gt; Apparel & Gifts">Apparel & Gifts</a></li>
+					
+						<li><a href="https://paizo.com/store/exclusives" title="Store &gt; Exclusives">Exclusives</a></li>
+					
+						<li><a href="https://paizo.com/store/sale" title="Store &gt; Sale">Sale</a></li>
+					
+						<li><a href="https://paizo.com/store/giftCertificates" title="Store &gt; eGift Cards">eGift Cards</a></li>
+					
+						<li><a href="https://paizo.com/store/subscriptions" title="Store &gt; Subscriptions">Subscriptions</a></li>
+					
+				</ul>
+				<table class = "table-align-top" style = "width: 100%;">
+					<tr>
+						<td id = "main-slot">
+							<div class = "tiny" style = "clear: both; overflow: hidden;">
+								
+									<div class = "pull-right">
+										
+											
+												<a title="Subscribe to reviews of this product" href="https://paizo.com/products/btq01znb/reviews&xml=atom?Pathfinder-Society-Scenario-101-The-Absalom-Initiation">
+	<img alt="RSS" border="0" src="https://paizo.com/image/button/rss.png" />
+	
+</a>
+											
+												<a title="Subscribe to recent posts in this product's discussion" href="https://paizo.com/products/btq01znb/posts&xml=atom?Pathfinder-Society-Scenario-101-The-Absalom-Initiation">
+	<img alt="RSS" border="0" src="https://paizo.com/image/button/rss.png" />
+	
+</a>
+											
+										
+										
+											
+    <a target="_blank" title="Share this product on Facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpaizo.com%2F-btq01znb&t=Pathfinder+Society+Scenario+%231-01%3A+The+Absalom+Initiation">
+    	<img alt="Facebook" src="/image/button/facebook.png" />
+    </a>
+    <a target="_blank" title="Share this product via Twitter" href="http://twitter.com/home?status=Pathfinder+Society+Scenario+%231-01%3A+The+Absalom+Initiation%3A+https%3A%2F%2Fpaizo.com%2F-btq01znb">
+    	<img alt="Twitter" src="/image/button/twitter.png" />
+    </a>
+    <a target="_blank" title="Email this product " href="mailto:?subject=Pathfinder%20Society%20Scenario%20%231-01:%20The%20Absalom%20Initiation&body=Check%20this%20out%20on%20paizo.com:%0A%0APathfinder%20Society%20Scenario%20%231-01:%20The%20Absalom%20Initiation%0A%0Ahttps://paizo.com/-btq01znb">
+    	<img alt="Email" src="/image/button/email.png" />
+    </a>
+
+										
+										
+									</div>
+								
+								
+									<span itemprop = "breadcrumb" class = "pull-left">
+										
+										
+  
+    
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+        <SPAN class="tiny"> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/store/pathfinder/society" title="Store &gt; Pathfinder &gt; Pathfinder Society">Pathfinder Society</a></SPAN>
+        
+      
+      
+      
+        <SPAN class="tiny"> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN class="current-node"><a href="https://paizo.com/store/pathfinder/society/season1" title="Store &gt; Pathfinder &gt; Pathfinder Society &gt; Season 1: Year of the Open Road">Season 1: Year of the Open Road</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+										
+									</span>
+								
+							</div>
+							
+							
+
+
+							
+								
+								
+									
+  
+  
+  
+  
+
+  
+    
+    
+      
+  
+    <div  id="product" style="overflow: visible;" updateUrl="/cgi-bin/WebObjects/Store.woa/81/ajax/D1oaJC4WXtudXotHos1WIg/0.StandardPageTemplate.1.15.11.3.1.7.0.0.2.1.3.1.0.com_paizo_appserver_components_ProductDisplay.1.1">
+      
+      
+      <div itemscope="itemscope" itemtype="http://schema.org/Product" class="product">
+        
+          <h1 itemprop="name">Pathfinder Society Scenario #1-01: The Absalom Initiation</h1>
+        
+        
+          <span itemprop="manufacturer" itemscope itemtype="http://schema.org/Organization">
+            <a href="https://paizo.com/companies/paizoPublishingLLC" itemprop="url" title="More products by this manufacturer">
+              <h4 itemprop="name">Paizo Inc.</h4>
+            </a>
+          </span>
+        
+        
+
+	<span itemprop = "aggregateRating" itemscope itemtype = "http://schema.org/AggregateRating">
+		<meta itemprop="ratingValue" content="4.20" />
+		<span itemprop = "ratingValue">
+		
+    <span class="referenceable">
+      <span class = "stars">
+        <img border = "0" alt = 4.20/5 stars height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/emptystar2.gif" width = "12" />
+      </span>
+   </span>
+   
+ 
+
+		</span>
+		
+			
+			<span class = "tiny"><i>(based on <span itemprop = "reviewCount">6</span> ratings)</i></span>
+		
+	</span>
+
+        
+        
+        
+        
+        
+        <div class="product-purchase-block">
+          
+            
+          
+          
+            
+            
+              <div class="product-image"> 
+	<a target="_blank" href="//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0101E.jpg">
+		<img width="180" height="233" alt="Pathfinder Society Scenario #1-01: The Absalom Initiation" src="//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0101E_180.jpeg" />
+	</a>
+ </div>
+            
+          
+          <div itemprop="offers"> <div  id="aucgid_v5748btq01znb" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/priceBlock?product=v5748btq01znb">
+  
+  
+  <div id="busyaucgid_v5748btq01znb" style="display: none; float: right; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busyaucgid_v5748btq01znb', 'aucgid_v5748btq01znb', null, null)</script>
+
+  <div class="price-block">
+    
+    
+      <p>
+        Our Price:
+        <span class="dark-red"><b>$4.99</b></span>
+      </p>
+    
+    
+    
+    
+    
+    
+      
+        
+          
+          
+            
+            
+            
+              
+               <a  href="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Cart/addToCart?product=v5748btq01znb&amp;_r=true" onclick="new Ajax.Updater('aucgid_v5748btq01znb', 'https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Cart/addToCart?product=v5748btq01znb&amp;_r=true', {asynchronous:true, method:'get', evalScripts:true});return false;" class="button">Add to Cart</a> 
+            
+          
+          
+        
+        
+      
+    
+    
+    
+      
+    
+  </div>
+</div><script>AUC.register('aucgid_v5748btq01znb');</script> </div>
+          
+    <a target="_blank" title="Share this product on Facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpaizo.com%2F-btq01znb&t=Pathfinder+Society+Scenario+%231-01%3A+The+Absalom+Initiation">
+    	<img alt="Facebook" src="/image/button/facebook.png" />
+    </a>
+    <a target="_blank" title="Share this product via Twitter" href="http://twitter.com/home?status=Pathfinder+Society+Scenario+%231-01%3A+The+Absalom+Initiation%3A+https%3A%2F%2Fpaizo.com%2F-btq01znb">
+    	<img alt="Twitter" src="/image/button/twitter.png" />
+    </a>
+    <a target="_blank" title="Email this product " href="mailto:?subject=Pathfinder%20Society%20Scenario%20%231-01:%20The%20Absalom%20Initiation&body=Check%20this%20out%20on%20paizo.com:%0A%0APathfinder%20Society%20Scenario%20%231-01:%20The%20Absalom%20Initiation%0A%0Ahttps://paizo.com/-btq01znb">
+    	<img alt="Email" src="/image/button/email.png" />
+    </a>
+
+        </div>
+        
+          
+        
+        <div itemprop="description"> <p>A Pathfinder Society Scenario designed for levels 1&ndash;4 (Subtiers 1&ndash;2 and 3&ndash;4).</p>
+
+<p>A new era is beginning for the Pathfinder Society, with new recruits and new factions all excited to build connections and embark on grand adventures. The PCs are among these recruits invited to attend a welcoming party where they can meet both the old guard as well as the up-and-coming leaders. But the party's not all talk; the PCs learn of four exciting escapades in Absalom, through which they can kick off their adventuring careers!</p>
+
+<p>This adventure's individual missions include numerous variations that make each play-through exciting and different.</p>
+
+<p>Written by Lyz Liddell.</p>
+
+<p><strong>Scenario Tags</strong>: Repeatable</p> </div>
+        
+        
+        
+        
+        
+          <div class="callout-block">
+            <p>
+              <b>Note:</b>
+              This product is part of the 
+              <a href="https://paizo.com/products/btpy9n31?Pathfinder-Society-Scenario-Subscription" title="Step into the world of the Pathfinder Society Roleplaying Guild! Each Roleplaying Guild scenario follows the course of agents of the Pathfinder Society, as...">Pathfinder Society Scenario Subscription</a>.</p>
+          </div>
+        
+        
+        
+        
+        
+          
+            
+            
+            <h3 class="spaced-header-small">Product Availability <hr /></h3>
+            
+              <p>
+                
+                <p>
+  
+  
+    
+  
+</p>
+<p>
+   Fulfilled immediately. 
+</p>
+<p></p>
+  
+              </p>
+            
+          
+          
+        
+        <p class="tiny" style="text-align: center; clear: both;">Are there errors or omissions in this product information? Got corrections? Let us know at 
+          <a href="mailto:store@paizo.com?subject=Pathfinder%20Society%20Scenario%20%231-01:%20The%20Absalom%20Initiation">store@paizo.com</a>.</p>
+        <p class="tiny" itemprop="productID" style="text-align: right;">PZOPFS0101E</p>
+      </div>
+      
+      
+
+	<hr />
+	<h3>See Also:</h3>
+	<blockquote>
+	<ul>
+		
+			<li>
+				
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/pathfinder" title="Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(3,261)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/byCompany/p/paizoInc" title="Store &gt; By Company &gt; P &gt; Paizo Inc">Paizo Inc</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(8,916)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/gaming" title="Store &gt; Gaming">Gaming</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/gaming/roleplayingGames" title="Store &gt; Gaming &gt; Roleplaying Games">Roleplaying Games</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(12,517)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder/adventures" title="Store &gt; Pathfinder &gt; Adventures">Adventures</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(1,342)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder/society" title="Store &gt; Pathfinder &gt; Pathfinder Society">Pathfinder Society</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder/society/season1" title="Store &gt; Pathfinder &gt; Pathfinder Society &gt; Season 1: Year of the Open Road">Season 1: Year of the Open Road</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(8)
+					</span>
+				
+			</li>
+		
+	</ul>
+	</blockquote>
+
+      
+        
+          <hr />
+          <div class="tiny">
+            
+              &lt;&lt; 
+              <a href="https://paizo.com/products/btq01yz0?Pathfinder-Society-Scenario-1022-Passing-the-Torch-Part-1-Who-Wears-the-Mask" title="A Pathfinder Society Scenario designed for levels 12–18 (Subtiers 12–13, 14–15, and 17–18). For more than a decade, the infamous information broker, former Pathfinder, and thoroughly..."> Pathfinder Society Scenario #10-22—Passing the Torch, Part 1: Who Wears the Mask </a>
+              <br />
+            
+            <span style="float: right;">
+              
+                <a href="https://paizo.com/products/btq01zna?Pathfinder-Society-Scenario-100-Origin-of-the-Open-Road" title="A Pathfinder Society Scenario designed for level 5 pregenerated characters. Over recent decades, numerous incidents at the Pathfinder Society's Grand Lodge in Absalom have damaged the..."> Pathfinder Society Scenario #1-00: Origin of the Open Road </a>
+                <a href="https://paizo.com/products/btq01zna?Pathfinder-Society-Scenario-100-Origin-of-the-Open-Road" title="A Pathfinder Society Scenario designed for level 5 pregenerated characters. Over recent decades, numerous incidents at the Pathfinder Society's Grand Lodge in Absalom have damaged the..."></a>
+              &gt;&gt; 
+            </span>
+          </div>
+          <hr />
+        
+      
+      
+        
+          <a name="tabs"></a>
+          <div class="tabs">
+  
+    <div class="tab">
+      
+       <input name="tab-group-null" type="radio" id="tab-ProductReviews" /> 
+      <label for="tab-ProductReviews">Product Reviews (6)</label>
+      <div class="tab-content">
+            <div itemprop="reviews"> 
+                
+<a name = "reviews"></a>
+<div  id="auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+	
+		<div class = "tiny" style = "text-align: right;">
+			<form method="post" style="display:inline;" enctype="multipart/form-data" action="/cgi-bin/WebObjects/Store.woa/81/wo/D1oaJC4WXtudXotHos1WIg/0.StandardPageTemplate.1.15.11.3.1.7.0.0.2.1.3.1.0.com_paizo_appserver_components_ProductDisplay.1.1.13.1.1.1.0.7.1.1.ProductReviewDisplay.2.1.1">
+				<label for = "sort" class = "sortByLabel">Sort by</label>
+				<select id="reviewSorter" name="sort"><option selected="selected" value="0">Newest First</option><option value="1">Oldest First</option><option value="2">Highest Rating First</option><option value="3">Lowest Rating First</option></select>
+				<script>ASB.observeField('auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2', 'reviewSorter', null, true, null, {_asbn:'StandardPageTemplate.1.15.11.3.1.7.0.0.2.1.3.1.0.com_paizo_appserver_components_ProductDisplay.1.1.13.1.1.1.0.7.1.1.ProductReviewDisplay.2.1.1.3'});</script>
+			</form>
+		</div>
+	 
+	
+
+  
+    <table border = "0" cellspacing = "0" width = "100%" cellpadding = "0">
+      <tr>
+        <td align = "LEFT" class = "tiny">
+          1
+          to 5
+          of 
+          6
+        </td>
+        <td></td>
+        <td align = "RIGHT" class = "tiny">
+          <nobr>
+            &lt;&lt; first
+          </nobr>
+          <nobr>
+            &lt; prev
+          </nobr>
+          | 
+          
+            
+            
+              1
+            
+            | 
+          
+            
+              <a href="https://paizo.com/products/btq01znb/reviews&page=2?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="A Pathfinder Society Scenario designed for levels 1-4 (Subtiers 1-2 and 3-4). A new era is beginning for the Pathfinder Society, with new recruits and new factions...">2</a>
+            
+            
+            | 
+          
+          <nobr>
+            <a href="https://paizo.com/products/btq01znb/reviews&page=2?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="A Pathfinder Society Scenario designed for levels 1-4 (Subtiers 1-2 and 3-4). A new era is beginning for the Pathfinder Society, with new recruits and new factions...">next &gt;</a>
+          </nobr>
+          <nobr>
+            <a href="https://paizo.com/products/btq01znb/reviews&page=last?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="A Pathfinder Society Scenario designed for levels 1-4 (Subtiers 1-2 and 3-4). A new era is beginning for the Pathfinder Society, with new recruits and new factions...">last &gt;&gt;</a>
+          </nobr>
+        </td>
+      </tr>
+    </table>
+  
+
+
+	
+		<h3>Average product rating:</h3>
+		
+
+	<span itemprop = "aggregateRating" itemscope itemtype = "http://schema.org/AggregateRating">
+		<meta itemprop="ratingValue" content="4.20" />
+		<span itemprop = "ratingValue">
+		
+    <span class="referenceable">
+      <span class = "stars">
+        <img border = "0" alt = 4.20/5 stars height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/emptystar2.gif" width = "12" />
+      </span>
+   </span>
+   
+ 
+
+		</span>
+		
+			
+			<span class = "tiny"><i>(based on <span itemprop = "reviewCount">6</span> ratings)</i></span>
+		
+	</span>
+
+		<hr />
+	
+	
+	
+		<p><a href="/cgi-bin/WebObjects/Store.woa/wa/signIn?path=products/btq01znb">Sign in</a> to create or edit a product review.</p>
+	
+	
+		<div itemscope itemtype = "http://schema.org/Review" style = "overflow: hidden;">
+			<div class = "tiny">
+				
+				
+				  
+					  <h4>Best Scenario with Janira</h4>
+				  
+				  
+    <span class="referenceable">
+      <span class = "stars">
+        <img border = "0" alt = 4/5 stars height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/emptystar2.gif" width = "12" />
+      </span>
+   </span>
+   
+ 
+
+				  <span itemprop = "author" itemscope itemtype = "http://schema.org/Person">
+					  <b><a href="https://paizo.com/people/SavingCapnCrunch/reviews" itemprop="url" title="Saving Cap'n Crunch aka GM Crunch">Saving Cap'n Crunch</a></b>
+					  
+				  </span>
+			   <span class = "post-date">&mdash; <time datetime="2019-09-18T00:50:16Z" itemprop="dateCreated">Tuesday, 05:50 pm</time></span>
+			 
+			</div>
+			<br />
+			
+			<div class = "messageboard" itemprop = "reviewBody">
+				<p>I have run this twice with four level 1 players, with the intent to do it again in the future. A solid scenario all around.</p>
+
+<p>The socializing didn't seem to take very long for me. I don't think I botched it either. Didn't go more in-depth than the PCs should know, but dredged up some info on the guests for them to play around with. Guess it just depends.</p>
+
+<p>I liked the encounter at the Blakros Museum: Multifaceted, with a place for everyone, and a foe with a fun weakness to tell players. <b>"Cast <i>light</i> on the fighter's sword, go nuts."</b> The fight can go anywhere between easy and catastrophic (mostly for the NPCs). I didn't like that things were occuring throughout the museum, visually nice as it was. I thought it would've helped to draw the whole map to display the experience, which I am awful at. And there was only the one use of the map, in a circular room.</p>
+
+<p>The customization and replay value are good. Fights that can (and often should) be avoided are difficult, giving more chance for challenge.</p>
+
+<p>Some pieces are traps for the GM that look fun, but clearly detract from the player experience and chance of success. Like one of the mob encounters that's harder to quell. It's fun to throw trash and chamber pots (and hazards still have their obscene to-hit from PF1 and SF, which combos with critical hits now). But it has lethal potential and is almost guaranteed to reduce their chance at the secondary success, because they have to resort to violence.</p>
+			</div>
+			
+			       
+			  		
+			
+			
+		<hr style = "clear: both;" />
+	</div>
+
+		<div itemscope itemtype = "http://schema.org/Review" style = "overflow: hidden;">
+			<div class = "tiny">
+				
+				
+				  
+					  <h4>fun but flawed</h4>
+				  
+				  
+    <span class="referenceable">
+      <span class = "stars">
+        <img border = "0" alt = 2/5 stars height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/emptystar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/emptystar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/emptystar2.gif" width = "12" />
+      </span>
+   </span>
+   
+ 
+
+				  <span itemprop = "author" itemscope itemtype = "http://schema.org/Person">
+					  <b><a href="https://paizo.com/people/gnoams/reviews" itemprop="url" title="gnoams">gnoams</a></b>
+					  
+				  </span>
+			   <span class = "post-date">&mdash; <time datetime="2019-09-17T21:28:16Z" itemprop="dateCreated">Tuesday, 02:28 pm</time></span>
+			 
+			</div>
+			<br />
+			
+			<div class = "messageboard" itemprop = "reviewBody">
+				<p>As an early scenario for the new edition, this runs into many of the same troubles they had in the first scenarios of PF1. Namely that they haven't quite figured out how to balance things appropriately yet. DCs are all over the board from easy to impossibly high for 1st level characters. Fights also range from easy enemies to monsters that one shot players on a normal hit and instakill them on crits. Having only enemies that were immune to mind affecting led to one player calling it his "worst roleplaying experience ever." </p>
+
+<p>The scenario is way too long, running at 5 hours with the GM skipping and rushing through sections to reduce the play time. Especially as a so called intro scenario, where extra time should be allotted for new players learning the rules. </p>
+
+<p>However, if you can get past these flaws, the scenario itself is great. I had a good time playing it.</p>
+			</div>
+			
+			       
+			  		
+			
+			
+		<hr style = "clear: both;" />
+	</div>
+
+		<div itemscope itemtype = "http://schema.org/Review" style = "overflow: hidden;">
+			<div class = "tiny">
+				
+				
+				  
+					  <h4>A home Run</h4>
+				  
+				  
+    <span class="referenceable">
+      <span class = "stars">
+        <img border = "0" alt = 5/5 stars height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" />
+      </span>
+   </span>
+   
+ 
+
+				  <span itemprop = "author" itemscope itemtype = "http://schema.org/Person">
+					  <b><a href="https://paizo.com/people/ChrisWimmer/reviews" itemprop="url" title="Chris Wimmer">Chris Wimmer</a></b>
+					  
+				  </span>
+			   <span class = "post-date">&mdash; <time datetime="2019-09-03T05:13:33Z" itemprop="dateCreated">Mon, Sep 2, 2019, 10:13 pm</time></span>
+			 
+			</div>
+			<br />
+			
+			<div class = "messageboard" itemprop = "reviewBody">
+				<p>I have both played and GMed this.  I think that it gives a lot of great introduction content to both the Society itself and to our fair home city of Absalom.  A clear PFS2 spiritual successor to First Steps.</p>
+
+<p>The other reviews cover things well, so I will keep it brief.</p>
+
+<p>Start your PFS2 career here!</p>
+			</div>
+			
+			       
+			  		
+			
+			
+		<hr style = "clear: both;" />
+	</div>
+
+		<div itemscope itemtype = "http://schema.org/Review" style = "overflow: hidden;">
+			<div class = "tiny">
+				
+				
+				  
+					  <h4>A win for Players and GMs!</h4>
+				  
+				  
+    <span class="referenceable">
+      <span class = "stars">
+        <img border = "0" alt = 5/5 stars height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" />
+      </span>
+   </span>
+   
+ 
+
+				  <span itemprop = "author" itemscope itemtype = "http://schema.org/Person">
+					  <b><a href="https://paizo.com/people/KitsuneWarlock/reviews" itemprop="url" title="KitsuneWarlock">KitsuneWarlock</a></b>
+					  
+				  </span>
+			   <span class = "post-date">&mdash; <time datetime="2019-08-15T15:11:01Z" itemprop="dateCreated">Aug 15, 2019, 08:11 am</time></span>
+			 
+			</div>
+			<br />
+			
+			<div class = "messageboard" itemprop = "reviewBody">
+				<p>The hall was a great roleplaying experience, surprisingly moreso for the players who have never played Pathfinder Society before! The ability to fail lore checks and go into the party thinking Morilla is an agent of Cheliax is absolutely wonderful. And I'm glad to see so many of my favorites there, giving us a chance to catch up on what's happening and introduce players to the four-to-six major factions!</p>
+
+<p>The ship encounter was a great opportunity to teach new players that the Pathfinders aren't always murderhobos, while tying the story to a past arc. I was able to sculpt the adventure around giving one of our youngest and newest players an opportunity to shine, and I really appreciated that versatility.</p>
+
+<p>The haunted house was quite unnerving for several of our experienced players, especially with the new rules for confusion! I've heard terrible things about the hand-trap and it can do quite a bit of damage, but the activation is very generous (a specific player has to enter the room twice in a 24-hour period) and it only goes off once, so the party should be able to recover the player and drag them off to safety. Plus it's nice that you can detect haunts without spamming "detect undead".</p>
+
+<p>The mob provided more excellent roleplaying opportunities while highlighting the versatility of the monster creation rules in PF2, but was the least memorable part of the scenario for our group.</p>
+
+<p>The encounter in the Blackros Museum was the highlight and what I'll focus on most here. It has received mixed reviews. The encounter has an out-of-control ritual slogging everyone participating for a significant chunk of damage each turn. The only way to turn off the ritual is to succeed at a very high skill check or kill up to three durable enemies while the ritual damages everyone in the room attempting to fix it. People have complained that the high DC and being zapped by the ritual each round discourages people from trying the skill checks, but I think this is a prime example of past system mastery getting in the way of seeing how well the encounter highlights the action economy.</p>
+
+<p>First you have the reaction, allowing martial characters to protect their skillful compatriots by jumping in front of the negative energy. The ease by which a product can give a balanced action to players like this helps show off the strengths of the system’s modularity only possible thanks to the action economy.</p>
+
+<p>Second, you have three actions per turn, and thus up to three attempts at that high DC skill check. Yes, the ritual will damage you, but when you only have to resolve 1-3 checks to stop it, being able to throw 12-18 skill checks looking for a 16-18 isn’t that unreasonable.</p>
+
+<p>Third, you have three actions! That means you can attack the shadows with your first two attacks, then attempt a skill check or quaff a potion or throw a heal with the second. Heck, if the pulse of negative energy is that scary you can even use your three actions to run into the room, attempt a skill check, then run out of the room before the end of the round!</p>
+
+<p>I know it will take players time to adjust to the new system, and typical norms of the First Edition need to be forgotten and relearned through the lens of our new paradigm. It’s painful watching the most experienced players get hit the hardest and be the most likely to recommend staying with the system they are more familiar with. The proficiency system, dying rules and action economy give more leeway for scenario authors to provide players with more diverse sets of more difficult challenges. In every second edition game I’ve run so far, the players honestly felt like they could very well be facing a total party wipe! And yet, in every game I’ve run so far the players have achieved their primary and secondary success conditions without a single death! A game that can provide that gripping sense of fear and yet give even the newest players the tools to overcome the game’s challenges is one balanced to favor fun.</p>
+
+<p>And that’s a win for both sides of the screen.</p>
+			</div>
+			
+			       
+			  		
+			
+			
+		<hr style = "clear: both;" />
+	</div>
+
+		<div itemscope itemtype = "http://schema.org/Review" style = "overflow: hidden;">
+			<div class = "tiny">
+				
+				
+				  
+					  <h4>Mini-quest scenario.</h4>
+				  
+				  
+    <span class="referenceable">
+      <span class = "stars">
+        <img border = "0" alt = 4/5 stars height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/fullstar2.gif" width = "12" /><img border = "0" alt = "" height = "13" src = "https://paizo.com/image/product/ratings/emptystar2.gif" width = "12" />
+      </span>
+   </span>
+   
+ 
+
+				  <span itemprop = "author" itemscope itemtype = "http://schema.org/Person">
+					  <b><a href="https://paizo.com/people/DMLivgin/reviews" itemprop="url" title="DM Livgin">DM Livgin</a></b>
+					  
+				  </span>
+			   <span class = "post-date">&mdash; <time datetime="2019-08-12T17:14:16Z" itemprop="dateCreated">Aug 12, 2019, 10:14 am</time></span>
+			 
+			</div>
+			<br />
+			
+			<div class = "messageboard" itemprop = "reviewBody">
+				<p>Good scenario. Page ate my review.</p>
+
+<p>Shout out to the Blakros section. It was a great use of the new action and skill system.</p>
+			</div>
+			
+			       
+			  		
+			
+			
+		<hr style = "clear: both;" />
+	</div>
+
+	
+		
+
+  
+    <table border = "0" cellspacing = "0" width = "100%" cellpadding = "0">
+      <tr>
+        <td align = "LEFT" class = "tiny">
+          1
+          to 5
+          of 
+          6
+        </td>
+        <td></td>
+        <td align = "RIGHT" class = "tiny">
+          <nobr>
+            &lt;&lt; first
+          </nobr>
+          <nobr>
+            &lt; prev
+          </nobr>
+          | 
+          
+            
+            
+              1
+            
+            | 
+          
+            
+              <a href="https://paizo.com/products/btq01znb/reviews&page=2?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="A Pathfinder Society Scenario designed for levels 1-4 (Subtiers 1-2 and 3-4). A new era is beginning for the Pathfinder Society, with new recruits and new factions...">2</a>
+            
+            
+            | 
+          
+          <nobr>
+            <a href="https://paizo.com/products/btq01znb/reviews&page=2?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="A Pathfinder Society Scenario designed for levels 1-4 (Subtiers 1-2 and 3-4). A new era is beginning for the Pathfinder Society, with new recruits and new factions...">next &gt;</a>
+          </nobr>
+          <nobr>
+            <a href="https://paizo.com/products/btq01znb/reviews&page=last?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="A Pathfinder Society Scenario designed for levels 1-4 (Subtiers 1-2 and 3-4). A new era is beginning for the Pathfinder Society, with new recruits and new factions...">last &gt;&gt;</a>
+          </nobr>
+        </td>
+      </tr>
+    </table>
+  
+
+
+	
+</div><script>AUC.register('auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2');</script> 
+              </div>
+             </div>
+    </div>
+  
+    <div class="tab">
+       <input name="tab-group-null" type="radio" checked="true" id="tab-ProductDiscussion" /> 
+      
+      <label for="tab-ProductDiscussion">Product Discussion (54)</label>
+      <div class="tab-content">
+             
+                <div  id="auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+  
+  
+
+
+  
+  
+    
+    
+      
+
+      
+
+      <table width="100%">
+        <tr>
+          <td valign="middle">
+            
+          </td>
+          <td valign="bottom" width="140" class="search" align="right"> 
+
+
+	<div class="box search">
+		
+			<div class="box-title">
+        		
+          			
+          				<span class="box-title-text">
+          					Search Thread
+          				</span>
+          			
+        		
+        		
+        		
+        		
+  			</div>
+  		
+  		<div class="box-content ">
+  			
+	<form method="GET" action="/search" class="tiny" style="display:inline">
+		
+			<p class = "collapse">
+				
+				Search this Thread:
+				
+			</p>
+		
+		<input name="q" size="30" placeholder="Search" type="text" maxLength="256" id="searchBoxmain" />
+		
+			
+		
+		<input type = "submit" value = "Search" />
+		<div class="autocomplete" id="searchSuggestionsmain" style="display: none;"></div>
+		
+		
+		
+			<input type="hidden" value="v5748rzs42ljy" name="thread" />
+		
+		
+	</form>
+
+  		</div>
+  	</div>
+
+<script language="JavaScript" type="text/javascript">
+new Ajax.Autocompleter("searchBoxmain", "searchSuggestionsmain", "/cgi-bin/WebObjects/SearchSupport.woa/wa/SearchSupport/getMoreTermSuggestions", { method: 'get', minChars: 2, paramName: 'query', noSetWidth: true, selectFirst: false, frequency: 0.3 });
+</script> </td>
+        </tr>
+      </table>
+      
+
+  
+    <table border = "0" cellspacing = "0" width = "100%" cellpadding = "0">
+      <tr>
+        <td align = "LEFT" class = "tiny">
+          1
+          to 50
+          of 
+          54
+        </td>
+        <td></td>
+        <td align = "RIGHT" class = "tiny">
+          <nobr>
+            &lt;&lt; first
+          </nobr>
+          <nobr>
+            &lt; prev
+          </nobr>
+          | 
+          
+            
+            
+              1
+            
+            | 
+          
+            
+              <a href="https://paizo.com/products/btq01znb/discuss&page=2?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="(Product Discussion) Any map info yet?">2</a>
+            
+            
+            | 
+          
+          <nobr>
+            <a href="https://paizo.com/products/btq01znb/discuss&page=2?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="(Product Discussion) Any map info yet?">next &gt;</a>
+          </nobr>
+          <nobr>
+            <a href="https://paizo.com/products/btq01znb/discuss&page=last?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#tabs" title="(Product Discussion) Any map info yet?">last &gt;&gt;</a>
+          </nobr>
+        </td>
+      </tr>
+    </table>
+  
+
+
+      
+
+
+  
+    
+      
+      
+
+
+	<div class="bordered-box messageboard-box" style="background-color: null;">
+	
+	
+		<div class="bb-content">
+			
+        <div class = "post">
+          
+            
+            
+              
+            
+          
+            
+            
+              
+                <div id="mprd_post_v5748gbitd3jo">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20039732"></A>
+                <A name="1"></A>
+                 <img alt="The Exchange" src="https://paizo.com/image/content/PathfinderSociety/TheExchange_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/MarcWaschle" itemprop="url" title="Marc Waschle aka Thadeaus Grimm"> Marc Waschle </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#1" title="Link to this post"> <time datetime="2019-06-17T11:54:41Z" itemprop="commentTime">Jun 17, 2019, 04:54 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitd3jo" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="faq-flag-dotted" id="faqv5748gbitd3jo">
+                        
+                       1 person marked this as a favorite. 
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Adventure Path, Lost Omens, Pathfinder Accessories, Rulebook Subscriber; Starfinder Charter Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/MarcWaschle" itemprop="url" title="Marc Waschle aka Thadeaus Grimm"> 
+	
+		<img width="90" height="90" alt="Holy Guide" src="//cdn.paizo.com/image/avatar/PZO1129-HolyGuide.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Any map info yet?</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitdisa">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20059482"></A>
+                <A name="2"></A>
+                
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/NOAHMICKEL" itemprop="url" title="NOAH MICKEL"> NOAH MICKEL </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#2" title="Link to this post"> <time datetime="2019-06-23T00:28:14Z" itemprop="commentTime">Jun 22, 2019, 05:28 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitdisa" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-hidden">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitdisa">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/NOAHMICKEL" itemprop="url" title="NOAH MICKEL">  </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Seconded on maps.</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitdst4">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20072472"></A>
+                <A name="3"></A>
+                
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/BlakesTiger" itemprop="url" title="Blake's Tiger aka GM Blake"> Blake's Tiger </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#3" title="Link to this post"> <time datetime="2019-06-26T16:56:56Z" itemprop="commentTime">Jun 26, 2019, 09:56 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitdst4" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitdst4">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Adventure Path Subscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/BlakesTiger" itemprop="url" title="Blake's Tiger aka GM Blake"> 
+	
+		<img width="90" height="90" alt="Droogami" src="//cdn.paizo.com/image/avatar/PZO1126-Dragoomi_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Hmm. Maybe it's only custom maps.</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitdt1o">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20072780"></A>
+                <A name="4"></A>
+                 <img alt="The Exchange" src="https://paizo.com/image/content/PathfinderSociety/TheExchange_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/MarcWaschle" itemprop="url" title="Marc Waschle aka Thadeaus Grimm"> Marc Waschle </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#4" title="Link to this post"> <time datetime="2019-06-26T18:20:05Z" itemprop="commentTime">Jun 26, 2019, 11:20 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitdt1o" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitdt1o">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Adventure Path, Lost Omens, Pathfinder Accessories, Rulebook Subscriber; Starfinder Charter Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/MarcWaschle" itemprop="url" title="Marc Waschle aka Thadeaus Grimm"> 
+	
+		<img width="90" height="90" alt="Holy Guide" src="//cdn.paizo.com/image/avatar/PZO1129-HolyGuide.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>It would still be nice to know that!</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitdtbk">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20073136"></A>
+                <A name="5"></A>
+                 <img alt="Paizo Employee" src="https://paizo.com/image/logo/golem-tiny.gif" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/JohnCompton" itemprop="url" title="John Compton aka Yahirma"> John Compton </a>
+                </span>
+                
+                  <span class="avatar-title">
+                    Organized Play Lead Developer
+                    
+                  </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#5" title="Link to this post"> <time datetime="2019-06-26T19:42:01Z" itemprop="commentTime">Jun 26, 2019, 12:42 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitdtbk" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="faq-flag-dotted" id="faqv5748gbitdtbk">
+                        
+                       8 people marked this as a favorite. 
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/JohnCompton" itemprop="url" title="John Compton aka Yahirma"> 
+	
+		<img width="90" height="90" alt="John Compton Avatar" src="//cdn.paizo.com/image/avatar/private/JohnComption.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p><div><b>Maps for The Absalom Initiation:</b> <input type="button" value="Show" onclick="toggleSpoiler(this)"><div class="spoiler-text" ><br />
+This adventure uses the following:<br />
+<li>Pathfinder Flip-Mat: Haunted House<br />
+<li>Pathfinder Flip-Mat: Museum<br />
+<li>Pathfinder Flip-Mat Classics: Ship<br />
+<li>Pathfinder Flip-Mat Classics: Village Square</p>
+
+<p>There are not any custom maps.<br />
+</div></div></p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitdtm6">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20073518"></A>
+                <A name="6"></A>
+                 <img alt="The Exchange" src="https://paizo.com/image/content/PathfinderSociety/TheExchange_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/MarcWaschle" itemprop="url" title="Marc Waschle aka Thadeaus Grimm"> Marc Waschle </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#6" title="Link to this post"> <time datetime="2019-06-26T21:17:49Z" itemprop="commentTime">Jun 26, 2019, 02:17 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitdtm6" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitdtm6">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Adventure Path, Lost Omens, Pathfinder Accessories, Rulebook Subscriber; Starfinder Charter Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/MarcWaschle" itemprop="url" title="Marc Waschle aka Thadeaus Grimm"> 
+	
+		<img width="90" height="90" alt="Holy Guide" src="//cdn.paizo.com/image/avatar/PZO1129-HolyGuide.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Thank you John!</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitdvis">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20075988"></A>
+                <A name="7"></A>
+                 <img alt="Grand Lodge" src="https://paizo.com/image/content/PathfinderSociety/GrandLodge_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/XathosOfVarisia" itemprop="url" title="Xathos of Varisia"> Xathos of Varisia </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#7" title="Link to this post"> <time datetime="2019-06-27T14:56:50Z" itemprop="commentTime">Jun 27, 2019, 07:56 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitdvis" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-hidden">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitdvis">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/XathosOfVarisia" itemprop="url" title="Xathos of Varisia"> 
+	
+		<img width="90" height="90" alt="Kreighton Shaine, Maste rof Spells" src="//cdn.paizo.com/image/avatar/PZO9435-Kreighton_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Thanks!</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbite292">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20084710"></A>
+                <A name="8"></A>
+                
+                
+                <span class="messageboard-avatar-name messageboard-alias-header">
+                  <a href="https://paizo.com/people/GMWageslave" itemprop="url" title="Alias of Wei Ji the Learner"> GM Wageslave </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#8" title="Link to this post"> <time datetime="2019-06-30T09:40:20Z" itemprop="commentTime">Jun 30, 2019, 02:40 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbite292" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-hidden">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbite292">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/GMWageslave" itemprop="url" title="Alias of Wei Ji the Learner"> 
+	
+		<img width="90" height="90" alt="Shalelu Andosana" src="//cdn.paizo.com/image/avatar/A14_hs_shalelu_final.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p><b>"YESS!  I don't have to buy maps!!"</b>  <span class=messageboard-ooc>*fistpump*</span></p>
+
+<p><span class=messageboard-ooc>*eyeballs other GenCon scenarios, discovers a lot of commonality, fistpumps again!</span></p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbiteeem">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20100462"></A>
+                <A name="9"></A>
+                
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/midknightblu" itemprop="url" title="midknightblu"> midknightblu </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#9" title="Link to this post"> <time datetime="2019-07-05T00:37:37Z" itemprop="commentTime">Jul 4, 2019, 05:37 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbiteeem" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbiteeem">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Roleplaying Game Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/midknightblu" itemprop="url" title="midknightblu">  </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Is this meant for 2.0?</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbiteeet">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20100469"></A>
+                <A name="10"></A>
+                
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/DavidKnott242" itemprop="url" title="David knott 242"> David knott 242 </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#10" title="Link to this post"> <time datetime="2019-07-05T00:42:37Z" itemprop="commentTime">Jul 4, 2019, 05:42 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbiteeet" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbiteeet">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Battles Case Subscriber; Pathfinder Companion, Maps, Starfinder Adventure Path, Starfinder Maps, Starfinder Roleplaying Game, Starfinder Society Subscriber; Pathfinder Roleplaying Game Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/DavidKnott242" itemprop="url" title="David knott 242"> 
+	
+		<img width="90" height="90" alt="Merfolk" src="//cdn.paizo.com/image/avatar/PZO90124-Merfolk_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <div class="messageboard-quotee">midknightblu wrote:</div><blockquote> Is this meant for 2.0? </blockquote><p>Yes.  You can tell that from the reset on the season number (going from 10- to 1-). </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitejta">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20107470"></A>
+                <A name="11"></A>
+                
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/JohnLynch106" itemprop="url" title="John Lynch 106"> John Lynch 106 </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#11" title="Link to this post"> <time datetime="2019-07-07T15:16:32Z" itemprop="commentTime">Jul 7, 2019, 08:16 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitejta" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-hidden">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitejta">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/JohnLynch106" itemprop="url" title="John Lynch 106"> 
+	
+		<img width="90" height="90" alt="Witch Doctor" src="//cdn.paizo.com/image/avatar/PZO9040-CharauKa.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Is this a four hour adventure? And is it intended to be replayable with four different branches players can go on?</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitgcps">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20191584"></A>
+                <A name="12"></A>
+                
+                
+                <span class="messageboard-avatar-name messageboard-alias-header">
+                  <a href="https://paizo.com/people/TerevalisUnctioOfHouseMysti" itemprop="url" title="Alias of JASON RODARTE"> Terevalis Unctio of House Mysti </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#12" title="Link to this post"> <time datetime="2019-08-01T02:34:01Z" itemprop="commentTime">Jul 31, 2019, 07:34 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitgcps" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-hidden">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitgcps">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/TerevalisUnctioOfHouseMysti" itemprop="url" title="Alias of JASON RODARTE"> 
+	
+		<img width="90" height="90" alt="Lantern Bearer" src="//cdn.paizo.com/image/avatar/Faction-elf.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Is this released yet?</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitgcrr">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20191655"></A>
+                <A name="13"></A>
+                 <img alt="Silver Crusade" src="https://paizo.com/image/content/PathfinderSociety/SilverCrusade_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/Rysky" itemprop="url" title="Rysky"> Rysky </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#13" title="Link to this post"> <time datetime="2019-08-01T03:05:20Z" itemprop="commentTime">Jul 31, 2019, 08:05 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitgcrr" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitgcrr">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Companion, Starfinder Adventure Path, Starfinder Roleplaying Game, Starfinder Society Subscriber; Pathfinder Roleplaying Game Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/Rysky" itemprop="url" title="Rysky"> 
+	
+		<img width="90" height="90" alt="Areelu Vorlesh" src="//cdn.paizo.com/image/avatar/PZO9078-Areelu_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>11 more hours.</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitgd2h">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20192041"></A>
+                <A name="14"></A>
+                
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/Akvo" itemprop="url" title="Akvo"> Akvo </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#14" title="Link to this post"> <time datetime="2019-08-01T05:44:52Z" itemprop="commentTime">Jul 31, 2019, 10:44 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitgd2h" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitgd2h">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Starfinder Roleplaying Game Subscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/Akvo" itemprop="url" title="Akvo"> 
+	
+		<img width="90" height="90" alt="Vesk" src="//cdn.paizo.com/image/avatar/PZO7101-Vesk2_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Iunno if it's intentional but it appears that you can buy it now. (I did, and the download worked!)</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitgdea">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20192466"></A>
+                <A name="15"></A>
+                 <img alt="The Concordance" src="https://paizo.com/image/content/PathfinderSociety/TheConcordance_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name messageboard-pfs-header">
+                  <a href="https://paizo.com/people/YakoZenko" itemprop="url" title="Pathfinder Society character of Kitsune Kune"> Yako Zenko </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#15" title="Link to this post"> <time datetime="2019-08-01T11:09:27Z" itemprop="commentTime">Aug 1, 2019, 04:09 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitgdea" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="faq-flag-dotted" id="faqv5748gbitgdea">
+                        
+                       1 person marked this as a favorite. 
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/YakoZenko" itemprop="url" title="Pathfinder Society character of Kitsune Kune">  </a>
+                
+                
+              
+            
+            <div class="post-contents"> <div class="messageboard-quotee">Akvo wrote:</div><blockquote> Iunno if it's intentional but it appears that you can buy it now. (I did, and the download worked!) </blockquote><p>Which is interesting, as my subscription for it, or any of the PFS2 modules, has yet to fulfill. </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitgdzf">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20193227"></A>
+                <A name="16"></A>
+                 <img alt="Grand Lodge" src="https://paizo.com/image/content/PathfinderSociety/GrandLodge_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/NicolasParadise" itemprop="url" title="Nicolas Paradise"> Nicolas Paradise </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#16" title="Link to this post"> <time datetime="2019-08-01T16:01:08Z" itemprop="commentTime">Aug 1, 2019, 09:01 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitgdzf" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="faq-flag-dotted" id="faqv5748gbitgdzf">
+                        
+                       1 person marked this as a favorite. 
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Adventure Path, Lost Omens, Rulebook Subscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/NicolasParadise" itemprop="url" title="Nicolas Paradise"> 
+	
+		<img width="90" height="90" alt="Meyanda" src="//cdn.paizo.com/image/avatar/PZO9085-Meyanda2_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>Can anyone link to the rules for 2E society? I always wanted to play run/play it in 1E.  And can anyone answer if I can run society at home or does it need to be at a flgs for it to count as society play?</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitge0a">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20193258"></A>
+                <A name="17"></A>
+                 <img alt="Silver Crusade" src="https://paizo.com/image/content/PathfinderSociety/SilverCrusade_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/Rysky" itemprop="url" title="Rysky"> Rysky </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq01znb/discuss?Pathfinder-Society-Scenario-101-The-Absalom-Initiation#17" title="Link to this post"> <time datetime="2019-08-01T16:12:03Z" itemprop="commentTime">Aug 1, 2019, 09:12 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitge0a" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitge0a">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Companion, Starfinder Adventure Path, Starfinder Roleplaying Game, Starfinder Society Subscriber; Pathfinder Roleplaying Game Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/Rysky" itemprop="url" title="Rysky"> 
+	
+		<img width="90" height="90" alt="Areelu Vorlesh" src="//cdn.paizo.com/image/avatar/PZO9078-Areelu_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>I don't believe the 2e Guide is out yet. And I'm pretty sure you can play PFS at home (there's not a 
