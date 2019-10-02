@@ -1,0 +1,28 @@
+name: Weekly publish
+
+on:
+  schedule:
+  - cron: 0 9 * * TUE
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - run: npm run regenerate
+      - run: git commit -am "Weekly regeneration"
+  
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - run: npm run release
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
