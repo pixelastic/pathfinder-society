@@ -1076,7 +1076,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1002E",
     "rating": 4.2,
-    "scenarioIndex": -1,
+    "scenarioIndex": 2,
     "seasonIndex": 10,
     "title": "Bones of Biting Ants",
     "url": "https://pathfinderwiki.com/wiki/Bones_of_Biting_Ants"
@@ -1103,7 +1103,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1012E",
     "rating": 3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 12,
     "seasonIndex": 10,
     "title": "Breath of the Dragonskull",
     "url": "https://pathfinderwiki.com/wiki/Breath_of_the_Dragonskull"
@@ -1458,7 +1458,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1019E",
     "rating": 3.3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 19,
     "seasonIndex": 10,
     "title": "Corpses in Kalsgard",
     "url": "https://pathfinderwiki.com/wiki/Corpses_in_Kalsgard"
@@ -1485,7 +1485,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1020E",
     "rating": 2,
-    "scenarioIndex": -1,
+    "scenarioIndex": 20,
     "seasonIndex": 10,
     "title": "Countdown to Round Mountain",
     "url": "https://pathfinderwiki.com/wiki/Countdown_to_Round_Mountain"
@@ -1627,7 +1627,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1003E",
     "rating": 4.2,
-    "scenarioIndex": -1,
+    "scenarioIndex": 3,
     "seasonIndex": 10,
     "title": "Death on the Ice",
     "url": "https://pathfinderwiki.com/wiki/Death_on_the_Ice"
@@ -1654,7 +1654,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1014E",
     "rating": 4.7,
-    "scenarioIndex": -1,
+    "scenarioIndex": 14,
     "seasonIndex": 10,
     "title": "Debt to the Quah",
     "url": "https://pathfinderwiki.com/wiki/Debt_to_the_Quah"
@@ -2311,7 +2311,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1013E",
     "rating": 5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 13,
     "seasonIndex": 10,
     "title": "Fragments of Antiquity",
     "url": "https://pathfinderwiki.com/wiki/Fragments_of_Antiquity"
@@ -3500,7 +3500,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1001E",
     "rating": 4.2,
-    "scenarioIndex": -1,
+    "scenarioIndex": 1,
     "seasonIndex": 10,
     "title": "Oathbreakers Die",
     "url": "https://pathfinderwiki.com/wiki/Oathbreakers_Die"
@@ -3601,7 +3601,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1017E",
     "rating": 4.5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 17,
     "seasonIndex": 10,
     "title": "On Sevenfingers's Sails",
     "url": "https://pathfinderwiki.com/wiki/On_Sevenfingers%27s_Sails"
@@ -4165,7 +4165,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1004E",
     "rating": 2.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 4,
     "seasonIndex": 10,
     "title": "Reaver's Roar",
     "url": "https://pathfinderwiki.com/wiki/Reaver%27s_Roar"
@@ -4472,7 +4472,7 @@
     "pubcode": "PZOPSS0400-3E",
     "rating": 3.8,
     "scenarioIndex": -1,
-    "seasonIndex": 4,
+    "seasonIndex": 5,
     "title": "Ruins of Bonekeep Level 1: The Silent Grave",
     "url": "https://pathfinderwiki.com/wiki/Ruins_of_Bonekeep_Level_1:_The_Silent_Grave"
   },
@@ -5104,7 +5104,7 @@
     "price": 9.99,
     "pubcode": "PZOPSS1098E",
     "rating": 5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 98,
     "seasonIndex": 10,
     "title": "Siege of Gallowspire",
     "url": "https://pathfinderwiki.com/wiki/Siege_of_Gallowspire"
@@ -5442,7 +5442,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1021E",
     "rating": 5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 20,
     "seasonIndex": 10,
     "title": "Slaver's End",
     "url": "https://pathfinderwiki.com/wiki/Slaver%27s_End"
@@ -5666,7 +5666,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1015E",
     "rating": 4.1,
-    "scenarioIndex": -1,
+    "scenarioIndex": 15,
     "seasonIndex": 10,
     "title": "Tapestry's Trial",
     "url": "https://pathfinderwiki.com/wiki/Tapestry%27s_Trial"
@@ -5766,7 +5766,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1005E",
     "rating": 3.3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 5,
     "seasonIndex": 10,
     "title": "Testament of Souls",
     "url": "https://pathfinderwiki.com/wiki/Testament_of_Souls"
@@ -6487,7 +6487,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1018E",
     "rating": 5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 18,
     "seasonIndex": 10,
     "title": "The Daughters' Due",
     "url": "https://pathfinderwiki.com/wiki/The_Daughters%27_Due"
@@ -7273,7 +7273,7 @@
     "price": null,
     "pubcode": "PZOPSS1000E",
     "rating": 3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 10,
     "title": "The Hao Jin Cataclysm",
     "url": "https://pathfinderwiki.com/wiki/The_Hao_Jin_Cataclysm"
@@ -7300,7 +7300,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1011E",
     "rating": 2.9,
-    "scenarioIndex": -1,
+    "scenarioIndex": 11,
     "seasonIndex": 10,
     "title": "The Hao Jin Hierophant",
     "url": "https://pathfinderwiki.com/wiki/The_Hao_Jin_Hierophant"
@@ -7444,7 +7444,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1007E",
     "rating": 3.2,
-    "scenarioIndex": -1,
+    "scenarioIndex": 7,
     "seasonIndex": 10,
     "title": "The Howling Dance",
     "url": "https://pathfinderwiki.com/wiki/The_Howling_Dance"
@@ -8384,7 +8384,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1009E",
     "rating": 4.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 9,
     "seasonIndex": 10,
     "title": "The Rasping Rebirth",
     "url": "https://pathfinderwiki.com/wiki/The_Rasping_Rebirth"
@@ -8755,7 +8755,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1010E",
     "rating": 1.3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 10,
     "seasonIndex": 10,
     "title": "The Shattered Shield",
     "url": "https://pathfinderwiki.com/wiki/The_Shattered_Shield"
@@ -9893,7 +9893,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1006E",
     "rating": 2.2,
-    "scenarioIndex": -1,
+    "scenarioIndex": 6,
     "seasonIndex": 10,
     "title": "Treason's Chains",
     "url": "https://pathfinderwiki.com/wiki/Treason%27s_Chains"
@@ -10373,7 +10373,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1008E",
     "rating": 3.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 8,
     "seasonIndex": 10,
     "title": "What Prestige is Worth",
     "url": "https://pathfinderwiki.com/wiki/What_Prestige_is_Worth"
@@ -10447,7 +10447,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1016E",
     "rating": 3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 16,
     "seasonIndex": 10,
     "title": "What the Helms Hide",
     "url": "https://pathfinderwiki.com/wiki/What_the_Helms_Hide"
@@ -10545,7 +10545,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1023E",
     "rating": 5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 23,
     "seasonIndex": 10,
     "title": "Who Speaks for the Ten",
     "url": "https://pathfinderwiki.com/wiki/Who_Speaks_for_the_Ten"
@@ -10574,7 +10574,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS1022E",
     "rating": 4,
-    "scenarioIndex": -1,
+    "scenarioIndex": 22,
     "seasonIndex": 10,
     "title": "Who Wears the Mask",
     "url": "https://pathfinderwiki.com/wiki/Who_Wears_the_Mask"
