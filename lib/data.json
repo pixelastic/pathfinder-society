@@ -104,7 +104,7 @@
     "price": 0,
     "pubcode": "PZOPSSINTRO3E",
     "rating": 3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 3,
     "title": "A Vision of Betrayal",
     "url": "https://pathfinderwiki.com/wiki/A_Vision_of_Betrayal"
@@ -220,7 +220,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0821E",
     "rating": 3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 8,
     "title": "Agents of the Eye",
     "url": "https://pathfinderwiki.com/wiki/Agents_of_the_Eye"
@@ -701,7 +701,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0924E",
     "rating": 3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Beneath Unbroken Waves",
     "url": "https://pathfinderwiki.com/wiki/Beneath_Unbroken_Waves"
@@ -731,7 +731,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0925E",
     "rating": 4.3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Betrayal in the Bones",
     "url": "https://pathfinderwiki.com/wiki/Betrayal_in_the_Bones"
@@ -833,7 +833,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0909E",
     "rating": 3.9,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Beyond the Halflight Path",
     "url": "https://pathfinderwiki.com/wiki/Beyond_the_Halflight_Path"
@@ -974,7 +974,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0818E",
     "rating": 2.7,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 8,
     "title": "Blazing Dangerous Trails",
     "url": "https://pathfinderwiki.com/wiki/Blazing_Dangerous_Trails"
@@ -1049,7 +1049,7 @@
     "price": 3.99,
     "pubcode": "PZOPSS0300-1E",
     "rating": 3.3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 3,
     "title": "Blood Under Absalom",
     "url": "https://pathfinderwiki.com/wiki/Blood_Under_Absalom"
@@ -1392,7 +1392,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0919E",
     "rating": 5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Clash in Kaimuko Wood",
     "url": "https://pathfinderwiki.com/wiki/Clash_in_Kaimuko_Wood"
@@ -1783,7 +1783,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0914E",
     "rating": 4.1,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Down the Verdant Path",
     "url": "https://pathfinderwiki.com/wiki/Down_the_Verdant_Path"
@@ -2014,7 +2014,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0916E",
     "rating": 3.3,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Fallen Family, Broken Name",
     "url": "https://pathfinderwiki.com/wiki/Fallen_Family,_Broken_Name"
@@ -2474,7 +2474,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0920E",
     "rating": 2.6,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Fury of the Final Blade",
     "url": "https://pathfinderwiki.com/wiki/Fury_of_the_Final_Blade"
@@ -2775,7 +2775,7 @@
     "price": 0,
     "pubcode": "PZOPSSINTRO1E",
     "rating": 4.1,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 3,
     "title": "In Service to Lore",
     "url": "https://pathfinderwiki.com/wiki/In_Service_to_Lore"
@@ -2808,7 +2808,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0921E",
     "rating": 3.6,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "In the Grandmaster's Name",
     "url": "https://pathfinderwiki.com/wiki/In_the_Grandmaster%27s_Name"
@@ -3055,7 +3055,7 @@
     "pubcode": "PZOPSS06EX",
     "rating": 3.8,
     "scenarioIndex": 0,
-    "seasonIndex": 6,
+    "seasonIndex": 5,
     "title": "Legacy of the Stonelords",
     "url": "https://pathfinderwiki.com/wiki/Legacy_of_the_Stonelords"
   },
@@ -3471,7 +3471,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0917E",
     "rating": 3.9,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Oath of the Overwatched",
     "url": "https://pathfinderwiki.com/wiki/Oath_of_the_Overwatched"
@@ -4035,7 +4035,7 @@
     "price": 3.99,
     "pubcode": "PZOPSS0400E",
     "rating": 2.9,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 4,
     "title": "Race for the Runecarved Key",
     "url": "https://pathfinderwiki.com/wiki/Race_for_the_Runecarved_Key"
@@ -4471,7 +4471,7 @@
     "price": 3.99,
     "pubcode": "PZOPSS0400-3E",
     "rating": 3.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 5,
     "title": "Ruins of Bonekeep Level 1: The Silent Grave",
     "url": "https://pathfinderwiki.com/wiki/Ruins_of_Bonekeep_Level_1:_The_Silent_Grave"
@@ -4504,7 +4504,7 @@
     "price": 3.99,
     "pubcode": "PZOPSS0500-1E",
     "rating": 2.9,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 5,
     "title": "Ruins of Bonekeep Level 2: Maze of the Mind Slave",
     "url": "https://pathfinderwiki.com/wiki/Ruins_of_Bonekeep_Level_2:_Maze_of_the_Mind_Slave"
@@ -4535,7 +4535,7 @@
     "price": 3.99,
     "pubcode": "PZOPSS0500-2E",
     "rating": 2.5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 6,
     "title": "Ruins of Bonekeep Level 3: The Wakening Tomb",
     "url": "https://pathfinderwiki.com/wiki/Ruins_of_Bonekeep_Level_3:_The_Wakening_Tomb"
@@ -4722,7 +4722,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0918E",
     "rating": 2.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Scourge of the Farheavens",
     "url": "https://pathfinderwiki.com/wiki/Scourge_of_the_Farheavens"
@@ -5070,7 +5070,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0912E",
     "rating": 2.7,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Shrine of the Sacred Tempest",
     "url": "https://pathfinderwiki.com/wiki/Shrine_of_the_Sacred_Tempest"
@@ -5200,7 +5200,7 @@
     "price": 3.99,
     "pubcode": "PZOPSS0500",
     "rating": 3.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 5,
     "title": "Siege of the Diamond City",
     "url": "https://pathfinderwiki.com/wiki/Siege_of_the_Diamond_City"
@@ -5236,7 +5236,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0910E",
     "rating": 4.1,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "Signs in Senghor",
     "url": "https://pathfinderwiki.com/wiki/Signs_in_Senghor"
@@ -5978,7 +5978,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0915E",
     "rating": 3.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "The Bloodcove Blockade",
     "url": "https://pathfinderwiki.com/wiki/The_Bloodcove_Blockade"
@@ -7691,7 +7691,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0911E",
     "rating": 4.5,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "The Jarlsblood Witch Saga",
     "url": "https://pathfinderwiki.com/wiki/The_Jarlsblood_Witch_Saga"
@@ -7828,7 +7828,7 @@
     "price": 4.99,
     "pubcode": "PZOPSS0913E",
     "rating": 4.8,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 9,
     "title": "The Lion's Justice",
     "url": "https://pathfinderwiki.com/wiki/The_Lion%27s_Justice"
@@ -9700,7 +9700,7 @@
     "price": 0,
     "pubcode": "PZOPSSINTRO2E",
     "rating": 4,
-    "scenarioIndex": -1,
+    "scenarioIndex": 0,
     "seasonIndex": 3,
     "title": "To Delve the Dungeon Deep",
     "url": "https://pathfinderwiki.com/wiki/To_Delve_the_Dungeon_Deep"
