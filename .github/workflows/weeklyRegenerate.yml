@@ -26,19 +26,6 @@ jobs:
           npm install -g yarn
           yarn install
 
-      - name: Configure git
-        run: |
-          # git config user.name "${USER}"
-          # git config user.email "${GITHUB_EMAIL}"
-          # # git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          # git remote set-url origin https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-
-      - name: Show git config
-        run: git config --list
-
-      - name: Show ENV variables
-        run: set | grep "GITHUB_"
-
       - name: Regenerate file
         run: yarn run regenerate
 
@@ -54,7 +41,7 @@ jobs:
           git checkout -b $BRANCH_NAME
           git add ./lib/data.json
           git commit \
-            --message "chore(update): Weekly update ($CURRENT_DATE)"
+            --message "chore(update): Weekly update ($CURRENT_DATE)" \
             --message "This is an automated commit"
 
       - name: Create the Pull Request
