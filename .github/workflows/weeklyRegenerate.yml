@@ -49,11 +49,16 @@ jobs:
           git commit \
             --message "chore(update): Weekly update ($CURRENT_DATE)" \
 
-      - name: Create the Pull Request
+      - name: Update the branch
         run: |
           CURRENT_DATE=$(date +%F)
           git push --no-verify --force --set-upstream origin $BRANCH_NAME
+
+      - name: Create the Pull Request 
+        # It will fail if the PR already exists, but that's ok
+        continue-on-error: true
+        run: |
           hub pull-request \
             --message "Weekly update" \
             --message "This is an automated PR including the latest changes from the Wiki" \
-            --reviewer pixelastic \
+            --reviewer pixelastic
