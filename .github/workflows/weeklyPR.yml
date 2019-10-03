@@ -23,6 +23,8 @@ jobs:
 
       # Setup Git
       - uses: actions/checkout@v1
+        with:
+          ref: master
       - uses: fregante/setup-git-token@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
