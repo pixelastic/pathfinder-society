@@ -26,7 +26,7 @@ jobs:
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "tim@pixelastic.com"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          sudo apt install hub
+          sudo snap install hub
 
       - name: Show git config
         run: git config --list
