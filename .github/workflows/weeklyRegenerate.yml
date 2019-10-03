@@ -13,32 +13,38 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - name: Bootstrap repo
+
+      - name: Configure git
         run: |
-          npm install -g yarn
-          yarn install
+          git config user.name "${GITHUB_ACTOR}"
+          git remote set-url origin "git@github.com:${GITHUB_REPOSITORY}.git"
 
-      - run: git config --list
-      - run: |
-          echo "Workflow: $GITHUB_WORKFLOW"
-          echo "Action: $GITHUB_ACTION"
-          echo "Actor: $GITHUB_ACTOR"
-          echo "Repository: $GITHUB_REPOSITORY"
-          echo "Event Name: $GITHUB_EVENT_NAME"
-          echo "Event Path: $GITHUB_EVENT_PATH"
-          echo "Workspace: $GITHUB_WORKSPACE"
+      # - name: Bootstrap repo
+      #   run: |
+      #     npm install -g yarn
+      #     yarn install
 
-      - name: Regenerate file
-        run: yarn run regenerate
+      - name: Show git config
+        run: git config --list
 
-      - run: git diff
+      - name: Show ENV variables
+        run: set | grep "GITHUB_"
 
-      - name: Commit the file
+      # - name: Regenerate file
+      #   run: yarn run regenerate
+
+      # - name: Commit the file
+      #   run: |
+      #     CURRENT_DATE=$(date +%F); git commit -am "chore(update): Weekly update ($CURRENT_DATE)"
+
+      - name: Attempt a push
         run: |
-          CURRENT_DATE=$(date +%F); git commit -am "chore(update): Weekly update ($CURRENT_DATE)"
+          date > date.txt
+          git commit -am "Try new file"
+          git push origin master
 
-      - name: Push it back
-        run: git push origin master
+      # - name: Push it back
+      #   run: git push origin master
 
       # Commit the file
       # yarn run release patch
