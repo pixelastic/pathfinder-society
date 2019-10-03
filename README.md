@@ -1,7 +1,7 @@
 # pathfinder-society
 
 This is a JSON dump of all Pathfinder Society scenarios metadata (name, authors,
-description, etc).
+description, etc). The data is updated weekly.
 
 ## Installation
 
