@@ -572,6 +572,32 @@
     "title": "At Shadow's Door",
     "url": "https://pathfinderwiki.com/wiki/At_Shadow%27s_Door"
   },
+  "banditsOfImmenwood": {
+    "authors": [
+      "Scott D. Young"
+    ],
+    "backcover": "The Pathfinders are sent forth to aid their own! A Pathfinder mission returning from a long sea voyage ran aground on the Isle of Kortos and were forced to leave behind many of their discoveries so they could press on to Absalom and receive much-needed medical care. The PCs are sent to the site of the wreck to retrieve the relics and charts their peers were forced to leave but the relics have drawn the attention of some of the Immenwood's most volatile inhabitants. Will the PCs be able to return the documents and relics to Zarta Dralneen, the Grand Lodge's Chief Archivist? Or will they fall prey to the unusual bandits dwelling within the coastal reaches of one of Kortos's most infamous forests?",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0104E.jpg",
+    "levels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "locations": [
+      "Isle of Kortos"
+    ],
+    "npcs": [
+    ],
+    "paizoUrl": "https://paizo.com/products/btq0217k",
+    "price": 4.99,
+    "pubcode": "PZOPFS0104E",
+    "rating": 1,
+    "scenarioIndex": 4,
+    "seasonIndex": 1,
+    "title": "Bandits of Immenwood",
+    "url": "https://pathfinderwiki.com/wiki/Bandits_of_Immenwood"
+  },
   "beaconBelow": {
     "authors": [
       "Matt Duval"
@@ -1907,7 +1933,7 @@
     "paizoUrl": "https://paizo.com/products/btq01znd",
     "price": 4.99,
     "pubcode": "PZOPFS0103E",
-    "rating": 3.1,
+    "rating": 3.4,
     "scenarioIndex": 3,
     "seasonIndex": 1,
     "title": "Escaping the Grave",
@@ -7270,7 +7296,7 @@
     "npcs": [
     ],
     "paizoUrl": "https://paizo.com/products/btpya1xz",
-    "price": null,
+    "price": 9.99,
     "pubcode": "PZOPSS1000E",
     "rating": 3,
     "scenarioIndex": 0,
@@ -8059,7 +8085,7 @@
     "paizoUrl": "https://paizo.com/products/btq01znc",
     "price": 4.99,
     "pubcode": "PZOPFS0102E",
-    "rating": 3.9,
+    "rating": 4,
     "scenarioIndex": 2,
     "seasonIndex": 1,
     "title": "The Mosquito Witch",
@@ -9838,6 +9864,33 @@
     "title": "Tower of the Ironwood Watch",
     "url": "https://pathfinderwiki.com/wiki/Tower_of_the_Ironwood_Watch"
   },
+  "trailblazersBounty": {
+    "authors": [
+      "Tineke Bolleman"
+    ],
+    "backcover": "The powerful nation of Cheliax has posted a public bounty that would richly reward the first team of explorers to chart a viable route across the Menador Mountains, linking the nations of Isger and Molthune (all to bypass the economic powerhouse of Druma, which has recently imposed higher taxes on key goods crossing its borders). Yet the Menador Mountains are an imposing obstacle, replete with steep slopes, snowy peaks, and territorial orcs. Even so, there are no finer explorers than the Pathfinders, and the Society has dispatched a team to collect the prize. Are the PCs ready to not only explore the foreboding mountains but also to compete with the rival teams and local inhabitants?",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0105E.jpg",
+    "levels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "locations": [
+      "Isger",
+      "Molthune"
+    ],
+    "npcs": [
+    ],
+    "paizoUrl": "https://paizo.com/products/btq0217l",
+    "price": 4.99,
+    "pubcode": "PZOPFS0105E",
+    "rating": 4,
+    "scenarioIndex": 5,
+    "seasonIndex": 1,
+    "title": "Trailblazers' Bounty",
+    "url": "https://pathfinderwiki.com/wiki/Trailblazers%27_Bounty"
+  },
   "treacherousWaves": {
     "authors": [
       "Eleanor Ferron"
@@ -9892,7 +9945,7 @@
     "paizoUrl": "https://paizo.com/products/btq01va2",
     "price": 4.99,
     "pubcode": "PZOPSS1006E",
-    "rating": 2.2,
+    "rating": 2.3,
     "scenarioIndex": 6,
     "seasonIndex": 10,
     "title": "Treason's Chains",
