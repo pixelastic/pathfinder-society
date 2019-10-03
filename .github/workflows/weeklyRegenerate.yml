@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # GITHUB_USER: Pixelastic
-      # GITHUB_EMAIL: tim@pixelastic.com
+      BRANCH_NAME: "weeklyUpdate"
     steps:
       - uses: actions/checkout@v1
       - uses: geertvdc/setup-hub@master
       - uses: fregante/setup-git-token@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+
       # - uses: actions/setup-node@v1
       #   with:
       #     node-version: '12.x'
@@ -40,27 +40,29 @@ jobs:
       - name: Show ENV variables
         run: set | grep "GITHUB_"
 
-      # - name: Regenerate file
-      #   run: yarn run regenerate
+      - name: Regenerate file
+        run: yarn run regenerate
 
-      # - name: Commit the file
-      #   run: |
-      #     CURRENT_DATE=$(date +%F); git commit -am "chore(update): Weekly update ($CURRENT_DATE)"
+      - name: Check for changes
+        run: git diff --quiet
 
-      - name: Attempt a push
+      - name: Commit the changed file
+        if: success()
         run: |
           CURRENT_DATE=$(date +%F)
-          BRANCH_NAME="weekly-$CURRENT_DATE"
           git checkout -b $BRANCH_NAME
-          date > date.txt
-          git add .
+          git add ./lib/data.json
           git commit \
             --message "chore(update): Weekly update ($CURRENT_DATE)"
+            --message "This is an automated commit"
+
+      - name: Create the Pull Request
+        if: success()
+        run: |
           hub pull-request \
+            --no-edit \
             --push \
             --reviewer pixelastic \
-            --message "Weekly update ($CURRENT_DATE)" \
-            --message "Full message"
 
       # - name: Push it back
       #   run: git push origin master
