@@ -3,7 +3,7 @@ name: Debug playground
 on:
   push:
     branches:
-      - debug
+      - actions
 
 jobs:
   main:
