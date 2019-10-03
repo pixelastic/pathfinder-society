@@ -1,16 +1,21 @@
 import helper from '../lib/helper.js';
 import firost from 'firost';
 import os from 'os';
-import { _, pMap, spinner } from 'golgoth';
+import { _, pMap } from 'golgoth';
 
 (async function() {
-  const maxSeasons = 10;
+  const maxSeasons = 11;
   helper.init();
-  const progress = spinner(maxSeasons + 1);
+
+  firost.pulse.on('scenario', data => {
+    const seasonIndex = _.padStart(data.seasonIndex, '2', '0');
+    const scenarioIndex = _.padStart(data.scenarioIndex, '2', '0');
+    console.info(`S${seasonIndex}E${scenarioIndex}: ${data.title}`);
+  });
 
   const allScenarios = {};
   await pMap(
-    _.range(0, maxSeasons + 1),
+    _.range(0, maxSeasons),
     async seasonIndex => {
       const scenarios = await helper.scenariosFromSeason(seasonIndex);
       _.each(scenarios, scenario => {
@@ -21,11 +26,9 @@ import { _, pMap, spinner } from 'golgoth';
           .value();
         allScenarios[key] = scenario;
       });
-      progress.tick(`Season ${seasonIndex}`);
     },
     { concurrency: os.cpus().length }
   );
 
   await firost.writeJson(allScenarios, './lib/data.json');
-  progress.succeed('./lib/data.json updated');
 })();
