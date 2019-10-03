@@ -43,12 +43,12 @@ jobs:
       - name: Attempt a push
         run: |
           CURRENT_DATE=$(date +%F)
-          echo $CURRENT_DATE
-          git checkout -b weekly-$CURRENT_DATE
+          BRANCH_NAME="weekly-$CURRENT_DATE"
+          git checkout -b $BRANCH_NAME
           date > date.txt
           git add .
           git commit -m "chore(update): Weekly update ($CURRENT_DATE)"
-          git push origin
+          git push --set-upstream origin $BRANCH_NAME
 
       # - name: Push it back
       #   run: git push origin master
