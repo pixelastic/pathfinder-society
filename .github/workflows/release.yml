@@ -47,8 +47,9 @@ jobs:
           npm install -g yarn
           yarn install
           echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ./.npmrc
-          cat ./.npmrc
 
       # Release a new patch version
       - name: Release a new patch
-        run: yarn run release patch
+        run: |
+          git branch --set-upstream-to origin master
+          yarn run release patch
