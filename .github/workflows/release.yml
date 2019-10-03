@@ -46,7 +46,8 @@ jobs:
         run: |
           npm install -g yarn
           yarn install
-          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ./.npmrc
+          echo "//registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}" > ./.npmrc
+          cat ./.npmrc
 
       # Release a new patch version
       - name: Release a new patch
