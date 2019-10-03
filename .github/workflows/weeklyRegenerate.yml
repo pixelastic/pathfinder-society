@@ -45,7 +45,7 @@ jobs:
           date > date.txt
           git add .
           git commit -am "Try new file"
-          git push origin master
+          git push origin
 
       # - name: Push it back
       #   run: git push origin master
