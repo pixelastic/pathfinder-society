@@ -47,12 +47,17 @@ jobs:
           git checkout -b $BRANCH_NAME
           git add ./lib/data.json
           git commit \
+            --no-verify \
             --message "chore(update): Weekly update ($CURRENT_DATE)" \
 
       - name: Update the branch
         run: |
           CURRENT_DATE=$(date +%F)
-          git push --no-verify --force --set-upstream origin $BRANCH_NAME
+          git push \
+            --no-verify \
+            --force \
+            --set-upstream origin \
+            $BRANCH_NAME
 
       - name: Create the Pull Request 
         # It will fail if the PR already exists, but that's ok

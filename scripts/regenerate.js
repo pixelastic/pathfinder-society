@@ -4,7 +4,7 @@ import os from 'os';
 import { _, pMap } from 'golgoth';
 
 (async function() {
-  const maxSeasons = 1;
+  const maxSeasons = 10;
   helper.init();
 
   firost.pulse.on('scenario', data => {
@@ -18,7 +18,7 @@ import { _, pMap } from 'golgoth';
     _.range(0, maxSeasons),
     async seasonIndex => {
       const scenarios = await helper.scenariosFromSeason(seasonIndex);
-      _.each([scenarios[0]], scenario => {
+      _.each(scenarios, scenario => {
         const key = _.chain(scenario.title)
           .startCase()
           .replace(/ /g, '')
