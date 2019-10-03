@@ -29,7 +29,7 @@ jobs:
       github.event.pull_request.merged == true
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
     steps:
       # Setup Git
       - uses: actions/checkout@v1
@@ -46,7 +46,7 @@ jobs:
         run: |
           npm install -g yarn
           yarn install
-          echo "//registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}" > ./.npmrc
+          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ./.npmrc
           cat ./.npmrc
 
       # Release a new patch version
