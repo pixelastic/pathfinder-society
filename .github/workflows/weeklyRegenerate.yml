@@ -42,9 +42,12 @@ jobs:
 
       - name: Attempt a push
         run: |
+          CURRENT_DATE=$(date +%F)
+          echo $CURRENT_DATE
+          git checkout -b weekly-$CURRENT_DATE
           date > date.txt
           git add .
-          git commit -am "Try new file"
+          git commit -m "chore(update): Weekly update ($CURRENT_DATE)"
           git push origin
 
       # - name: Push it back
