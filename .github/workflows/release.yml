@@ -1,0 +1,39 @@
+# Whenever a PR from the `weeklyUpdate` branch is closed and merged, this action
+# will release a patch version of the module on npm
+# Such a PR is automatically created every week (when changes happen), but the
+# ./weeklyPR.yml action
+name: Release to npm whenever the weekly PR is merged
+
+on:
+  pull_request:
+    branches:
+      - weeklyUpdate
+    types: 
+      - closed
+
+jobs:
+  main:
+    name: Update data.json
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+    steps:
+      # Setup Git
+      - uses: actions/checkout@v1
+      - uses: fregante/setup-git-token@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      # Setup Node
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Yarn install
+        run: |
+          npm install -g yarn
+          yarn install
+
+      # Release a new patch version
+      - name: Release a new patch
+        run: yarn run release patch
