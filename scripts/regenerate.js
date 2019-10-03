@@ -4,7 +4,7 @@ import os from 'os';
 import { _, pMap } from 'golgoth';
 
 (async function() {
-  const maxSeasons = 11;
+  const maxSeasons = 1;
   helper.init();
 
   firost.pulse.on('scenario', data => {

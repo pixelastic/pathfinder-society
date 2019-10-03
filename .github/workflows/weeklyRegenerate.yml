@@ -17,5 +17,28 @@ jobs:
         run: |
           npm install -g yarn
           yarn install
+
+      - run: git config --list
+      - run: |
+          echo "Workflow: $GITHUB_WORKFLOW"
+          echo "Action: $GITHUB_ACTION"
+          echo "Actor: $GITHUB_ACTOR"
+          echo "Repository: $GITHUB_REPOSITORY"
+          echo "Event Name: $GITHUB_EVENT_NAME"
+          echo "Event Path: $GITHUB_EVENT_PATH"
+          echo "Workspace: $GITHUB_WORKSPACE"
+
       - name: Regenerate file
         run: yarn run regenerate
+
+      - run: git diff
+
+      - name: Commit the file
+        run: |
+          CURRENT_DATE=$(date +%F); git commit -am "chore(update): Weekly update ($CURRENT_DATE)"
+
+      - name: Push it back
+        run: git push origin master
+
+      # Commit the file
+      # yarn run release patch
