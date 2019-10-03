@@ -13,6 +13,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v1
+      - uses: geertvdc/setup-hub@master
       # - uses: actions/setup-node@v1
       #   with:
       #     node-version: '12.x'
@@ -26,7 +27,6 @@ jobs:
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "tim@pixelastic.com"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          sudo snap install hub
 
       - name: Show git config
         run: git config --list
