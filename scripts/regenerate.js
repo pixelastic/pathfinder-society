@@ -18,7 +18,7 @@ import { _, pMap } from 'golgoth';
     _.range(0, maxSeasons),
     async seasonIndex => {
       const scenarios = await helper.scenariosFromSeason(seasonIndex);
-      _.each(scenarios, scenario => {
+      _.each([scenarios[0]], scenario => {
         const key = _.chain(scenario.title)
           .startCase()
           .replace(/ /g, '')

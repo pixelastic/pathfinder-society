@@ -47,9 +47,9 @@ jobs:
       - name: Create the Pull Request
         if: success()
         run: |
+          git push --no-verify
           hub pull-request \
             --no-edit \
-            --push \
             --reviewer pixelastic \
 
       # - name: Push it back
