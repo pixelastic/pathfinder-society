@@ -15,7 +15,7 @@ import { _, pMap } from 'golgoth';
 
   const allScenarios = {};
   await pMap(
-    _.range(0, maxSeasons),
+    _.range(0, maxSeasons + 1),
     async seasonIndex => {
       const scenarios = await helper.scenariosFromSeason(seasonIndex);
       _.each(scenarios, scenario => {
