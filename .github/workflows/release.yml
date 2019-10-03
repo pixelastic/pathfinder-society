@@ -14,41 +14,37 @@ jobs:
     name: debug
     runs-on: ubuntu-latest
     steps:
-      - name: GITHUB_ ENV variables
-        run: set | grep GITHUB_
-      - name: Content of $GITHUB_EVENT_PATH
-        run: cat $GITHUB_EVENT_PATH
       - name: Content of github variable
         run: echo "$GITHUB_CONTEXT"
         env: 
           GITHUB_CONTEXT: ${{ toJson(github) }}
 
-  # main:
-  #   name: Update data.json
-  #   runs-on: ubuntu-latest
-  #   # Run it only when we're merging from weeklyUpdate to master
-  #   if: |
-  #     github.head_ref == 'weeklyUpdate' && \
-  #     github.base_ref == 'master' && \
-  #     github.event.pull_request.merged == true
-  #   env:
-  #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  #     NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
-  #   steps:
-  #     # Setup Git
-  #     - uses: actions/checkout@v1
-  #     - uses: fregante/setup-git-token@v1
-  #       with:
-  #         token: ${{ secrets.GITHUB_TOKEN }}
-  #     # Setup Node
-  #     - uses: actions/setup-node@v1
-  #       with:
-  #         node-version: '12.x'
-  #     - name: Yarn install
-  #       run: |
-  #         npm install -g yarn
-  #         yarn install
+  main:
+    name: Update data.json
+    runs-on: ubuntu-latest
+    # Run it only when we're merging from weeklyUpdate to master
+    if: |
+      github.head_ref == 'weeklyUpdate' && 
+      github.base_ref == 'master' && 
+      github.event.pull_request.merged == true
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+    steps:
+      # Setup Git
+      - uses: actions/checkout@v1
+      - uses: fregante/setup-git-token@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      # Setup Node
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Yarn install
+        run: |
+          npm install -g yarn
+          yarn install
 
-  #     # Release a new patch version
-  #     - name: Release a new patch
-  #       run: yarn run release patch
+      # Release a new patch version
+      - name: Release a new patch
+        run: yarn run release patch
