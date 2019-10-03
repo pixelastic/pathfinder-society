@@ -4,36 +4,50 @@
 # ./weeklyPR.yml action
 name: Release to npm whenever the weekly PR is merged
 
-on:
-  pull_request:
-    branches:
-      - weeklyUpdate
-    types: 
-      - closed
+on: pull_request
+  # pull_request:
+  #   types: 
+  #     - closed
 
 jobs:
   main:
     name: Update data.json
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged
+    # if: github.event.pull_request.merged && github.event.pull_request
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
     steps:
-      # Setup Git
-      - uses: actions/checkout@v1
-      - uses: fregante/setup-git-token@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      # Setup Node
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '12.x'
-      - name: Yarn install
-        run: |
-          npm install -g yarn
-          yarn install
+      - name: GITHUB_ ENV variables
+        run: set | grep GITHUB_
+      - name: Content of $GITHUB_EVENTP_PATH
+        run: cat $GITHUB_EVENT_PATH
+      - name: Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
+      - name: Dump job context
+        env:
+          JOB_CONTEXT: ${{ toJson(job) }}
+        run: echo "$JOB_CONTEXT"
+      - name: Dump steps context
+        env:
+          STEPS_CONTEXT: ${{ toJson(steps) }}
+        run: echo "$STEPS_CONTEXT"
+      # # Setup Git
+      # - uses: actions/checkout@v1
+      # - uses: fregante/setup-git-token@v1
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      # # Setup Node
+      # - uses: actions/setup-node@v1
+      #   with:
+      #     node-version: '12.x'
+      # - name: Yarn install
+      #   run: |
+      #     npm install -g yarn
+      #     yarn install
 
-      # Release a new patch version
-      - name: Release a new patch
-        run: yarn run release patch
+      # # Release a new patch version
+      # - name: Release a new patch
+      #   run: yarn run release patch
