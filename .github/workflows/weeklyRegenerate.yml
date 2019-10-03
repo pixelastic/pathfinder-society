@@ -40,6 +40,7 @@ jobs:
       - name: Attempt a push
         run: |
           date > date.txt
+          git add .
           git commit -am "Try new file"
           git push origin master
 
