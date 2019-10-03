@@ -55,8 +55,7 @@ jobs:
           date > date.txt
           git add .
           git commit -m "chore(update): Weekly update ($CURRENT_DATE)"
-          git push
-          hub pull-request
+          hub pull-request -p
 
       # - name: Push it back
       #   run: git push origin master
