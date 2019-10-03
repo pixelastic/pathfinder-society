@@ -4,10 +4,7 @@
 # ./weeklyPR.yml action
 name: Release to npm whenever the weekly PR is merged
 
-on:
-  pull_request:
-    types: 
-      - closed
+on: pull_request
 
 jobs:
   debug:
