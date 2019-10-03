@@ -10,14 +10,14 @@ on:
       - closed
 
 jobs:
-  debug:
-    name: debug
-    runs-on: ubuntu-latest
-    steps:
-      - name: Content of github variable
-        run: echo "$GITHUB_CONTEXT"
-        env: 
-          GITHUB_CONTEXT: ${{ toJson(github) }}
+  # debug:
+  #   name: debug
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Content of github variable
+  #       run: echo "$GITHUB_CONTEXT"
+  #       env: 
+  #         GITHUB_CONTEXT: ${{ toJson(github) }}
 
   main:
     name: Update data.json
@@ -39,11 +39,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Git config
-        run: |
-          git checkout -b master origin/master
-          git config --list
-          git branch
-          cat .git/config
+        # Configuring branches as by default we're not in a branch
+        run: git checkout -b master origin/master
       # Setup Node
       - uses: actions/setup-node@v1
         with:
@@ -56,5 +53,4 @@ jobs:
 
       # Release a new patch version
       - name: Release a new patch
-        run: |
-          yarn run release patch
+        run: yarn run release patch
