@@ -54,8 +54,13 @@ jobs:
           git checkout -b $BRANCH_NAME
           date > date.txt
           git add .
-          git commit -m "chore(update): Weekly update ($CURRENT_DATE)"
-          hub pull-request -p
+          git commit \
+            --message "chore(update): Weekly update ($CURRENT_DATE)"
+          hub pull-request \
+            --push \
+            --reviewer pixelastic \
+            --message "Weekly update ($CURRENT_DATE)" \
+            --message "Full message"
 
       # - name: Push it back
       #   run: git push origin master
