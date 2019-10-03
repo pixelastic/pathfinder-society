@@ -30,6 +30,8 @@ jobs:
         run: yarn run regenerate
 
       - name: Check for changes
+        # git diff exits with 0 if same files and 1 if different
+        # We need to stop if it's the same file, so we negate the exit code
         run: '! git diff --quiet'
 
       - name: Commit the changed file
@@ -45,7 +47,7 @@ jobs:
       - name: Create the Pull Request
         if: success()
         run: |
-          git push --no-verify
+          git push --no-verify --set-upstream origin $BRANCH_NAME
           hub pull-request \
             --no-edit \
             --reviewer pixelastic \
