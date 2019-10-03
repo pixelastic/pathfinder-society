@@ -13,15 +13,17 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       BRANCH_NAME: "weeklyUpdate"
     steps:
+      # Setup Git
       - uses: actions/checkout@v1
       - uses: fregante/setup-git-token@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: geertvdc/setup-hub@master
+      # Setup Node
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - name: Bootstrap repo
+      - name: Yarn install
         run: |
           npm install -g yarn
           yarn install
@@ -42,14 +44,14 @@ jobs:
           git add ./lib/data.json
           git commit \
             --message "chore(update): Weekly update ($CURRENT_DATE)" \
-            --message "This is an automated commit"
 
       - name: Create the Pull Request
-        if: success()
         run: |
+          CURRENT_DATE=$(date +%F)
           git push --no-verify --set-upstream origin $BRANCH_NAME
           hub pull-request \
-            --no-edit \
+            --message "Weekly update" \
+            --message "This is an automated PR including the latest changes from the Wiki" \
             --reviewer pixelastic \
 
       # - name: Push it back
