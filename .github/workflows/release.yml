@@ -14,10 +14,6 @@ jobs:
     name: debug
     runs-on: ubuntu-latest
     steps:
-      - name: Git config
-        run: |
-          git config --list
-          cat .git/config
       - name: Content of github variable
         run: echo "$GITHUB_CONTEXT"
         env: 
@@ -42,6 +38,10 @@ jobs:
       - uses: fregante/setup-git-token@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Git config
+        run: |
+          git config --list
+          cat .git/config
       # Setup Node
       - uses: actions/setup-node@v1
         with:
