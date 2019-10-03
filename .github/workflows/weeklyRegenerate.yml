@@ -11,5 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
-      - name: Test
-        run: npm run test
+        with:
+          node-version: '12.x'
+      - run: npm install -g yarn
+      - run: yarn run test
