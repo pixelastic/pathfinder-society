@@ -6,23 +6,25 @@ on:
       - actions
 
 jobs:
-  foo:
+  main:
+    name: Regenerate data
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '12.x'
+      # - uses: actions/setup-node@v1
+      #   with:
+      #     node-version: '12.x'
+      # - name: Bootstrap repo
+      #   run: |
+      #     npm install -g yarn
+      #     yarn install
 
       - name: Configure git
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git remote set-url origin "git@github.com:${GITHUB_REPOSITORY}.git"
-
-      # - name: Bootstrap repo
-      #   run: |
-      #     npm install -g yarn
-      #     yarn install
 
       - name: Show git config
         run: git config --list
