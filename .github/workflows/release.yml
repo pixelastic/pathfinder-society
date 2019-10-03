@@ -14,6 +14,10 @@ jobs:
     name: debug
     runs-on: ubuntu-latest
     steps:
+      - name: Git config
+        run: |
+          git config --list
+          cat .git/config
       - name: Content of github variable
         run: echo "$GITHUB_CONTEXT"
         env: 
