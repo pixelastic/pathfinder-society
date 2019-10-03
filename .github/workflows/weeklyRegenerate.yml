@@ -11,11 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      GITHUB_USER: Pixelastic
-      GITHUB_EMAIL: tim@pixelastic.com
+      # GITHUB_USER: Pixelastic
+      # GITHUB_EMAIL: tim@pixelastic.com
     steps:
       - uses: actions/checkout@v1
       - uses: geertvdc/setup-hub@master
+      - uses: fregante/setup-git-token@v1
+          with:
+            token: ${{ secrets.GITHUB_TOKEN }}
       # - uses: actions/setup-node@v1
       #   with:
       #     node-version: '12.x'
