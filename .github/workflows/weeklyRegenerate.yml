@@ -14,18 +14,17 @@ jobs:
       BRANCH_NAME: "weeklyUpdate"
     steps:
       - uses: actions/checkout@v1
-      - uses: geertvdc/setup-hub@master
       - uses: fregante/setup-git-token@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      # - uses: actions/setup-node@v1
-      #   with:
-      #     node-version: '12.x'
-      # - name: Bootstrap repo
-      #   run: |
-      #     npm install -g yarn
-      #     yarn install
+      - uses: geertvdc/setup-hub@master
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Bootstrap repo
+        run: |
+          npm install -g yarn
+          yarn install
 
       - name: Configure git
         run: |
