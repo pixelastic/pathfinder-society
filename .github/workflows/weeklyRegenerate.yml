@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_USER: Pixelastic
+      GITHUB_EMAIL: tim@pixelastic.com
     steps:
       - uses: actions/checkout@v1
       - uses: geertvdc/setup-hub@master
@@ -24,9 +26,10 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "tim@pixelastic.com"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          # git config user.name "${USER}"
+          # git config user.email "${GITHUB_EMAIL}"
+          # # git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          # git remote set-url origin https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
 
       - name: Show git config
         run: git config --list
