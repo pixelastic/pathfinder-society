@@ -30,7 +30,7 @@ jobs:
         run: yarn run regenerate
 
       - name: Check for changes
-        run: git diff --quiet
+        run: '! git diff --quiet'
 
       - name: Commit the changed file
         if: success()
