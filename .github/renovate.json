@@ -5,5 +5,11 @@
     "aberlaas:automergePublicly",
     "aberlaas:enableMasterIssue",
     "aberlaas:scheduleAtNight"
+  ],
+  "packageRules": [
+    {
+      "packageNames": ["firost", "aberlaas", "golgoth", "norska"],
+      "groupName": "Tooling"
+    }
   ]
 }
