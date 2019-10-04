@@ -7637,7 +7637,14 @@ ws@^7.0.0:
   dependencies:
     async-limiter "^1.0.0"
 
-wtf_wikipedia@7.6.0, wtf_wikipedia@^7.6.0:
+wtf_wikipedia@7.7.1:
+  version "7.7.1"
+  resolved "https://registry.yarnpkg.com/wtf_wikipedia/-/wtf_wikipedia-7.7.1.tgz#326575588451e446eef6a3e5339dcdaa37687090"
+  integrity sha512-MyUUL795atgRJHxXtUJodc7+R1dLO1jKd3xXsn9kGoiTFHff6PHyrDstVaYPQv8l4nKsk2ow9E8nnYg4Tg7LXg==
+  dependencies:
+    cross-fetch "3.0.4"
+
+wtf_wikipedia@^7.6.0:
   version "7.6.0"
   resolved "https://registry.yarnpkg.com/wtf_wikipedia/-/wtf_wikipedia-7.6.0.tgz#fdcb804435e711d3f36edb87afa34878882b7bf3"
   integrity sha512-FnNeGk0uRIZE1qd2FavYj/LxPzs9fIPU9UuBSZmnZHgQaqNqvfU+nKCT3a6cisl+xW384xD5L817hN44Qh49Vw==

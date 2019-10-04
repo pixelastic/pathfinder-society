@@ -11,7 +11,7 @@
     "golgoth": "0.3.4",
     "he": "1.2.0",
     "jsdom": "15.1.1",
-    "wtf_wikipedia": "7.6.0"
+    "wtf_wikipedia": "7.7.1"
   },
   "files": [
     "build/"
