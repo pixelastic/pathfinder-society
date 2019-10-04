@@ -75,4 +75,5 @@ jobs:
           hub pull-request \
             --message "Weekly update" \
             --message "This is an automated PR including the latest changes from the Wiki" \
+            --message "Merging this PR will automatically release a new patch version of the module" \
             --reviewer pixelastic
