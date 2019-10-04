@@ -1095,10 +1095,10 @@ abbrev@1:
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@0.4.3:
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.4.3.tgz#c91be13602c5cc5f7d5b1fe719f3234b9ea09bc1"
-  integrity sha512-zGsf9o8du7OQbxFHNNngkY03MPT2pFjlu52jfwuUPqUcgSjI30NKa3XXlC0CpqFXBl4N1YrBSHuuEbGNPifGdg==
+aberlaas@0.4.10:
+  version "0.4.10"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.4.10.tgz#15830d304b210c7c11ea89ddce3917c6d5a9504d"
+  integrity sha512-JUto+xIRArS0MhKIEaaYDtVzn/i4KwXbRPMGc0GowsPgjDeRzUx8niipAUHb0o1Mxnh9/6ngoEHCWuIDYeAcgA==
   dependencies:
     "@babel/cli" "^7.6.0"
     "@babel/core" "^7.6.0"
@@ -1115,8 +1115,8 @@ aberlaas@0.4.3:
     eslint-plugin-jsdoc "^15.9.1"
     eslint-plugin-prettier "^3.1.0"
     execa "1.0.0"
-    firost "0.8.2"
-    golgoth "0.3.1"
+    firost "^0.13.1"
+    golgoth "^0.3.4"
     husky "1.1.3"
     jest "^24.9.0"
     jest-extended "^0.11.2"
@@ -2886,20 +2886,6 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
-firost@0.8.2:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-0.8.2.tgz#34c67513388ab9db7b34f40f4073e9cb01e7b1d0"
-  integrity sha512-MPK8rjp2AMF6CXYbpdKywMELg+S/yvE32DxfFO1Bhjs4G7h8l/TrR34p58drXnePOLlvlN4lTImtOninbwlBmw==
-  dependencies:
-    chokidar "3.0.2"
-    fs-extra "7.0.0"
-    globby "8.0.2"
-    golgoth "0.3.0"
-    inquirer "6.5.0"
-    is-glob "4.0.0"
-    json-stable-stringify "1.0.1"
-    shelljs "0.8.2"
-
 firost@^0.11.4:
   version "0.11.4"
   resolved "https://registry.yarnpkg.com/firost/-/firost-0.11.4.tgz#348714f7f3d5a1cedcc0b6a47a9130c69852518f"
@@ -2990,15 +2976,6 @@ fragment-cache@^0.2.1:
   integrity sha1-QpD60n8T6Jvn8zeZxrxaCr//DRk=
   dependencies:
     map-cache "^0.2.2"
-
-fs-extra@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-7.0.0.tgz#8cc3f47ce07ef7b3593a11b9fb245f7e34c041d6"
-  integrity sha512-EglNDLRpmaTWiD/qraZn6HREAEAHJcJOmxNEYwq6xeMKnVMAy3GUcFB+wXt2C6k4CNvB/mP1y/U3dzvKKj5OtQ==
-  dependencies:
-    graceful-fs "^4.1.2"
-    jsonfile "^4.0.0"
-    universalify "^0.1.0"
 
 fs-extra@^8.1.0:
   version "8.1.0"
@@ -3248,43 +3225,7 @@ golgoth@0.3.0:
     query-string "6.2.0"
     time-span "3.1.0"
 
-golgoth@0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.1.tgz#97c30868909f40c6c1d93c74643dc63dafd4fc19"
-  integrity sha512-RwFFuZqcxkXWoNg7s6R5ImtKEuKoOiUTpMpYOezedWGt6bjXnNVHN2fDiGwrCsegNtpiNcsbII7C3jA5Qsg/Pg==
-  dependencies:
-    chalk "2.4.1"
-    dayjs "1.7.7"
-    flat "4.1.0"
-    got "9.3.2"
-    lodash "4.17.11"
-    ora "3.0.0"
-    p-all "1.0.0"
-    p-map "2.0.0"
-    p-map-series "1.0.0"
-    pify "4.0.1"
-    query-string "6.2.0"
-    time-span "3.1.0"
-
-golgoth@0.3.2, golgoth@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.2.tgz#3056c72df762b9918668ac3738ca4bf182487971"
-  integrity sha512-fcuu2JRcBG1YSzTQziEgpLkUUrDPEbgq4BflkkAG+gFFGpvGFqjOYOz9c5IQheP07LEQFMOYjKFVgFKAvveokw==
-  dependencies:
-    chalk "2.4.1"
-    dayjs "1.7.7"
-    flat "4.1.0"
-    got "9.3.2"
-    lodash "4.17.11"
-    ora "3.0.0"
-    p-all "1.0.0"
-    p-map "2.0.0"
-    p-map-series "1.0.0"
-    pify "4.0.1"
-    query-string "6.2.0"
-    time-span "3.1.0"
-
-golgoth@^0.3.4:
+golgoth@0.3.4, golgoth@^0.3.4:
   version "0.3.4"
   resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.4.tgz#ffff3a5e1d7fbcef45c775ae993f0eb92a433091"
   integrity sha512-qH92dMzQqUSSVOMQgVdn8qJvqe9whRAqDfVzsSSyuq+tg4+nDOqvm3eaEJjPbArvkK2fi4wIanGZj/toMXPdXQ==
@@ -3294,6 +3235,24 @@ golgoth@^0.3.4:
     flat "4.1.0"
     got "9.6.0"
     lodash "^4.17.15"
+    ora "3.0.0"
+    p-all "1.0.0"
+    p-map "2.0.0"
+    p-map-series "1.0.0"
+    pify "4.0.1"
+    query-string "6.2.0"
+    time-span "3.1.0"
+
+golgoth@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.2.tgz#3056c72df762b9918668ac3738ca4bf182487971"
+  integrity sha512-fcuu2JRcBG1YSzTQziEgpLkUUrDPEbgq4BflkkAG+gFFGpvGFqjOYOz9c5IQheP07LEQFMOYjKFVgFKAvveokw==
+  dependencies:
+    chalk "2.4.1"
+    dayjs "1.7.7"
+    flat "4.1.0"
+    got "9.3.2"
+    lodash "4.17.11"
     ora "3.0.0"
     p-all "1.0.0"
     p-map "2.0.0"
