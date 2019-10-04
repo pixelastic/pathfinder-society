@@ -64,6 +64,16 @@ Run `yarn run regenerate` to update the data with the latest information
 extracted from the Wiki and Paizo website. This might take some time as it's
 making a bunch of HTTP requests.
 
+## Automation
+
+This repository is configured with a GitHub Action to recrawl the PatfinderWiki
+every week and submit a Pull Request with the new changes. When this Pull
+Request is merged, another GitHub Action will release a new `patch` version of
+the module.
+
+If the PR is not merged in one week, it will be updated with data from the most
+recent crawl until it is accepted.
+
 [1]: https://pathfinderwiki.com/wiki/Pathfinder_Wiki
 [2]: https://gamemaster.pixelastic.com/society/
 [3]: https://paizo.com
