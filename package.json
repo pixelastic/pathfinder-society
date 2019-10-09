@@ -5,10 +5,10 @@
   },
   "description": "All Pathfinder Society Scenarios metadata as an npm module",
   "devDependencies": {
-    "aberlaas": "0.4.11",
+    "aberlaas": "0.6.0",
     "aoinan": "0.2.1",
     "esm": "3.2.25",
-    "golgoth": "0.3.4",
+    "golgoth": "0.4.2",
     "he": "1.2.0",
     "jsdom": "15.1.1",
     "wtf_wikipedia": "7.7.1"
