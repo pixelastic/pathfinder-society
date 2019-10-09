@@ -10,7 +10,7 @@ name: Weekly PR with new data from wiki
 
 on:
   schedule:
-    - cron:  '0 9 * * 2'
+    - cron: '0 9 * * 2'
 
 jobs:
   main:
@@ -18,9 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      BRANCH_NAME: "weeklyUpdate"
+      BRANCH_NAME: 'weeklyUpdate'
     steps:
-
       # Setup Git
       - uses: actions/checkout@v1
         with:
@@ -39,12 +38,12 @@ jobs:
           npm install -g yarn
           yarn install
 
-
       # Regenerate data
       - name: Regenerate file
         run: yarn run regenerate
 
       - name: Check for changes
+        continue-on-error: true
         # git diff exits with 0 if same files and 1 if different
         # We need to stop if it's the same file, so we negate the exit code
         run: '! git diff --quiet'
@@ -68,7 +67,7 @@ jobs:
             --set-upstream origin \
             $BRANCH_NAME
 
-      - name: Create the Pull Request 
+      - name: Create the Pull Request
         # It will fail if the PR already exists, but that's ok
         continue-on-error: true
         run: |
