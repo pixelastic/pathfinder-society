@@ -2,14 +2,7 @@
   "extends": [
     "config:js-lib",
     "aberlaas",
-    "aberlaas:automergePublicly",
-    "aberlaas:enableMasterIssue",
+    "aberlaas:automergeSilently",
     "aberlaas:scheduleAtNight"
-  ],
-  "packageRules": [
-    {
-      "packageNames": ["firost", "aberlaas", "golgoth", "norska"],
-      "groupName": "Tooling"
-    }
   ]
 }
