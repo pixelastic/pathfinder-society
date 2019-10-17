@@ -1,10 +1,8 @@
 import helper from '../lib/helper.js';
 import firost from 'firost';
-import os from 'os';
 import { _, pMap } from 'golgoth';
 
 (async function() {
-  const maxSeasons = 10;
   helper.init();
 
   firost.pulse.on('scenario', data => {
@@ -14,21 +12,30 @@ import { _, pMap } from 'golgoth';
   });
 
   const allScenarios = {};
-  await pMap(
-    _.range(0, maxSeasons + 1),
-    async seasonIndex => {
-      const scenarios = await helper.scenariosFromSeason(seasonIndex);
-      _.each(scenarios, scenario => {
-        const key = _.chain(scenario.title)
-          .startCase()
-          .replace(/ /g, '')
-          .camelCase()
-          .value();
-        allScenarios[key] = scenario;
-      });
-    },
-    { concurrency: os.cpus().length }
-  );
+  const seasonPages = [
+    'Season_1_scenarios',
+    'Season_2_scenarios',
+    'Season_3_scenarios',
+    'Season_4_scenarios',
+    'Season_5_scenarios',
+    'Season_6_scenarios',
+    'Season_7_scenarios',
+    'Season_8_scenarios',
+    'Season_9_scenarios',
+    'Season_10_scenarios',
+    'Season_1_(2E)_scenarios',
+  ];
+  await pMap(seasonPages, async seasonPage => {
+    const scenarios = await helper.scenariosFromSeason(seasonPage);
+    _.each(scenarios, scenario => {
+      const key = _.chain(scenario.title)
+        .startCase()
+        .replace(/ /g, '')
+        .camelCase()
+        .value();
+      allScenarios[key] = scenario;
+    });
+  });
 
   await firost.writeJson(allScenarios, './lib/data.json');
 })();

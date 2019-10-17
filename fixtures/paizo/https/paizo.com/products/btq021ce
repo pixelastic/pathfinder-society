@@ -1,0 +1,2046 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+	<html>
+		<head>
+			<meta charset="UTF-8">
+        		<meta name="viewport" content="width=device-width">
+        		<meta name = "generator" content = "WireHose Server 4.0" />
+			
+			<LINK rel="stylesheet" type="text/css" href="/include/paizo-0418.min.css" />
+			
+				
+					<link rel="alternate" type="application/atom+xml" href="https://paizo.com/products/btq021ce/reviews&xml=atom?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road" title="Recent Reviews of Pathfinder Society Scenario #1-06: Lost on the Spirit Road" />
+				
+					<link rel="alternate" type="application/atom+xml" href="https://paizo.com/products/btq021ce/posts&xml=atom?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road" title="Recent Posts in Pathfinder Society Scenario #1-06: Lost on the Spirit Road Discussion" />
+				
+			
+			<title>paizo.com - Pathfinder Society Scenario #1-06: Lost on the Spirit Road</title>
+		<script src="/include/paizo.libs-0418.min.js"></script>
+</head>
+		<body>
+		
+			
+			
+			<header data-tier="sub" id="nav-wrapper">
+	<div class="nav-top"></div>
+        <div id="nav-menus">
+            <nav id="upper-nav-row">
+            		<form method="GET" action="/search" id="header-search" class="search">
+            		    <select name="what">
+            		      <option value="all">All</option>
+            		      <option value="products">Products</option>
+            		      <option value="messageboards">Messageboards</option>
+            		      <option value="blogs">Blogs</option>
+            		      <option value="users">Users</option>
+            		      <option value="prd">PRD</option>
+            		    </select>
+            		    <input name="q" type="search" autocomplete="off" />
+            		    <button type="submit"></button>
+            		</form>
+            </nav>
+            <nav id="lower-nav-row"><label id="toggle-menu" for="tm"><span class="hamburger"></span></label><input id="tm" type="checkbox">
+                <ul class="main-menu cf">
+                		<li id="mobile-search-wrapper">
+                		<form method="GET" action="/search" id="header-search-mobile" class="search">
+	            		    <select name="what">
+	            		      <option value="all">All</option>
+	            		      <option value="products">Products</option>
+	            		      <option value="messageboards">Messageboards</option>
+	            		      <option value="blogs">Blogs</option>
+	            		      <option value="users">Users</option>
+	            		      <option value="prd">PRD</option>
+	            		    </select>
+	            		    <input name="q" type="search" autocomplete="off" />
+	            		    <button type="submit"></button>
+	            		</form>
+	            		</li>
+                		
+					
+						<li class="account my-account"><a href="/cgi-bin/WebObjects/Store.woa/wa/DirectAction/signIn?path=products/btq021ce" CLASS="functionalNav">Sign In</a></li>
+					
+					<li  id="terrain-header-cart" class="account mycart" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Cart/refreshCart">
+						<input id="header-cart" name="header-cart" type="checkbox"><a href="/store/cart"><img src="https://cdn.paizo.com/image/navigation/Personal-Cart.png"><span>Cart</span><label title="Toggle Drop-down" for="header-cart" class="drop-icon">▾</label></a>
+						<ul class="sub-menu dropdown-personal">
+							<li><a href="/store/cart"><span>View Cart</span></a></li>
+							
+						</ul>
+					</li><script>AUC.register('terrain-header-cart');</script>
+					<li class="account help">
+						<a href="/paizo/faq"><img src="https://cdn.paizo.com/image/navigation/Personal-Help.png"><span>Help</span></a>
+					</li>
+					
+						<li>
+							<input name="terrain-node-pathfinder" type="checkbox" id="terrain-node-pathfinder" />
+							<a href="https://paizo.com/pathfinder" title="Pathfinder">Pathfinder<span class="drop-icon">▾</span><label for="terrain-node-pathfinder" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-rules" type="checkbox" id="terrain-child-pathfinder-rules" />
+											<a href="https://paizo.com/pathfinder/rules" title="Pathfinder &gt; Rulebooks">Rulebooks<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-rules" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/second" title="Pathfinder &gt; Rulebooks &gt; Second Edition Rulebooks">Second Edition Rulebooks</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/online" title="Pathfinder &gt; Rulebooks &gt; Online Rules">Online Rules</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/downloads" title="Pathfinder &gt; Rulebooks &gt; Downloads">Downloads</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinder/rules/first" title="Pathfinder &gt; Rulebooks &gt; First Edition Rulebooks">First Edition Rulebooks</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-adventures" type="checkbox" id="terrain-child-pathfinder-adventures" />
+											<a href="https://paizo.com/pathfinder/adventures" title="Pathfinder &gt; Adventures">Adventures<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-adventures" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/adventurePath" title="Store &gt; Pathfinder &gt; Adventures &gt; Adventure Path">Adventure Path</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/standalone" title="Store &gt; Pathfinder &gt; Adventures &gt; Standalone Adventures">Standalone Adventures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/scenarios" title="Store &gt; Pathfinder &gt; Adventures &gt; Organized Play Scenarios">Organized Play Scenarios</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures/first" title="Store &gt; Pathfinder &gt; Adventures &gt; First Edition Adventures">First Edition Adventures</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-setting" type="checkbox" id="terrain-child-pathfinder-setting" />
+											<a href="https://paizo.com/pathfinder/setting" title="Pathfinder &gt; Setting">Setting<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-setting" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-accessories" type="checkbox" id="terrain-child-pathfinder-accessories" />
+											<a href="https://paizo.com/pathfinder/accessories" title="Pathfinder &gt; Accessories">Accessories<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-accessories" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/maps" title="Store &gt; Pathfinder &gt; Accessories &gt; Maps">Maps</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/pawns" title="Store &gt; Pathfinder &gt; Accessories &gt; Pawns">Pawns</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/pathfinderbattles" title="Store &gt; Pathfinder &gt; Accessories &gt; Pathfinder Battles">Pathfinder Battles</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/unpainted" title="Store &gt; Pathfinder &gt; Accessories &gt; Unpainted Miniatures">Unpainted Miniatures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/dice" title="Store &gt; Pathfinder &gt; Accessories &gt; Dice">Dice</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/digital" title="Store &gt; Pathfinder &gt; Accessories &gt; Digital Tools">Digital Tools</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/other" title="Store &gt; Pathfinder &gt; Accessories &gt; Other Accessories">Other Accessories</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories/first" title="Store &gt; Pathfinder &gt; Accessories &gt; First Edition Accessories">First Edition Accessories</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-fiction" type="checkbox" id="terrain-child-pathfinder-fiction" />
+											<a href="https://paizo.com/pathfinder/fiction" title="Pathfinder &gt; Fiction">Fiction<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-fiction" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-society" type="checkbox" id="terrain-child-pathfinder-society" />
+											<a href="https://paizo.com/pathfinder/society" title="Pathfinder &gt; Organized Play">Organized Play<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-society" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-subscriptions" type="checkbox" id="terrain-child-pathfinder-subscriptions" />
+											<a href="https://paizo.com/pathfinder/subscriptions" title="Pathfinder &gt; Subscriptions">Subscriptions<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-subscriptions" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-compatibility" type="checkbox" id="terrain-child-pathfinder-compatibility" />
+											<a href="https://paizo.com/pathfinder/compatibility" title="Pathfinder &gt; Compatibility">Compatibility<span class="drop-icon">▾</span><label for="terrain-child-pathfinder-compatibility" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-starfinder" type="checkbox" id="terrain-node-starfinder" />
+							<a href="https://paizo.com/starfinder" title="Starfinder">Starfinder<span class="drop-icon">▾</span><label for="terrain-node-starfinder" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-beginnerbox" type="checkbox" id="terrain-child-starfinder-beginnerbox" />
+											<a href="https://paizo.com/starfinder/beginnerbox" title="Starfinder &gt; Beginner Box">Beginner Box<span class="drop-icon">▾</span><label for="terrain-child-starfinder-beginnerbox" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-rulebooks" type="checkbox" id="terrain-child-starfinder-rulebooks" />
+											<a href="https://paizo.com/starfinder/rulebooks" title="Starfinder &gt; Rulebooks">Rulebooks<span class="drop-icon">▾</span><label for="terrain-child-starfinder-rulebooks" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-adventures" type="checkbox" id="terrain-child-starfinder-adventures" />
+											<a href="https://paizo.com/starfinder/adventures" title="Starfinder &gt; Adventures">Adventures<span class="drop-icon">▾</span><label for="terrain-child-starfinder-adventures" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-accessories" type="checkbox" id="terrain-child-starfinder-accessories" />
+											<a href="https://paizo.com/starfinder/accessories" title="Starfinder &gt; Accessories">Accessories<span class="drop-icon">▾</span><label for="terrain-child-starfinder-accessories" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-rules" type="checkbox" id="terrain-child-starfinder-rules" />
+											<a href="https://paizo.com/starfinder/rules" title="Starfinder &gt; Online Rules">Online Rules<span class="drop-icon">▾</span><label for="terrain-child-starfinder-rules" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-society" type="checkbox" id="terrain-child-starfinder-society" />
+											<a href="https://paizo.com/starfinder/society" title="Starfinder &gt; Organized Play">Organized Play<span class="drop-icon">▾</span><label for="terrain-child-starfinder-society" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-subscriptions" type="checkbox" id="terrain-child-starfinder-subscriptions" />
+											<a href="https://paizo.com/starfinder/subscriptions" title="Starfinder &gt; Subscriptions">Subscriptions<span class="drop-icon">▾</span><label for="terrain-child-starfinder-subscriptions" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-compatibility" type="checkbox" id="terrain-child-starfinder-compatibility" />
+											<a href="https://paizo.com/starfinder/compatibility" title="Starfinder &gt; Compatibility">Compatibility<span class="drop-icon">▾</span><label for="terrain-child-starfinder-compatibility" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-faq" type="checkbox" id="terrain-child-starfinder-faq" />
+											<a href="https://paizo.com/starfinder/faq" title="Starfinder &gt; FAQ">FAQ<span class="drop-icon">▾</span><label for="terrain-child-starfinder-faq" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-pacg" type="checkbox" id="terrain-node-pacg" />
+							<a href="https://paizo.com/pacg" title="Adventure Card Game">Adventure Card Game<span class="drop-icon">▾</span><label for="terrain-node-pacg" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-store" type="checkbox" id="terrain-node-store" />
+							<a href="https://paizo.com/store" title="Store">Store<span class="drop-icon">▾</span><label for="terrain-node-store" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-pathfinder" type="checkbox" id="terrain-child-store-pathfinder" />
+											<a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder<span class="drop-icon">▾</span><label for="terrain-child-store-pathfinder" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/rulebooks" title="Store &gt; Pathfinder &gt; Rulebooks">Rulebooks</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/adventures" title="Store &gt; Pathfinder &gt; Adventures">Adventures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/setting" title="Store &gt; Pathfinder &gt; Setting">Setting</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/society" title="Store &gt; Pathfinder &gt; Pathfinder Society">Pathfinder Society</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/fiction" title="Store &gt; Pathfinder &gt; Fiction">Fiction</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/accessories" title="Store &gt; Pathfinder &gt; Accessories">Accessories</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/merch" title="Store &gt; Pathfinder &gt; Merch">Merch</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/compatible" title="Store &gt; Pathfinder &gt; Compatible">Compatible</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pathfinder/licensed" title="Store &gt; Pathfinder &gt; Licensed">Licensed</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-starfinder" type="checkbox" id="terrain-child-store-starfinder" />
+											<a href="https://paizo.com/store/starfinder" title="Store &gt; Starfinder">Starfinder<span class="drop-icon">▾</span><label for="terrain-child-store-starfinder" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/society" title="Store &gt; Starfinder &gt; Starfinder Society">Starfinder Society</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/rulebooks" title="Store &gt; Starfinder &gt; Rulebooks">Rulebooks</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/adventurePath" title="Store &gt; Starfinder &gt; Adventure Path">Adventure Path</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/accessories" title="Store &gt; Starfinder &gt; Accessories">Accessories</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/starfinder/merch" title="Store &gt; Starfinder &gt; Merch">Merch</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-pacg" type="checkbox" id="terrain-child-store-pacg" />
+											<a href="https://paizo.com/store/pacg" title="Store &gt; Adventure Card Game">Adventure Card Game<span class="drop-icon">▾</span><label for="terrain-child-store-pacg" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/adventures" title="Store &gt; Adventure Card Game &gt; Adventure Paths">Adventure Paths</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/expansions" title="Store &gt; Adventure Card Game &gt; Expansions">Expansions</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/pacs" title="Store &gt; Adventure Card Game &gt; Pathfinder Adventure Card Society">Pathfinder Adventure Card Society</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/promo" title="Store &gt; Adventure Card Game &gt; Promo Cards">Promo Cards</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/pacg/accessories" title="Store &gt; Adventure Card Game &gt; Accessories">Accessories</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-gaming" type="checkbox" id="terrain-child-store-gaming" />
+											<a href="https://paizo.com/store/gaming" title="Store &gt; Gaming">Gaming<span class="drop-icon">▾</span><label for="terrain-child-store-gaming" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/cardBoardGames" title="Store &gt; Gaming &gt; Card & Board Games">Card & Board Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/deckBuildingGames" title="Store &gt; Gaming &gt; Deck Building Games">Deck Building Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/miniatures" title="Store &gt; Gaming &gt; Miniatures">Miniatures</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/roleplayingGames" title="Store &gt; Gaming &gt; Roleplaying Games">Roleplaying Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/tradingCardGames" title="Store &gt; Gaming &gt; Trading Card Games">Trading Card Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/traditionalGames" title="Store &gt; Gaming &gt; Traditional Games">Traditional Games</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/gaming/accessories" title="Store &gt; Gaming &gt; Accessories">Accessories</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-books" type="checkbox" id="terrain-child-store-books" />
+											<a href="https://paizo.com/store/books" title="Store &gt; Books">Books<span class="drop-icon">▾</span><label for="terrain-child-store-books" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-apparelGifts" type="checkbox" id="terrain-child-store-apparelGifts" />
+											<a href="https://paizo.com/store/apparelGifts" title="Store &gt; Apparel & Gifts">Apparel & Gifts<span class="drop-icon">▾</span><label for="terrain-child-store-apparelGifts" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-exclusives" type="checkbox" id="terrain-child-store-exclusives" />
+											<a href="https://paizo.com/store/exclusives" title="Store &gt; Exclusives">Exclusives<span class="drop-icon">▾</span><label for="terrain-child-store-exclusives" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-sale" type="checkbox" id="terrain-child-store-sale" />
+											<a href="https://paizo.com/store/sale" title="Store &gt; Sale">Sale<span class="drop-icon">▾</span><label for="terrain-child-store-sale" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/store/sale/pathfinderCelebration" title="Store &gt; Sale &gt; Pathfinder First Edition Celebration!">Pathfinder First Edition Celebration!</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/store/sale/goingGoingGone" title="Store &gt; Sale &gt; Going, Going, Gone!">Going, Going, Gone!</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-giftCertificates" type="checkbox" id="terrain-child-store-giftCertificates" />
+											<a href="https://paizo.com/store/giftCertificates" title="Store &gt; eGift Cards">eGift Cards<span class="drop-icon">▾</span><label for="terrain-child-store-giftCertificates" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-subscriptions" type="checkbox" id="terrain-child-store-subscriptions" />
+											<a href="https://paizo.com/store/subscriptions" title="Store &gt; Subscriptions">Subscriptions<span class="drop-icon">▾</span><label for="terrain-child-store-subscriptions" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-organizedplay" type="checkbox" id="terrain-node-organizedplay" />
+							<a href="https://paizo.com/organizedplay" title="Organized Play">Organized Play<span class="drop-icon">▾</span><label for="terrain-node-organizedplay" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-pathfinderSociety" type="checkbox" id="terrain-child-organizedplay-pathfinderSociety" />
+											<a href="https://paizo.com/pathfinderSociety" title="Organized Play &gt; Pathfinder Society">Pathfinder Society<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-pathfinderSociety" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-starfindersociety" type="checkbox" id="terrain-child-organizedplay-starfindersociety" />
+											<a href="https://paizo.com/starfindersociety" title="Organized Play &gt; Starfinder Society">Starfinder Society<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-starfindersociety" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-pacs" type="checkbox" id="terrain-child-organizedplay-pacs" />
+											<a href="https://paizo.com/pacs" title="Organized Play &gt; Adventure Card Society">Adventure Card Society<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-pacs" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-myAccount" type="checkbox" id="terrain-child-organizedplay-myAccount" />
+											<a href="https://paizo.com/organizedplay/myAccount" title="Organized Play &gt; My Organized Play">My Organized Play<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-myAccount" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-events" type="checkbox" id="terrain-child-organizedplay-events" />
+											<a href="https://paizo.com/organizedplay/events" title="Organized Play &gt; Events">Events<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-events" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-coordinators" type="checkbox" id="terrain-child-organizedplay-coordinators" />
+											<a href="https://paizo.com/organizedplay/coordinators" title="Organized Play &gt; Coordinators">Coordinators<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-coordinators" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-policies" type="checkbox" id="terrain-child-organizedplay-policies" />
+											<a href="https://paizo.com/organizedplay/policies" title="Organized Play &gt; Policies">Policies<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-policies" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-faq" type="checkbox" id="terrain-child-organizedplay-faq" />
+											<a href="https://paizo.com/organizedplay/faq" title="Organized Play &gt; FAQ">FAQ<span class="drop-icon">▾</span><label for="terrain-child-organizedplay-faq" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					
+						<li>
+							<input name="terrain-node-community" type="checkbox" id="terrain-node-community" />
+							<a href="https://paizo.com/community" title="Community">Community<span class="drop-icon">▾</span><label for="terrain-node-community" class="drop-icon" title="Toggle Drop-down">▾</label></a>
+							
+								<ul class="sub-menu">
+									
+										<li class="child">
+											<input name="terrain-child-blog" type="checkbox" id="terrain-child-community-blog" />
+											<a href="https://paizo.com/community/blog" title="Community &gt; Paizo Blog">Paizo Blog<span class="drop-icon">▾</span><label for="terrain-child-community-blog" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-forums" type="checkbox" id="terrain-child-community-forums" />
+											<a href="https://paizo.com/community/forums" title="Community &gt; Forums">Forums<span class="drop-icon">▾</span><label for="terrain-child-community-forums" class="drop-icon">▾</label></a>
+											
+												<ul class="sub-menu">
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/paizo" title="Community &gt; Forums &gt; Paizo">Paizo</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/pathfinder" title="Community &gt; Forums &gt; Pathfinder">Pathfinder</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/starfinder" title="Community &gt; Forums &gt; Starfinder">Starfinder</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/organizedPlay" title="Community &gt; Forums &gt; Organized Play">Organized Play</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/campaigns" title="Community &gt; Forums &gt; Online Campaigns">Online Campaigns</a></li>
+													
+														<li class="grandchild"><a href="https://paizo.com/community/forums/gamerLife" title="Community &gt; Forums &gt; Gamer Life">Gamer Life</a></li>
+													
+												</ul>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-paizocon" type="checkbox" id="terrain-child-community-paizocon" />
+											<a href="https://paizo.com/paizocon" title="Community &gt; PaizoCon">PaizoCon<span class="drop-icon">▾</span><label for="terrain-child-community-paizocon" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-communityuse" type="checkbox" id="terrain-child-community-communityuse" />
+											<a href="https://paizo.com/community/communityuse" title="Community &gt; Community Use">Community Use<span class="drop-icon">▾</span><label for="terrain-child-community-communityuse" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+										<li class="child">
+											<input name="terrain-child-guidelines" type="checkbox" id="terrain-child-community-guidelines" />
+											<a href="https://paizo.com/community/guidelines" title="Community &gt; Guidelines">Guidelines<span class="drop-icon">▾</span><label for="terrain-child-community-guidelines" class="drop-icon">▾</label></a>
+											
+										</li>
+									
+								</ul>
+							
+						</li>
+					                    
+                    <li class="mobile-help">
+                        <div>
+                            <h1>Need Help?</h1>
+                            <p>Mon–Fri, 10:00 a.m. to 5:00 p.m. Pacific</p>
+                            <p><a href="tel:14252500800">(425) 250-0800</a></p>
+                            <p><a href="mailto:customer.service@paizo.com">customer.service@paizo.com</a></p>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <aside class="nav-left"></aside>
+        <aside class="nav-logo"><a href="/"></a></aside>
+        <aside class="nav-right"></aside>
+        <div class="nav-bottom"></div>
+</header>
+			<main class="ctf pathfinder society scenario #1-06-ctf">
+				<ul class="context-menu">
+					
+						<li><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></li>
+					
+						<li><a href="https://paizo.com/store/starfinder" title="Store &gt; Starfinder">Starfinder</a></li>
+					
+						<li><a href="https://paizo.com/store/pacg" title="Store &gt; Adventure Card Game">Adventure Card Game</a></li>
+					
+						<li><a href="https://paizo.com/store/gaming" title="Store &gt; Gaming">Gaming</a></li>
+					
+						<li><a href="https://paizo.com/store/books" title="Store &gt; Books">Books</a></li>
+					
+						<li><a href="https://paizo.com/store/apparelGifts" title="Store &gt; Apparel & Gifts">Apparel & Gifts</a></li>
+					
+						<li><a href="https://paizo.com/store/exclusives" title="Store &gt; Exclusives">Exclusives</a></li>
+					
+						<li><a href="https://paizo.com/store/sale" title="Store &gt; Sale">Sale</a></li>
+					
+						<li><a href="https://paizo.com/store/giftCertificates" title="Store &gt; eGift Cards">eGift Cards</a></li>
+					
+						<li><a href="https://paizo.com/store/subscriptions" title="Store &gt; Subscriptions">Subscriptions</a></li>
+					
+				</ul>
+				<table class = "table-align-top" style = "width: 100%;">
+					<tr>
+						<td id = "main-slot">
+							<div class = "tiny" style = "clear: both; overflow: hidden;">
+								
+									<div class = "pull-right">
+										
+											
+												<a title="Subscribe to reviews of this product" href="https://paizo.com/products/btq021ce/reviews&xml=atom?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road">
+	<img alt="RSS" border="0" src="https://paizo.com/image/button/rss.png" />
+	
+</a>
+											
+												<a title="Subscribe to recent posts in this product's discussion" href="https://paizo.com/products/btq021ce/posts&xml=atom?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road">
+	<img alt="RSS" border="0" src="https://paizo.com/image/button/rss.png" />
+	
+</a>
+											
+										
+										
+											
+    <a target="_blank" title="Share this product on Facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpaizo.com%2F-btq021ce&t=Pathfinder+Society+Scenario+%231-06%3A+Lost+on+the+Spirit+Road">
+    	<img alt="Facebook" src="/image/button/facebook.png" />
+    </a>
+    <a target="_blank" title="Share this product via Twitter" href="http://twitter.com/home?status=Pathfinder+Society+Scenario+%231-06%3A+Lost+on+the+Spirit+Road%3A+https%3A%2F%2Fpaizo.com%2F-btq021ce">
+    	<img alt="Twitter" src="/image/button/twitter.png" />
+    </a>
+    <a target="_blank" title="Email this product " href="mailto:?subject=Pathfinder%20Society%20Scenario%20%231-06:%20Lost%20on%20the%20Spirit%20Road&body=Check%20this%20out%20on%20paizo.com:%0A%0APathfinder%20Society%20Scenario%20%231-06:%20Lost%20on%20the%20Spirit%20Road%0A%0Ahttps://paizo.com/-btq021ce">
+    	<img alt="Email" src="/image/button/email.png" />
+    </a>
+
+										
+										
+									</div>
+								
+								
+									<span itemprop = "breadcrumb" class = "pull-left">
+										
+										
+  
+    
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+        <SPAN class="tiny"> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/store/pathfinder/society" title="Store &gt; Pathfinder &gt; Pathfinder Society">Pathfinder Society</a></SPAN>
+        
+      
+      
+      
+        <SPAN class="tiny"> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN class="current-node"><a href="https://paizo.com/store/pathfinder/society/season1" title="Store &gt; Pathfinder &gt; Pathfinder Society &gt; Season 1: Year of the Open Road">Season 1: Year of the Open Road</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+										
+									</span>
+								
+							</div>
+							
+							
+
+
+							
+								
+								
+									
+  
+  
+  
+  
+
+  
+    
+    
+      
+  
+    <div  id="product" style="overflow: visible;" updateUrl="/cgi-bin/WebObjects/Store.woa/82/ajax/ns3PDhvCb7tzTsIM5aPhK0/0.StandardPageTemplate.1.15.11.3.1.7.0.0.2.1.3.1.0.com_paizo_appserver_components_ProductDisplay.1.1">
+      
+      
+      <div itemscope="itemscope" itemtype="http://schema.org/Product" class="product">
+        
+          <h1 itemprop="name">Pathfinder Society Scenario #1-06: Lost on the Spirit Road</h1>
+        
+        
+          <span itemprop="manufacturer" itemscope itemtype="http://schema.org/Organization">
+            <a href="https://paizo.com/companies/paizoPublishingLLC" itemprop="url" title="More products by this manufacturer">
+              <h4 itemprop="name">Paizo Inc.</h4>
+            </a>
+          </span>
+        
+        
+
+        
+        
+        
+        
+        
+        <div class="product-purchase-block">
+          
+            
+          
+          
+            
+            
+              <div class="product-image"> 
+	<a target="_blank" href="//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0106E.jpg">
+		<img width="180" height="233" alt="Pathfinder Society Scenario #1-06: Lost on the Spirit Road" src="//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0106E_180.jpeg" />
+	</a>
+ </div>
+            
+          
+          <div itemprop="offers"> <div  id="aucgid_v5748btq021ce" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/priceBlock?product=v5748btq021ce">
+  
+  
+  <div id="busyaucgid_v5748btq021ce" style="display: none; float: right; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busyaucgid_v5748btq021ce', 'aucgid_v5748btq021ce', null, null)</script>
+
+  <div class="price-block">
+    
+    
+      <p>
+        Our Price:
+        <span class="dark-red"><b>$4.99</b></span>
+      </p>
+    
+    
+      <p>
+        <i>Preorder</i>
+        expected late October 2019
+      </p>
+    
+    
+    
+      <p class="tiny"><i>Unavailable</i></p>
+    
+    
+    
+    
+    
+      
+    
+  </div>
+</div><script>AUC.register('aucgid_v5748btq021ce');</script> </div>
+          
+    <a target="_blank" title="Share this product on Facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpaizo.com%2F-btq021ce&t=Pathfinder+Society+Scenario+%231-06%3A+Lost+on+the+Spirit+Road">
+    	<img alt="Facebook" src="/image/button/facebook.png" />
+    </a>
+    <a target="_blank" title="Share this product via Twitter" href="http://twitter.com/home?status=Pathfinder+Society+Scenario+%231-06%3A+Lost+on+the+Spirit+Road%3A+https%3A%2F%2Fpaizo.com%2F-btq021ce">
+    	<img alt="Twitter" src="/image/button/twitter.png" />
+    </a>
+    <a target="_blank" title="Email this product " href="mailto:?subject=Pathfinder%20Society%20Scenario%20%231-06:%20Lost%20on%20the%20Spirit%20Road&body=Check%20this%20out%20on%20paizo.com:%0A%0APathfinder%20Society%20Scenario%20%231-06:%20Lost%20on%20the%20Spirit%20Road%0A%0Ahttps://paizo.com/-btq021ce">
+    	<img alt="Email" src="/image/button/email.png" />
+    </a>
+
+        </div>
+        
+          
+        
+        <div itemprop="description"> <p>A Pathfinder Society Scenario designed for levels 1–4 (subtiers 1–2 and 3–4).</p>
+
+<p>A shipment of relics on its way to Minkai vanished somewhere in the Forest of Spirits, a dense woodland home to kami and spirits of all sorts. In search of the missing shipment, Pathfinder agents travel to a remote village, where they uncover secrets of this enigmatic forest. This scenario features a wide variety of options for encounters and reasons for the vanishing, making for a fresh experience on mulitple playthoughs.</p>
+
+<p>Written by Christopher Wasko.</p>
+
+<p><b>Scenario tags</b>: Repeatable</p> </div>
+        
+        
+        
+        
+        
+          <div class="callout-block">
+            <p>
+              <b>Note:</b>
+              This product is part of the 
+              <a href="https://paizo.com/products/btpy9n31?Pathfinder-Society-Scenario-Subscription" title="Step into the world of the Pathfinder Society Roleplaying Guild! Each Roleplaying Guild scenario follows the course of agents of the Pathfinder Society, as...">Pathfinder Society Scenario Subscription</a>.</p>
+          </div>
+        
+        
+        
+        
+        
+          
+            
+            
+            <h3 class="spaced-header-small">Product Availability <hr /></h3>
+            
+              <p>
+                
+                <p>
+  
+  
+    
+  
+</p>
+<p>
+    
+</p>
+<p>Unavailable</p>
+  
+              </p>
+            
+          
+          
+        
+        <p class="tiny" style="text-align: center; clear: both;">Are there errors or omissions in this product information? Got corrections? Let us know at 
+          <a href="mailto:store@paizo.com?subject=Pathfinder%20Society%20Scenario%20%231-06:%20Lost%20on%20the%20Spirit%20Road">store@paizo.com</a>.</p>
+        <p class="tiny" itemprop="productID" style="text-align: right;">PZOPFS0106E</p>
+      </div>
+      
+      
+
+	<hr />
+	<h3>See Also:</h3>
+	<blockquote>
+	<ul>
+		
+			<li>
+				
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/pathfinder" title="Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(3,261)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/byCompany/p/paizoInc" title="Store &gt; By Company &gt; P &gt; Paizo Inc">Paizo Inc</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(8,983)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/gaming" title="Store &gt; Gaming">Gaming</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/gaming/roleplayingGames" title="Store &gt; Gaming &gt; Roleplaying Games">Roleplaying Games</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(12,517)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder/adventures" title="Store &gt; Pathfinder &gt; Adventures">Adventures</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(1,342)
+					</span>
+				
+			</li>
+		
+			<li>
+				
+  
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder" title="Store &gt; Pathfinder">Pathfinder</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder/society" title="Store &gt; Pathfinder &gt; Pathfinder Society">Pathfinder Society</a></SPAN>
+        
+      
+      
+      
+        <SPAN> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN><a href="https://paizo.com/store/pathfinder/society/season1" title="Store &gt; Pathfinder &gt; Pathfinder Society &gt; Season 1: Year of the Open Road">Season 1: Year of the Open Road</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+				
+					<span class = "tiny unlink">
+						(11)
+					</span>
+				
+			</li>
+		
+	</ul>
+	</blockquote>
+
+      
+        
+          <hr />
+          <div class="tiny">
+            
+              &lt;&lt; 
+              <a href="https://paizo.com/products/btq0217k?Pathfinder-Society-Scenario-104-Bandits-of-Immenwood" title="A Pathfinder Society Scenario designed for levels 1–4 (Subtiers 1–2 and 3–4). The Pathfinders are sent forth to aid their own! A Pathfinder mission returning from a long sea voyage ran..."> Pathfinder Society Scenario #1-04: Bandits of Immenwood </a>
+              <br />
+            
+              &lt;&lt; 
+              <a href="https://paizo.com/products/btq0217l?Pathfinder-Society-Scenario-105-Trailblazers-Bounty" title="A Pathfinder Society Scenario designed for levels 1–4 (Subtiers 1–2 and 3–4). The powerful nation of Cheliax has posted a public bounty that would richly reward the first team of..."> Pathfinder Society Scenario #1-05: Trailblazers’ Bounty </a>
+              <br />
+            
+            <span style="float: right;">
+              &gt;&gt; 
+            </span>
+          </div>
+          <hr />
+        
+      
+      
+        
+          <a name="tabs"></a>
+          <div class="tabs">
+  
+    <div class="tab">
+      
+       <input name="tab-group-null" type="radio" id="tab-ProductReviews" /> 
+      <label for="tab-ProductReviews">Product Reviews (0)</label>
+      <div class="tab-content">
+            <div itemprop="reviews"> 
+                
+<a name = "reviews"></a>
+<div  id="auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+	 
+	
+
+
+	
+	
+	
+		<p><a href="/cgi-bin/WebObjects/Store.woa/wa/signIn?path=products/btq021ce">Sign in</a> to create or edit a product review.</p>
+	
+	
+	
+</div><script>AUC.register('auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2');</script> 
+              </div>
+             </div>
+    </div>
+  
+    <div class="tab">
+       <input name="tab-group-null" type="radio" checked="true" id="tab-ProductDiscussion" /> 
+      
+      <label for="tab-ProductDiscussion">Product Discussion (5)</label>
+      <div class="tab-content">
+             
+                <div  id="auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+  
+  
+
+
+  
+  
+    
+    
+      
+
+      
+
+      <table width="100%">
+        <tr>
+          <td valign="middle">
+            
+          </td>
+          <td valign="bottom" width="140" class="search" align="right"> 
+
+
+	<div class="box search">
+		
+			<div class="box-title">
+        		
+          			
+          				<span class="box-title-text">
+          					Search Thread
+          				</span>
+          			
+        		
+        		
+        		
+        		
+  			</div>
+  		
+  		<div class="box-content ">
+  			
+	<form method="GET" action="/search" class="tiny" style="display:inline">
+		
+			<p class = "collapse">
+				
+				Search this Thread:
+				
+			</p>
+		
+		<input name="q" size="30" placeholder="Search" type="text" maxLength="256" id="searchBoxmain" />
+		
+			
+		
+		<input type = "submit" value = "Search" />
+		<div class="autocomplete" id="searchSuggestionsmain" style="display: none;"></div>
+		
+		
+		
+			<input type="hidden" value="v5748rzs42snz" name="thread" />
+		
+		
+	</form>
+
+  		</div>
+  	</div>
+
+<script language="JavaScript" type="text/javascript">
+new Ajax.Autocompleter("searchBoxmain", "searchSuggestionsmain", "/cgi-bin/WebObjects/SearchSupport.woa/wa/SearchSupport/getMoreTermSuggestions", { method: 'get', minChars: 2, paramName: 'query', noSetWidth: true, selectFirst: false, frequency: 0.3 });
+</script> </td>
+        </tr>
+      </table>
+      
+
+
+      
+
+
+  
+    
+      
+      
+
+
+	<div class="bordered-box messageboard-box" style="background-color: null;">
+	
+	
+		<div class="bb-content">
+			
+        <div class = "post">
+          
+            
+            
+              
+            
+          
+            
+            
+              
+                <div id="mprd_post_v5748gbitlh12">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20430454"></A>
+                <A name="1"></A>
+                 <img alt="Horizon Hunters" src="https://paizo.com/image/content/PathfinderSociety/HorizonHunters_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name messageboard-pfs-header">
+                  <a href="https://paizo.com/people/KrullFelhammer" itemprop="url" title="Pathfinder Society character of PneumaPilot2"> Krull Felhammer </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq021ce/discuss?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road#1" title="Link to this post"> <time datetime="2019-10-07T14:07:16Z" itemprop="commentTime">Mon, Oct 7, 2019, 07:07 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitlh12" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-hidden">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitlh12">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/KrullFelhammer" itemprop="url" title="Pathfinder Society character of PneumaPilot2"> 
+	
+		<img width="90" height="90" alt="Cheiton" src="//cdn.paizo.com/image/avatar/PZO9038-Cheiton.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>The beginning of the description says “Quest”, but I think this should be a “Scenario”.</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitlno9">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20439065"></A>
+                <A name="2"></A>
+                 <img alt="Grand Lodge" src="https://paizo.com/image/content/PathfinderSociety/GrandLodge_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/Farrindor" itemprop="url" title="Farrindor"> Farrindor </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq021ce/discuss?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road#2" title="Link to this post"> <time datetime="2019-10-09T15:44:36Z" itemprop="commentTime">Wed, Oct 9, 2019, 08:44 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitlno9" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitlno9">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Paizo Superscriber; Pathfinder Companion, Pathfinder Accessories Subscriber </span>
+              
+              
+                
+                
+                  
+
+
+	<div class="bordered-box bb-avatar">
+	
+	
+		<div class="bb-content">
+			
+                    <a href="https://paizo.com/people/Farrindor" itemprop="url" title="Farrindor"> 
+	
+		<img width="90" height="90" alt="Villamar Koth" src="//cdn.paizo.com/image/avatar/PZO9035-Villamor.jpg" />
+	
+ </a>
+                  
+		</div>
+	
+	
+	
+	</div>
+
+                
+              
+            
+            <div class="post-contents"> <p>The description speaks of multiple play through - is this one intended as an evergreen?</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitloa2">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20439850"></A>
+                <A name="3"></A>
+                 <img alt="Grand Lodge" src="https://paizo.com/image/content/PathfinderSociety/GrandLodge_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/LindleyCourt" itemprop="url" title="Lindley Court"> Lindley Court </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq021ce/discuss?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road#3" title="Link to this post"> <time datetime="2019-10-09T18:50:50Z" itemprop="commentTime">Wed, Oct 9, 2019, 11:50 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitloa2" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitloa2">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Adventure Path, Starfinder Adventure Path, Starfinder Roleplaying Game Subscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/LindleyCourt" itemprop="url" title="Lindley Court"> 
+	
+		<img width="90" height="90" alt="Swaranna Rei" src="//cdn.paizo.com/image/avatar/PZO9295-Rei_500.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <div class="messageboard-quotee">Farrindor wrote:</div><blockquote> The description speaks of multiple play through - is this one intended as an evergreen? </blockquote><p>It has the Repeatable tag, which is the new term for evergreens. So yes, basically. </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitly3m">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20452578"></A>
+                <A name="4"></A>
+                 <img alt="Liberty's Edge" src="https://paizo.com/image/content/PathfinderSociety/LibertysEdge_itsy.png" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/RobertTHEPerylous" itemprop="url" title="RobertTHEPerylous"> RobertTHEPerylous </a>
+                </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq021ce/discuss?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road#4" title="Link to this post"> <time datetime="2019-10-14T01:06:30Z" itemprop="commentTime">Sunday, 06:06 pm</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitly3m" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag-block">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="hidden faq-flag-dotted" id="faqv5748gbitly3m">
+                        
+                        
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+                <span class="messageboard-subscriber-tags"> Pathfinder Adventure Path, Lost Omens, Maps, Pathfinder Accessories, Pawns Subscriber; Starfinder Superscriber </span>
+              
+              
+                
+                  <a href="https://paizo.com/people/RobertTHEPerylous" itemprop="url" title="RobertTHEPerylous"> 
+	
+		<img width="90" height="90" alt="Aspis Agent" src="//cdn.paizo.com/image/avatar/PZO9248-Aspis_90.jpeg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>YAY! I get to post the questions:</p>
+
+<p>Maps list? Please?</p>
+
+<p>Approximate street date?</p>
+
+<p>We're going to be running these in November at our local store, and I'd like to know if I need to have them order maps for me, or if I've already got them.</p>
+
+<p>Thanks!</p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+                <div id="mprd_post_v5748gbitm2dn">
+  
+    <itemscope itemtype="http://schema.org/UserComments">
+      <div  id="auc_MessageboardPostRowDisplay" class="post" updateUrl="https://paizo.com/cgi-bin/WebObjects/Store.woa/wa/Spinny/defaultSpinny">
+        
+  <div id="busy" style="display: none; position: fixed; top: 25%; left: 50%; z-index: 9999;"><img src="/WebObjects/Frameworks/Ajax.framework/WebServerResources/wait30.gif" width="30" height="30" /></div>
+  
+
+<script>AjaxBusy.register('masked', 'busy', 'auc_MessageboardPostRowDisplay', null, null)</script>
+
+        <table cellspacing="0" cellpadding="0" class="messageboard-post-header">
+          <tr>
+            <td class="ph-left">
+              
+                <A name="20458123"></A>
+                <A name="5"></A>
+                 <img alt="Paizo Employee" src="https://paizo.com/image/logo/golem-tiny.gif" /> 
+                
+                <span class="messageboard-avatar-name">
+                  <a href="https://paizo.com/people/LindaZayasPalmer" itemprop="url" title="Linda Zayas-Palmer"> Linda Zayas-Palmer </a>
+                </span>
+                
+                  <span class="avatar-title">
+                    Organized Play Lead Developer
+                    
+                  </span>
+                
+                
+                
+                
+              
+              
+            </td>
+            <td class="ph-right messageboard-prompt">
+              <span class="post-date">
+                <a href="https://paizo.com/products/btq021ce/discuss?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road#5" title="Link to this post"> <time datetime="2019-10-15T18:05:27Z" itemprop="commentTime">Tuesday, 11:05 am</time> </a>
+              </span>
+              
+                
+              
+            </td>
+          </tr>
+        </table>
+        <hr />
+         <div id="v5748gbitm2dn" style="display: inline;"></div> 
+        <div class="messageboard-post-row">
+          <div class="faq-flag">
+            <table class="favorite-table">
+              <tr>
+                <td>
+                  
+                    <span class="faq-flag-dotted" id="faqv5748gbitm2dn">
+                        
+                       2 people marked this as a favorite. 
+                    </span>
+                    
+                  
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="messageboard messageboard-post" itemprop="commentText">
+            
+              
+              
+                
+                  <a href="https://paizo.com/people/LindaZayasPalmer" itemprop="url" title="Linda Zayas-Palmer"> 
+	
+		<img width="90" height="90" alt="Linda Private Avatar" src="//cdn.paizo.com/image/avatar/private/Private-Linda.jpg" />
+	
+ </a>
+                
+                
+              
+            
+            <div class="post-contents"> <p>The street date for Pathfinder and Starfinder Society scenarios, with occasional exceptions for winter holidays, is the last Wednesday of the month. So this month, it's October 30th.</p>
+
+<p><div><b>As for the Maps:</b> <input type="button" value="Show" onclick="toggleSpoiler(this)"><div class="spoiler-text" > <br />
+Flip Mat Classics: Village Square (B side)<br />
+Flip Tiles: Forest Starter Set<br />
+Flip Tiles: Forest Perils Expansion<br />
+</div></div></p> </div>
+          </div>
+        </div>
+      </div><script>AUC.register('auc_MessageboardPostRowDisplay');</script>
+    </itemscope>
+  
+</div>
+              
+            
+          
+        </div>
+      
+		</div>
+	
+	
+	
+	</div>
+
+    
+  
+
+
+      
+
+
+      <table cellpadding="3" width="100%">
+        <tr>
+          <td valign="top" itemprop="breadcrumb">
+            
+            
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/community" title="Community">Community</a></SPAN>
+        
+      
+      
+      
+        <SPAN class="tiny"> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/community/forums" title="Community &gt; Forums">Forums</a></SPAN>
+        
+      
+      
+      
+        <SPAN class="tiny"> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/community/forums/paizo" title="Community &gt; Forums &gt; Paizo">Paizo</a></SPAN>
+        
+      
+      
+      
+        <SPAN class="tiny"> / </SPAN>
+      
+    
+  
+    
+      
+        
+        
+          <SPAN class="tiny"><a href="https://paizo.com/community/forums/paizo/products" title="Community &gt; Forums &gt; Paizo &gt; Product Discussion">Product Discussion</a></SPAN>
+        
+      
+      
+      
+    
+  
+
+            <span class="tiny"> / </span>
+            <span class="current-node">
+              <a href="https://paizo.com/products/btq021ce/discuss?Pathfinder-Society-Scenario-106-Lost-on-the-Spirit-Road#tabs" title="(Product Discussion) The beginning of the description says “Quest”, but I think this should be a “Scenario”."> Pathfinder Society Scenario #1-06: Lost on the Spirit Road </a>
+            </span>
+          </td>
+          <td nowrap align="RIGHT" valign="top"> <a href="https://paizo.com/community/forums" title="Community &gt; Forums" class="tiny">All Messageboards</a> </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <div style="float: right;"> <div itemscope itemtype = "http://schema.org/SiteNavigationElement">
+  <form method="get" style="display:inline;" action="/cgi-bin/WebObjects/Store.woa/wa/browse">
+    <nobr>
+      <select name="path" onchange="this.form.submit();"><option value="community/forums">Forums</option><option value="community/forums/paizo">&nbsp; &nbsp; &nbsp; Paizo</option><option value="community/forums/paizo/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/paizo/customerService">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Customer Service</option><option value="community/forums/paizo/products">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Product Discussion</option><option value="community/forums/paizo/websiteFeedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Website Feedback</option><option value="community/forums/paizo/paizocon">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PaizoCon</option><option value="community/forums/paizo/paizocon/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/paizo/paizocon/events">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Events</option><option value="community/forums/paizo/paizocon/events/organizedPlay">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Organized Play</option><option value="community/forums/paizo/paizocon/events/paizo">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Paizo Events</option><option value="community/forums/paizo/paizocon/events/thirdParty">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Third-Party and Fan Events</option><option value="community/forums/paizo/cup">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Community Use</option><option value="community/forums/paizo/licensees">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Licensed Products</option><option value="community/forums/paizo/licensees/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/paizo/licensees/comics">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comics</option><option value="community/forums/paizo/licensees/digital">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Digital Games</option><option value="community/forums/paizo/licensees/digital/kingmaker">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder: Kingmaker</option><option value="community/forums/paizo/licensees/digital/pfo">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Online</option><option value="community/forums/paizo/licensees/minis">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Miniatures</option><option value="community/forums/pathfinder">&nbsp; &nbsp; &nbsp; Pathfinder</option><option value="community/forums/pathfinder/second">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Second Edition</option><option value="community/forums/pathfinder/second/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/pathfinder/second/advice">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advice</option><option value="community/forums/pathfinder/second/rules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rules Discussion</option><option value="community/forums/pathfinder/second/products">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Paizo Products</option><option value="community/forums/pathfinder/second/thirdParty">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Third-Party Pathfinder RPG Products</option><option value="community/forums/pathfinder/second/thirdParty/adviceAndRules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advice and Rules Questions</option><option value="community/forums/pathfinder/second/thirdParty/products">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Product Discussion</option><option value="community/forums/pathfinder/second/conversions">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conversions</option><option value="community/forums/pathfinder/second/houseRules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homebrew and House Rules</option><option value="community/forums/pathfinder/campaignSetting">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lost Omens Campaign Setting</option><option value="community/forums/pathfinder/campaignSetting/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/pathfinder/campaignSetting/products">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lost Omens Products</option><option value="community/forums/pathfinder/adventurePath">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Adventure Path</option><option value="community/forums/pathfinder/adventurePath/generalDiscussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/pathfinder/adventurePath/ageOfAshes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Age of Ashes</option><option value="community/forums/pathfinder/adventurePath/tyrantsgrasp">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tyrant's Grasp</option><option value="community/forums/pathfinder/adventurePath/returnOfTheRunelords">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Return of the Runelords</option><option value="community/forums/pathfinder/adventurePath/warForTheCrown">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; War for the Crown</option><option value="community/forums/pathfinder/adventurePath/ruinsOfAzlant">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ruins of Azlant</option><option value="community/forums/pathfinder/adventurePath/ironfangInvasion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ironfang Invasion</option><option value="community/forums/pathfinder/adventurePath/strangeAeons">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Strange Aeons</option><option value="community/forums/pathfinder/adventurePath/hellsVengeance">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hell's Vengeance</option><option value="community/forums/pathfinder/adventurePath/hellsRebels">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hell's Rebels</option><option value="community/forums/pathfinder/adventurePath/giantslayer">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Giantslayer</option><option value="community/forums/pathfinder/adventurePath/ironGods">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Iron Gods</option><option value="community/forums/pathfinder/adventurePath/mummysMask">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mummy's Mask</option><option value="community/forums/pathfinder/adventurePath/wrathOfTheRighteous">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wrath of the Righteous</option><option value="community/forums/pathfinder/adventurePath/reignOfWinter">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reign of Winter</option><option value="community/forums/pathfinder/adventurePath/shatteredStar">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shattered Star</option><option value="community/forums/pathfinder/adventurePath/skullAndShackles">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Skull & Shackles</option><option value="community/forums/pathfinder/adventurePath/jadeRegent">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jade Regent</option><option value="community/forums/pathfinder/adventurePath/carrionCrown">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Carrion Crown</option><option value="community/forums/pathfinder/adventurePath/serpentsSkull">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Serpent's Skull</option><option value="community/forums/pathfinder/adventurePath/kingmaker">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kingmaker</option><option value="community/forums/pathfinder/adventurePath/councilOfThieves">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Council of Thieves</option><option value="community/forums/pathfinder/adventurePath/legacyOfFire">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Legacy of Fire</option><option value="community/forums/pathfinder/adventurePath/secondDarkness">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Second Darkness</option><option value="community/forums/pathfinder/adventurePath/crimsonThrone">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Curse of the Crimson Throne</option><option value="community/forums/pathfinder/adventurePath/runelords">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rise of the Runelords</option><option value="community/forums/pathfinder/adventures">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Adventures</option><option value="community/forums/pathfinder/accessories">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Accessories</option><option value="community/forums/pathfinder/adventureCardGame">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Adventure Card Game</option><option value="community/forums/pathfinder/adventureCardGame/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/pathfinder/adventureCardGame/rules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rules Questions and Gameplay Discussion</option><option value="community/forums/pathfinder/adventureCardGame/homebrew">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homebrew and House Rules</option><option value="community/forums/pathfinder/firstEdition">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder First Edition</option><option value="community/forums/pathfinder/firstEdition/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/pathfinder/firstEdition/advice">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advice</option><option value="community/forums/pathfinder/firstEdition/rules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rules Questions</option><option value="community/forums/pathfinder/firstEdition/products">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Paizo Products</option><option value="community/forums/pathfinder/firstEdition/products/paizo">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Product Discussion</option><option value="community/forums/pathfinder/firstEdition/products/beginnerBox">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beginner Box</option><option value="community/forums/pathfinder/firstEdition/companion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Player Companion</option><option value="community/forums/pathfinder/firstEdition/thirdParty">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Third-Party Pathfinder RPG Products</option><option value="community/forums/pathfinder/firstEdition/thirdParty/products">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Product Discussion</option><option value="community/forums/pathfinder/firstEdition/thirdParty/adviceAndRules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advice and Rules Questions</option><option value="community/forums/pathfinder/firstEdition/conversions">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conversions</option><option value="community/forums/pathfinder/firstEdition/houseRules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homebrew and House Rules</option><option value="community/forums/starfinder">&nbsp; &nbsp; &nbsp; Starfinder</option><option value="community/forums/starfinder/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Starfinder General Discussion</option><option value="community/forums/starfinder/advice">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advice</option><option value="community/forums/starfinder/rules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rules Questions</option><option value="community/forums/starfinder/homebrew">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homebrew</option><option value="community/forums/starfinder/adventurePath">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Starfinder Adventure Path</option><option value="community/forums/starfinder/adventurePath/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/starfinder/adventurePath/attackOfTheSwarm">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Attack of the Swarm</option><option value="community/forums/starfinder/adventurePath/dawnOfFlame">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dawn of Flame</option><option value="community/forums/starfinder/adventurePath/signalOfScreams">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Signal of Screams</option><option value="community/forums/starfinder/adventurePath/againstTheAeonThrone">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Against the Aeon Throne</option><option value="community/forums/starfinder/adventurePath/deadSuns">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dead Suns</option><option value="community/forums/starfinder/accessories">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Starfinder Accessories</option><option value="community/forums/starfinder/thirdParty">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Third-Party Starfinder Products</option><option value="community/forums/organizedPlay">&nbsp; &nbsp; &nbsp; Organized Play</option><option value="community/forums/organizedPlay/pfsrpg">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Society</option><option value="community/forums/organizedPlay/playtest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Society Playtest</option><option value="community/forums/organizedPlay/sfsrpg">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Starfinder Society</option><option value="community/forums/organizedPlay/pfsacg">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Adventure Card Society</option><option value="community/forums/organizedPlay/gmDiscussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GM Discussion</option><option value="community/forums/organizedPlay/events">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Events</option><option value="community/forums/organizedPlay/events/localPlay">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Local Play</option><option value="community/forums/organizedPlay/events/onlinePlay">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Online Play</option><option value="community/forums/campaigns">&nbsp; &nbsp; &nbsp; Online Campaigns</option><option value="community/forums/campaigns/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/campaigns/recruitment">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Recruitment</option><option value="community/forums/campaigns/playByPost">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Play-by-Post</option><option value="community/forums/campaigns/playByPostDiscussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Play-by-Post Discussion</option><option value="community/forums/gamerLife">&nbsp; &nbsp; &nbsp; Gamer Life</option><option value="community/forums/gamerLife/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/gamerLife/gaming">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gaming</option><option value="community/forums/gamerLife/gaming/campaignJournals">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Campaign Journals</option><option value="community/forums/gamerLife/gaming/dnd">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D&D</option><option value="community/forums/gamerLife/gaming/dnd/35ogl">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.5/d20/OGL</option><option value="community/forums/gamerLife/gaming/dnd/4thedition">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4th Edition</option><option value="community/forums/gamerLife/gaming/dnd/5thedition">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5th Edition (And Beyond)</option><option value="community/forums/gamerLife/gaming/otherRPGs">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Other RPGs</option><option value="community/forums/gamerLife/gaming/minis">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Miniatures</option><option value="community/forums/gamerLife/gaming/cardBoardGames">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Card &amp; Board Games</option><option value="community/forums/gamerLife/gaming/connection">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gamer Connection</option><option value="community/forums/gamerLife/entertainment">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Entertainment</option><option value="community/forums/gamerLife/entertainment/art">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Artwork & Crafting</option><option value="community/forums/gamerLife/entertainment/books">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Books</option><option value="community/forums/gamerLife/entertainment/comics">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comics</option><option value="community/forums/gamerLife/entertainment/movies">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Movies</option><option value="community/forums/gamerLife/entertainment/music">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Music &amp; Audio</option><option value="community/forums/gamerLife/entertainment/tech">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Technology</option><option value="community/forums/gamerLife/entertainment/tv">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Television</option><option value="community/forums/gamerLife/entertainment/videoGames">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Video Games</option><option value="community/forums/gamerLife/wordGames">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forum Games</option><option value="community/forums/gamerLife/offTopic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Off-Topic Discussions</option><option value="community/forums/archive">&nbsp; &nbsp; &nbsp; Archive</option><option value="community/forums/archive/paizo">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Paizo</option><option value="community/forums/archive/paizo/booksMagazines">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Books & Magazines</option><option value="community/forums/archive/paizo/booksMagazines/planetStories">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Planet Stories&reg;</option><option value="community/forums/archive/paizo/booksMagazines/dragon">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dragon Magazine</option><option value="community/forums/archive/paizo/booksMagazines/dragon/generalDiscussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/booksMagazines/dragon/compendium">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dragon Compendium</option><option value="community/forums/archive/paizo/booksMagazines/dragon/transitionDiscussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dragon and Dungeon Transition Discussion</option><option value="community/forums/archive/paizo/booksMagazines/dungeon">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dungeon Magazine</option><option value="community/forums/archive/paizo/booksMagazines/dungeon/generalDiscussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/booksMagazines/dungeon/savageTide">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Savage Tide Adventure Path</option><option value="community/forums/archive/paizo/booksMagazines/dungeon/ageOfWorms">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Age of Worms Adventure Path</option><option value="community/forums/archive/paizo/booksMagazines/dungeon/shackledCity">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shackled City Adventure Path</option><option value="community/forums/archive/paizo/booksMagazines/dungeon/maureCastle">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Maure Castle</option><option value="community/forums/archive/paizo/paizoGames">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Paizo Games</option><option value="community/forums/archive/paizo/rpgsuperstar">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar™</option><option value="community/forums/archive/paizo/rpgsuperstar/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/rpgsuperstar/previous">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Previous Contests</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/season9">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; Season 9 (2016)</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/season9/top32">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item, magic armor, or magic weapon</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/season9/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Create an encounter map</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/season9/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Create a Bestiary entry</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/season9/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Design an encounter</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/season9/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2015">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar™ 2015</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2015/openCall">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a magic armor, weapon, ring, rod, or staff</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2015/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Create a map</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2015/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Create a Bestiary entry</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2015/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Design an encounter</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2015/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2014">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; 2014</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2014/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2014/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Create a Bestiary entry</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2014/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Design an encounter</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2014/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2013">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; 2013</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2013/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2013/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Design an archetype</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2013/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Create a Bestiary entry</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2013/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Design an encounter</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2013/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2012">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; 2012</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2012/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2012/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2012/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Create a new organization</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2012/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Create a Bestiary entry</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2012/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Design an encounter</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2012/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2011">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; 2011</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2011/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2011/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2011/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Design an archetype</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2011/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Design a villain</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2011/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Create a Golarion location</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2011/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2010">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; 2010</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2010/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2010/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2010/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Create a monster concept</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2010/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Create a Bestiary entry</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2010/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Design a Golarion location</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2010/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2009">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; 2009</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2009/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2009/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2009/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Create a villain concept</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2009/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Create a villain stat block</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2009/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Design a villain's lair</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2009/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Submit an adventure proposal</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RPG Superstar&trade; 2008</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Call: Design a wondrous item</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Design a country</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Design a villain</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008/round4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 4: Design thematically linked monsters</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008/round5">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 5: Design an encounter</option><option value="community/forums/archive/paizo/rpgsuperstar/previous/2008/round6">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 6: Submit an adventure proposal</option><option value="community/forums/archive/paizo/gameSpace">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Game Space</option><option value="community/forums/archive/starfinder">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Starfinder</option><option value="community/forums/archive/starfinder/playtest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Character Operations Manual Playtest</option><option value="community/forums/archive/starfinder/playtest/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/starfinder/playtest/biohacker">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Biohacker</option><option value="community/forums/archive/starfinder/playtest/vanguard">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vanguard</option><option value="community/forums/archive/starfinder/playtest/witchwarper">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Witchwarper</option><option value="community/forums/archive/pathfinder">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder</option><option value="community/forums/archive/pathfinder/playtests">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtests &amp; Prerelease Discussions</option><option value="community/forums/archive/pathfinder/playtests/playtest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Playtest</option><option value="community/forums/archive/pathfinder/playtests/playtest/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Playtest General Discussion</option><option value="community/forums/archive/pathfinder/playtests/playtest/gms">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Game Master Rules</option><option value="community/forums/archive/pathfinder/playtests/playtest/gms/magic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Magic Items</option><option value="community/forums/archive/pathfinder/playtests/playtest/gms/monsters">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Monsters and Hazards</option><option value="community/forums/archive/pathfinder/playtests/playtest/gms/running">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Running the Game</option><option value="community/forums/archive/pathfinder/playtests/playtest/players">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Player Rules</option><option value="community/forums/archive/pathfinder/playtests/playtest/players/ancestries">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ancestries & Backgrounds</option><option value="community/forums/archive/pathfinder/playtests/playtest/players/classes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Classes</option><option value="community/forums/archive/pathfinder/playtests/playtest/players/characters">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Creating a Character</option><option value="community/forums/archive/pathfinder/playtests/playtest/players/play">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playing the Game</option><option value="community/forums/archive/pathfinder/playtests/playtest/players/features">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Skills, Feats, Equipment & Spells</option><option value="community/forums/archive/pathfinder/playtests/playtest/feedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtest Feedback</option><option value="community/forums/archive/pathfinder/playtests/playtest/feedback/gms">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Doomsday Dawn Game Master Feedback</option><option value="community/forums/archive/pathfinder/playtests/playtest/feedback/players">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Doomsday Dawn Player Feedback</option><option value="community/forums/archive/pathfinder/playtests/playtest/feedback/pathfindersociety">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Society Scenario Feedback</option><option value="community/forums/archive/pathfinder/playtests/playtest/prerelease">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Playtest Prerelease Discussion</option><option value="community/forums/archive/pathfinder/playtests/ultimateIntrigue">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ultimate Intrigue Playtest</option><option value="community/forums/archive/pathfinder/playtests/ultimateIntrigue/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/ultimateIntrigue/feedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtest Feedback</option><option value="community/forums/archive/pathfinder/playtests/occultAdventuresPlaytest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Occult Adventures Playtest</option><option value="community/forums/archive/pathfinder/playtests/occultAdventuresPlaytest/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/occultAdventuresPlaytest/rules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rules Discussion</option><option value="community/forums/archive/pathfinder/playtests/occultAdventuresPlaytest/feedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtest Feedback</option><option value="community/forums/archive/pathfinder/playtests/advancedClassGuide">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advanced Class Guide Playtest</option><option value="community/forums/archive/pathfinder/playtests/advancedClassGuide/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/advancedClassGuide/feedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtest Feedback</option><option value="community/forums/archive/pathfinder/playtests/advancedClassGuide/classDiscussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Class Discussion</option><option value="community/forums/archive/pathfinder/playtests/mythicAdventures">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mythic Adventures Playtest</option><option value="community/forums/archive/pathfinder/playtests/mythicAdventures/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/mythicAdventures/playerFeedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Player Feedback</option><option value="community/forums/archive/pathfinder/playtests/mythicAdventures/gmFeedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GM Feedback</option><option value="community/forums/archive/pathfinder/playtests/mythicAdventures/adventureFeedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adventure Feedback</option><option value="community/forums/archive/pathfinder/playtests/advancedRaceGuide">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advanced Race Guide Playtest</option><option value="community/forums/archive/pathfinder/playtests/ultimateCombat">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ultimate Combat Playtest</option><option value="community/forums/archive/pathfinder/playtests/ultimateCombat/playtest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtest Results: Round 1</option><option value="community/forums/archive/pathfinder/playtests/ultimateCombat/round2Playest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtest Results: Round 2</option><option value="community/forums/archive/pathfinder/playtests/ultimateCombat/gunslinger">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gunslinger Discussion: Round 1</option><option value="community/forums/archive/pathfinder/playtests/ultimateCombat/ninja">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ninja Discussion: Round 1</option><option value="community/forums/archive/pathfinder/playtests/ultimateCombat/samurai">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Samurai Discussion: Round 1</option><option value="community/forums/archive/pathfinder/playtests/ultimateCombat/gunslingerRound2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gunslinger Discussion: Round 2</option><option value="community/forums/archive/pathfinder/playtests/ultimateMagic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ultimate Magic Playtest</option><option value="community/forums/archive/pathfinder/playtests/ultimateMagic/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Announcements and General Discussion</option><option value="community/forums/archive/pathfinder/playtests/ultimateMagic/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 1: Magus</option><option value="community/forums/archive/pathfinder/playtests/ultimateMagic/round2playtest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Words of Power Playtest</option><option value="community/forums/archive/pathfinder/playtests/ultimateMagic/round2discuss">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Words of Power Discussion</option><option value="community/forums/archive/pathfinder/playtests/ultimateMagic/round3Playtest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Revised Magus Playtest</option><option value="community/forums/archive/pathfinder/playtests/ultimateMagic/round3Discussion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Revised Magus Discussion</option><option value="community/forums/archive/pathfinder/playtests/advancedPlayersGuide">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advanced Player's Guide Playtest</option><option value="community/forums/archive/pathfinder/playtests/advancedPlayersGuide/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/advancedPlayersGuide/round1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 1: Cavalier and Oracle</option><option value="community/forums/archive/pathfinder/playtests/advancedPlayersGuide/round2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 2: Summoner and Witch</option><option value="community/forums/archive/pathfinder/playtests/advancedPlayersGuide/round3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Round 3: Alchemist and Inquisitor</option><option value="community/forums/archive/pathfinder/playtests/advancedPlayersGuide/finalPlaytest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advanced Player's Guide Playtest: Final Playtest</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Roleplaying Game</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/announcements">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Announcements</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/playtest">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Playtest Reports</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/generalPrerelease">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion (Prerelease)</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Design Forums</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/comments">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Open Comments</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/magicItems">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Magic Items</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/highLevelPlay">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; High Level Play</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/additionalRules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Additional Rules</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/magic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Magic and Spells</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/combat">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Combat</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/equipment">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Equipment and Description</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/prestigeClasses">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prestige Classes</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/skillsFeats">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Skills and Feats</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/sorcererWizard">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Classes: Sorcerer and Wizard</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/bardMonkRogue">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Classes: Bard, Monk, and Rogue</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/clericDruidPaladin">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Classes: Cleric, Druid, and Paladin</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/barbarianFighterRanger">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Classes: Barbarian, Fighter, and Ranger</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/design/ability">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ability Scores and Races</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alpha Playtest Feedback</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alpha Release 3</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha3/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha3/racesClasses">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Races &amp; Classes</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha3/skillsFeats">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Skills &amp; Feats</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha3/combatMagic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Combat &amp; Magic</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha3/gmTools">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GM Tools</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha3/newRules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Rules Suggestions</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alpha Release 2</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha2/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha2/racesClasses">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Races &amp; Classes</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha2/skillsFeats">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Skills &amp; Feats</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha2/combatMagic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Combat &amp; Magic</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha2/gmTools">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GM Tools</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha2/newRules">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Rules Suggestions</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alpha Release 1</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha1/general">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Discussion</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha1/racesClasses">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Races &amp; Classes</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha1/skillsFeats">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Skills &amp; Feats</option><option value="community/forums/archive/pathfinder/playtests/pathfinderRPG/feedback/alpha1/combatMagic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Combat &amp; Magic</option><option value="community/forums/archive/pathfinder/scenarioSubmissionTalk">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Society Scenario Submissions</option><option value="community/forums/archive/pathfinder/factionTalk">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Society Roleplaying Guild Faction Talk</option><option value="community/forums/archive/pathfinder/factionTalk/darkArchive">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dark Archive</option><option value="community/forums/archive/pathfinder/factionTalk/theExchange">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Exchange</option><option value="community/forums/archive/pathfinder/factionTalk/grandLodge">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Grand Lodge</option><option value="community/forums/archive/pathfinder/factionTalk/libertysEdge">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Liberty's Edge</option><option value="community/forums/archive/pathfinder/factionTalk/scarabSages">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Scarab Sages</option><option value="community/forums/archive/pathfinder/factionTalk/silverCrusade">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Silver Crusade</option><option value="community/forums/archive/pathfinder/factionTalk/sovereignCourt">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sovereign Court</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Retired Factions</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/andoran">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Andoran</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/cheliax">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cheliax</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/lanternLodge">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lantern Lodge</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/osirion">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Osirion</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/qadira">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Qadira</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/sczarni">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sczarni</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/shadowLodge">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shadow Lodge</option><option value="community/forums/archive/pathfinder/factionTalk/retiredFactions/taldor">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Taldor</option><option value="community/forums/archive/pathfinder/fiction">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pathfinder Tales</option></select>
+      <noscript><input type = "image" src = "/image/button/nav-2004/go.gif" width = "29" alt = "Go" align = "top" value = "Go" height = "17" border = "0" /></noscript>
+    </nobr>
+  </form>
+</div> </div>
+            
+            
+              <br />Want to post a reply? 
+              <a href="/cgi-bin/WebObjects/Store.woa/wa/signIn?path=products/btq021ce">Sign in</a>. 
+            
+          </td>
+        </tr>
+      </table>
+      
+      
+        
+
+
+	<div class="bordered-box bb-float-right" style="background-color: null;">
+	
+		<div class="bb-title">
+			
+			
+				
+				
+					<span>
+						Recent threads in Product Discussion
+					</span>
+				
+			
+			
+		</div>
+	
+	
+		<div class="bb-content">
+			 
+
+	<div id="rtrd_thread_v5748rzs42ijk">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq0216o/discuss?Starfinder-Adventure-Path-22-The-Forever-Reliquary#tabs" title="(Product Discussion) If this is supposed to be part #4, it has to be AP # 22, not 21.">
+			Starfinder Adventure Path #22: The Forever Reliquary (Attack of the Swarm! 4 of 6)
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq0216o/discuss?Starfinder-Adventure-Path-22-The-Forever-Reliquary#26" title="Marco Massoudi: full res cover">
+				<time datetime="2019-10-17T10:41:24Z">34 minutes ago</time>
+			</a>
+			by Marco Massoudi
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42ijk">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42lqi">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq01zt4/discuss?Pathfinder-Lost-Omens-Character-Guide#tabs" title="(Product Discussion) This is looking cool.">
+			Pathfinder Lost Omens Character Guide
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq01zt4/discuss&page=5?Pathfinder-Lost-Omens-Character-Guide#243" title="CorvusMask: Hey! I was betting on Arazni too :P">
+				<time datetime="2019-10-17T07:47:07Z">3 hours, 28 minutes ago</time>
+			</a>
+			by CorvusMask
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42lqi">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42nq4">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq01ztb/discuss?Pathfinder-Battles-Legendary-Adventures#tabs" title="(Product Discussion) Glad to see this up! When will it be possible to order the case incentive? In the past, if I put an upcoming Pathfinder Battles case into my shopping cart, I would be given the...">
+			Pathfinder Battles—Legendary Adventures
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq01ztb/discuss?Pathfinder-Battles-Legendary-Adventures#33" title="Steve Geddes: They were delayed by the public holiday on Monday and then by an unexpected staff shortage for a day or two. Subscriber copies are shipping (I've got mine) but, given the number of...">
+				<time datetime="2019-10-17T02:18:39Z">Yesterday, 07:18 pm</time>
+			</a>
+			by Steve Geddes
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42nq4">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42hvv">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq01zop/discuss?Pathfinder-Character-Sheet-Pack#tabs" title="(Product Discussion) Well this looks pretty dang cool, though I question the need to sell a printed version, especially if they are black and white. Feels like something that could be just given...">
+			Pathfinder Character Sheet Pack
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq01zop/discuss&page=2?Pathfinder-Character-Sheet-Pack#65" title="themagicspider: Any news on whether or not the PDF errors have been fixed yet? I'm am deciding if I want to get these.">
+				<time datetime="2019-10-17T02:08:56Z">Yesterday, 07:08 pm</time>
+			</a>
+			by themagicspider
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42hvv">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42q8g">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq0206t/discuss?Pathfinder-Bestiary-Pawn-Box#tabs" title="(Product Discussion) Just announced! Product image and description are not final.">
+			Pathfinder Bestiary Pawn Box
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq0206t/discuss&page=2?Pathfinder-Bestiary-Pawn-Box#51" title="TriOmegaZero: Curses, I will have to come up with some way to get rid of them. Maybe a Disc Golem. Just need glue...">
+				<time datetime="2019-10-17T01:36:39Z">Yesterday, 06:36 pm</time>
+			</a>
+			by TriOmegaZero
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42q8g">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42slj">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq021cf/discuss?Pathfinder-Society-Scenario-107-Flooded-Kings-Court#tabs" title="(Product Discussion) Hooray, Brian! I can’t wait to run players through your next scenario. It looks great! What maps will we be needing for this adventure?">
+			Pathfinder Society Scenario #1-07: Flooded King's Court
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq021cf/discuss?Pathfinder-Society-Scenario-107-Flooded-Kings-Court#8" title="GM Harpwizard: Any word on the maps needed for this scenario? Mostly, I am curious if the adventure will have a custom map that I need to print out and laminate?">
+				<time datetime="2019-10-17T01:12:55Z">Yesterday, 06:12 pm</time>
+			</a>
+			by GM Harpwizard
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42slj">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42t2v">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq021eh/discuss?Path-of-the-Wilds-Playtest#tabs" title="(Product Discussion) Ascension Games is back, with a playtest for our newly-announced product, Path of the Wilds! This product launches alongside our Kickstarter, which runs until November 15th,...">
+			Path of the Wilds - Playtest PDF
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq021eh/discuss?Path-of-the-Wilds-Playtest#1" title="Seginus: Ascension Games is back, with a playtest for our newly-announced product, Path of the Wilds! This product launches alongside our Kickstarter, which runs until November 15th, 2019. Feel...">
+				<time datetime="2019-10-16T20:09:48Z">Yesterday, 01:09 pm</time>
+			</a>
+			by Seginus
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42t2v">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs2o1c1">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btpy8tmq/discuss?Way-of-the-Wicked-Book-3-Tears-of-the-Blessed#tabs" title="(Product Discussion) You've been waiting for it, and part three of Way of the Wicked is now available here at Paizo!">
+			Way of the Wicked—Book #3: Tears of the Blessed (PFRPG)
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btpy8tmq/discuss&page=13?Way-of-the-Wicked-Book-3-Tears-of-the-Blessed#634" title="kevin_video: Sounds like a viable plan. Having that many clerics with the same utilitary spells isn't much of a challenge. This will definitely up the difficulty, or at least balance it out.">
+				<time datetime="2019-10-16T19:19:28Z">Yesterday, 12:19 pm</time>
+			</a>
+			by kevin_video
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs2o1c1">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42n6i">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq01zr7/discuss?Starfinder-Pawns-Alien-Archive-3-Pawn-Collection#tabs" title="(Product Discussion) Why is it that the Box art differs from the Alien Archive 3 book? I will probably not buy this box, as Alien Archive 3 will be my last Bestiary book for SF and much prefer...">
+			Starfinder Pawns: Alien Archive 3 Pawn Collection
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq01zr7/discuss?Starfinder-Pawns-Alien-Archive-3-Pawn-Collection#4" title="Katina Davis: Update: This product has been converted from a pawn box to a pawn collection. The price and title have been edited to reflect this change. Please note that the product art currently...">
+				<time datetime="2019-10-16T18:59:12Z">Yesterday, 11:59 am</time>
+			</a>
+			by Katina Davis
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42n6i">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+	<div id="rtrd_thread_v5748rzs42sm8">
+	
+	<div class = "messageboard-recent-threads">
+	<span class="messageboard-listing">
+		<div class = "pull-left">
+		
+		<a href="https://paizo.com/products/btq021cd/discuss?Pathfinder-Society-Quest-3-Grehundes-Gorget#tabs" title="(Product Discussion) Yarr!">
+			Pathfinder Society Quest #3: Grehunde's Gorget
+		</a>
+		
+		<br />
+		<div class = "messageboard-metadata last-post">
+			
+			
+			Last post:
+			<a href="https://paizo.com/products/btq021cd/discuss?Pathfinder-Society-Quest-3-Grehundes-Gorget#6" title="Oriklad: Ahh Kate Baker to strike again!!! Can you not stop writing content that I love and enjoy!!">
+				<time datetime="2019-10-16T18:42:10Z">Yesterday, 11:42 am</time>
+			</a>
+			by Oriklad
+			<span class = "no-br"><span id="xnew_thread_RTRD_v5748rzs42sm8">
+	
+</span></span>
+		</div>
+		</div>
+	</span>
+	
+	</div>
+</div>
+
+ 
+		</div>
+	
+	
+	
+	</div>
+
+      
+      
+    
+  
+</div><script>AUC.register('auc_StandardPageTemplate_1_15_11_3_1_7_0_0_2_1_3_1_0_com_paizo_appserver_components_ProductDisplay_1_1_13_1_1_1_0_7_1_1_ProductReviewDisplay_2');</script> 
+              
+             </div>
+    </div>
+  
+</div>
+          
+        
+      </div><script>AUC.register('product');</script>
+    
+  
+
+      
+    
+  
+
+
+								
+							
+						</td>
+						
+						
+					</tr>
+				</table>
+				
+			</main>
+			<footer id="footer-wrapper">
+	<div><img src="https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png" class="logo">
+		<nav id="footer-links">
+			<ul>
+				<li><a href="/paizo/about">About Paizo</a></li>
+				<li><a href="/paizo/contact">Contact Us</a></li>
+				<li><a href="/paizo/careers">Careers</a></li>
+				<li><a href="/paizo/press">Press</a></li>
+				<li><a href="/paizo/releases">Release Schedule</a></li>
+				<li><a href="/paizo/locator">Where to Buy</a></li>
+				<li><a href="/paizo/retailers">Retailer Portal</a></li>
+				<li><a href="/paizo/archive">Archive</a></li>
+			</ul>
+		</nav>
+		<section id="footer-help">
+			<h1>Need Help?</h1>
+			<p>Mon–Fri, 10:00 a.m. to 5:00 p.m. Pacific</p>
+			<p><a href="tel:14252500800">(425) 250-0800</a></p>
+			<p><a href="mailto:customer.service@paizo.com">customer.service@paizo.com</a></p>
+		</section>
+		<nav id="social-links">
+			<ul>
+				<li><a href="https://www.facebook.com/paizo/" target="_blank"><img src="https://cdn.paizo.com/image/navigation/Social-Facebook.png" alt="Like Paizo on Facebook"/></a></li>
+				<li><a href="https://www.twitter.com/paizo/" target="_blank"><img src="https://cdn.paizo.com/image/navigation/Social-Twitter.png" alt="Follow Paizo on Twitter"/></a></li>
+				<li><a href="https://www.twitch.tv/officialpaizo" target="_blank"><img src="https://cdn.paizo.com/image/navigation/Social-Twitch.png" alt="Watch Paizo Streaming on Twitch"/></a></li>
+				<li><a href="https://www.instagram.com/officialpaizo" target="_blank"><img src="https://cdn.paizo.com/image/navigation/Social-Instagram.png" alt="Follow Paizo on Instagram"/></a></li>
+				<li><a href="https://www.youtube.com/PaizoInc" target="_blank"><img src="https://cdn.paizo.com/image/navigation/Social-YouTube.png" alt="Subscribe to Paizo on YouTube"/></a></li>
+			</ul>
+		</nav>
+	</div>
+	<section id="copyright">
+		
+		<small>&copy;2002-2019 Paizo Inc.&reg; All Rights Reserved.</small><small><a href="/paizo/copyright">Copyright & Trademark</a>&nbsp;|&nbsp;<a href="/paizo/privacy">Privacy Policy</a></small>
+		<p><small></small></p>
+		</section>
+		
+</footer>
+			
+            
+				<script type='text/javascript'>var path = 'https://paizo.com/products/btq021ce';var sessionID = 'ns3PDhvCb7tzTsIM5aPhK0';var applicationName = 'Store';var instanceNumber = '82';
+<!-- Dynamic client side script from WebObjects
+var flagReasons = [ { id: "", reason: "Select reason for flagging..." }, { "id": "v5748my9827sx", "reason": "Personal insult/abusive" }, { "id": "v5748my9827sy", "reason": "Offensive/sexist/racist content" }, { "id": "v5748my9827sz", "reason": "Copyright/intellectual property infringement" }, { "id": "v5748my9827tc", "reason": "Spam" }, { "id": "v5748my9827t0", "reason": "Breaks other guidelines" }, { "id": "v5748my9827t1", "reason": "Double post" }, { "id": "v5748my9827t2", "reason": "Needs spoiler tag" }, { "id": "v5748my9827t5", "reason": "Thread is in wrong forum" }, { "id": "v5748my9827t3", "reason": "BBCode markup/display problem" }, { "id": "v5748my9827t4", "reason": "Just wanted to try the flagging system" } ];
+//-->
+null</script>
+                <script language="JavaScript" type="text/javascript" src="/include/paizo-0418.min.js"></script>
+			
+		</body>
+	</html>
+
+
