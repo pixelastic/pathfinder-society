@@ -13,6 +13,7 @@ import { _, pMap } from 'golgoth';
 
   const allScenarios = {};
   const seasonPages = [
+    'Season_0_scenarios',
     'Season_1_scenarios',
     'Season_2_scenarios',
     'Season_3_scenarios',

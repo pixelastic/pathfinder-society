@@ -459,7 +459,6 @@
     ],
     "npcs": [
       "Black Echelon",
-      "Cairnlands",
       "Forae Logos",
       "Gloriana Morilla",
       "Grandmaster Torch",
@@ -607,7 +606,7 @@
     "paizoUrl": "https://paizo.com/products/btq0217k",
     "price": 4.99,
     "pubcode": "PZOPFS0104E",
-    "rating": 3,
+    "rating": 2.8,
     "ruleVersion": 2,
     "scenarioIndex": 4,
     "seasonIndex": 1,
@@ -2232,7 +2231,6 @@
       "Isle of Kortos"
     ],
     "npcs": [
-      "Cairnlands",
       "Plane Of Fire",
       "Venture-Captain Shevala Iorae"
     ],
@@ -3624,7 +3622,7 @@
     "paizoUrl": "https://paizo.com/products/btpya1y0",
     "price": 4.99,
     "pubcode": "PZOPSS1001E",
-    "rating": 4.2,
+    "rating": 4.3,
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 10,
@@ -3860,7 +3858,7 @@
     "paizoUrl": "https://paizo.com/products/btq01zna",
     "price": 4.99,
     "pubcode": "PZOPFS0100E",
-    "rating": 2.9,
+    "rating": 2.6,
     "ruleVersion": 2,
     "scenarioIndex": 0,
     "seasonIndex": 1,
@@ -4615,7 +4613,6 @@
     ],
     "npcs": [
       "Ambrus Valsin",
-      "Cairnlands",
       "Nexus crystal",
       "Tancred Desimire",
       "Volzaras"
@@ -4649,7 +4646,6 @@
       "Isle of Kortos"
     ],
     "npcs": [
-      "Cairnlands",
       "Master of Scrolls Kreighton Shaine",
       "Tancred Desimire",
       "Volzaras"
@@ -4683,7 +4679,6 @@
       "Isle of Kortos"
     ],
     "npcs": [
-      "Cairnlands",
       "Master of Scrolls Kreighton Shaine"
     ],
     "paizoUrl": "https://paizo.com/products/btpy97st",
@@ -5245,41 +5240,6 @@
     "title": "Shrine of the Sacred Tempest",
     "url": "https://pathfinderwiki.com/wiki/Shrine_of_the_Sacred_Tempest"
   },
-  "siegeOfGallowspire": {
-    "authors": [
-      "Brian Duckwitz"
-    ],
-    "backcover": "For a millennium, Golarion rested safe in the knowledge that history's most infamous lich, the Whispering Tyrant, was securely locked away. After a cataclysmic explosion sundered his prison, the Tyrant roams free once more. But he didn’t simply abandon his prison. Deep beneath the ground, behind nearly impenetrable magical wards, he has set in motion a necromantic ritual of extraordinary power. It's up to the Pathfinders to battle the Tyrant's guardians, break the wards, and stop the ritual that could make him unstoppable. Along the way, they’ll discover what secrets the Tyrant wanted to protect and keep from falling into his enemies' hands.\n\nThis scenario has two difficulty levels: Soldier and Champion. \"Champion\" is a considerably more challenging version of the adventure.",
-    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPSS1098E.jpg",
-    "levels": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "locations": [
-      "Ustalav"
-    ],
-    "npcs": [
-    ],
-    "paizoUrl": "https://paizo.com/products/btq01yyz",
-    "price": 9.99,
-    "pubcode": "PZOPSS1098E",
-    "rating": 5,
-    "ruleVersion": 1,
-    "scenarioIndex": 98,
-    "seasonIndex": 10,
-    "title": "Siege of Gallowspire",
-    "url": "https://pathfinderwiki.com/wiki/Siege_of_Gallowspire"
-  },
   "siegeOfSerpents": {
     "authors": [
       "Jim Groves"
@@ -5435,7 +5395,6 @@
     "npcs": [
       "Adril Hestram",
       "Black Echelon",
-      "Cairnlands",
       "Grandmaster Torch",
       "Silent Tide",
       "The Inward Facing Circle",
@@ -5981,7 +5940,7 @@
     "paizoUrl": "https://paizo.com/products/btq01znb",
     "price": 4.99,
     "pubcode": "PZOPFS0101E",
-    "rating": 4.2,
+    "rating": 4,
     "ruleVersion": 2,
     "scenarioIndex": 1,
     "seasonIndex": 1,
@@ -6696,7 +6655,7 @@
     "paizoUrl": "https://paizo.com/products/btq01x4s",
     "price": 4.99,
     "pubcode": "PZOPSS1018E",
-    "rating": 5,
+    "rating": 4,
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 10,
@@ -7501,6 +7460,10 @@
       "Hao Jin Tapestry"
     ],
     "npcs": [
+      "Aram Zey",
+      "Hao Jin",
+      "Muckmouth tribe",
+      "Round Mountain"
     ],
     "paizoUrl": "https://paizo.com/products/btpya1xz",
     "price": 9.99,
@@ -8315,7 +8278,7 @@
     "paizoUrl": "https://paizo.com/products/btq01znc",
     "price": 4.99,
     "pubcode": "PZOPFS0102E",
-    "rating": 4,
+    "rating": 4.2,
     "ruleVersion": 2,
     "scenarioIndex": 2,
     "seasonIndex": 1,
@@ -9993,7 +9956,6 @@
     "npcs": [
       "Aaqir al'Hakam",
       "Asad's Keep",
-      "Cairnlands",
       "Major Colson Maldris",
       "Taliq Asad",
       "Venture-Captain Amara Li",
@@ -10167,7 +10129,7 @@
     "paizoUrl": "https://paizo.com/products/btq0217l",
     "price": 4.99,
     "pubcode": "PZOPFS0105E",
-    "rating": 4,
+    "rating": 4.7,
     "ruleVersion": 2,
     "scenarioIndex": 5,
     "seasonIndex": 1,
@@ -10252,10 +10214,10 @@
     "locations": [
       "Absalom",
       "Isle of Kortos",
+      "Cairnlands",
       "Red Redoubt of Karamoss"
     ],
     "npcs": [
-      "Cairnlands",
       "Venture-Captain Ambrus Valsin"
     ],
     "paizoUrl": "https://paizo.com/products/btpy97n5?Pathfinder-Society-Scenario-6-01-Trial-by-Machine",
