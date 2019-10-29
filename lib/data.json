@@ -105,7 +105,7 @@
     "paizoUrl": "https://paizo.com/products/btpy8jot",
     "price": 0,
     "pubcode": "PZOPSSINTRO3E",
-    "rating": 3,
+    "rating": 3.1,
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 3,
@@ -4032,7 +4032,7 @@
       "Diamond Sage",
       "Eando Kline",
       "Jistka Imperium",
-      "Laws of Man",
+      "Laws of Mortality",
       "Pure Legion",
       "Riftwardens",
       "Tahonikepsu",
@@ -10522,7 +10522,7 @@
     "authors": [
       "Isabelle Lee"
     ],
-    "backcover": "Among the earliest Pathfinders was the Gojan the Sharp, famed for his studies of the technology-strewn wasteland of Numeria before he disappeared forever into the infamous Silver Mount. The Pathfinder Society has uncovered a forgotten cache of Gojan's Numerian journals identifying sites unknown even to the local barbarian chieftains. The time is right to unearth a pristine piece of alien technology! However, Pathfinders should remember that for every untouched marvel that remains, an unblinking sentry may lie in wait.",
+    "backcover": "Among the earliest Pathfinders was Gojan the Sharp, famed for his studies of the technology-strewn wasteland of Numeria before he disappeared forever into the infamous Silver Mount. The Pathfinder Society has uncovered a forgotten cache of Gojan's Numerian journals identifying sites unknown even to the local barbarian chieftains. The time is right to unearth a pristine piece of alien technology! However, Pathfinders should remember that for every untouched marvel that remains, an unblinking sentry may lie in wait.",
     "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPSS0804E.jpg",
     "levels": [
       1,
