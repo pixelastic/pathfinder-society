@@ -1,3 +1,10 @@
+## [0.3.4](https://github.com/pixelastic/pathfinder-society/compare/0.3.3...0.3.4) (2019-11-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency firost to ^0.16.0 ([aecdb29](https://github.com/pixelastic/pathfinder-society/commit/aecdb29e72b4310bc15f97d0988a3e568d05b101))
+
 ## [0.3.3](https://github.com/pixelastic/pathfinder-society/compare/0.3.2...0.3.3) (2019-11-02)
 
 ## [0.3.2](https://github.com/pixelastic/pathfinder-society/compare/0.3.1...0.3.2) (2019-10-23)
