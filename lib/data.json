@@ -155,12 +155,12 @@
     "locations": ["Mwangi Expanse", "Kaava Lands"],
     "npcs": [
       "Boalisi",
+      "Finze Bellaugh",
       "Ghol Gan",
       "Kaddodi",
       "Karan",
       "Parveen",
-      "Purpurrup",
-      "Venture-Captain Finze Bellaugh"
+      "Purpurrup"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9s14",
     "price": 4.99,
@@ -423,7 +423,7 @@
     "paizoUrl": "https://paizo.com/products/btq0217k",
     "price": 4.99,
     "pubcode": "PZOPFS0104E",
-    "rating": 2.7,
+    "rating": 2.8,
     "ruleVersion": 2,
     "scenarioIndex": 4,
     "seasonIndex": 1,
@@ -700,9 +700,9 @@
     "locations": ["Sargava"],
     "npcs": [
       "Baron Utilinus",
+      "Finze Bellaugh",
       "Sargava Chalice",
-      "Song'o tribe",
-      "Venture-Captain Finze Bellaugh"
+      "Song'o tribe"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9ret",
     "price": 4.99,
@@ -766,7 +766,7 @@
     "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPSS1002E.jpg",
     "levels": [1, 2, 3, 4, 5],
     "locations": ["Mwangi Expanse"],
-    "npcs": [],
+    "npcs": ["Doorway to the Red Star", "Finze Bellaugh", "Mzali"],
     "paizoUrl": "https://paizo.com/products/btpya1y1",
     "price": 4.99,
     "pubcode": "PZOPSS1002E",
@@ -1558,6 +1558,23 @@
     "title": "First Taste of Eternity",
     "url": "https://pathfinderwiki.com/wiki/First_Taste_of_Eternity"
   },
+  "floodedKingsCourt": {
+    "authors": ["Brian Duckwitz"],
+    "backcover": "From a ruined theater in the run-down Puddles district of Absalom, a goblin hero and self-styled king rules over the nearby goblins. Shifting foundations beneath the playhouse have revealed ruins from Absalom's early history, and the goblin king has put out a call for explorers to search the area and clear out its dangers. The Pathfinder Society has answered the call. They aren't the only group that is interested, however, and they must prove themselves to earn the right to enter these lost chambers.",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0107E.jpg",
+    "levels": [1, 2, 3, 4],
+    "locations": ["Absalom"],
+    "npcs": [],
+    "paizoUrl": "https://paizo.com/products/btq021cf",
+    "price": 4.99,
+    "pubcode": "PZOPFS0107E",
+    "rating": 5,
+    "ruleVersion": 2,
+    "scenarioIndex": 7,
+    "seasonIndex": 1,
+    "title": "Flooded King's Court",
+    "url": "https://pathfinderwiki.com/wiki/Flooded_King%27s_Court"
+  },
   "fortressOfTheNail": {
     "authors": ["Amanda Hamon"],
     "backcover": "The Pathfinder Society sends a team of agents into a Hellknight citadel to free a wrongfully imprisoned ally. Among the law-bound knights, however, they may find that getting out of the prison isn't as easy as getting in.",
@@ -2246,6 +2263,23 @@
     "seasonIndex": 7,
     "title": "Lost Colony of Taldor",
     "url": "https://pathfinderwiki.com/wiki/Lost_Colony_of_Taldor"
+  },
+  "lostOnTheSpiritRoad": {
+    "authors": ["Christopher Wasko"],
+    "backcover": "A shipment of relics on its way to Minkai vanished somewhere in the Forest of Spirits, a dense woodland home to kami and spirits of all sorts. In search of the missing shipment, Pathfinder agents travel to a remote village, where they uncover secrets of this enigmatic forest. This scenario features a wide variety of options for encounters and reasons for the vanishing, making for a fresh experience on mulitple playthoughs.",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0106E.jpg",
+    "levels": [1, 2, 3, 4],
+    "locations": ["Forest of Spirits"],
+    "npcs": [],
+    "paizoUrl": "https://paizo.com/products/btq021ce",
+    "price": 4.99,
+    "pubcode": "PZOPFS0106E",
+    "rating": 4,
+    "ruleVersion": 2,
+    "scenarioIndex": 6,
+    "seasonIndex": 1,
+    "title": "Lost on the Spirit Road",
+    "url": "https://pathfinderwiki.com/wiki/Lost_on_the_Spirit_Road"
   },
   "lyricsOfExtinction": {
     "authors": ["Elizabeth Leib"],
@@ -3617,9 +3651,9 @@
       "Aspis Consortium",
       "Boali",
       "Boalisi",
+      "Finze Bellaugh",
       "Ghol Gan",
-      "Parveen",
-      "Venture-Captain Finze Bellaugh"
+      "Parveen"
     ],
     "paizoUrl": "https://paizo.com/products/btpy9x0u",
     "price": 4.99,
