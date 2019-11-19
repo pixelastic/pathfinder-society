@@ -1,3 +1,15 @@
+## [0.3.6](https://github.com/pixelastic/pathfinder-society/compare/0.3.5...0.3.6) (2019-11-19)
+
+
+### Bug Fixes
+
+* **npcs:** Add manual location of Doorway to the Red Star ([9b5a46b](https://github.com/pixelastic/pathfinder-society/commit/9b5a46b21718fb7d67b8a24ed98b393529d96856))
+
+
+### Features
+
+* **renovate:** Update deps as soon as possible ([13a648b](https://github.com/pixelastic/pathfinder-society/commit/13a648bf4083d91db6cc2897f67d2fae3a8c2bc3))
+
 ## [0.3.5](https://github.com/pixelastic/pathfinder-society/compare/0.3.4...0.3.5) (2019-11-13)
 
 ## [0.3.4](https://github.com/pixelastic/pathfinder-society/compare/0.3.3...0.3.4) (2019-11-05)
