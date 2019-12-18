@@ -1,3 +1,15 @@
+## [0.3.8](https://github.com/pixelastic/pathfinder-society/compare/0.3.7...0.3.8) (2019-12-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency firost to v0.19.3 ([1ab0b8b](https://github.com/pixelastic/pathfinder-society/commit/1ab0b8baf610e8d483c3ebf58e4115b8f6259f11))
+
+
+### Features
+
+* **ci:** Enable CI testing ([5e37f85](https://github.com/pixelastic/pathfinder-society/commit/5e37f8581a3bcce67d8e9b7aaad1921703d5e327))
+
 ## [0.3.7](https://github.com/pixelastic/pathfinder-society/compare/0.3.6...0.3.7) (2019-11-26)
 
 ## [0.3.6](https://github.com/pixelastic/pathfinder-society/compare/0.3.5...0.3.6) (2019-11-19)
