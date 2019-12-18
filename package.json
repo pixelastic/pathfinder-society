@@ -1,7 +1,7 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "firost": "^0.16.0"
+    "firost": "0.16.0"
   },
   "description": "All Pathfinder Society Scenarios metadata as an npm module",
   "devDependencies": {
