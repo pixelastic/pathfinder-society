@@ -9,6 +9,8 @@ on:
 jobs:
   triggerRelease:
     runs-on: ubuntu-latest
+    env:
+      CIRCLECI_TOKEN: ${{ secrets.CIRCLECI_TOKEN }}
     # Only runs when PR is merged from weeklyUpdate to master
     if: |
       github.event.pull_request.merged == true &&
