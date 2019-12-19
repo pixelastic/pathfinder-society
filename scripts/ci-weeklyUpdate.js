@@ -26,10 +26,7 @@ import Octokit from '@octokit/rest';
   }
 
   // Regenerate the data.json file
-  // await firost.run('yarn run regenerate');
-  const data = await firost.readJson('./lib/data.json');
-  data.foo = firost.uuid();
-  await firost.writeJson(data, './lib/data.json');
+  await firost.run('yarn run regenerate');
   firost.consoleSuccess('Data regenerated');
 
   // Should stop if no changes
