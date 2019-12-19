@@ -4,9 +4,9 @@
 # ./weeklyPR.yml action
 name: Release to npm whenever the weekly PR is merged
 
-on: 
+on:
   pull_request:
-    types: 
+    types:
       - closed
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
   #   steps:
   #     - name: Content of github variable
   #       run: echo "$GITHUB_CONTEXT"
-  #       env: 
+  #       env:
   #         GITHUB_CONTEXT: ${{ toJson(github) }}
 
   main:
