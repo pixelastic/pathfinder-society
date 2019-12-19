@@ -1,4 +1,4 @@
-const module = {
+const release = {
   async run() {
     // Check if merged branch is weeklyUpdate
     console.info({ ...process.env });
@@ -7,8 +7,8 @@ const module = {
 
 (async function() {
   try {
-    await module.run();
+    await release.run();
   } catch (err) {
-    module.failure();
+    release.failure();
   }
 })();
