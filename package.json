@@ -26,6 +26,7 @@
     "build:watch": "./scripts/build-watch",
     "ci": "./scripts/ci",
     "ci:weeklyUpdate": "node -r esm ./scripts/ci-weeklyUpdate.js",
+    "ci:automatedRelease": "node -r esm ./scripts/ci-automatedRelease.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",

@@ -43,6 +43,15 @@ jobs:
       - *yarn_install
       - *save_cache
       - run: 'yarn run ci:weeklyUpdate'
+  # This will release a new version whenever the weeklyUpdate branch is merged
+  automatedRelease:
+    <<: *defaults
+    steps:
+      - checkout
+      - *restore_cache
+      - *yarn_install
+      - *save_cache
+      - run: 'yarn run ci:automatedRelease'
 
 workflows:
   version: 2
@@ -61,3 +70,11 @@ workflows:
                 - master
     jobs:
       - weeklyUpdate
+  # When weeklyUpdate is merged on master: release a new version
+  commitOnMaster:
+    jobs:
+      - automatedRelease:
+          filters:
+            branches:
+              only:
+                - master
