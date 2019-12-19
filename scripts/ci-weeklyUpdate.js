@@ -3,13 +3,15 @@ import { _, dayjs } from 'golgoth';
 import Octokit from '@octokit/rest';
 
 const module = {
+  githubUser: 'pixelastic',
+  githubRepo: 'pathfinder-society',
   dataPath: 'lib/data.json',
   branchName: 'weeklyUpdate',
   octokit: new Octokit({ auth: process.env.GITHUB_TOKEN }),
 
   async initGit() {
     await firost.run('git config --global user.email "tim@pixelastic.com"');
-    await firost.run('git config --global user.name "Pixelastic"');
+    await firost.run(`git config --global user.name "${this.githubUser}"`);
   },
 
   async branchExists() {
@@ -54,8 +56,8 @@ const module = {
   async createPR() {
     try {
       const result = await this.octokit.pulls.create({
-        owner: 'pixelastic',
-        repo: 'pathfinder-society',
+        owner: this.githubUser,
+        repo: this.githubRepo,
         title: 'Weekly update',
         body: [
           'This is an automated PR including the latest changes from the Wiki',
@@ -79,8 +81,19 @@ const module = {
   },
 
   async createIssue(err) {
-    console.info('This should create an issue');
-    console.info(err);
+    const errorDetails = err.stdout;
+    await this.octokit.issues.create({
+      owner: this.githubUser,
+      repo: this.githubRepo,
+      title: 'Weekly update failing',
+      body: [
+        'The weekly update has failed with the following error:',
+        '```',
+        errorDetails,
+        '```',
+        `More details on ${process.env.CIRCLE_BUILD_URL}`,
+      ].join('\n'),
+    });
   },
 
   success() {
