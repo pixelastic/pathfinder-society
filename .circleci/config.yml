@@ -5,6 +5,10 @@ _aliases:
   - &defaults
     docker:
       - image: circleci/node:12.12.0
+  - &add_ssh_key
+    add_ssh_keys:
+      fingerprints:
+        - 'bf:a5:61:c6:03:fb:71:f7:7a:17:a1:60:58:77:24:f6'
   - &restore_cache
     restore_cache:
       key: yarn-cache-{{ checksum "yarn.lock" }}
@@ -33,6 +37,7 @@ jobs:
   weeklyUpdate:
     <<: *defaults
     steps:
+      - *add_ssh_key
       - checkout
       - *restore_cache
       - *yarn_install
