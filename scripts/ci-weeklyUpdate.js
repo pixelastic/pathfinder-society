@@ -8,6 +8,10 @@ import Octokit from '@octokit/rest';
   const githubToken = process.env.GITHUB_TOKEN;
   const currentDate = dayjs().format('YYYY-MM-DD');
 
+  // Init git
+  await firost.run('git config --global user.email "tim@pixelastic.com"');
+  await firost.run('git config --global user.name "Pixelastic"');
+
   // Create new branch
   const { stdout: currentBranches } = await firost.run('git branch -l', {
     stdout: false,
