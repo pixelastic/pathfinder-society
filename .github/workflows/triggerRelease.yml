@@ -1,0 +1,18 @@
+name: 'Trigger release on CircleCI'
+
+# Triggered when a PR is closed (we'll be more specific in the job)
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  triggerRelease:
+    runs-on: ubuntu-latest
+    # Only runs when PR is merged from weeklyUpdate to master
+    if: |
+      github.event.pull_request.merged == true &&
+      github.head_ref == 'weeklyUpdate' && 
+      github.base_ref == 'master'
+
+      - run: 'curl -u $CIRCLECI_TOKEN: -d build_parameters[CIRCLE_JOB]=automatedRelease https://circleci.com/api/v1.1/project/github/pixelastic/pathfinder-society/tree/master'
