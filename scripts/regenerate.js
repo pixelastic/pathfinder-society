@@ -13,17 +13,17 @@ import { _, pMap } from 'golgoth';
 
   const allScenarios = {};
   const seasonPages = [
-    // 'Season_0_scenarios',
-    // 'Season_1_scenarios',
-    // 'Season_2_scenarios',
-    // 'Season_3_scenarios',
-    // 'Season_4_scenarios',
-    // 'Season_5_scenarios',
-    // 'Season_6_scenarios',
-    // 'Season_7_scenarios',
-    // 'Season_8_scenarios',
-    // 'Season_9_scenarios',
-    // 'Season_10_scenarios',
+    'Season_0_scenarios',
+    'Season_1_scenarios',
+    'Season_2_scenarios',
+    'Season_3_scenarios',
+    'Season_4_scenarios',
+    'Season_5_scenarios',
+    'Season_6_scenarios',
+    'Season_7_scenarios',
+    'Season_8_scenarios',
+    'Season_9_scenarios',
+    'Season_10_scenarios',
     'Season_1_(2E)_scenarios',
   ];
   try {
