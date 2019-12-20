@@ -9,6 +9,8 @@ _aliases:
     add_ssh_keys:
       fingerprints:
         - 'bf:a5:61:c6:03:fb:71:f7:7a:17:a1:60:58:77:24:f6'
+  - &add_npm_token
+    run: 'echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc'
   - &restore_cache
     restore_cache:
       key: yarn-cache-{{ checksum "yarn.lock" }}
@@ -47,6 +49,7 @@ jobs:
   automatedRelease:
     <<: *defaults
     steps:
+      - *add_npm_token
       - checkout
       - *restore_cache
       - *yarn_install
