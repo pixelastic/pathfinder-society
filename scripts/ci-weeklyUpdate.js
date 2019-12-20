@@ -9,11 +9,6 @@ const module = {
   branchName: 'weeklyUpdate',
   octokit: new Octokit({ auth: process.env.GITHUB_TOKEN }),
 
-  async initGit() {
-    await firost.run('git config --global user.email "tim@pixelastic.com"');
-    await firost.run(`git config --global user.name "${this.githubUser}"`);
-  },
-
   async branchExists() {
     const { stdout: allBranches } = await firost.run('git branch -l', {
       stdout: false,
@@ -104,9 +99,6 @@ const module = {
   },
 
   async run() {
-    // Init git credentials
-    await this.initGit();
-
     // Move to the correct branch. Create it if does not exist
     if (await this.branchExists()) {
       await this.switchToBranch();
