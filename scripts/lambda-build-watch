@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -e
+
+aberlaas build ./lambda --out-dir=./dist-lambda --watch

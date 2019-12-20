@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
 set -e
 
-netlify-lambda serve ./lambda
+# A custom webpack config should be passed to avoid some webpack warning
+netlify-lambda serve ./lambda --config ./webpack.lambda.config.js
