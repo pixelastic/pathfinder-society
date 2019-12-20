@@ -33,6 +33,7 @@ function failure(body) {
  */
 export async function handler(request) {
   const debug = [];
+  return success(JSON.stringify(process.env, null, 2));
 
   const rawBody = _.get(request, 'body');
   if (_.isEmpty(rawBody)) {
@@ -58,7 +59,6 @@ export async function handler(request) {
   debug.push(`prBranch: ${prBranch}`);
   debug.push(`shouldTriggerRelease: ${shouldTriggerRelease}`);
 
-  console.info({ ...process.env });
 
   if (!shouldTriggerRelease) {
     const displayDebug = debug.join('\n');
