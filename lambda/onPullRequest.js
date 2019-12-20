@@ -1,5 +1,6 @@
 /* eslint-disable import/no-commonjs */
 import { _ } from 'golgoth';
+import secrets from './secrets.json';
 
 /**
  * Return a success response and log it
@@ -33,7 +34,7 @@ function failure(body) {
  */
 export async function handler(request) {
   const debug = [];
-  return success(JSON.stringify(process.env, null, 2));
+  return success(JSON.stringify(secrets, null, 2));
 
   const rawBody = _.get(request, 'body');
   if (_.isEmpty(rawBody)) {
@@ -58,7 +59,6 @@ export async function handler(request) {
   debug.push(`baseBranch: ${baseBranch}`);
   debug.push(`prBranch: ${prBranch}`);
   debug.push(`shouldTriggerRelease: ${shouldTriggerRelease}`);
-
 
   if (!shouldTriggerRelease) {
     const displayDebug = debug.join('\n');
