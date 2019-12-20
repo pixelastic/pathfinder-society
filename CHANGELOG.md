@@ -1,3 +1,31 @@
+## [0.3.10](https://github.com/pixelastic/pathfinder-society/compare/0.3.9...0.3.10) (2019-12-20)
+
+
+### Bug Fixes
+
+* **ci:** Add git write key for release ([1e00bc1](https://github.com/pixelastic/pathfinder-society/commit/1e00bc1b654bd8a5f9a34e80d649d91ada156c55))
+* **ci:** Add npm token for release ([a3b40ba](https://github.com/pixelastic/pathfinder-society/commit/a3b40ba55b2e044a934a76d1ad54e6f6a45fe70d))
+* **ci:** Configure git so it can push when releasing ([f53569b](https://github.com/pixelastic/pathfinder-society/commit/f53569b170febff3e1bfb6e43f2ba6de36b700a3))
+* **ci:** Configure git with name and email ([2c97bb0](https://github.com/pixelastic/pathfinder-society/commit/2c97bb007821a04abc4e2327117005e7ca2b985c))
+* **ci:** Fix steps to GitHub Actions workflows ([95da192](https://github.com/pixelastic/pathfinder-society/commit/95da192ded9d1b72e97b57e31400754de44fe8eb))
+* **ci:** Make git changes global ([2b6022a](https://github.com/pixelastic/pathfinder-society/commit/2b6022a1e66ccbfc81a4aa4cb65c91e7eaa3fe76))
+* **ci:** Pass secret to ENV variable ([52105e1](https://github.com/pixelastic/pathfinder-society/commit/52105e19e78ba5f5db2bdfdfcfae9d0a7bdb2fd0))
+* **ci:** Rename module to release (?) ([cb00185](https://github.com/pixelastic/pathfinder-society/commit/cb001857424c4a50fdfc388e226200487ef9ba83))
+* **deps:** Re-add octokit ([d36b2a2](https://github.com/pixelastic/pathfinder-society/commit/d36b2a218d27a8b01a3d4a98f9c276021931e181))
+* **rating:** Handle pages with no ratings ([b7a07eb](https://github.com/pixelastic/pathfinder-society/commit/b7a07eba21dd9ba4773adfbdff1b7d5e2ee148d7))
+* **regenerate:** Re-scan all seasons ([aba001a](https://github.com/pixelastic/pathfinder-society/commit/aba001a4abd81ffa88e159bf3b430909707d6122))
+
+
+### Features
+
+* **ci:** Add scaffolding for automated release ([fe4bad8](https://github.com/pixelastic/pathfinder-society/commit/fe4bad86798ad22aed56a04a5a82965ddd0a2464))
+* **ci:** Configure SSH keys for push ([10c987c](https://github.com/pixelastic/pathfinder-society/commit/10c987c5166b1673441cc4651e51eb6108e3c05d))
+* **ci:** Create an issue on build failing ([34dda9a](https://github.com/pixelastic/pathfinder-society/commit/34dda9a1dc1c1e2172de93f0575ef359aff01e56))
+* **ci:** Moving to CircleCI instead of GitHub Actions ([0a1e35b](https://github.com/pixelastic/pathfinder-society/commit/0a1e35bf86bb7a836d70aeb97b235dfb61b58700))
+* **ci:** Replace placeholder with real update of data ([8b7cef6](https://github.com/pixelastic/pathfinder-society/commit/8b7cef63964754280765766d0f53216dd45e6e8e))
+* **ci:** Run data update every week from CircleCI ([1ce6267](https://github.com/pixelastic/pathfinder-society/commit/1ce6267937af206c57f16907c8688661f18efcb3))
+* **ci:** Trigger a release when PR is merged ([0bdc6e2](https://github.com/pixelastic/pathfinder-society/commit/0bdc6e25afdb23451574aadfcd233ee9f007d9a5))
+
 ## [0.3.9](https://github.com/pixelastic/pathfinder-society/compare/0.3.8...0.3.9) (2019-12-18)
 
 ## [0.3.8](https://github.com/pixelastic/pathfinder-society/compare/0.3.7...0.3.8) (2019-12-18)
