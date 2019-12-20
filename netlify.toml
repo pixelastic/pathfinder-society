@@ -1,0 +1,8 @@
+[build]
+  command = "yarn run lambda:build"
+  functions = "./dist-lambda/"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Clacks-Overhead = "GNU Terry Pratchett"

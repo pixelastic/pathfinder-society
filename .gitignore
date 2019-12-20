@@ -6,6 +6,7 @@
 # Directories
 build/
 dist/
+dist-lambda/
 node_modules/
 tmp/
 # Files

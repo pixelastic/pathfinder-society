@@ -1,17 +1,17 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
-  "dependencies": {
-    "firost": "0.19.3"
-  },
+  "dependencies": {},
   "description": "All Pathfinder Society Scenarios metadata as an npm module",
   "devDependencies": {
     "@octokit/rest": "16.35.2",
     "aberlaas": "0.10.5",
     "aoinan": "0.2.1",
     "esm": "3.2.25",
+    "firost": "0.19.3",
     "golgoth": "0.6.2",
     "he": "1.2.0",
     "jsdom": "15.2.1",
+    "netlify-lambda": "1.6.3",
     "wtf_wikipedia": "7.8.1"
   },
   "files": [
@@ -24,9 +24,10 @@
   "scripts": {
     "build": "./scripts/build",
     "build:watch": "./scripts/build-watch",
+    "lambda:build": "./scripts/lambda-build",
+    "lambda:serve": "./scripts/lambda-serve",
     "ci": "./scripts/ci",
     "ci:weeklyUpdate": "node -r esm ./scripts/ci-weeklyUpdate.js",
-    "ci:automatedRelease": "node -r esm ./scripts/ci-automatedRelease.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",

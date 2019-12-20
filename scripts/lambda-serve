@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -e
+
+netlify-lambda serve ./lambda
