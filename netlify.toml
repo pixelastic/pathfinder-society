@@ -2,6 +2,12 @@
   command = "yarn run lambda:build"
   functions = "./dist-lambda/"
 
+# Redirect calls to the website to the repo. There is nothing to see here except
+# for the lambda functions
+[[redirects]]
+  from = "/"
+  to = "https://github.com/pixelastic/pathfinder-society"
+
 [[headers]]
   for = "/*"
   [headers.values]
