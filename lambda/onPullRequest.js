@@ -1,4 +1,5 @@
 /* eslint-disable import/no-commonjs */
+import firost from 'firost';
 import { _ } from 'golgoth';
 import secrets from './secrets.json';
 
@@ -34,7 +35,6 @@ function failure(body) {
  */
 export async function handler(request) {
   const debug = [];
-  return success(JSON.stringify(secrets, null, 2));
 
   const rawBody = _.get(request, 'body');
   if (_.isEmpty(rawBody)) {
@@ -62,10 +62,14 @@ export async function handler(request) {
 
   if (!shouldTriggerRelease) {
     const displayDebug = debug.join('\n');
-    return success(displayDebug);
+    return failure(displayDebug);
   }
 
   // We ping CircleCI so it triggers a new release
-  // steps:
-  //   - run: 'curl -u $CIRCLECI_TOKEN: -d build_parameters[CIRCLE_JOB]=automatedRelease https://circleci.com/api/v1.1/project/github/pixelastic/pathfinder-society/tree/master'
+  const circleCIUrl =
+    'https://circleci.com/api/v1.1/project/github/pixelastic/pathfinder-society/tree/master';
+  await firost.run(
+    `curl -u ${secrets.CIRCLECI_TOKEN}: -d build_parameters[CIRCLE_JOB]=automatedRelease ${circleCIUrl}`
+  );
+  return success('CircleCI triggered');
 }
