@@ -7,8 +7,8 @@ _aliases:
       - image: circleci/node:12.12.0
   - &configure_git
     run: |
-      git config user.email "tim@pixelastic.com"
-      git config user.name "pixelastic"
+      git config --global user.email "tim@pixelastic.com"
+      git config --global user.name "pixelastic"
   - &add_ssh_key
     add_ssh_keys:
       fingerprints:
