@@ -66,13 +66,28 @@ making a bunch of HTTP requests.
 
 ## Automation
 
-This repository is configured with a GitHub Action to recrawl the PatfinderWiki
-every week and submit a Pull Request with the new changes. When this Pull
-Request is merged, another GitHub Action will release a new `patch` version of
-the module.
+This repository is configured to automatically publish a new version to npm
+every week if there is new data from the wiki.
 
-If the PR is not merged in one week, it will be updated with data from the most
-recent crawl until it is accepted.
+CircleCI is configured to run the `weeklyUpdate` job every Tuesday morning. This
+will regenerate the data.json file by recrawling the wiki. If the file contains
+changes from the previous version, it will commit it to the `weeklyUpdate`
+branch and create a Pull Request so I can manually review and merge it.
+
+If no changes are found, it will wait until the next week to try again. If an
+error occurs during the crawl, it will create an issue with the details of the
+error.
+
+The repository also holds a `onPullRequest` lambda function, deployed and hosted
+on Netlify. GitHub is configured to send a webhook to that lambda whenever
+a Pull Request is closed.
+
+The lambda then discard all irrelevant hooks, keeping only the ones that means
+that the previously explained `weeklyUpdate` PR has been merged. When that
+happens, it pings CircleCI to tell it to trigger the `automatedRelease` job.
+
+The `automatedRelease` job on CircleCI will build and release the latest version
+of the data as a new patch iteration.
 
 [1]: https://pathfinderwiki.com/wiki/Pathfinder_Wiki
 [2]: https://gamemaster.pixelastic.com/society/
