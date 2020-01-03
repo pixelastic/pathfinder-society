@@ -1,3 +1,16 @@
+## [0.3.12](https://github.com/pixelastic/pathfinder-society/compare/0.3.11...0.3.12) (2020-01-03)
+
+
+### Features
+
+* **ci:** Add real call to CircleCI ([bc01836](https://github.com/pixelastic/pathfinder-society/commit/bc01836b0db26ef77eddd01c4b93859cc3f8d407))
+* **ci:** Attempt at reading secrets from netlify functions ([eb99207](https://github.com/pixelastic/pathfinder-society/commit/eb992070888245f127437991144676a742818fb0))
+* **ci:** Better output of errors ([872ce56](https://github.com/pixelastic/pathfinder-society/commit/872ce56b365e09156ae2988136ca361e21900eba))
+* **ci:** Scaffold Netlify functions ([4c2c9cc](https://github.com/pixelastic/pathfinder-society/commit/4c2c9cc7fb6f37372b886c718fca6b9c8e0734fa))
+* **ci:** Test netlify function ([f46655b](https://github.com/pixelastic/pathfinder-society/commit/f46655bcfc094164acd79aec8cbb780eaa2b6dd7))
+* **circleci:** Use conditions in workflows ([80ccd08](https://github.com/pixelastic/pathfinder-society/commit/80ccd0872a00a893685b13c9402c475d3878e2b1))
+* **redirect:** Prevent access to root ([24c1ea2](https://github.com/pixelastic/pathfinder-society/commit/24c1ea22926363df5a3f2f86736c9f6f66687c3f))
+
 ## [0.3.11](https://github.com/pixelastic/pathfinder-society/compare/0.3.10...0.3.11) (2019-12-20)
 
 ## [0.3.10](https://github.com/pixelastic/pathfinder-society/compare/0.3.9...0.3.10) (2019-12-20)
