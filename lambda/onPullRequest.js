@@ -14,18 +14,6 @@ function success(body) {
     body,
   };
 }
-/**
- * Return a failure response and log it
- * @param {string} body Body of the response
- * @returns {object} Response
- */
-function failure(body) {
-  console.info(`✘ ${body}`);
-  return {
-    statusCode: 500,
-    body,
-  };
-}
 
 /**
  * Triggered on every pull request closed
@@ -37,14 +25,14 @@ export async function handler(request) {
 
   const rawBody = _.get(request, 'body');
   if (_.isEmpty(rawBody)) {
-    return failure('No body passed');
+    return success('No body passed');
   }
 
   let body;
   try {
     body = JSON.parse(rawBody);
   } catch (err) {
-    return failure(`Body is not JSON\n${rawBody}`);
+    return success(`Body is not JSON\n${rawBody}`);
   }
   const isMerged = _.get(body, 'pull_request.merged');
   const baseBranch = _.get(body, 'pull_request.base.ref');
@@ -61,7 +49,7 @@ export async function handler(request) {
 
   if (!shouldTriggerRelease) {
     const displayDebug = debug.join('\n');
-    return failure(displayDebug);
+    return success(displayDebug);
   }
 
   // We ping CircleCI so it triggers a new release
