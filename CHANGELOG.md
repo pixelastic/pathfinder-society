@@ -1,3 +1,10 @@
+## [0.3.14](https://github.com/pixelastic/pathfinder-society/compare/0.3.13...0.3.14) (2020-01-03)
+
+
+### Features
+
+* **ci:** Update script to use CircleCI API v2 ([2ace641](https://github.com/pixelastic/pathfinder-society/commit/2ace641fed26f6e7cad36ad0edf5c8d45c2ec6c5))
+
 ## [0.3.13](https://github.com/pixelastic/pathfinder-society/compare/0.3.12...0.3.13) (2020-01-03)
 
 ## [0.3.12](https://github.com/pixelastic/pathfinder-society/compare/0.3.11...0.3.12) (2020-01-03)
