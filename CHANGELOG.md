@@ -1,3 +1,10 @@
+## [0.3.15](https://github.com/pixelastic/pathfinder-society/compare/0.3.14...0.3.15) (2020-01-03)
+
+
+### Features
+
+* **ci:** Use got instead of raw curl call ([23ea594](https://github.com/pixelastic/pathfinder-society/commit/23ea594678b5aa195764a3a0c60d9bc2bcf8c9ca))
+
 ## [0.3.14](https://github.com/pixelastic/pathfinder-society/compare/0.3.13...0.3.14) (2020-01-03)
 
 
