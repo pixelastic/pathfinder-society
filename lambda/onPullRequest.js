@@ -56,7 +56,9 @@ export async function handler(request) {
   const circleCIUrl =
     'https://circleci.com/api/v2/project/github/pixelastic/pathfinder-society/pipeline';
   try {
-    const a = got(circleCIUrl, {
+    console.info(circleCIUrl);
+    console.info(secrets.CIRCLECI_TOKEN);
+    await got(circleCIUrl, {
       method: 'POST',
       headers: {
         'Circle-Token': secrets.CIRCLECI_TOKEN,
@@ -68,13 +70,10 @@ export async function handler(request) {
         },
       },
     });
-    console.info(a);
-
-    await a;
   } catch (err) {
     console.info(err);
+    console.info(err.response);
     console.info(err.body);
-    console.info(err.request);
     throw err;
   }
   return success('CircleCI triggered');
