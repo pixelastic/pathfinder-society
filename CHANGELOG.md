@@ -1,3 +1,5 @@
+## [0.3.13](https://github.com/pixelastic/pathfinder-society/compare/0.3.12...0.3.13) (2020-01-03)
+
 ## [0.3.12](https://github.com/pixelastic/pathfinder-society/compare/0.3.11...0.3.12) (2020-01-03)
 
 
