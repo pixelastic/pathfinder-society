@@ -56,27 +56,27 @@ export async function handler(request) {
   const circleCIUrl =
     'https://circleci.com/api/v2/project/github/pixelastic/pathfinder-society/pipeline';
   try {
-    console.info(circleCIUrl);
-    console.info(secrets.CIRCLECI_TOKEN);
     await got(circleCIUrl, {
       method: 'POST',
       headers: {
+        'Content-Type': 'application/json',
         'Circle-Token': secrets.CIRCLECI_TOKEN,
       },
-      json: {
+      body: JSON.stringify({
         parameters: {
           workflow_commit: false,
           workflow_automatedRelease: true,
         },
-      },
+      }),
     });
   } catch (err) {
+    console.info(err.request);
     const debugBody = JSON.stringify(
       {
-        GotError: _.get(got, 'GotError'),
-        response: _.get(err, 'response'),
-        requestHeaders: _.get(err, 'request.headers'),
-        headers: _.get(err, 'headers'),
+        hasGotError: _.has(got, 'GotError'),
+        body: _.get(err, 'response.body'),
+        headers: _.get(err, 'response.request.options.headers'),
+        requestUrl: _.get(err, 'response.requestUrl'),
       },
       null,
       2
