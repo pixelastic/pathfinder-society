@@ -71,7 +71,16 @@ export async function handler(request) {
       },
     });
   } catch (err) {
-    const debugBody = JSON.stringify(err, null, 2);
+    const debugBody = JSON.stringify(
+      {
+        response: err.response,
+        request: err.request,
+        requestHeaders: err.request.headers,
+        headers: err.headers,
+      },
+      null,
+      2
+    );
     console.info(debugBody);
     return {
       statusCode: 500,
