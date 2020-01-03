@@ -71,10 +71,12 @@ export async function handler(request) {
       },
     });
   } catch (err) {
-    console.info(err);
-    console.info(err.response);
-    console.info(err.body);
-    throw err;
+    const debugBody = JSON.stringify(err, null, 2);
+    console.info(debugBody);
+    return {
+      statusCode: 500,
+      body: debugBody,
+    };
   }
   return success('CircleCI triggered');
 }
