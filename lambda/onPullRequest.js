@@ -67,9 +67,13 @@ export async function handler(request) {
 
   // We ping CircleCI so it triggers a new release
   const circleCIUrl =
-    'https://circleci.com/api/v1.1/project/github/pixelastic/pathfinder-society/tree/master';
-  await firost.run(
-    `curl -u ${secrets.CIRCLECI_TOKEN}: -d build_parameters[CIRCLE_JOB]=automatedRelease ${circleCIUrl}`
-  );
+    'https://circleci.com/api/v2/project/github/pixelastic/pathfinder-society/pipeline';
+  const curlOptions = [
+    `-u ${secrets.CIRCLECI_TOKEN}:`,
+    '-X POST',
+    '--header "Content-Type: application/json"',
+    '-d { "parameters": { "workflow_commit": false, "workflow_automatedRelease": true } }',
+  ];
+  await firost.run(`curl ${curlOptions.join(' ')} ${circleCIUrl}`);
   return success('CircleCI triggered');
 }
