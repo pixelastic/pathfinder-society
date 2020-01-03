@@ -95,12 +95,12 @@ workflows:
   version: 2
   # On every commit and PR: run the build/test/lint checks
   commit:
-    when: << pipeline.parameters.workflow_commit >>
+    # when: << pipeline.parameters.workflow_commit >>
     jobs:
       - ci
   # Every week: Recrawl the wiki and submit a PR with the changes
   weeklyUpdate:
-    when: << pipeline.parameters.workflow_weeklyUpdate >>
+    # when: << pipeline.parameters.workflow_weeklyUpdate >>
     triggers:
       - schedule:
           cron: '0 9 * * 2'
