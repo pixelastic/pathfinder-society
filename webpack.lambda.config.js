@@ -1,22 +1,14 @@
 /* eslint-disable import/no-commonjs */
 /**
  * netlify-lambda automatically packages my functions through webpack.
- * Unfortunately, webpack was throwing warnings like this one:
  *
- * WARNING in ../node_modules/got/source/request-as-event-emitter.js 72:18-25
- * Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
- *  @ ../node_modules/got/source/as-stream.js
- *  @ ../node_modules/got/source/create.js
- *  @ ../node_modules/got/source/index.js
- *  @ ../node_modules/golgoth/build/index.js
- *  @ ./onPullRequest.js
+ * Unfortunately, webpack is throwing unavoidable warnings when some dependency
+ * is dynamically or conditionnaly loading other dependencies. Common packages
+ * like got, included in golgoth, will throw warnings.
  *
- *  This was not preventing the actual lambda from running locally but was
- *  making reading the output close to impossible.
- *
- *  Turns out that got, loaded by golgoth has to use some tricks to work with
- *  webpack, and those tricks made the webpack compilation fail. The solution
- *  was to force webpack to not package got (as I don't use it, it's ok).
+ * One way to avoid it is to explictely tell webpack to not include those
+ * dependencies in its packaging through the use of the "externals" config key.
+ * When used, we need to specify the path to the module to use instead.
  *
  *  More info:
  *  Got bug: https://github.com/sindresorhus/got/issues/742
@@ -24,7 +16,11 @@
  *  Workaround: https://github.com/netlify/netlify-faunadb-example/issues/8
  **/
 module.exports = {
+  // This make reloading faster
   mode: 'development',
   devtool: 'inline-source-map',
-  externals: ['got', 'firost'],
+  // This suppresses warnings about dynamic imports
+  externals: {
+    got: '../node_modules/golgoth/node_modules/got/dist/source/index.js',
+  },
 };

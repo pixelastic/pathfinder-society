@@ -65,18 +65,19 @@ export async function handler(request) {
   }
 
   // We ping CircleCI so it triggers a new release
-  const circleCIUrl = `https://${secrets.CIRCLECI_TOKEN}:@circleci.com/api/v2/project/github/pixelastic/pathfinder-society/pipeline`;
+  const circleCIUrl =
+    'https://circleci.com/api/v2/project/github/pixelastic/pathfinder-society/pipeline';
   await got(circleCIUrl, {
     method: 'POST',
     headers: {
-      'content-type': 'application/json',
+      'Circle-Token': secrets.CIRCLECI_TOKEN,
     },
-    body: JSON.stringify({
+    json: {
       parameters: {
         workflow_commit: false,
         workflow_automatedRelease: true,
       },
-    }),
+    },
   });
   return success('CircleCI triggered');
 }

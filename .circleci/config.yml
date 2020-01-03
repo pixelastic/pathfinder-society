@@ -83,6 +83,9 @@ parameters:
   workflow_commit:
     type: boolean
     default: true
+  workflow_weeklyUpdate:
+    type: boolean
+    default: true
   workflow_automatedRelease:
     type: boolean
     default: false
@@ -97,6 +100,7 @@ workflows:
       - ci
   # Every week: Recrawl the wiki and submit a PR with the changes
   weeklyUpdate:
+    when: << pipeline.parameters.workflow_weeklyUpdate >>
     triggers:
       - schedule:
           cron: '0 9 * * 2'
