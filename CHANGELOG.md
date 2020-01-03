@@ -1,3 +1,11 @@
+## [0.3.21](https://github.com/pixelastic/pathfinder-society/compare/0.3.20...0.3.21) (2020-01-03)
+
+
+### Bug Fixes
+
+* **ci:** Attempt at fixing automated release ([7add288](https://github.com/pixelastic/pathfinder-society/commit/7add288a85f9bb69ac5e98ea5836e85d4ecdfb2c))
+* **lambda:** Return 200 OK when ignored ([a9abb20](https://github.com/pixelastic/pathfinder-society/commit/a9abb20cdc63ca3ab8db4eb50996c837d3ebf734))
+
 ## [0.3.20](https://github.com/pixelastic/pathfinder-society/compare/0.3.19...0.3.20) (2020-01-03)
 
 ## [0.3.19](https://github.com/pixelastic/pathfinder-society/compare/0.3.18...0.3.19) (2020-01-03)
