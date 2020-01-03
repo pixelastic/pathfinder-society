@@ -1,7 +1,6 @@
 /* eslint-disable import/no-commonjs */
-import firost from 'firost';
-import { _ } from 'golgoth';
-import secrets from './secrets.json';
+import { _, got } from 'golgoth';
+import secrets from './lib/secrets';
 
 /**
  * Return a success response and log it
@@ -66,14 +65,18 @@ export async function handler(request) {
   }
 
   // We ping CircleCI so it triggers a new release
-  const circleCIUrl =
-    'https://circleci.com/api/v2/project/github/pixelastic/pathfinder-society/pipeline';
-  const curlOptions = [
-    `-u ${secrets.CIRCLECI_TOKEN}:`,
-    '-X POST',
-    '--header "Content-Type: application/json"',
-    '-d { "parameters": { "workflow_commit": false, "workflow_automatedRelease": true } }',
-  ];
-  await firost.run(`curl ${curlOptions.join(' ')} ${circleCIUrl}`);
+  const circleCIUrl = `https://${secrets.CIRCLECI_TOKEN}:@circleci.com/api/v2/project/github/pixelastic/pathfinder-society/pipeline`;
+  await got(circleCIUrl, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify({
+      parameters: {
+        workflow_commit: false,
+        workflow_automatedRelease: true,
+      },
+    }),
+  });
   return success('CircleCI triggered');
 }

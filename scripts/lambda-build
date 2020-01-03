@@ -2,4 +2,4 @@
 set -e
 
 aberlaas build ./lambda --out-dir=./dist-lambda
-node -r esm ./scripts/updateSecrets.js
+node -r esm ./scripts/exportSecretsToLambda.js

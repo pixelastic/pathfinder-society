@@ -23,7 +23,8 @@
  *  Related Webpack issue: https://github.com/webpack/webpack/issues/8826
  *  Workaround: https://github.com/netlify/netlify-faunadb-example/issues/8
  **/
-
 module.exports = {
-  externals: ['got'],
+  mode: 'development',
+  devtool: 'inline-source-map',
+  externals: ['got', 'firost'],
 };
