@@ -1,6 +1,6 @@
-version: 2
+version: 2.1
 
-# Aliases, so we can reference them in our jobs to avoid duplication of code
+# Aliases so we avoid copy-pasting config
 _aliases:
   - &defaults
     docker:
@@ -33,7 +33,7 @@ _aliases:
       paths:
         - ~/.cache/yarn
 
-# Our list of jobs, so we can reference them in our worflows
+# Jobs, so we can reference them in workflows
 jobs:
   # This will attempt to build/test/lint, to check that the code is in good
   # shape
@@ -70,14 +70,37 @@ jobs:
       - *save_cache
       - run: 'yarn run release patch'
 
+# Parameters, so we can conditionally choose which workflows to run
+# Note:
+# When manually triggering a pipeline through the API, CircleCI will attempt to
+# run all workflows by default. To prevent that, we need to add a when clause to
+# each workflow and make an API call that specifically switch on/off the
+# workflows we want to run.
+# We set the flags for commit and weeklyUpdate to true by default, as not to
+# prevent their normal execution, but set the automatedRelease to false so it
+# needs to be manually switched on by the API call.
+parameters:
+  workflow_commit:
+    type: boolean
+    default: true
+  workflow_weeklyUpdate:
+    type: boolean
+    default: true
+  workflow_automatedRelease:
+    type: boolean
+    default: false
+
+# Workflows, defines when specific jobs should run
 workflows:
   version: 2
   # On every commit and PR: run the build/test/lint checks
   commit:
+    when: << pipeline.parameters.workflow_commit >>
     jobs:
       - ci
   # Every week: Recrawl the wiki and submit a PR with the changes
   weeklyUpdate:
+    when: << pipeline.parameters.workflow_weeklyUpdate >>
     triggers:
       - schedule:
           cron: '0 9 * * 2'
@@ -87,3 +110,8 @@ workflows:
                 - master
     jobs:
       - weeklyUpdate
+  # When weeklyUpdate PR merged: Release a new version
+  automatedRelease:
+    when: << pipeline.parameters.workflow_automatedRelease >>
+    jobs:
+      - automatedRelease
