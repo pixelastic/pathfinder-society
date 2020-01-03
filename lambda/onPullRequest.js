@@ -75,7 +75,6 @@ export async function handler(request) {
       {
         GotError: _.get(got, 'GotError'),
         response: _.get(err, 'response'),
-        request: _.get(err, 'request'),
         requestHeaders: _.get(err, 'request.headers'),
         headers: _.get(err, 'headers'),
       },
