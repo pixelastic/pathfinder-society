@@ -1,3 +1,10 @@
+## [0.3.22](https://github.com/pixelastic/pathfinder-society/compare/0.3.21...0.3.22) (2020-01-11)
+
+
+### Features
+
+* **lambda:** Clean up code ([551245c](https://github.com/pixelastic/pathfinder-society/commit/551245cff07dcf8df335ddfe1bf8834c3db8d596))
+
 ## [0.3.21](https://github.com/pixelastic/pathfinder-society/compare/0.3.20...0.3.21) (2020-01-03)
 
 
