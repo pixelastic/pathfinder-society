@@ -1,8 +1,8 @@
-import firost from 'firost';
-import dynamicSecrets from '../lambda/lib/secrets.js';
+import { netlify } from 'callirhoe';
+import path from 'path';
 
 (async function() {
-  const staticSecrets = JSON.stringify(dynamicSecrets);
-  const jsContent = `module.exports = ${staticSecrets}`;
-  await firost.write(jsContent, './dist-lambda/lib/secrets.js');
+  const source = path.resolve('./lambda/lib/secrets.js');
+  const destination = './dist-lambda/lib/secrets.js';
+  await netlify.freezeFile(source, destination);
 })();

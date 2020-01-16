@@ -43,5 +43,5 @@ import { _, pMap } from 'golgoth';
     process.exit(1);
   }
 
-  // await firost.writeJson(allScenarios, './lib/data.json');
+  await firost.writeJson(allScenarios, './lib/data.json');
 })();
