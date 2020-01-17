@@ -1,3 +1,11 @@
+## [0.3.25](https://github.com/pixelastic/pathfinder-society/compare/0.3.24...0.3.25) (2020-01-17)
+
+
+### Features
+
+* **ci:** Fix CI scripts ([67db52b](https://github.com/pixelastic/pathfinder-society/commit/67db52b6d144a0c59635865d664ef11236c34154))
+* **ci:** Index to Algolia along with release ([96df444](https://github.com/pixelastic/pathfinder-society/commit/96df44428ee69923328169cdf522a423d9d16ade))
+
 ## [0.3.24](https://github.com/pixelastic/pathfinder-society/compare/0.3.23...0.3.24) (2020-01-16)
 
 ## [0.3.23](https://github.com/pixelastic/pathfinder-society/compare/0.3.22...0.3.23) (2020-01-15)
