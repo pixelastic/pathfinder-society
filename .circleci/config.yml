@@ -68,7 +68,7 @@ jobs:
       - *restore_cache
       - *yarn_install
       - *save_cache
-      - run: 'yarn run release patch'
+      - run: 'yarn run ci:automatedRelease'
 
 # Parameters, so we can conditionally choose which workflows to run
 # Note:
