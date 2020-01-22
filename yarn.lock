@@ -3097,15 +3097,17 @@ caller-path@^2.0.0:
   dependencies:
     caller-callsite "^2.0.0"
 
-callirhoe@0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/callirhoe/-/callirhoe-0.0.7.tgz#a314323557f1207eb4d6220e3b6e8a0ab75d4825"
-  integrity sha512-5wtWqAAJilKuJbaJZP9Hkryt+p1FZmiTqnlnnQ7QX55iQ9k2TNEkWz4PR1f9Vt0qy7LvzGyIJjh3+k4EnLg8uQ==
+callirhoe@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/callirhoe/-/callirhoe-0.0.8.tgz#73384fbeb3a47ec672b1251de7a0999363d7f884"
+  integrity sha512-0mvekMie5/GiCgUzt5ChkTuIdN++SD6p9r8aXuY1wBzqwfro9CyZkLX2qnIPPJLrFEWTE65wr6mlKxaYIYGYIg==
   dependencies:
     "@sentry/node" "5.11.0"
     airtable "0.8.1"
+    cookie "0.4.0"
     firost "0.21.0"
     golgoth "0.6.4"
+    sparkpost "2.1.4"
 
 callsites@^2.0.0:
   version "2.0.0"
@@ -7487,7 +7489,7 @@ lodash@4.17.11:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
 
-lodash@4.17.15, lodash@^4.11.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15:
+lodash@4.17.15, lodash@^4.11.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.2:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
@@ -9597,7 +9599,7 @@ request-promise-native@^1.0.5, request-promise-native@^1.0.8:
     stealthy-require "^1.1.1"
     tough-cookie "^2.3.3"
 
-request@2.88.0, request@^2.87.0, request@^2.88.0:
+request@2.88.0, request@^2.79.0, request@^2.87.0, request@^2.88.0:
   version "2.88.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   integrity sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg==
@@ -10107,6 +10109,14 @@ source-map@^0.6.0, source-map@^0.6.1, source-map@~0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
+
+sparkpost@2.1.4:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/sparkpost/-/sparkpost-2.1.4.tgz#f099526b7800deff672b7a7ce60ef2b5266c3251"
+  integrity sha512-7yvpfLVCnCVaE1yexemHNDX2bLkG3Lel14aCwj1ZCAX8Aa4OjYCP7uWPOkSwwXLYfQZRUgdwxgzXwaIDiYVx7A==
+  dependencies:
+    lodash "^4.17.2"
+    request "^2.79.0"
 
 spdx-correct@^3.0.0:
   version "3.1.0"
