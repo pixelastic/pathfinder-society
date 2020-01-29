@@ -3135,10 +3135,10 @@ caller-path@^2.0.0:
   dependencies:
     caller-callsite "^2.0.0"
 
-callirhoe@0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/callirhoe/-/callirhoe-0.0.8.tgz#73384fbeb3a47ec672b1251de7a0999363d7f884"
-  integrity sha512-0mvekMie5/GiCgUzt5ChkTuIdN++SD6p9r8aXuY1wBzqwfro9CyZkLX2qnIPPJLrFEWTE65wr6mlKxaYIYGYIg==
+callirhoe@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/callirhoe/-/callirhoe-0.0.9.tgz#a755893f234ca289b8be6fb605e5c307f3595523"
+  integrity sha512-b2anONiJeAI9gREGamKPURNNey6PHii4myQyVEUM4XPjYvMHE4xxOSZIc6lRP206TvMURVFuDL7EQ0ilUyYYjQ==
   dependencies:
     "@sentry/node" "5.11.0"
     airtable "0.8.1"
