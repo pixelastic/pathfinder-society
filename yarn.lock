@@ -1703,10 +1703,10 @@
     once "^1.4.0"
     universal-user-agent "^4.0.0"
 
-"@octokit/rest@16.41.2":
-  version "16.41.2"
-  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-16.41.2.tgz#e35eb17c24f8c8327c5918e02909997f196b8ccd"
-  integrity sha512-bBqlmge7nKYzwBoRuzBQsvFl1WxUQKCCfd6E1+Zu7TLfgn7v9alD6MMw17h7wpvoi78ulZm9BCfy2g4WxZTfAQ==
+"@octokit/rest@16.42.2":
+  version "16.42.2"
+  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-16.42.2.tgz#fb233f46a4eaec313f885a64abcfbe16510d84f4"
+  integrity sha512-rYnQJFWU3CMOjB7AySSj6JVzr0LKZie5955CzVAGP2Z54PqkyBlmhF55ojDBNj1OM0bR8oVRiN87689f6uUatw==
   dependencies:
     "@octokit/auth-token" "^2.4.0"
     "@octokit/plugin-paginate-rest" "^1.1.1"
