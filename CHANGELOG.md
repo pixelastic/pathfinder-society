@@ -1,3 +1,10 @@
+## [0.3.29](https://github.com/pixelastic/pathfinder-society/compare/0.3.28...0.3.29) (2020-02-12)
+
+
+### Bug Fixes
+
+* **git:** Change commit message on weekly update ([95b8226](https://github.com/pixelastic/pathfinder-society/commit/95b8226960e8468cf2c9906dc6904afa2e6d6969))
+
 ## [0.3.28](https://github.com/pixelastic/pathfinder-society/compare/0.3.27...0.3.28) (2020-02-06)
 
 ## [0.3.27](https://github.com/pixelastic/pathfinder-society/compare/0.3.26...0.3.27) (2020-01-21)
