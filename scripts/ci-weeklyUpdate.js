@@ -43,7 +43,7 @@ const module = {
 
     await firost.run(`git add ${this.dataPath}`);
     await firost.run(
-      `git commit --no-verify --message "chore(update):\\ Weekly\\ update\\ (${currentDate})"`
+      `git commit --no-verify --message chore(update):\\ Weekly\\ update\\ (${currentDate})`
     );
     firost.consoleSuccess(`Updated ${this.dataPath} file committed`);
   },
