@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 set -e
 
-aberlaas build ./lambda --out-dir=./dist-lambda
+rm -rf ./dist-lambda
+cp -r ./lambda ./dist-lambda
 node -r esm ./scripts/exportSecretsToLambda.js
