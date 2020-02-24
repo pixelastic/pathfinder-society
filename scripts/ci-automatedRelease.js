@@ -1,7 +1,7 @@
-import firost from 'firost';
+const firost = require('firost');
 
-const module = {
-  async run() {
+(async function() {
+  try {
     // Release a new version to npm
     await firost.run('yarn run release patch');
 
@@ -9,12 +9,6 @@ const module = {
     await firost.run('yarn run algolia');
 
     process.exit(0);
-  },
-};
-
-(async function() {
-  try {
-    await module.run();
   } catch (err) {
     process.exit(1);
   }

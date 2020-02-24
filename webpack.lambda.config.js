@@ -1,4 +1,3 @@
-/* eslint-disable import/no-commonjs */
 /**
  * netlify-lambda automatically packages my functions through webpack.
  *

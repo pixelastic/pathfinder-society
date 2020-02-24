@@ -1,6 +1,7 @@
-import helper from '../lib/helper.js';
-import firost from 'firost';
-import { _, pMap } from 'golgoth';
+const helper = require('../lib/helper.js');
+const firost = require('firost');
+const _ = require('golgoth/lib/lodash');
+const pMap = require('golgoth/lib/pMap');
 
 (async function() {
   helper.init();

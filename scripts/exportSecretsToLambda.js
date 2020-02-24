@@ -1,5 +1,5 @@
-import { netlify } from 'callirhoe';
-import path from 'path';
+const netlify = require('callirhoe/lib/netlify');
+const path = require('path');
 
 (async function() {
   const source = path.resolve('./lambda/lib/secrets.js');

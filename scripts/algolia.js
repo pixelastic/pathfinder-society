@@ -1,5 +1,5 @@
-import indexing from 'algolia-indexing';
-import data from '../lib/data.json';
+const indexing = require('algolia-indexing').default;
+const data = require('../lib/data.json');
 
 (async function() {
   const credentials = {

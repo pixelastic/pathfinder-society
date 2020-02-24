@@ -1,8 +1,9 @@
-import firost from 'firost';
-import { _, dayjs } from 'golgoth';
-import Octokit from '@octokit/rest';
+const firost = require('firost');
+const _ = require('golgoth/lib/lodash');
+const dayjs = require('golgoth/lib/dayjs');
+const { Octokit } = require('@octokit/rest');
 
-const module = {
+const weeklyUpdate = {
   githubUser: 'pixelastic',
   githubRepo: 'pathfinder-society',
   dataPath: 'lib/data.json',
@@ -129,8 +130,8 @@ const module = {
 
 (async function() {
   try {
-    await module.run();
+    await weeklyUpdate.run();
   } catch (err) {
-    module.failure();
+    weeklyUpdate.failure();
   }
 })();

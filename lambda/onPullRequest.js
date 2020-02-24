@@ -1,7 +1,8 @@
 /* eslint-disable import/no-commonjs */
-import { _ } from 'golgoth';
-import secrets from './lib/secrets';
-import { sentry, circleci } from 'callirhoe';
+const _ = require('golgoth/lib/lodash');
+const secrets = require('./lib/secrets');
+const circleci = require('callirhoe/lib/circleci');
+const sentry = require('callirhoe/lib/sentry');
 sentry.init(secrets.SENTRY_DSN);
 circleci.init(secrets.CIRCLECI_TOKEN);
 

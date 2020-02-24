@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   CIRCLECI_TOKEN: process.env.CIRCLECI_TOKEN,
   SENTRY_DSN: process.env.SENTRY_DSN,
 };
