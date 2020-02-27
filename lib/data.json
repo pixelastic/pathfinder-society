@@ -23,6 +23,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 5,
+    "slug": "aBitterBargain",
     "title": "A Bitter Bargain",
     "url": "https://pathfinderwiki.com/wiki/A_Bitter_Bargain"
   },
@@ -56,6 +57,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 9,
+    "slug": "aCaseOfMissingPersons",
     "title": "A Case of Missing Persons",
     "url": "https://pathfinderwiki.com/wiki/A_Case_of_Missing_Persons"
   },
@@ -79,6 +81,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 3,
+    "slug": "aVisionOfBetrayal",
     "title": "A Vision of Betrayal",
     "url": "https://pathfinderwiki.com/wiki/A_Vision_of_Betrayal"
   },
@@ -114,6 +117,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 7,
+    "slug": "abductedInAether",
     "title": "Abducted in Aether",
     "url": "https://pathfinderwiki.com/wiki/Abducted_in_Aether"
   },
@@ -144,6 +148,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 28,
     "seasonIndex": 7,
+    "slug": "agelessAmbitions",
     "title": "Ageless Ambitions",
     "url": "https://pathfinderwiki.com/wiki/Ageless_Ambitions"
   },
@@ -169,6 +174,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 8,
+    "slug": "agentsOfTheEye",
     "title": "Agents of the Eye",
     "url": "https://pathfinderwiki.com/wiki/Agents_of_the_Eye"
   },
@@ -212,6 +218,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 26,
     "seasonIndex": 7,
+    "slug": "allTheGodsBeyond",
     "title": "All the Gods Beyond",
     "url": "https://pathfinderwiki.com/wiki/All_the_Gods_Beyond"
   },
@@ -237,6 +244,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 49,
     "seasonIndex": 1,
+    "slug": "amongTheDead",
     "title": "Among the Dead",
     "url": "https://pathfinderwiki.com/wiki/Among_the_Dead"
   },
@@ -260,6 +268,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 3,
+    "slug": "amongTheGods",
     "title": "Among the Gods",
     "url": "https://pathfinderwiki.com/wiki/Among_the_Gods"
   },
@@ -286,6 +295,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 0,
+    "slug": "amongTheLiving",
     "title": "Among the Living",
     "url": "https://pathfinderwiki.com/wiki/Among_the_Living"
   },
@@ -313,6 +323,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 7,
+    "slug": "ancientsAnguish",
     "title": "Ancients' Anguish",
     "url": "https://pathfinderwiki.com/wiki/Ancients%27_Anguish"
   },
@@ -342,6 +353,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "assaultOnAbsalom",
     "title": "Assault on Absalom",
     "url": "https://pathfinderwiki.com/wiki/Assault_on_Absalom"
   },
@@ -359,6 +371,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 33,
     "seasonIndex": 1,
+    "slug": "assaultOnTheKingdomOfTheImpossible",
     "title": "Assault on the Kingdom of the Impossible",
     "url": "https://pathfinderwiki.com/wiki/Assault_on_the_Kingdom_of_the_Impossible"
   },
@@ -385,6 +398,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 24,
     "seasonIndex": 5,
+    "slug": "assaultOnTheWound",
     "title": "Assault on the Wound",
     "url": "https://pathfinderwiki.com/wiki/Assault_on_the_Wound"
   },
@@ -410,6 +424,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 2,
+    "slug": "atShadowsDoor",
     "title": "At Shadow's Door",
     "url": "https://pathfinderwiki.com/wiki/At_Shadow%27s_Door"
   },
@@ -427,6 +442,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 4,
     "seasonIndex": 1,
+    "slug": "banditsOfImmenwood",
     "title": "Bandits of Immenwood",
     "url": "https://pathfinderwiki.com/wiki/Bandits_of_Immenwood"
   },
@@ -457,6 +473,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 6,
+    "slug": "beaconBelow",
     "title": "Beacon Below",
     "url": "https://pathfinderwiki.com/wiki/Beacon_Below"
   },
@@ -474,6 +491,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 2,
+    "slug": "belowTheSilverTarn",
     "title": "Below the Silver Tarn",
     "url": "https://pathfinderwiki.com/wiki/Below_the_Silver_Tarn"
   },
@@ -500,6 +518,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 2,
+    "slug": "beneathForgottenSands",
     "title": "Beneath Forgotten Sands",
     "url": "https://pathfinderwiki.com/wiki/Beneath_Forgotten_Sands"
   },
@@ -517,6 +536,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "beneathUnbrokenWaves",
     "title": "Beneath Unbroken Waves",
     "url": "https://pathfinderwiki.com/wiki/Beneath_Unbroken_Waves"
   },
@@ -539,6 +559,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "betrayalInTheBones",
     "title": "Betrayal in the Bones",
     "url": "https://pathfinderwiki.com/wiki/Betrayal_in_the_Bones"
   },
@@ -564,6 +585,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 7,
+    "slug": "betweenTheLines",
     "title": "Between the Lines",
     "url": "https://pathfinderwiki.com/wiki/Between_the_Lines"
   },
@@ -588,6 +610,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 27,
     "seasonIndex": 7,
+    "slug": "beyondAzlantRidge",
     "title": "Beyond Azlant Ridge",
     "url": "https://pathfinderwiki.com/wiki/Beyond_Azlant_Ridge"
   },
@@ -611,6 +634,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "beyondTheHalflightPath",
     "title": "Beyond the Halflight Path",
     "url": "https://pathfinderwiki.com/wiki/Beyond_the_Halflight_Path"
   },
@@ -640,6 +664,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 7,
+    "slug": "bidForAlabastrine",
     "title": "Bid for Alabastrine",
     "url": "https://pathfinderwiki.com/wiki/Bid_for_Alabastrine"
   },
@@ -664,6 +689,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 9,
+    "slug": "birthrightBetrayed",
     "title": "Birthright Betrayed",
     "url": "https://pathfinderwiki.com/wiki/Birthright_Betrayed"
   },
@@ -689,6 +715,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 0,
+    "slug": "blackWaters",
     "title": "Black Waters",
     "url": "https://pathfinderwiki.com/wiki/Black_Waters"
   },
@@ -711,6 +738,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 8,
+    "slug": "blazingDangerousTrails",
     "title": "Blazing Dangerous Trails",
     "url": "https://pathfinderwiki.com/wiki/Blazing_Dangerous_Trails"
   },
@@ -728,6 +756,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 0,
+    "slug": "bloodAtDralkardManor",
     "title": "Blood at Dralkard Manor",
     "url": "https://pathfinderwiki.com/wiki/Blood_at_Dralkard_Manor"
   },
@@ -757,6 +786,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 3,
+    "slug": "bloodUnderAbsalom",
     "title": "Blood Under Absalom",
     "url": "https://pathfinderwiki.com/wiki/Blood_Under_Absalom"
   },
@@ -774,6 +804,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 10,
+    "slug": "bonesOfBitingAnts",
     "title": "Bones of Biting Ants",
     "url": "https://pathfinderwiki.com/wiki/Bones_of_Biting_Ants"
   },
@@ -791,6 +822,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 10,
+    "slug": "breathOfTheDragonskull",
     "title": "Breath of the Dragonskull",
     "url": "https://pathfinderwiki.com/wiki/Breath_of_the_Dragonskull"
   },
@@ -817,6 +849,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 6,
+    "slug": "byWayOfBloodcove",
     "title": "By Way of Bloodcove",
     "url": "https://pathfinderwiki.com/wiki/By_Way_of_Bloodcove"
   },
@@ -844,6 +877,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 5,
+    "slug": "cairnOfShadows",
     "title": "Cairn of Shadows",
     "url": "https://pathfinderwiki.com/wiki/Cairn_of_Shadows"
   },
@@ -872,6 +906,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 9,
+    "slug": "callOfTheCopperGate",
     "title": "Call of the Copper Gate",
     "url": "https://pathfinderwiki.com/wiki/Call_of_the_Copper_Gate"
   },
@@ -901,6 +936,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 7,
+    "slug": "captiveInCrystal",
     "title": "Captive in Crystal",
     "url": "https://pathfinderwiki.com/wiki/Captive_in_Crystal"
   },
@@ -926,6 +962,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 8,
+    "slug": "captivesOfToil",
     "title": "Captives of Toil",
     "url": "https://pathfinderwiki.com/wiki/Captives_of_Toil"
   },
@@ -943,6 +980,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 30,
     "seasonIndex": 1,
+    "slug": "cassomirsLocker",
     "title": "Cassomir's Locker",
     "url": "https://pathfinderwiki.com/wiki/Cassomir%27s_Locker"
   },
@@ -970,6 +1008,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 8,
+    "slug": "caughtInTheEclipse",
     "title": "Caught in the Eclipse",
     "url": "https://pathfinderwiki.com/wiki/Caught_in_the_Eclipse"
   },
@@ -994,6 +1033,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "clashInKaimukoWood",
     "title": "Clash in Kaimuko Wood",
     "url": "https://pathfinderwiki.com/wiki/Clash_in_Kaimuko_Wood"
   },
@@ -1023,6 +1063,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 8,
+    "slug": "cleansedWithFire",
     "title": "Cleansed With Fire",
     "url": "https://pathfinderwiki.com/wiki/Cleansed_With_Fire"
   },
@@ -1040,6 +1081,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 10,
+    "slug": "corpsesInKalsgard",
     "title": "Corpses in Kalsgard",
     "url": "https://pathfinderwiki.com/wiki/Corpses_in_Kalsgard"
   },
@@ -1057,6 +1099,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 10,
+    "slug": "countdownToRoundMountain",
     "title": "Countdown to Round Mountain",
     "url": "https://pathfinderwiki.com/wiki/Countdown_to_Round_Mountain"
   },
@@ -1081,6 +1124,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 41,
     "seasonIndex": 1,
+    "slug": "cryptOfFoolsScenario",
     "title": "Crypt of Fools (scenario)",
     "url": "https://pathfinderwiki.com/wiki/Crypt_of_Fools_(scenario)"
   },
@@ -1112,6 +1156,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 5,
+    "slug": "dayOfTheDemon",
     "title": "Day of the Demon",
     "url": "https://pathfinderwiki.com/wiki/Day_of_the_Demon"
   },
@@ -1139,6 +1184,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 24,
     "seasonIndex": 7,
+    "slug": "deadMansDebt",
     "title": "Dead Man's Debt",
     "url": "https://pathfinderwiki.com/wiki/Dead_Man%27s_Debt"
   },
@@ -1156,6 +1202,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 10,
+    "slug": "deathOnTheIce",
     "title": "Death on the Ice",
     "url": "https://pathfinderwiki.com/wiki/Death_on_the_Ice"
   },
@@ -1173,6 +1220,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 10,
+    "slug": "debtToTheQuah",
     "title": "Debt to the Quah",
     "url": "https://pathfinderwiki.com/wiki/Debt_to_the_Quah"
   },
@@ -1190,6 +1238,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 24,
     "seasonIndex": 0,
+    "slug": "declineOfGlory",
     "title": "Decline of Glory",
     "url": "https://pathfinderwiki.com/wiki/Decline_of_Glory"
   },
@@ -1214,6 +1263,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 3,
+    "slug": "defendersOfNestingSwallow",
     "title": "Defenders of Nesting Swallow",
     "url": "https://pathfinderwiki.com/wiki/Defenders_of_Nesting_Swallow"
   },
@@ -1231,6 +1281,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 45,
     "seasonIndex": 1,
+    "slug": "deliriumsTangle",
     "title": "Delirium's Tangle",
     "url": "https://pathfinderwiki.com/wiki/Delirium%27s_Tangle"
   },
@@ -1248,6 +1299,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 13,
     "seasonIndex": 1,
+    "slug": "devilAtTheCrossroads",
     "title": "Devil at the Crossroads",
     "url": "https://pathfinderwiki.com/wiki/Devil_at_the_Crossroads"
   },
@@ -1272,6 +1324,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "downTheVerdantPath",
     "title": "Down the Verdant Path",
     "url": "https://pathfinderwiki.com/wiki/Down_the_Verdant_Path"
   },
@@ -1289,6 +1342,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 32,
     "seasonIndex": 1,
+    "slug": "drowOfTheDarklandsPyramid",
     "title": "Drow of the Darklands Pyramid",
     "url": "https://pathfinderwiki.com/wiki/Drow_of_the_Darklands_Pyramid"
   },
@@ -1315,6 +1369,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 3,
+    "slug": "echoesOfTheOverwatched",
     "title": "Echoes of the Overwatched",
     "url": "https://pathfinderwiki.com/wiki/Echoes_of_the_Overwatched"
   },
@@ -1338,6 +1393,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 34,
     "seasonIndex": 1,
+    "slug": "encounterAtTheDrowningStones",
     "title": "Encounter at the Drowning Stones",
     "url": "https://pathfinderwiki.com/wiki/Encounter_at_the_Drowning_Stones"
   },
@@ -1355,6 +1411,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 3,
     "seasonIndex": 1,
+    "slug": "escapingTheGrave",
     "title": "Escaping the Grave",
     "url": "https://pathfinderwiki.com/wiki/Escaping_the_Grave"
   },
@@ -1382,6 +1439,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 2,
+    "slug": "exilesOfWinter",
     "title": "Exiles of Winter",
     "url": "https://pathfinderwiki.com/wiki/Exiles_of_Winter"
   },
@@ -1399,6 +1457,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 0,
+    "slug": "eyeOfTheCrocodileKing",
     "title": "Eye of the Crocodile King",
     "url": "https://pathfinderwiki.com/wiki/Eye_of_the_Crocodile_King"
   },
@@ -1429,6 +1488,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "fallenFamilyBrokenName",
     "title": "Fallen Family, Broken Name",
     "url": "https://pathfinderwiki.com/wiki/Fallen_Family,_Broken_Name"
   },
@@ -1455,6 +1515,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 5,
+    "slug": "fateOfTheFiend",
     "title": "Fate of the Fiend",
     "url": "https://pathfinderwiki.com/wiki/Fate_of_the_Fiend"
   },
@@ -1481,6 +1542,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 4,
+    "slug": "feastOfSigilsScenario",
     "title": "Feast of Sigils (scenario)",
     "url": "https://pathfinderwiki.com/wiki/Feast_of_Sigils_(scenario)"
   },
@@ -1505,6 +1567,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 0,
+    "slug": "fingerprintsOfTheFiend",
     "title": "Fingerprints of the Fiend",
     "url": "https://pathfinderwiki.com/wiki/Fingerprints_of_the_Fiend"
   },
@@ -1522,6 +1585,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 6,
+    "slug": "firesOfKaramoss",
     "title": "Fires of Karamoss",
     "url": "https://pathfinderwiki.com/wiki/Fires_of_Karamoss"
   },
@@ -1572,6 +1636,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 7,
+    "slug": "firstTasteOfEternity",
     "title": "First Taste of Eternity",
     "url": "https://pathfinderwiki.com/wiki/First_Taste_of_Eternity"
   },
@@ -1589,6 +1654,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 11,
     "seasonIndex": 1,
+    "slug": "flamesOfRebellion",
     "title": "Flames of Rebellion",
     "url": "https://pathfinderwiki.com/wiki/Flames_of_Rebellion"
   },
@@ -1606,6 +1672,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 7,
     "seasonIndex": 1,
+    "slug": "floodedKingsCourt",
     "title": "Flooded King's Court",
     "url": "https://pathfinderwiki.com/wiki/Flooded_King%27s_Court"
   },
@@ -1638,6 +1705,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 4,
+    "slug": "fortressOfTheNail",
     "title": "Fortress of the Nail",
     "url": "https://pathfinderwiki.com/wiki/Fortress_of_the_Nail"
   },
@@ -1655,6 +1723,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 50,
     "seasonIndex": 1,
+    "slug": "fortunesBlight",
     "title": "Fortune's Blight",
     "url": "https://pathfinderwiki.com/wiki/Fortune%27s_Blight"
   },
@@ -1672,6 +1741,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 10,
+    "slug": "fragmentsOfAntiquity",
     "title": "Fragments of Antiquity",
     "url": "https://pathfinderwiki.com/wiki/Fragments_of_Antiquity"
   },
@@ -1702,6 +1772,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 8,
+    "slug": "fromTheTomeOfRighteousRepose",
     "title": "From the Tome of Righteous Repose",
     "url": "https://pathfinderwiki.com/wiki/From_the_Tome_of_Righteous_Repose"
   },
@@ -1732,6 +1803,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 6,
+    "slug": "fromUnderIce",
     "title": "From Under Ice",
     "url": "https://pathfinderwiki.com/wiki/From_Under_Ice"
   },
@@ -1763,6 +1835,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 2,
+    "slug": "furyOfTheFiend",
     "title": "Fury of the Fiend",
     "url": "https://pathfinderwiki.com/wiki/Fury_of_the_Fiend"
   },
@@ -1793,6 +1866,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "furyOfTheFinalBlade",
     "title": "Fury of the Final Blade",
     "url": "https://pathfinderwiki.com/wiki/Fury_of_the_Final_Blade"
   },
@@ -1817,6 +1891,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 8,
+    "slug": "gravesOfCrystalmawPass",
     "title": "Graves of Crystalmaw Pass",
     "url": "https://pathfinderwiki.com/wiki/Graves_of_Crystalmaw_Pass"
   },
@@ -1841,6 +1916,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 9,
+    "slug": "grottoOfTheDelugedGod",
     "title": "Grotto of the Deluged God",
     "url": "https://pathfinderwiki.com/wiki/Grotto_of_the_Deluged_God"
   },
@@ -1858,6 +1934,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 40,
     "seasonIndex": 1,
+    "slug": "hallOfDrunkenHeroes",
     "title": "Hall of Drunken Heroes",
     "url": "https://pathfinderwiki.com/wiki/Hall_of_Drunken_Heroes"
   },
@@ -1883,6 +1960,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 6,
+    "slug": "hallOfTheFleshEaters",
     "title": "Hall of the Flesh Eaters",
     "url": "https://pathfinderwiki.com/wiki/Hall_of_the_Flesh_Eaters"
   },
@@ -1906,6 +1984,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 4,
+    "slug": "hallsOfDwarvenLore",
     "title": "Halls of Dwarven Lore",
     "url": "https://pathfinderwiki.com/wiki/Halls_of_Dwarven_Lore"
   },
@@ -1923,6 +2002,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 25,
     "seasonIndex": 0,
+    "slug": "handsOfTheMutedGod",
     "title": "Hands of the Muted God",
     "url": "https://pathfinderwiki.com/wiki/Hands_of_the_Muted_God"
   },
@@ -1955,6 +2035,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 8,
+    "slug": "houseOfHarmoniousWisdom",
     "title": "House of Harmonious Wisdom",
     "url": "https://pathfinderwiki.com/wiki/House_of_Harmonious_Wisdom"
   },
@@ -1978,6 +2059,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 8,
+    "slug": "hrethnarsThrone",
     "title": "Hrethnar's Throne",
     "url": "https://pathfinderwiki.com/wiki/Hrethnar%27s_Throne"
   },
@@ -2002,6 +2084,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 3,
+    "slug": "inServiceToLore",
     "title": "In Service to Lore",
     "url": "https://pathfinderwiki.com/wiki/In_Service_to_Lore"
   },
@@ -2026,6 +2109,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "inTheGrandmastersName",
     "title": "In the Grandmaster's Name",
     "url": "https://pathfinderwiki.com/wiki/In_the_Grandmaster%27s_Name"
   },
@@ -2052,6 +2136,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 4,
+    "slug": "inWrathsShadow",
     "title": "In Wrath's Shadow",
     "url": "https://pathfinderwiki.com/wiki/In_Wrath%27s_Shadow"
   },
@@ -2079,6 +2164,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 6,
+    "slug": "kaavaQuarry",
     "title": "Kaava Quarry",
     "url": "https://pathfinderwiki.com/wiki/Kaava_Quarry"
   },
@@ -2104,6 +2190,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 7,
+    "slug": "karmaReclaimed",
     "title": "Karma Reclaimed",
     "url": "https://pathfinderwiki.com/wiki/Karma_Reclaimed"
   },
@@ -2121,6 +2208,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 2,
+    "slug": "keepOfTheHuscarlKing",
     "title": "Keep of the Huscarl King",
     "url": "https://pathfinderwiki.com/wiki/Keep_of_the_Huscarl_King"
   },
@@ -2149,6 +2237,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 4,
+    "slug": "kingOfTheStorvalStairs",
     "title": "King of the Storval Stairs",
     "url": "https://pathfinderwiki.com/wiki/King_of_the_Storval_Stairs"
   },
@@ -2166,6 +2255,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 0,
+    "slug": "kingXerosOfOldAzlant",
     "title": "King Xeros of Old Azlant",
     "url": "https://pathfinderwiki.com/wiki/King_Xeros_of_Old_Azlant"
   },
@@ -2190,6 +2280,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 6,
+    "slug": "legacyOfTheStonelords",
     "title": "Legacy of the Stonelords",
     "url": "https://pathfinderwiki.com/wiki/Legacy_of_the_Stonelords"
   },
@@ -2219,6 +2310,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 7,
+    "slug": "letBygonesBe",
     "title": "Let Bygones Be",
     "url": "https://pathfinderwiki.com/wiki/Let_Bygones_Be"
   },
@@ -2246,6 +2338,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 5,
+    "slug": "libraryOfTheLion",
     "title": "Library of the Lion",
     "url": "https://pathfinderwiki.com/wiki/Library_of_the_Lion"
   },
@@ -2263,6 +2356,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 26,
     "seasonIndex": 0,
+    "slug": "lostAtBitterEnd",
     "title": "Lost at Bitter End",
     "url": "https://pathfinderwiki.com/wiki/Lost_at_Bitter_End"
   },
@@ -2295,6 +2389,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 7,
+    "slug": "lostColonyOfTaldor",
     "title": "Lost Colony of Taldor",
     "url": "https://pathfinderwiki.com/wiki/Lost_Colony_of_Taldor"
   },
@@ -2312,6 +2407,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 6,
     "seasonIndex": 1,
+    "slug": "lostOnTheSpiritRoad",
     "title": "Lost on the Spirit Road",
     "url": "https://pathfinderwiki.com/wiki/Lost_on_the_Spirit_Road"
   },
@@ -2337,6 +2433,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 28,
     "seasonIndex": 0,
+    "slug": "lyricsOfExtinction",
     "title": "Lyrics of Extinction",
     "url": "https://pathfinderwiki.com/wiki/Lyrics_of_Extinction"
   },
@@ -2362,6 +2459,7 @@
     "rating": 4,
     "scenarioIndex": 5,
     "seasonIndex": 0,
+    "slug": "mistsOfMwangi",
     "title": "Mists of Mwangi",
     "url": "https://pathfinderwiki.com/wiki/Mists_of_Mwangi"
   },
@@ -2386,6 +2484,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 0,
+    "slug": "murderOnTheSilkenCaravan",
     "title": "Murder on the Silken Caravan",
     "url": "https://pathfinderwiki.com/wiki/Murder_on_the_Silken_Caravan"
   },
@@ -2403,6 +2502,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 2,
+    "slug": "murderOnTheThroatyMermaid",
     "title": "Murder on the Throaty Mermaid",
     "url": "https://pathfinderwiki.com/wiki/Murder_on_the_Throaty_Mermaid"
   },
@@ -2426,6 +2526,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 4,
+    "slug": "myEnemysEnemy",
     "title": "My Enemy's Enemy",
     "url": "https://pathfinderwiki.com/wiki/My_Enemy%27s_Enemy"
   },
@@ -2449,6 +2550,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 38,
     "seasonIndex": 1,
+    "slug": "noPlunderNoPay",
     "title": "No Plunder, No Pay",
     "url": "https://pathfinderwiki.com/wiki/No_Plunder,_No_Pay"
   },
@@ -2477,6 +2579,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 2,
+    "slug": "nothingVenturedNothingGained",
     "title": "Nothing Ventured, Nothing Gained",
     "url": "https://pathfinderwiki.com/wiki/Nothing_Ventured,_Nothing_Gained"
   },
@@ -2501,6 +2604,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "oathOfTheOverwatched",
     "title": "Oath of the Overwatched",
     "url": "https://pathfinderwiki.com/wiki/Oath_of_the_Overwatched"
   },
@@ -2518,6 +2622,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 10,
+    "slug": "oathbreakersDie",
     "title": "Oathbreakers Die",
     "url": "https://pathfinderwiki.com/wiki/Oathbreakers_Die"
   },
@@ -2543,6 +2648,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 6,
+    "slug": "ofKirinAndKraken",
     "title": "Of Kirin and Kraken",
     "url": "https://pathfinderwiki.com/wiki/Of_Kirin_and_Kraken"
   },
@@ -2569,6 +2675,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 3,
+    "slug": "onHostileWaters",
     "title": "On Hostile Waters",
     "url": "https://pathfinderwiki.com/wiki/On_Hostile_Waters"
   },
@@ -2586,6 +2693,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 10,
+    "slug": "onSevenfingerssSails",
     "title": "On Sevenfingers's Sails",
     "url": "https://pathfinderwiki.com/wiki/On_Sevenfingers%27s_Sails"
   },
@@ -2616,6 +2724,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 6,
+    "slug": "onSharrowsmithsTrail",
     "title": "On Sharrowsmith's Trail",
     "url": "https://pathfinderwiki.com/wiki/On_Sharrowsmith%27s_Trail"
   },
@@ -2639,6 +2748,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 9,
+    "slug": "onTheBorderOfWar",
     "title": "On the Border of War",
     "url": "https://pathfinderwiki.com/wiki/On_the_Border_of_War"
   },
@@ -2661,6 +2771,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 25,
     "seasonIndex": 7,
+    "slug": "ordersFromTheGate",
     "title": "Orders from the Gate",
     "url": "https://pathfinderwiki.com/wiki/Orders_from_the_Gate"
   },
@@ -2678,6 +2789,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 0,
     "seasonIndex": 1,
+    "slug": "originOfTheOpenRoad",
     "title": "Origin of the Open Road",
     "url": "https://pathfinderwiki.com/wiki/Origin_of_the_Open_Road"
   },
@@ -2699,6 +2811,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 27,
     "seasonIndex": 0,
+    "slug": "ourLadyOfSilver",
     "title": "Our Lady of Silver",
     "url": "https://pathfinderwiki.com/wiki/Our_Lady_of_Silver"
   },
@@ -2726,6 +2839,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 6,
+    "slug": "outOfAnarchy",
     "title": "Out of Anarchy",
     "url": "https://pathfinderwiki.com/wiki/Out_of_Anarchy"
   },
@@ -2754,6 +2868,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 3,
+    "slug": "pagodaOfTheRatScenario",
     "title": "Pagoda of the Rat (scenario)",
     "url": "https://pathfinderwiki.com/wiki/Pagoda_of_the_Rat_(scenario)"
   },
@@ -2778,6 +2893,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 0,
+    "slug": "perilsOfThePiratePact",
     "title": "Perils of the Pirate Pact",
     "url": "https://pathfinderwiki.com/wiki/Perils_of_the_Pirate_Pact"
   },
@@ -2805,6 +2921,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 5,
+    "slug": "portGodless",
     "title": "Port Godless",
     "url": "https://pathfinderwiki.com/wiki/Port_Godless"
   },
@@ -2822,6 +2939,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 26,
     "seasonIndex": 3,
+    "slug": "portalOfTheSacredRune",
     "title": "Portal of the Sacred Rune",
     "url": "https://pathfinderwiki.com/wiki/Portal_of_the_Sacred_Rune"
   },
@@ -2852,6 +2970,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 8,
+    "slug": "portentsPeril",
     "title": "Portent's Peril",
     "url": "https://pathfinderwiki.com/wiki/Portent%27s_Peril"
   },
@@ -2890,6 +3009,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 4,
+    "slug": "raceForTheRunecarvedKey",
     "title": "Race for the Runecarved Key",
     "url": "https://pathfinderwiki.com/wiki/Race_for_the_Runecarved_Key"
   },
@@ -2918,6 +3038,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 5,
+    "slug": "raceToSeekersFolly",
     "title": "Race to Seeker's Folly",
     "url": "https://pathfinderwiki.com/wiki/Race_to_Seeker%27s_Folly"
   },
@@ -2942,6 +3063,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 24,
     "seasonIndex": 8,
+    "slug": "raidOnTheCloudborneKeep",
     "title": "Raid on the Cloudborne Keep",
     "url": "https://pathfinderwiki.com/wiki/Raid_on_the_Cloudborne_Keep"
   },
@@ -2959,6 +3081,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 8,
+    "slug": "reapingWhatWeSow",
     "title": "Reaping What We Sow",
     "url": "https://pathfinderwiki.com/wiki/Reaping_What_We_Sow"
   },
@@ -2976,6 +3099,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 10,
+    "slug": "reaversRoar",
     "title": "Reaver's Roar",
     "url": "https://pathfinderwiki.com/wiki/Reaver%27s_Roar"
   },
@@ -2993,6 +3117,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 3,
+    "slug": "redHarvest",
     "title": "Red Harvest",
     "url": "https://pathfinderwiki.com/wiki/Red_Harvest"
   },
@@ -3020,6 +3145,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 2,
+    "slug": "redRevolutionScenario",
     "title": "Red Revolution (scenario)",
     "url": "https://pathfinderwiki.com/wiki/Red_Revolution_(scenario)"
   },
@@ -3045,6 +3171,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 8,
+    "slug": "refugeesOfTheWearySky",
     "title": "Refugees of the Weary Sky",
     "url": "https://pathfinderwiki.com/wiki/Refugees_of_the_Weary_Sky"
   },
@@ -3077,6 +3204,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 46,
     "seasonIndex": 1,
+    "slug": "requiemForTheRedRaven",
     "title": "Requiem for the Red Raven",
     "url": "https://pathfinderwiki.com/wiki/Requiem_for_the_Red_Raven"
   },
@@ -3102,6 +3230,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 2,
+    "slug": "rescueAtAzlantRidge",
     "title": "Rescue at Azlant Ridge",
     "url": "https://pathfinderwiki.com/wiki/Rescue_at_Azlant_Ridge"
   },
@@ -3126,6 +3255,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 6,
+    "slug": "returnedToSky",
     "title": "Returned to Sky",
     "url": "https://pathfinderwiki.com/wiki/Returned_to_Sky"
   },
@@ -3143,6 +3273,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 8,
     "seasonIndex": 1,
+    "slug": "revolutionOnTheRiverside",
     "title": "Revolution on the Riverside",
     "url": "https://pathfinderwiki.com/wiki/Revolution_on_the_Riverside"
   },
@@ -3164,6 +3295,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 4,
+    "slug": "riseOfTheGoblinGuild",
     "title": "Rise of the Goblin Guild",
     "url": "https://pathfinderwiki.com/wiki/Rise_of_the_Goblin_Guild"
   },
@@ -3187,6 +3319,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 4,
+    "slug": "rivalrysEnd",
     "title": "Rivalry's End",
     "url": "https://pathfinderwiki.com/wiki/Rivalry%27s_End"
   },
@@ -3204,6 +3337,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 4,
+    "slug": "ruinsOfBonekeepLevel1TheSilentGrave",
     "title": "Ruins of Bonekeep Level 1: The Silent Grave",
     "url": "https://pathfinderwiki.com/wiki/Ruins_of_Bonekeep_Level_1:_The_Silent_Grave"
   },
@@ -3225,6 +3359,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 5,
+    "slug": "ruinsOfBonekeepLevel2MazeOfTheMindSlave",
     "title": "Ruins of Bonekeep Level 2: Maze of the Mind Slave",
     "url": "https://pathfinderwiki.com/wiki/Ruins_of_Bonekeep_Level_2:_Maze_of_the_Mind_Slave"
   },
@@ -3242,6 +3377,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 5,
+    "slug": "ruinsOfBonekeepLevel3TheWakeningTomb",
     "title": "Ruins of Bonekeep Level 3: The Wakening Tomb",
     "url": "https://pathfinderwiki.com/wiki/Ruins_of_Bonekeep_Level_3:_The_Wakening_Tomb"
   },
@@ -3273,6 +3409,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 9,
+    "slug": "salvationOfTheSages",
     "title": "Salvation of the Sages",
     "url": "https://pathfinderwiki.com/wiki/Salvation_of_the_Sages"
   },
@@ -3302,6 +3439,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 5,
+    "slug": "sanctumOfTheSagesScenario",
     "title": "Sanctum of the Sages (scenario)",
     "url": "https://pathfinderwiki.com/wiki/Sanctum_of_the_Sages_(scenario)"
   },
@@ -3327,6 +3465,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 5,
+    "slug": "scarsOfTheThirdCrusade",
     "title": "Scars of the Third Crusade",
     "url": "https://pathfinderwiki.com/wiki/Scars_of_the_Third_Crusade"
   },
@@ -3358,6 +3497,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 7,
+    "slug": "schoolOfSpirits",
     "title": "School of Spirits",
     "url": "https://pathfinderwiki.com/wiki/School_of_Spirits"
   },
@@ -3375,6 +3515,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "scourgeOfTheFarheavens",
     "title": "Scourge of the Farheavens",
     "url": "https://pathfinderwiki.com/wiki/Scourge_of_the_Farheavens"
   },
@@ -3410,6 +3551,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 8,
+    "slug": "secretsOfTheEndlessSky",
     "title": "Secrets of the Endless Sky",
     "url": "https://pathfinderwiki.com/wiki/Secrets_of_the_Endless_Sky"
   },
@@ -3455,6 +3597,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 29,
     "seasonIndex": 7,
+    "slug": "serpentsFall",
     "title": "Serpents Fall",
     "url": "https://pathfinderwiki.com/wiki/Serpents_Fall"
   },
@@ -3489,6 +3632,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 98,
     "seasonIndex": 7,
+    "slug": "serpentsIre",
     "title": "Serpents' Ire",
     "url": "https://pathfinderwiki.com/wiki/Serpents%27_Ire"
   },
@@ -3529,6 +3673,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 98,
     "seasonIndex": 6,
+    "slug": "serpentsRise",
     "title": "Serpent's Rise",
     "url": "https://pathfinderwiki.com/wiki/Serpent%27s_Rise"
   },
@@ -3551,6 +3696,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 4,
+    "slug": "severingTies",
     "title": "Severing Ties",
     "url": "https://pathfinderwiki.com/wiki/Severing_Ties"
   },
@@ -3568,6 +3714,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 3,
+    "slug": "sewerDragonsOfAbsalom",
     "title": "Sewer Dragons of Absalom",
     "url": "https://pathfinderwiki.com/wiki/Sewer_Dragons_of_Absalom"
   },
@@ -3590,6 +3737,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 2,
+    "slug": "shadowsFallOnAbsalom",
     "title": "Shadows Fall on Absalom",
     "url": "https://pathfinderwiki.com/wiki/Shadows_Fall_on_Absalom"
   },
@@ -3614,6 +3762,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 29,
     "seasonIndex": 1,
+    "slug": "shipyardRats",
     "title": "Shipyard Rats",
     "url": "https://pathfinderwiki.com/wiki/Shipyard_Rats"
   },
@@ -3631,6 +3780,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "shrineOfTheSacredTempest",
     "title": "Shrine of the Sacred Tempest",
     "url": "https://pathfinderwiki.com/wiki/Shrine_of_the_Sacred_Tempest"
   },
@@ -3648,6 +3798,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 98,
     "seasonIndex": 10,
+    "slug": "siegeOfGallowspire",
     "title": "Siege of Gallowspire",
     "url": "https://pathfinderwiki.com/wiki/Siege_of_Gallowspire"
   },
@@ -3677,6 +3828,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 97,
     "seasonIndex": 6,
+    "slug": "siegeOfSerpents",
     "title": "Siege of Serpents",
     "url": "https://pathfinderwiki.com/wiki/Siege_of_Serpents"
   },
@@ -3706,6 +3858,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 5,
+    "slug": "siegeOfTheDiamondCity",
     "title": "Siege of the Diamond City",
     "url": "https://pathfinderwiki.com/wiki/Siege_of_the_Diamond_City"
   },
@@ -3730,6 +3883,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "signsInSenghor",
     "title": "Signs in Senghor",
     "url": "https://pathfinderwiki.com/wiki/Signs_in_Senghor"
   },
@@ -3755,6 +3909,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 0,
+    "slug": "silentTideScenario",
     "title": "Silent Tide (scenario)",
     "url": "https://pathfinderwiki.com/wiki/Silent_Tide_(scenario)"
   },
@@ -3782,6 +3937,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 7,
+    "slug": "sixSecondsToMidnight",
     "title": "Six Seconds to Midnight",
     "url": "https://pathfinderwiki.com/wiki/Six_Seconds_to_Midnight"
   },
@@ -3799,6 +3955,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 0,
+    "slug": "skeletonMoon",
     "title": "Skeleton Moon",
     "url": "https://pathfinderwiki.com/wiki/Skeleton_Moon"
   },
@@ -3822,6 +3979,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 0,
+    "slug": "slavePitsOfAbsalom",
     "title": "Slave Pits of Absalom",
     "url": "https://pathfinderwiki.com/wiki/Slave_Pits_of_Absalom"
   },
@@ -3849,6 +4007,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 6,
+    "slug": "slaveShipsOfAbsalom",
     "title": "Slave Ships of Absalom",
     "url": "https://pathfinderwiki.com/wiki/Slave_Ships_of_Absalom"
   },
@@ -3866,6 +4025,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 10,
+    "slug": "slaversEnd",
     "title": "Slaver's End",
     "url": "https://pathfinderwiki.com/wiki/Slaver%27s_End"
   },
@@ -3888,6 +4048,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 3,
+    "slug": "snakesInTheFold",
     "title": "Snakes in the Fold",
     "url": "https://pathfinderwiki.com/wiki/Snakes_in_the_Fold"
   },
@@ -3905,6 +4066,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 31,
     "seasonIndex": 1,
+    "slug": "sniperInTheDeep",
     "title": "Sniper in the Deep",
     "url": "https://pathfinderwiki.com/wiki/Sniper_in_the_Deep"
   },
@@ -3928,6 +4090,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 3,
+    "slug": "songOfTheSeaWitch",
     "title": "Song of the Sea Witch",
     "url": "https://pathfinderwiki.com/wiki/Song_of_the_Sea_Witch"
   },
@@ -3945,6 +4108,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 9,
     "seasonIndex": 1,
+    "slug": "starCrossedVoyages",
     "title": "Star-Crossed Voyages",
     "url": "https://pathfinderwiki.com/wiki/Star-Crossed_Voyages"
   },
@@ -3962,6 +4126,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 0,
+    "slug": "stayOfExecution",
     "title": "Stay of Execution",
     "url": "https://pathfinderwiki.com/wiki/Stay_of_Execution"
   },
@@ -3987,6 +4152,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 25,
     "seasonIndex": 3,
+    "slug": "stormingTheDiamondGate",
     "title": "Storming the Diamond Gate",
     "url": "https://pathfinderwiki.com/wiki/Storming_the_Diamond_Gate"
   },
@@ -4013,6 +4179,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 21,
     "seasonIndex": 6,
+    "slug": "tapestrysToil",
     "title": "Tapestry's Toil",
     "url": "https://pathfinderwiki.com/wiki/Tapestry%27s_Toil"
   },
@@ -4030,6 +4197,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 10,
+    "slug": "tapestrysTrial",
     "title": "Tapestry's Trial",
     "url": "https://pathfinderwiki.com/wiki/Tapestry%27s_Trial"
   },
@@ -4047,6 +4215,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 10,
     "seasonIndex": 1,
+    "slug": "tarnbreakersTrail",
     "title": "Tarnbreaker's Trail",
     "url": "https://pathfinderwiki.com/wiki/Tarnbreaker%27s_Trail"
   },
@@ -4074,6 +4243,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 44,
     "seasonIndex": 1,
+    "slug": "terrorAtWhistledown",
     "title": "Terror at Whistledown",
     "url": "https://pathfinderwiki.com/wiki/Terror_at_Whistledown"
   },
@@ -4099,6 +4269,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 6,
+    "slug": "testOfTarKuata",
     "title": "Test of Tar Kuata",
     "url": "https://pathfinderwiki.com/wiki/Test_of_Tar_Kuata"
   },
@@ -4116,6 +4287,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 10,
+    "slug": "testamentOfSouls",
     "title": "Testament of Souls",
     "url": "https://pathfinderwiki.com/wiki/Testament_of_Souls"
   },
@@ -4133,6 +4305,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 1,
     "seasonIndex": 1,
+    "slug": "theAbsalomInitiation",
     "title": "The Absalom Initiation",
     "url": "https://pathfinderwiki.com/wiki/The_Absalom_Initiation"
   },
@@ -4150,6 +4323,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 0,
+    "slug": "theAsmodeusMirage",
     "title": "The Asmodeus Mirage",
     "url": "https://pathfinderwiki.com/wiki/The_Asmodeus_Mirage"
   },
@@ -4174,6 +4348,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 37,
     "seasonIndex": 1,
+    "slug": "theBeggarsPearl",
     "title": "The Beggar's Pearl",
     "url": "https://pathfinderwiki.com/wiki/The_Beggar%27s_Pearl"
   },
@@ -4203,6 +4378,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 7,
+    "slug": "theBlakrosConnection",
     "title": "The Blakros Connection",
     "url": "https://pathfinderwiki.com/wiki/The_Blakros_Connection"
   },
@@ -4239,6 +4415,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 4,
+    "slug": "theBlakrosMatrimony",
     "title": "The Blakros Matrimony",
     "url": "https://pathfinderwiki.com/wiki/The_Blakros_Matrimony"
   },
@@ -4265,6 +4442,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "theBloodcoveBlockade",
     "title": "The Bloodcove Blockade",
     "url": "https://pathfinderwiki.com/wiki/The_Bloodcove_Blockade"
   },
@@ -4292,6 +4470,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 2,
+    "slug": "theBloodcoveDisguise",
     "title": "The Bloodcove Disguise",
     "url": "https://pathfinderwiki.com/wiki/The_Bloodcove_Disguise"
   },
@@ -4323,6 +4502,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 7,
+    "slug": "theBronzeHouseReprisal",
     "title": "The Bronze House Reprisal",
     "url": "https://pathfinderwiki.com/wiki/The_Bronze_House_Reprisal"
   },
@@ -4340,6 +4520,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 12,
     "seasonIndex": 1,
+    "slug": "theBurdenOfEnvy",
     "title": "The Burden of Envy",
     "url": "https://pathfinderwiki.com/wiki/The_Burden_of_Envy"
   },
@@ -4357,6 +4538,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 2,
+    "slug": "theChasmOfScreams",
     "title": "The Chasm of Screams",
     "url": "https://pathfinderwiki.com/wiki/The_Chasm_of_Screams"
   },
@@ -4383,6 +4565,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 8,
+    "slug": "theCinderswornPact",
     "title": "The Cindersworn Pact",
     "url": "https://pathfinderwiki.com/wiki/The_Cindersworn_Pact"
   },
@@ -4400,6 +4583,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 39,
     "seasonIndex": 1,
+    "slug": "theCitadelOfFlame",
     "title": "The Citadel of Flame",
     "url": "https://pathfinderwiki.com/wiki/The_Citadel_of_Flame"
   },
@@ -4428,6 +4612,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 5,
+    "slug": "theConfirmation",
     "title": "The Confirmation",
     "url": "https://pathfinderwiki.com/wiki/The_Confirmation"
   },
@@ -4451,6 +4636,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 7,
+    "slug": "theConsortiumCompact",
     "title": "The Consortium Compact",
     "url": "https://pathfinderwiki.com/wiki/The_Consortium_Compact"
   },
@@ -4468,6 +4654,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 8,
+    "slug": "theCosmicCaptive",
     "title": "The Cosmic Captive",
     "url": "https://pathfinderwiki.com/wiki/The_Cosmic_Captive"
   },
@@ -4490,6 +4677,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 9,
+    "slug": "theCostOfEnlightenment",
     "title": "The Cost of Enlightenment",
     "url": "https://pathfinderwiki.com/wiki/The_Cost_of_Enlightenment"
   },
@@ -4513,6 +4701,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 4,
+    "slug": "theCultistsKiss",
     "title": "The Cultist's Kiss",
     "url": "https://pathfinderwiki.com/wiki/The_Cultist%27s_Kiss"
   },
@@ -4538,6 +4727,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 4,
+    "slug": "theCyphermageDilemma",
     "title": "The Cyphermage Dilemma",
     "url": "https://pathfinderwiki.com/wiki/The_Cyphermage_Dilemma"
   },
@@ -4563,6 +4753,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 21,
     "seasonIndex": 2,
+    "slug": "theDalsineAffair",
     "title": "The Dalsine Affair",
     "url": "https://pathfinderwiki.com/wiki/The_Dalsine_Affair"
   },
@@ -4593,6 +4784,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 6,
+    "slug": "theDarkestAbduction",
     "title": "The Darkest Abduction",
     "url": "https://pathfinderwiki.com/wiki/The_Darkest_Abduction"
   },
@@ -4614,6 +4806,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 47,
     "seasonIndex": 1,
+    "slug": "theDarkestVengeance",
     "title": "The Darkest Vengeance",
     "url": "https://pathfinderwiki.com/wiki/The_Darkest_Vengeance"
   },
@@ -4631,6 +4824,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 10,
+    "slug": "theDaughtersDue",
     "title": "The Daughters' Due",
     "url": "https://pathfinderwiki.com/wiki/The_Daughters%27_Due"
   },
@@ -4662,6 +4856,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 7,
+    "slug": "theDeepmarketDeception",
     "title": "The Deepmarket Deception",
     "url": "https://pathfinderwiki.com/wiki/The_Deepmarket_Deception"
   },
@@ -4685,6 +4880,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 4,
+    "slug": "theDisappeared",
     "title": "The Disappeared",
     "url": "https://pathfinderwiki.com/wiki/The_Disappeared"
   },
@@ -4709,6 +4905,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 3,
+    "slug": "theDogPharaohsTomb",
     "title": "The Dog Pharaoh's Tomb",
     "url": "https://pathfinderwiki.com/wiki/The_Dog_Pharaoh%27s_Tomb"
   },
@@ -4732,6 +4929,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 3,
+    "slug": "theEdgeOfHeaven",
     "title": "The Edge of Heaven",
     "url": "https://pathfinderwiki.com/wiki/The_Edge_of_Heaven"
   },
@@ -4749,6 +4947,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 5,
+    "slug": "theElvenEntanglement",
     "title": "The Elven Entanglement",
     "url": "https://pathfinderwiki.com/wiki/The_Elven_Entanglement"
   },
@@ -4766,6 +4965,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 21,
     "seasonIndex": 0,
+    "slug": "theEternalObelisk",
     "title": "The Eternal Obelisk",
     "url": "https://pathfinderwiki.com/wiki/The_Eternal_Obelisk"
   },
@@ -4792,6 +4992,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 4,
+    "slug": "theFabricOfReality",
     "title": "The Fabric of Reality",
     "url": "https://pathfinderwiki.com/wiki/The_Fabric_of_Reality"
   },
@@ -4818,6 +5019,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 53,
     "seasonIndex": 1,
+    "slug": "theFaithlessDead",
     "title": "The Faithless Dead",
     "url": "https://pathfinderwiki.com/wiki/The_Faithless_Dead"
   },
@@ -4835,6 +5037,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 2,
+    "slug": "theFirstHeresy",
     "title": "The First Heresy",
     "url": "https://pathfinderwiki.com/wiki/The_First_Heresy"
   },
@@ -4852,6 +5055,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 2,
+    "slug": "theFleshCollector",
     "title": "The Flesh Collector",
     "url": "https://pathfinderwiki.com/wiki/The_Flesh_Collector"
   },
@@ -4874,6 +5078,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 2,
+    "slug": "theForbiddenFurnaceOfForgottenKoor",
     "title": "The Forbidden Furnace of Forgotten Koor",
     "url": "https://pathfinderwiki.com/wiki/The_Forbidden_Furnace_of_Forgotten_Koor"
   },
@@ -4899,6 +5104,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 3,
+    "slug": "theFrostfurCaptives",
     "title": "The Frostfur Captives",
     "url": "https://pathfinderwiki.com/wiki/The_Frostfur_Captives"
   },
@@ -4923,6 +5129,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 0,
+    "slug": "theFrozenFingersOfMidnight",
     "title": "The Frozen Fingers of Midnight",
     "url": "https://pathfinderwiki.com/wiki/The_Frozen_Fingers_of_Midnight"
   },
@@ -4946,6 +5153,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 3,
+    "slug": "theGhenettManorGauntlet",
     "title": "The Ghenett Manor Gauntlet",
     "url": "https://pathfinderwiki.com/wiki/The_Ghenett_Manor_Gauntlet"
   },
@@ -4974,6 +5182,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 9,
+    "slug": "theGholGanHeresy",
     "title": "The Ghol-Gan Heresy",
     "url": "https://pathfinderwiki.com/wiki/The_Ghol-Gan_Heresy"
   },
@@ -4999,6 +5208,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 5,
+    "slug": "theGlassRiverRescue",
     "title": "The Glass River Rescue",
     "url": "https://pathfinderwiki.com/wiki/The_Glass_River_Rescue"
   },
@@ -5026,6 +5236,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 3,
+    "slug": "theGoblinbloodDead",
     "title": "The Goblinblood Dead",
     "url": "https://pathfinderwiki.com/wiki/The_Goblinblood_Dead"
   },
@@ -5049,6 +5260,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 3,
+    "slug": "theGodsMarketGamble",
     "title": "The God's Market Gamble",
     "url": "https://pathfinderwiki.com/wiki/The_God%27s_Market_Gamble"
   },
@@ -5077,6 +5289,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 6,
+    "slug": "theGoldenGuardian",
     "title": "The Golden Guardian",
     "url": "https://pathfinderwiki.com/wiki/The_Golden_Guardian"
   },
@@ -5100,6 +5313,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 24,
     "seasonIndex": 3,
+    "slug": "theGoldenSerpent",
     "title": "The Golden Serpent",
     "url": "https://pathfinderwiki.com/wiki/The_Golden_Serpent"
   },
@@ -5127,6 +5341,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 4,
+    "slug": "theGolemworksIncident",
     "title": "The Golemworks Incident",
     "url": "https://pathfinderwiki.com/wiki/The_Golemworks_Incident"
   },
@@ -5155,6 +5370,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 4,
+    "slug": "theGreenMarket",
     "title": "The Green Market",
     "url": "https://pathfinderwiki.com/wiki/The_Green_Market"
   },
@@ -5172,6 +5388,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 10,
+    "slug": "theHaoJinCataclysm",
     "title": "The Hao Jin Cataclysm",
     "url": "https://pathfinderwiki.com/wiki/The_Hao_Jin_Cataclysm"
   },
@@ -5189,6 +5406,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 10,
+    "slug": "theHaoJinHierophant",
     "title": "The Hao Jin Hierophant",
     "url": "https://pathfinderwiki.com/wiki/The_Hao_Jin_Hierophant"
   },
@@ -5212,6 +5430,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 3,
+    "slug": "theHauntingOfHinojai",
     "title": "The Haunting of Hinojai",
     "url": "https://pathfinderwiki.com/wiki/The_Haunting_of_Hinojai"
   },
@@ -5250,6 +5469,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 5,
+    "slug": "theHellknightsFeast",
     "title": "The Hellknight's Feast",
     "url": "https://pathfinderwiki.com/wiki/The_Hellknight%27s_Feast"
   },
@@ -5275,6 +5495,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 5,
+    "slug": "theHornOfAroden",
     "title": "The Horn of Aroden",
     "url": "https://pathfinderwiki.com/wiki/The_Horn_of_Aroden"
   },
@@ -5292,6 +5513,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 10,
+    "slug": "theHowlingDance",
     "title": "The Howling Dance",
     "url": "https://pathfinderwiki.com/wiki/The_Howling_Dance"
   },
@@ -5309,6 +5531,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 0,
+    "slug": "theHydrasFangIncident",
     "title": "The Hydra's Fang Incident",
     "url": "https://pathfinderwiki.com/wiki/The_Hydra%27s_Fang_Incident"
   },
@@ -5333,6 +5556,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 3,
+    "slug": "theIceboundOutpost",
     "title": "The Icebound Outpost",
     "url": "https://pathfinderwiki.com/wiki/The_Icebound_Outpost"
   },
@@ -5360,6 +5584,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 3,
+    "slug": "theImmortalConundrum",
     "title": "The Immortal Conundrum",
     "url": "https://pathfinderwiki.com/wiki/The_Immortal_Conundrum"
   },
@@ -5392,6 +5617,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 7,
+    "slug": "theInfernalInheritance",
     "title": "The Infernal Inheritance",
     "url": "https://pathfinderwiki.com/wiki/The_Infernal_Inheritance"
   },
@@ -5414,6 +5640,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 55,
     "seasonIndex": 1,
+    "slug": "theInfernalVault",
     "title": "The Infernal Vault",
     "url": "https://pathfinderwiki.com/wiki/The_Infernal_Vault"
   },
@@ -5445,6 +5672,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 7,
+    "slug": "theIronboundSchism",
     "title": "The Ironbound Schism",
     "url": "https://pathfinderwiki.com/wiki/The_Ironbound_Schism"
   },
@@ -5467,6 +5695,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "theJarlsbloodWitchSaga",
     "title": "The Jarlsblood Witch Saga",
     "url": "https://pathfinderwiki.com/wiki/The_Jarlsblood_Witch_Saga"
   },
@@ -5484,6 +5713,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 56,
     "seasonIndex": 1,
+    "slug": "theJestersFraud",
     "title": "The Jester's Fraud",
     "url": "https://pathfinderwiki.com/wiki/The_Jester%27s_Fraud"
   },
@@ -5507,6 +5737,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 3,
+    "slug": "theKortosEnvoy",
     "title": "The Kortos Envoy",
     "url": "https://pathfinderwiki.com/wiki/The_Kortos_Envoy"
   },
@@ -5532,6 +5763,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 7,
+    "slug": "theLabyrinthOfHungryGhosts",
     "title": "The Labyrinth of Hungry Ghosts",
     "url": "https://pathfinderwiki.com/wiki/The_Labyrinth_of_Hungry_Ghosts"
   },
@@ -5562,6 +5794,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 9,
+    "slug": "theLionsJustice",
     "title": "The Lion's Justice",
     "url": "https://pathfinderwiki.com/wiki/The_Lion%27s_Justice"
   },
@@ -5587,6 +5820,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 7,
+    "slug": "theLostLegacy",
     "title": "The Lost Legacy",
     "url": "https://pathfinderwiki.com/wiki/The_Lost_Legacy"
   },
@@ -5610,6 +5844,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 26,
     "seasonIndex": 2,
+    "slug": "theMantissPrey",
     "title": "The Mantis's Prey",
     "url": "https://pathfinderwiki.com/wiki/The_Mantis%27s_Prey"
   },
@@ -5627,6 +5862,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 0,
+    "slug": "theManyFortunesOfGrandmasterTorch",
     "title": "The Many Fortunes of Grandmaster Torch",
     "url": "https://pathfinderwiki.com/wiki/The_Many_Fortunes_of_Grandmaster_Torch"
   },
@@ -5656,6 +5892,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 54,
     "seasonIndex": 1,
+    "slug": "theMazeOfTheOpenRoad",
     "title": "The Maze of the Open Road",
     "url": "https://pathfinderwiki.com/wiki/The_Maze_of_the_Open_Road"
   },
@@ -5680,6 +5917,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 21,
     "seasonIndex": 5,
+    "slug": "theMerchantsWake",
     "title": "The Merchant's Wake",
     "url": "https://pathfinderwiki.com/wiki/The_Merchant%27s_Wake"
   },
@@ -5697,6 +5935,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 3,
+    "slug": "theMidnightMauler",
     "title": "The Midnight Mauler",
     "url": "https://pathfinderwiki.com/wiki/The_Midnight_Mauler"
   },
@@ -5714,6 +5953,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 2,
     "seasonIndex": 1,
+    "slug": "theMosquitoWitch",
     "title": "The Mosquito Witch",
     "url": "https://pathfinderwiki.com/wiki/The_Mosquito_Witch"
   },
@@ -5737,6 +5977,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 4,
+    "slug": "theNightMarchOfKalkamedes",
     "title": "The Night March of Kalkamedes",
     "url": "https://pathfinderwiki.com/wiki/The_Night_March_of_Kalkamedes"
   },
@@ -5759,6 +6000,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 6,
+    "slug": "theOverflowArchives",
     "title": "The Overflow Archives",
     "url": "https://pathfinderwiki.com/wiki/The_Overflow_Archives"
   },
@@ -5783,6 +6025,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 43,
     "seasonIndex": 1,
+    "slug": "thePallidPlague",
     "title": "The Pallid Plague",
     "url": "https://pathfinderwiki.com/wiki/The_Pallid_Plague"
   },
@@ -5831,6 +6074,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 99,
     "seasonIndex": 6,
+    "slug": "thePathsWeChoose",
     "title": "The Paths We Choose",
     "url": "https://pathfinderwiki.com/wiki/The_Paths_We_Choose"
   },
@@ -5857,6 +6101,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 2,
+    "slug": "thePenumbralAccords",
     "title": "The Penumbral Accords",
     "url": "https://pathfinderwiki.com/wiki/The_Penumbral_Accords"
   },
@@ -5882,6 +6127,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 24,
     "seasonIndex": 4,
+    "slug": "thePriceOfFriendship",
     "title": "The Price of Friendship",
     "url": "https://pathfinderwiki.com/wiki/The_Price_of_Friendship"
   },
@@ -5902,6 +6148,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 0,
+    "slug": "thePrinceOfAugustana",
     "title": "The Prince of Augustana",
     "url": "https://pathfinderwiki.com/wiki/The_Prince_of_Augustana"
   },
@@ -5928,6 +6175,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 36,
     "seasonIndex": 1,
+    "slug": "thePrisonerOfSkullHill",
     "title": "The Prisoner of Skull Hill",
     "url": "https://pathfinderwiki.com/wiki/The_Prisoner_of_Skull_Hill"
   },
@@ -5945,6 +6193,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 10,
+    "slug": "theRaspingRebirth",
     "title": "The Rasping Rebirth",
     "url": "https://pathfinderwiki.com/wiki/The_Rasping_Rebirth"
   },
@@ -5962,6 +6211,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 2,
+    "slug": "theRebelsRansom",
     "title": "The Rebel's Ransom",
     "url": "https://pathfinderwiki.com/wiki/The_Rebel%27s_Ransom"
   },
@@ -5985,6 +6235,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 4,
+    "slug": "theRefugeOfTime",
     "title": "The Refuge of Time",
     "url": "https://pathfinderwiki.com/wiki/The_Refuge_of_Time"
   },
@@ -6011,6 +6262,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 48,
     "seasonIndex": 1,
+    "slug": "theRulesOfTheSwift",
     "title": "The Rules of the Swift",
     "url": "https://pathfinderwiki.com/wiki/The_Rules_of_the_Swift"
   },
@@ -6036,6 +6288,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 8,
+    "slug": "theSandstormProphecy",
     "title": "The Sandstorm Prophecy",
     "url": "https://pathfinderwiki.com/wiki/The_Sandstorm_Prophecy"
   },
@@ -6053,6 +6306,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 4,
+    "slug": "theSanosAbduction",
     "title": "The Sanos Abduction",
     "url": "https://pathfinderwiki.com/wiki/The_Sanos_Abduction"
   },
@@ -6077,6 +6331,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 2,
+    "slug": "theSarkorianProphecy",
     "title": "The Sarkorian Prophecy",
     "url": "https://pathfinderwiki.com/wiki/The_Sarkorian_Prophecy"
   },
@@ -6101,6 +6356,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 5,
+    "slug": "theSealedGate",
     "title": "The Sealed Gate",
     "url": "https://pathfinderwiki.com/wiki/The_Sealed_Gate"
   },
@@ -6130,6 +6386,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 25,
     "seasonIndex": 4,
+    "slug": "theSecretsStonesKeep",
     "title": "The Secrets Stones Keep",
     "url": "https://pathfinderwiki.com/wiki/The_Secrets_Stones_Keep"
   },
@@ -6151,6 +6408,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 6,
+    "slug": "theSegangExpedition",
     "title": "The Segang Expedition",
     "url": "https://pathfinderwiki.com/wiki/The_Segang_Expedition"
   },
@@ -6180,6 +6438,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 51,
     "seasonIndex": 1,
+    "slug": "theShadowGambit",
     "title": "The Shadow Gambit",
     "url": "https://pathfinderwiki.com/wiki/The_Shadow_Gambit"
   },
@@ -6197,6 +6456,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 10,
+    "slug": "theShatteredShield",
     "title": "The Shattered Shield",
     "url": "https://pathfinderwiki.com/wiki/The_Shattered_Shield"
   },
@@ -6224,6 +6484,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 9,
+    "slug": "theShoresOfHeaven",
     "title": "The Shores of Heaven",
     "url": "https://pathfinderwiki.com/wiki/The_Shores_of_Heaven"
   },
@@ -6246,6 +6507,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 6,
+    "slug": "theSilverMountCollection",
     "title": "The Silver Mount Collection",
     "url": "https://pathfinderwiki.com/wiki/The_Silver_Mount_Collection"
   },
@@ -6270,6 +6532,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 7,
+    "slug": "theSkyKeySolution",
     "title": "The Sky Key Solution",
     "url": "https://pathfinderwiki.com/wiki/The_Sky_Key_Solution"
   },
@@ -6299,6 +6562,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 6,
+    "slug": "theSlaveMastersMirror",
     "title": "The Slave Master's Mirror",
     "url": "https://pathfinderwiki.com/wiki/The_Slave_Master%27s_Mirror"
   },
@@ -6316,6 +6580,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 99,
     "seasonIndex": 8,
+    "slug": "theSolsticeScar",
     "title": "The Solstice Scar",
     "url": "https://pathfinderwiki.com/wiki/The_Solstice_Scar"
   },
@@ -6341,6 +6606,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 5,
+    "slug": "theStolenHeir",
     "title": "The Stolen Heir",
     "url": "https://pathfinderwiki.com/wiki/The_Stolen_Heir"
   },
@@ -6368,6 +6634,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 5,
+    "slug": "theStrangerWithin",
     "title": "The Stranger Within",
     "url": "https://pathfinderwiki.com/wiki/The_Stranger_Within"
   },
@@ -6395,6 +6662,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 21,
     "seasonIndex": 7,
+    "slug": "theSunOrchidScheme",
     "title": "The Sun Orchid Scheme",
     "url": "https://pathfinderwiki.com/wiki/The_Sun_Orchid_Scheme"
   },
@@ -6420,6 +6688,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 3,
+    "slug": "theSunderedPath",
     "title": "The Sundered Path",
     "url": "https://pathfinderwiki.com/wiki/The_Sundered_Path"
   },
@@ -6447,6 +6716,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 6,
+    "slug": "theTechnicSiege",
     "title": "The Technic Siege",
     "url": "https://pathfinderwiki.com/wiki/The_Technic_Siege"
   },
@@ -6464,6 +6734,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 21,
     "seasonIndex": 3,
+    "slug": "theTempleOfEmpyrealEnlightenment",
     "title": "The Temple of Empyreal Enlightenment",
     "url": "https://pathfinderwiki.com/wiki/The_Temple_of_Empyreal_Enlightenment"
   },
@@ -6486,6 +6757,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 11,
     "seasonIndex": 0,
+    "slug": "theThirdRiddle",
     "title": "The Third Riddle",
     "url": "https://pathfinderwiki.com/wiki/The_Third_Riddle"
   },
@@ -6512,6 +6784,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 9,
     "seasonIndex": 5,
+    "slug": "theTraitorsLodge",
     "title": "The Traitor's Lodge",
     "url": "https://pathfinderwiki.com/wiki/The_Traitor%27s_Lodge"
   },
@@ -6529,6 +6802,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 0,
+    "slug": "theTroubleWithSecrets",
     "title": "The Trouble with Secrets",
     "url": "https://pathfinderwiki.com/wiki/The_Trouble_with_Secrets"
   },
@@ -6546,6 +6820,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 12,
     "seasonIndex": 7,
+    "slug": "theTwistedCircle",
     "title": "The Twisted Circle",
     "url": "https://pathfinderwiki.com/wiki/The_Twisted_Circle"
   },
@@ -6578,6 +6853,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 52,
     "seasonIndex": 1,
+    "slug": "theTwofoldDemise",
     "title": "The Twofold Demise",
     "url": "https://pathfinderwiki.com/wiki/The_Twofold_Demise"
   },
@@ -6607,6 +6883,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 9,
+    "slug": "theUnseenInclusion",
     "title": "The Unseen Inclusion",
     "url": "https://pathfinderwiki.com/wiki/The_Unseen_Inclusion"
   },
@@ -6631,6 +6908,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 18,
     "seasonIndex": 4,
+    "slug": "theVeteransVault",
     "title": "The Veteran's Vault",
     "url": "https://pathfinderwiki.com/wiki/The_Veteran%27s_Vault"
   },
@@ -6656,6 +6934,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 26,
     "seasonIndex": 4,
+    "slug": "theWakingRune",
     "title": "The Waking Rune",
     "url": "https://pathfinderwiki.com/wiki/The_Waking_Rune"
   },
@@ -6680,6 +6959,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 5,
+    "slug": "theWardstonePatrol",
     "title": "The Wardstone Patrol",
     "url": "https://pathfinderwiki.com/wiki/The_Wardstone_Patrol"
   },
@@ -6706,6 +6986,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 42,
     "seasonIndex": 1,
+    "slug": "theWatcherOfAges",
     "title": "The Watcher of Ages",
     "url": "https://pathfinderwiki.com/wiki/The_Watcher_of_Ages"
   },
@@ -6745,6 +7026,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 6,
+    "slug": "theWoundedWisp",
     "title": "The Wounded Wisp",
     "url": "https://pathfinderwiki.com/wiki/The_Wounded_Wisp"
   },
@@ -6769,6 +7051,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 7,
+    "slug": "thrallsOfTheShatteredGod",
     "title": "Thralls of the Shattered God",
     "url": "https://pathfinderwiki.com/wiki/Thralls_of_the_Shattered_God"
   },
@@ -6794,6 +7077,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 99,
     "seasonIndex": 7,
+    "slug": "throughMaelstromRift",
     "title": "Through Maelstrom Rift",
     "url": "https://pathfinderwiki.com/wiki/Through_Maelstrom_Rift"
   },
@@ -6811,6 +7095,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 0,
+    "slug": "tideOfMorning",
     "title": "Tide of Morning",
     "url": "https://pathfinderwiki.com/wiki/Tide_of_Morning"
   },
@@ -6834,6 +7119,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 3,
+    "slug": "tideOfTwilight",
     "title": "Tide of Twilight",
     "url": "https://pathfinderwiki.com/wiki/Tide_of_Twilight"
   },
@@ -6857,6 +7143,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 0,
     "seasonIndex": 3,
+    "slug": "toDelveTheDungeonDeep",
     "title": "To Delve the Dungeon Deep",
     "url": "https://pathfinderwiki.com/wiki/To_Delve_the_Dungeon_Deep"
   },
@@ -6874,6 +7161,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 0,
+    "slug": "toScaleTheDragon",
     "title": "To Scale the Dragon",
     "url": "https://pathfinderwiki.com/wiki/To_Scale_the_Dragon"
   },
@@ -6891,6 +7179,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 14,
     "seasonIndex": 8,
+    "slug": "toSealTheShadow",
     "title": "To Seal the Shadow",
     "url": "https://pathfinderwiki.com/wiki/To_Seal_the_Shadow"
   },
@@ -6916,6 +7205,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 8,
+    "slug": "torrentsLastWill",
     "title": "Torrent's Last Will",
     "url": "https://pathfinderwiki.com/wiki/Torrent%27s_Last_Will"
   },
@@ -6941,6 +7231,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 17,
     "seasonIndex": 4,
+    "slug": "towerOfTheIronwoodWatch",
     "title": "Tower of the Ironwood Watch",
     "url": "https://pathfinderwiki.com/wiki/Tower_of_the_Ironwood_Watch"
   },
@@ -6958,6 +7249,7 @@
     "ruleVersion": 2,
     "scenarioIndex": 5,
     "seasonIndex": 1,
+    "slug": "trailblazersBounty",
     "title": "Trailblazer's Bounty",
     "url": "https://pathfinderwiki.com/wiki/Trailblazer%27s_Bounty"
   },
@@ -6981,6 +7273,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 19,
     "seasonIndex": 8,
+    "slug": "treacherousWaves",
     "title": "Treacherous Waves",
     "url": "https://pathfinderwiki.com/wiki/Treacherous_Waves"
   },
@@ -6998,6 +7291,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 10,
+    "slug": "treasonsChains",
     "title": "Treason's Chains",
     "url": "https://pathfinderwiki.com/wiki/Treason%27s_Chains"
   },
@@ -7020,6 +7314,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 1,
     "seasonIndex": 6,
+    "slug": "trialByMachine",
     "title": "Trial by Machine",
     "url": "https://pathfinderwiki.com/wiki/Trial_by_Machine"
   },
@@ -7047,6 +7342,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 7,
+    "slug": "troubleInTamran",
     "title": "Trouble in Tamran",
     "url": "https://pathfinderwiki.com/wiki/Trouble_in_Tamran"
   },
@@ -7064,6 +7360,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 99,
     "seasonIndex": 6,
+    "slug": "trueDragonsOfAbsalom",
     "title": "True Dragons of Absalom",
     "url": "https://pathfinderwiki.com/wiki/True_Dragons_of_Absalom"
   },
@@ -7088,6 +7385,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 5,
     "seasonIndex": 8,
+    "slug": "ungroundedButUnbroken",
     "title": "Ungrounded but Unbroken",
     "url": "https://pathfinderwiki.com/wiki/Ungrounded_but_Unbroken"
   },
@@ -7116,6 +7414,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 25,
     "seasonIndex": 8,
+    "slug": "unleashingTheUntouchable",
     "title": "Unleashing the Untouchable",
     "url": "https://pathfinderwiki.com/wiki/Unleashing_the_Untouchable"
   },
@@ -7140,6 +7439,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 6,
+    "slug": "valleyOfVeiledFlame",
     "title": "Valley of Veiled Flame",
     "url": "https://pathfinderwiki.com/wiki/Valley_of_Veiled_Flame"
   },
@@ -7166,6 +7466,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 25,
     "seasonIndex": 5,
+    "slug": "vengeanceAtSunderedCrag",
     "title": "Vengeance at Sundered Crag",
     "url": "https://pathfinderwiki.com/wiki/Vengeance_at_Sundered_Crag"
   },
@@ -7192,6 +7493,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 35,
     "seasonIndex": 1,
+    "slug": "voiceInTheVoid",
     "title": "Voice in the Void",
     "url": "https://pathfinderwiki.com/wiki/Voice_in_the_Void"
   },
@@ -7220,6 +7522,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 2,
     "seasonIndex": 8,
+    "slug": "wardAsunder",
     "title": "Ward Asunder",
     "url": "https://pathfinderwiki.com/wiki/Ward_Asunder"
   },
@@ -7242,6 +7545,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 4,
     "seasonIndex": 8,
+    "slug": "wardensOfSulfurGulch",
     "title": "Wardens of Sulfur Gulch",
     "url": "https://pathfinderwiki.com/wiki/Wardens_of_Sulfur_Gulch"
   },
@@ -7267,6 +7571,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 21,
     "seasonIndex": 4,
+    "slug": "wayOfTheKirin",
     "title": "Way of the Kirin",
     "url": "https://pathfinderwiki.com/wiki/Way_of_the_Kirin"
   },
@@ -7290,6 +7595,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 5,
+    "slug": "weaponInTheRift",
     "title": "Weapon in the Rift",
     "url": "https://pathfinderwiki.com/wiki/Weapon_in_the_Rift"
   },
@@ -7317,6 +7623,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 24,
     "seasonIndex": 2,
+    "slug": "webOfCorruption",
     "title": "Web of Corruption",
     "url": "https://pathfinderwiki.com/wiki/Web_of_Corruption"
   },
@@ -7334,6 +7641,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 8,
     "seasonIndex": 10,
+    "slug": "whatPrestigeIsWorth",
     "title": "What Prestige is Worth",
     "url": "https://pathfinderwiki.com/wiki/What_Prestige_is_Worth"
   },
@@ -7362,6 +7670,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 13,
     "seasonIndex": 8,
+    "slug": "whatSleepsInStone",
     "title": "What Sleeps in Stone",
     "url": "https://pathfinderwiki.com/wiki/What_Sleeps_in_Stone"
   },
@@ -7392,6 +7701,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 16,
     "seasonIndex": 10,
+    "slug": "whatTheHelmsHide",
     "title": "What the Helms Hide",
     "url": "https://pathfinderwiki.com/wiki/What_the_Helms_Hide"
   },
@@ -7417,6 +7727,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 7,
     "seasonIndex": 2,
+    "slug": "whereDarkThingsSleep",
     "title": "Where Dark Things Sleep",
     "url": "https://pathfinderwiki.com/wiki/Where_Dark_Things_Sleep"
   },
@@ -7441,6 +7752,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 10,
     "seasonIndex": 5,
+    "slug": "whereMammothsDareNotTread",
     "title": "Where Mammoths Dare Not Tread",
     "url": "https://pathfinderwiki.com/wiki/Where_Mammoths_Dare_Not_Tread"
   },
@@ -7458,6 +7770,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 23,
     "seasonIndex": 10,
+    "slug": "whoSpeaksForTheTen",
     "title": "Who Speaks for the Ten",
     "url": "https://pathfinderwiki.com/wiki/Who_Speaks_for_the_Ten"
   },
@@ -7475,6 +7788,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 10,
+    "slug": "whoWearsTheMask",
     "title": "Who Wears the Mask",
     "url": "https://pathfinderwiki.com/wiki/Who_Wears_the_Mask"
   },
@@ -7498,6 +7812,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 4,
+    "slug": "wordsOfTheAncients",
     "title": "Words of the Ancients",
     "url": "https://pathfinderwiki.com/wiki/Words_of_the_Ancients"
   },
@@ -7521,6 +7836,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 20,
     "seasonIndex": 2,
+    "slug": "wrathOfTheAccursed",
     "title": "Wrath of the Accursed",
     "url": "https://pathfinderwiki.com/wiki/Wrath_of_the_Accursed"
   },
@@ -7544,6 +7860,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 22,
     "seasonIndex": 8,
+    "slug": "wrathOfTheFleshwarpedQueen",
     "title": "Wrath of the Fleshwarped Queen",
     "url": "https://pathfinderwiki.com/wiki/Wrath_of_the_Fleshwarped_Queen"
   },
@@ -7567,6 +7884,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 15,
     "seasonIndex": 2,
+    "slug": "writtenInBlood",
     "title": "Written in Blood",
     "url": "https://pathfinderwiki.com/wiki/Written_in_Blood"
   },
@@ -7590,6 +7908,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 6,
     "seasonIndex": 5,
+    "slug": "youHaveWhatYouHold",
     "title": "You Have What You Hold",
     "url": "https://pathfinderwiki.com/wiki/You_Have_What_You_Hold"
   },
@@ -7607,6 +7926,7 @@
     "ruleVersion": 1,
     "scenarioIndex": 25,
     "seasonIndex": 2,
+    "slug": "youOnlyDieTwice",
     "title": "You Only Die Twice",
     "url": "https://pathfinderwiki.com/wiki/You_Only_Die_Twice"
   }
