@@ -2342,6 +2342,24 @@
     "title": "Library of the Lion",
     "url": "https://pathfinderwiki.com/wiki/Library_of_the_Lion"
   },
+  "lionsOfKatapesh": {
+    "authors": ["Adam Meyers"],
+    "backcover": "Goblin patriarch, merchant, and Pathfinder Society ally Yigrig Moneymaker needs help! The cunning goblin merchant has big plans to build a bridge that will connect two promising trade partners, but something is stirring up the local wildlife and convincing the lions and other predators of the Katapeshi plains that goblins are more tasty than can possibly be true. The PCs must find out who's responsible for the trials Yigrig's family faces before the lions of Katapesh devour the entire goblin clan and end the chance for trade between two desert cities.",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0114E.jpg",
+    "levels": [1, 2, 3, 4],
+    "locations": ["Katapesh"],
+    "npcs": [],
+    "paizoUrl": "https://paizo.com/products/btq022x0",
+    "price": 4.99,
+    "pubcode": "PZOPFS0114E",
+    "rating": 5,
+    "ruleVersion": 2,
+    "scenarioIndex": 14,
+    "seasonIndex": 1,
+    "slug": "lionsOfKatapesh",
+    "title": "Lions of Katapesh",
+    "url": "https://pathfinderwiki.com/wiki/Lions_of_Katapesh"
+  },
   "lostAtBitterEnd": {
     "authors": ["Joshua J. Frost"],
     "backcover": "When a Pathfinder Society Priest of Nethys disappears in northern Geb while studying the Mana Wastes, the Society sends you to uncover his whereabouts and find his journals. Arriving in the town of Bitter End, you find it deserted but for a few mysterious creatures never before seen on Golarion. Those creatures quickly lead to more and soon you're embroiled in a mystery that could affect the very fabric of reality. Will you solve the mystery of Bitter End or find yourself lost forever in the Mana Wastes?",
@@ -4104,7 +4122,7 @@
     "paizoUrl": "https://paizo.com/products/btq021x5",
     "price": 4.99,
     "pubcode": "PZOPFS0109E",
-    "rating": 3.3,
+    "rating": 3.4,
     "ruleVersion": 2,
     "scenarioIndex": 9,
     "seasonIndex": 1,
@@ -4473,6 +4491,24 @@
     "slug": "theBloodcoveDisguise",
     "title": "The Bloodcove Disguise",
     "url": "https://pathfinderwiki.com/wiki/The_Bloodcove_Disguise"
+  },
+  "theBloomingCatastrophe": {
+    "authors": ["Mikhail Rekun"],
+    "backcover": "The Pathfinders travel to Iobaria, where elven druids and centaur warriors are united against an unlikely threat: a self-propogating horde of corrupted leshys! The source of the Abyssal corruption may be tied to a previous trip to Iobaria by the Pathfinder Society, so it falls to the PCs to seek out the source of the leshy incursion and restore balance to the woodlands.",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0115E.jpg",
+    "levels": [1, 2, 3, 4],
+    "locations": ["Iobaria"],
+    "npcs": [],
+    "paizoUrl": "https://paizo.com/products/btq022x2",
+    "price": 4.99,
+    "pubcode": "PZOPFS0115E",
+    "rating": null,
+    "ruleVersion": 2,
+    "scenarioIndex": 15,
+    "seasonIndex": 1,
+    "slug": "theBloomingCatastrophe",
+    "title": "The Blooming Catastrophe",
+    "url": "https://pathfinderwiki.com/wiki/The_Blooming_Catastrophe"
   },
   "theBronzeHouseReprisal": {
     "authors": ["Matt Duval"],
