@@ -10,7 +10,7 @@
     "firost": "1.5.0",
     "golgoth": "1.2.0",
     "he": "1.2.0",
-    "jsdom": "16.2.1",
+    "jsdom": "16.2.2",
     "netlify-lambda": "1.6.3",
     "wtf_wikipedia": "7.8.1"
   },
