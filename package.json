@@ -2,7 +2,7 @@
   "author": "Pixelastic <tim@pixelastic.com>",
   "description": "All Pathfinder Society Scenarios metadata as an npm module",
   "devDependencies": {
-    "@octokit/rest": "17.7.0",
+    "@octokit/rest": "17.8.0",
     "aberlaas": "1.4.2",
     "algolia-indexing": "0.0.8",
     "aoinan": "1.0.1",
