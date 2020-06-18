@@ -3,7 +3,7 @@
   "description": "All Pathfinder Society Scenarios metadata as an npm module",
   "devDependencies": {
     "@octokit/rest": "17.11.2",
-    "aberlaas": "1.5.0",
+    "aberlaas": "1.6.0",
     "algolia-indexing": "0.0.8",
     "aoinan": "1.0.1",
     "callirhoe": "0.1.0",
