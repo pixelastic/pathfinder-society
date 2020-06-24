@@ -2,9 +2,9 @@
   "author": "Pixelastic <tim@pixelastic.com>",
   "description": "All Pathfinder Society Scenarios metadata as an npm module",
   "devDependencies": {
-    "@octokit/rest": "17.11.2",
     "aberlaas": "1.7.1",
-    "algolia-indexing": "0.0.8",
+    "@octokit/rest": "18.0.0",
+    "algolia-indexing": "1.0.0",
     "aoinan": "1.0.1",
     "callirhoe": "0.1.0",
     "firost": "1.7.0",
@@ -21,7 +21,7 @@
   "name": "pathfinder-society",
   "repository": "git@github.com:pixelastic/pathfinder-society.git",
   "scripts": {
-    "algolia": "node ./scripts/algolia.js",
+    "indexing": "node ./scripts/indexing.js",
     "ci": "./scripts/ci",
     "ci:automatedRelease": "node ./scripts/ci-automatedRelease.js",
     "ci:weeklyUpdate": "node ./scripts/ci-weeklyUpdate.js",
