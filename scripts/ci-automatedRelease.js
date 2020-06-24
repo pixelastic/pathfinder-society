@@ -1,6 +1,6 @@
 const run = require('firost/lib/run');
 
-(async function() {
+(async function () {
   try {
     // Release a new version to npm
     await run('yarn run release patch');

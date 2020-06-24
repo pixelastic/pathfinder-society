@@ -128,7 +128,7 @@ const weeklyUpdate = {
   },
 };
 
-(async function() {
+(async function () {
   try {
     await weeklyUpdate.run();
   } catch (err) {

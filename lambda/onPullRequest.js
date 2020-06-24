@@ -1,4 +1,3 @@
-/* eslint-disable import/no-commonjs */
 const _ = require('golgoth/lib/lodash');
 const secrets = require('./lib/secrets');
 const circleci = require('callirhoe/lib/circleci');

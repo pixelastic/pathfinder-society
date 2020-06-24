@@ -1,7 +1,7 @@
 const indexing = require('algolia-indexing').default;
 const data = require('../lib/data.json');
 
-(async function() {
+(async function () {
   const credentials = {
     appId: process.env.ALGOLIA_APP_ID,
     apiKey: process.env.ALGOLIA_API_KEY,

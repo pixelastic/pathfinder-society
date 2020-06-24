@@ -3,10 +3,10 @@ const firost = require('firost');
 const _ = require('golgoth/lib/lodash');
 const pMap = require('golgoth/lib/pMap');
 
-(async function() {
+(async function () {
   helper.init();
 
-  firost.pulse.on('scenario', data => {
+  firost.pulse.on('scenario', (data) => {
     const seasonIndex = _.padStart(data.seasonIndex, '2', '0');
     const scenarioIndex = _.padStart(data.scenarioIndex, '2', '0');
     console.info(`S${seasonIndex}E${scenarioIndex}: ${data.title}`);
@@ -28,9 +28,9 @@ const pMap = require('golgoth/lib/pMap');
     'Season_1_(2E)_scenarios',
   ];
   try {
-    await pMap(seasonPages, async seasonPage => {
+    await pMap(seasonPages, async (seasonPage) => {
       const scenarios = await helper.scenariosFromSeason(seasonPage);
-      _.each(scenarios, scenario => {
+      _.each(scenarios, (scenario) => {
         const key = _.chain(scenario.title)
           .startCase()
           .replace(/ /g, '')
