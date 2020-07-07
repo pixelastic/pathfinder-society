@@ -5,23 +5,6 @@ _aliases:
   - &defaults
     docker:
       - image: circleci/node:12.12.0
-  # Git needs to know email and name so it can push commits
-  - &configure_git
-    run:
-      name: 'Configuring git'
-      command: |
-        git config --global user.email "tim@pixelastic.com"
-        git config --global user.name "pixelastic"
-  # Default key is read only, this one can also push to the repo
-  - &add_git_ssh_write_key
-    add_ssh_keys:
-      fingerprints:
-        - 'bf:a5:61:c6:03:fb:71:f7:7a:17:a1:60:58:77:24:f6'
-  # A token is needed to push new releases to npm
-  - &add_npm_token
-    run:
-      name: 'Adding NPM token'
-      command: 'echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc'
   - &restore_cache
     restore_cache:
       key: yarn-cache-{{ checksum "yarn.lock" }}
@@ -41,6 +24,7 @@ jobs:
     <<: *defaults
     steps:
       - checkout
+      - add_ssh_keys
       - *restore_cache
       - *yarn_install
       - *save_cache
@@ -50,57 +34,22 @@ jobs:
   weeklyUpdate:
     <<: *defaults
     steps:
-      - *configure_git
-      - *add_git_ssh_write_key
       - checkout
+      - add_ssh_keys
       - *restore_cache
       - *yarn_install
       - *save_cache
       - run: 'yarn run ci:weeklyUpdate'
-  # This job will be triggered when the weeklyUpdate PR is merged
-  automatedRelease:
-    <<: *defaults
-    steps:
-      - *configure_git
-      - *add_git_ssh_write_key
-      - *add_npm_token
-      - checkout
-      - *restore_cache
-      - *yarn_install
-      - *save_cache
-      - run: 'yarn run ci:automatedRelease'
-
-# Parameters, so we can conditionally choose which workflows to run
-# Note:
-# When manually triggering a pipeline through the API, CircleCI will attempt to
-# run all workflows by default. To prevent that, we need to add a when clause to
-# each workflow and make an API call that specifically switch on/off the
-# workflows we want to run.
-# We set the flags for commit and weeklyUpdate to true by default, as not to
-# prevent their normal execution, but set the automatedRelease to false so it
-# needs to be manually switched on by the API call.
-parameters:
-  workflow_commit:
-    type: boolean
-    default: true
-  workflow_weeklyUpdate:
-    type: boolean
-    default: true
-  workflow_automatedRelease:
-    type: boolean
-    default: false
 
 # Workflows, defines when specific jobs should run
 workflows:
   version: 2
   # On every commit and PR: run the build/test/lint checks
   commit:
-    when: << pipeline.parameters.workflow_commit >>
     jobs:
       - ci
-  # Every week: Recrawl the wiki and submit a PR with the changes
+  # Every week: Recrawl the wiki and update the data
   weeklyUpdate:
-    when: << pipeline.parameters.workflow_weeklyUpdate >>
     triggers:
       - schedule:
           cron: '0 9 * * 2'
@@ -110,8 +59,3 @@ workflows:
                 - master
     jobs:
       - weeklyUpdate
-  # When weeklyUpdate PR merged: Release a new version
-  automatedRelease:
-    when: << pipeline.parameters.workflow_automatedRelease >>
-    jobs:
-      - automatedRelease

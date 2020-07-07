@@ -10,8 +10,7 @@
     "firost": "1.11.0",
     "golgoth": "1.3.0",
     "he": "1.2.0",
-    "jsdom": "16.2.2",
-    "netlify-lambda": "1.6.3"
+    "jsdom": "16.2.2"
   },
   "files": [
     "lib/data.json"
@@ -23,12 +22,8 @@
   "scripts": {
     "indexing": "node ./scripts/indexing.js",
     "ci": "./scripts/ci",
-    "ci:automatedRelease": "node ./scripts/ci-automatedRelease.js",
     "ci:weeklyUpdate": "node ./scripts/ci-weeklyUpdate.js",
     "husky:precommit": "./scripts/husky-precommit",
-    "lambda:build": "./scripts/lambda-build",
-    "lambda:build:watch": "./scripts/lambda-build-watch",
-    "lambda:serve": "./scripts/lambda-serve",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "regenerate": "node ./scripts/regenerate.js",

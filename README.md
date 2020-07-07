@@ -3,9 +3,9 @@
 This contains all the Pathfinder Society Scenarios metadata, as extracted from
 the [PathfinderWiki][1]. The module is automatically updated every week.
 
-The initial goal was to build a [searchable list of Pathfinder Society Scenarios][2],
-but the data has been packaged in a easy-to-use format to allow anyone to build
-from it.
+The initial goal was to build a [searchable list of Pathfinder Society
+Scenarios][2], but the data has been packaged in a easy-to-use format to allow
+anyone to build from it.
 
 ## Installation
 
@@ -62,7 +62,7 @@ extracted from the official [Paizo website][3] (like cover art and rating).
 
 Run `yarn run regenerate` to update the data with the latest information
 extracted from the Wiki and Paizo website. This might take some time as it's
-making a bunch of HTTP requests.
+making a bunch of HTTP requests. Subsequent calls use a local cache on disk.
 
 ## Automation
 
@@ -71,23 +71,8 @@ every week if there is new data from the wiki.
 
 CircleCI is configured to run the `weeklyUpdate` job every Tuesday morning. This
 will regenerate the data.json file by recrawling the wiki. If the file contains
-changes from the previous version, it will commit it to the `weeklyUpdate`
-branch and create a Pull Request so I can manually review and merge it.
-
-If no changes are found, it will wait until the next week to try again. If an
-error occurs during the crawl, it will create an issue with the details of the
-error.
-
-The repository also holds a `onPullRequest` lambda function, deployed and hosted
-on Netlify. GitHub is configured to send a webhook to that lambda whenever
-a Pull Request is closed.
-
-The lambda then discard all irrelevant hooks, keeping only the ones that means
-that the previously explained `weeklyUpdate` PR has been merged. When that
-happens, it pings CircleCI to tell it to trigger the `automatedRelease` job.
-
-The `automatedRelease` job on CircleCI will build and release the latest version
-of the data as a new patch iteration.
+changes from the previous version, it will make a patch release and re-index the
+data into Algolia so the website is updated as well
 
 [1]: https://pathfinderwiki.com/wiki/Pathfinder_Wiki
 [2]: https://gamemaster.pixelastic.com/society/

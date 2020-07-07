@@ -1,6 +1,0 @@
-#!/usr/bin/env sh
-set -e
-
-rm -rf ./dist-lambda
-cp -r ./lambda ./dist-lambda
-node -r esm ./scripts/exportSecretsToLambda.js
