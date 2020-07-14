@@ -1303,6 +1303,24 @@
     "title": "Devil at the Crossroads",
     "url": "https://pathfinderwiki.com/wiki/Devil_at_the_Crossroads"
   },
+  "doomOfCassomir": {
+    "authors": ["Calder CaDavid"],
+    "backcover": "Doom stalks the streets of Cassomir! The people of Admiral's Fen have long been doughty pioneers and sailors, but time and tribulations both natural and economic have worn down their spirits. Amid this widespread gloom and general depression, dark forces have begun pulling strings to begin a societal collapse that could take the entire city under. Venture-Captain Hestia Themis calls on her allies in the Pathfinder Society to try and help her unravel the twisting skeins of manipulation and deceit before Cassomir's final doom is assured.",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0122E.jpg",
+    "levels": [1, 2, 3, 4],
+    "locations": ["Cassomir", "Taldor"],
+    "npcs": [],
+    "paizoUrl": "https://paizo.com/products/btq023fd",
+    "price": 4.99,
+    "pubcode": "PZOPFS0122E",
+    "rating": 4,
+    "ruleVersion": 2,
+    "scenarioIndex": 22,
+    "seasonIndex": 1,
+    "slug": "doomOfCassomir",
+    "title": "Doom of Cassomir",
+    "url": "https://pathfinderwiki.com/wiki/Doom_of_Cassomir"
+  },
   "downTheVerdantPath": {
     "authors": ["Scott Sharplin"],
     "backcover": "Few dare tread through the ancient groves of the Verduran Forest, and those who do settle in these woodlands tend to stay close to their communities. Mystery and danger rarely deter agents of the Pathfinder Society, however. When the semi-retired Pathfinder Falbin ventured from his home deep in the wood, he came across an unexpected pocket of flourishing growth and summer weather in the middle of the wintery forest. He fears that this disturbance is the work of a cabal of druids whose mayhem the Society ended six years ago. Have the druids returned to wreak havoc, or are other forces at play?\n\nContents in \"Down the Verdant Path\" also contribute directly to the ongoing storyline of the Concordance faction.",
@@ -2454,6 +2472,24 @@
     "slug": "lyricsOfExtinction",
     "title": "Lyrics of Extinction",
     "url": "https://pathfinderwiki.com/wiki/Lyrics_of_Extinction"
+  },
+  "mistressOfTheMaze": {
+    "authors": ["Christen N. Sowards"],
+    "backcover": "Open Decemvirate member Eliza Petulengro is looking for a handful of intrepid Pathfinders to accompany her on an interdimensional journey throught the Maze of the Open Road! Eliza is traveling from the Grand Lodge in Absalom to the Woodsedge Lodge in Galt, but the Maze of the Open Road has become unstable and unpredictable in recent years. Eliza hopes that with help of her fellow Pathfinders, she can secure the road and prepare it for regular use by the Society once more.",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0121E.jpg",
+    "levels": [5, 6, 7, 8],
+    "locations": [],
+    "npcs": [],
+    "paizoUrl": "https://paizo.com/products/btq023df",
+    "price": 4.99,
+    "pubcode": "PZOPFS0121E",
+    "rating": 1.9,
+    "ruleVersion": 2,
+    "scenarioIndex": 21,
+    "seasonIndex": 1,
+    "slug": "mistressOfTheMaze",
+    "title": "Mistress of the Maze",
+    "url": "https://pathfinderwiki.com/wiki/Mistress_of_the_Maze"
   },
   "mistsOfMwangi": {
     "authors": ["Nicolas Logue", "Alex Greenshields"],
@@ -6261,7 +6297,7 @@
     "paizoUrl": "https://paizo.com/products/btpy8g1p",
     "price": 3.99,
     "pubcode": "PZOPSS0203E",
-    "rating": 4.8,
+    "rating": 4.5,
     "ruleVersion": 1,
     "scenarioIndex": 3,
     "seasonIndex": 2,
@@ -6637,6 +6673,24 @@
     "slug": "theSolsticeScar",
     "title": "The Solstice Scar",
     "url": "https://pathfinderwiki.com/wiki/The_Solstice_Scar"
+  },
+  "theStarCrossedCourt": {
+    "authors": ["Alex Riggs"],
+    "backcover": "On an idyllic island of the western coast of Garund, the PCs arrive at the iruxi city of Ekkeshikaar. Seeking to establish new trade relations between the lizardfolk of Ekkeshikaar and the people of Vidrian, the Pathfinder Society must navigate a delicate political landscape while thwarting the efforts of nefarious forces who seek to stop the proposed alliance by any means necessary.",
+    "coverUrl": "//cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0123E.jpg",
+    "levels": [3, 4, 5, 6],
+    "locations": [],
+    "npcs": [],
+    "paizoUrl": "https://paizo.com/products/btq023fe",
+    "price": 4.99,
+    "pubcode": "PZOPFS0123E",
+    "rating": 2.3,
+    "ruleVersion": 2,
+    "scenarioIndex": 23,
+    "seasonIndex": 1,
+    "slug": "theStarCrossedCourt",
+    "title": "The Star-Crossed Court",
+    "url": "https://pathfinderwiki.com/wiki/The_Star-Crossed_Court"
   },
   "theStolenHeir": {
     "authors": ["David N. Ross"],
