@@ -4,7 +4,7 @@
   "devDependencies": {
     "@octokit/rest": "18.0.3",
     "aberlaas": "1.12.1",
-    "algolia-indexing": "1.0.1",
+    "algolia-indexing": "1.1.1",
     "aoinan": "1.1.0",
     "callirhoe": "0.1.0",
     "firost": "1.11.1",
