@@ -1,9 +1,9 @@
-const consoleError = require('firost/lib/consoleError');
-const consoleInfo = require('firost/lib/consoleInfo');
-const consoleSuccess = require('firost/lib/consoleSuccess');
+const consoleError = require('firost/consoleError');
+const consoleInfo = require('firost/consoleInfo');
+const consoleSuccess = require('firost/consoleSuccess');
 const dayjs = require('golgoth/dayjs');
-const run = require('firost/lib/run');
-const write = require('firost/lib/write');
+const run = require('firost/run');
+const write = require('firost/write');
 const _ = require('golgoth/lodash');
 const { Octokit } = require('@octokit/rest');
 
