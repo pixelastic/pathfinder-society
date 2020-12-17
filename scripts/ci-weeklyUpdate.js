@@ -1,10 +1,10 @@
 const consoleError = require('firost/lib/consoleError');
 const consoleInfo = require('firost/lib/consoleInfo');
 const consoleSuccess = require('firost/lib/consoleSuccess');
-const dayjs = require('golgoth/lib/dayjs');
+const dayjs = require('golgoth/dayjs');
 const run = require('firost/lib/run');
 const write = require('firost/lib/write');
-const _ = require('golgoth/lib/lodash');
+const _ = require('golgoth/lodash');
 const { Octokit } = require('@octokit/rest');
 
 const weeklyUpdate = {

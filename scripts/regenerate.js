@@ -1,7 +1,7 @@
 const helper = require('../lib/helper.js');
 const firost = require('firost');
-const _ = require('golgoth/lib/lodash');
-const pMap = require('golgoth/lib/pMap');
+const _ = require('golgoth/lodash');
+const pMap = require('golgoth/pMap');
 
 (async function () {
   helper.init();
