@@ -10,7 +10,7 @@
     "firost": "2.7.0",
     "golgoth": "2.0.0",
     "he": "1.2.0",
-    "jsdom": "16.5.0"
+    "jsdom": "16.5.1"
   },
   "files": [
     "lib/data.json"
